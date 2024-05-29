@@ -19,5 +19,5 @@
 6.可點選「ANS」查看該題英文單字
 <br>
 <br>
-another project [https://123456dr.github.io/CountDown/](https://123456dr.github.io/CountDown/)
+the another project [https://123456dr.github.io/CountDown/](https://123456dr.github.io/CountDown/)
 <br>-HackMD [https://hackmd.io/@Rcchu/rJPsU3MW0](https://hackmd.io/@Rcchu/rJPsU3MW0)
