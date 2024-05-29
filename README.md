@@ -2,9 +2,11 @@
 2.project [https://123456dr.github.io/RCvocabulary/](https://123456dr.github.io/RCvocabulary/)
 <br>
 ### 半成品注意事項：
-1.輸入框按鍵盤enter會消除文字
+113/5/30已解決 -1.輸入框按鍵盤enter會消除文字
 
-### 說明：
+### 新版說明待更新
+...
+### 舊版說明：
 1.輸入上方提示之英文單字
 
 2.輸入後按下方「確認」
