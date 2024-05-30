@@ -2,7 +2,9 @@
 2.project [https://123456dr.github.io/RCvocabulary/](https://123456dr.github.io/RCvocabulary/)
 <br>
 ### 半成品注意事項：
-1.輸入框按鍵盤enter會消除文字
+5/31版:
+<br>1.新增自訂單字頁面，由輸入框加入測驗單字
+<br>2.修正多項細節
 
 ### 說明：
 1.輸入上方提示之英文單字
