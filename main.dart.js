@@ -478,11 +478,11 @@ return s},
 aDt(){var s,r=$.cj()
 if(r!==B.R)s=r===B.bN
 else s=!0
-if(s)return new A.a4e(A.B(t.lz,t.Es))
+if(s)return new A.a4e(A.C(t.lz,t.Es))
 s=A.be(self.document,"flt-canvas-container")
 if($.apj())r=r!==B.R
 else r=!1
-return new A.a4A(new A.hE(r&&!0,!1,s),A.B(t.lz,t.pw))},
+return new A.a4A(new A.hE(r&&!0,!1,s),A.C(t.lz,t.pw))},
 aI8(a){var s,r=A.be(self.document,"flt-canvas-container")
 if($.apj()){s=$.cj()
 s=s!==B.R}else s=!1
@@ -794,7 +794,7 @@ return A.L($async$ass,r)},
 aFm(a,b){var s=t.S,r=A.dc(null,t.H),q=A.c(["Roboto"],t.s)
 s=new A.a0t(a,A.aP(s),A.aP(s),b,B.b.ob(b,new A.a0u()),B.b.ob(b,new A.a0v()),B.b.ob(b,new A.a0w()),B.b.ob(b,new A.a0x()),B.b.ob(b,new A.a0y()),B.b.ob(b,new A.a0z()),r,q,A.aP(s))
 q=t.Te
-s.b=new A.Hs(s,A.aP(q),A.B(t.N,q))
+s.b=new A.Hs(s,A.aP(q),A.C(t.N,q))
 return s},
 aJH(a,b,c){var s,r,q,p,o,n,m,l=A.c([],t.t),k=A.c([],c.i("z<0>"))
 for(s=a.length,r=0,q=0,p=1,o=0;o<s;++o){n=a.charCodeAt(o)
@@ -1608,7 +1608,7 @@ return A.d1(B.d.ar((a-s)*1000),s)},
 aKi(a,b){var s={}
 s.a=null
 return new A.alA(s,a,b)},
-aFK(){var s=new A.Id(A.B(t.N,t.e))
+aFK(){var s=new A.Id(A.C(t.N,t.e))
 s.a_P()
 return s},
 aFM(a){switch(a.a){case 0:case 4:return new A.xt(A.asz("M,2\u201ew\u2211wa2\u03a9q\u2021qb2\u02dbx\u2248xc3 c\xd4j\u2206jd2\xfee\xb4ef2\xfeu\xa8ug2\xfe\xff\u02c6ih3 h\xce\xff\u2202di3 i\xc7c\xe7cj2\xd3h\u02d9hk2\u02c7\xff\u2020tl5 l@l\xfe\xff|l\u02dcnm1~mn3 n\u0131\xff\u222bbo2\xaer\u2030rp2\xacl\xd2lq2\xc6a\xe6ar3 r\u03c0p\u220fps3 s\xd8o\xf8ot2\xa5y\xc1yu3 u\xa9g\u02ddgv2\u02dak\uf8ffkw2\xc2z\xc5zx2\u0152q\u0153qy5 y\xcff\u0192f\u02c7z\u03a9zz5 z\xa5y\u2021y\u2039\xff\u203aw.2\u221av\u25cav;4\xb5m\xcds\xd3m\xdfs/2\xb8z\u03a9z"))
@@ -1732,7 +1732,7 @@ r=$.arG
 A.nv(q.ch,q.CW,r)
 $.arG=A.c([],t.no)}},
 EL(){return B.d.ar(self.window.performance.now()*1000)},
-aHb(a){var s=new A.a6l(A.B(t.N,t.qe),a)
+aHb(a){var s=new A.a6l(A.C(t.N,t.qe),a)
 s.a_R(a)
 return s},
 aLv(a){},
@@ -1799,7 +1799,7 @@ dN(){var s=$.da()
 s=B.jX.p(0,s)?new A.YG():new A.a3P()
 return new A.a_G(new A.a_L(),new A.a8X(s),B.cX,A.c([],t.s2))},
 aF3(a){var s=t.S,r=t.UF
-r=new A.a_H(a,B.jW,A.B(s,r),A.B(s,r),A.c([],t.Qo),A.c([],t.qj))
+r=new A.a_H(a,B.jW,A.C(s,r),A.C(s,r),A.c([],t.Qo),A.c([],t.qj))
 r.a_M(a)
 return r},
 azM(a){var s,r,q,p,o,n,m,l,k=a.length,j=t.t,i=A.c([],j),h=A.c([0],j)
@@ -1845,7 +1845,7 @@ s.rl()
 return s},
 azr(){var s=$.amD
 if(s==null){s=t.jQ
-s=$.amD=new A.l_(A.arX(u.K,937,B.mI,s),B.bc,A.B(t.S,s),t.MX)}return s},
+s=$.amD=new A.l_(A.arX(u.K,937,B.mI,s),B.bc,A.C(t.S,s),t.MX)}return s},
 aFO(a){if(self.Intl.v8BreakIterator!=null)return new A.abK(A.azj(),a)
 return new A.a_R(a)},
 az7(a,b,c){var s,r,q,p,o,n,m,l,k=A.c([],t._f)
@@ -1874,7 +1874,7 @@ a.a=r
 if(s!=null&&s>65535){q.$2(B.z,-1)
 p=++a.f}s=A.EQ(a1,p)
 p=$.amD
-r=(p==null?$.amD=new A.l_(A.arX(u.K,937,B.mI,n),B.bc,A.B(m,n),l):p).pF(s)
+r=(p==null?$.amD=new A.l_(A.arX(u.K,937,B.mI,n),B.bc,A.C(m,n),l):p).pF(s)
 i=a.a
 j=i===B.fn?j+1:0
 if(i===B.dV||i===B.fl){q.$2(B.c9,5)
@@ -2058,8 +2058,8 @@ if(b<0||b>=a.length)return null
 s=a.charCodeAt(b)
 if((s&63488)===55296&&b<a.length-1){r=a.charCodeAt(b)
 return(r>>>6&31)+1<<16|(r&63)<<10|a.charCodeAt(b+1)&1023}return s},
-aIM(a,b,c){return new A.l_(a,b,A.B(t.S,c),c.i("l_<0>"))},
-aIN(a,b,c,d,e){return new A.l_(A.arX(a,b,c,e),d,A.B(t.S,e),e.i("l_<0>"))},
+aIM(a,b,c){return new A.l_(a,b,A.C(t.S,c),c.i("l_<0>"))},
+aIN(a,b,c,d,e){return new A.l_(A.arX(a,b,c,e),d,A.C(t.S,e),e.i("l_<0>"))},
 arX(a,b,c,d){var s,r,q,p,o,n=A.c([],d.i("z<cw<0>>")),m=a.length
 for(s=d.i("cw<0>"),r=0;r<m;r=o){q=A.ayd(a,r)
 r+=4
@@ -2165,8 +2165,8 @@ A.u(p,"caret-color",r)},
 aF0(a6,a7){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1,a2,a3,a4,a5=null
 if(a6==null)return a5
 s=t.N
-r=A.B(s,t.e)
-q=A.B(s,t.M1)
+r=A.C(s,t.e)
+q=A.C(s,t.M1)
 p=A.be(self.document,"form")
 o=$.F6().ghm() instanceof A.z6
 p.noValidate=!0
@@ -2429,7 +2429,7 @@ if(s.parentNode!=null)s.parentNode.removeChild(s)}},
 aqt(a,b,c){var s=b.i("@<0>").aa(c),r=new A.Bp(s.i("Bp<+key,value(1,2)>"))
 r.a=r
 r.b=r
-return new A.Ir(a,new A.w9(r,s.i("w9<+key,value(1,2)>")),A.B(b,s.i("aus<+key,value(1,2)>")),s.i("Ir<1,2>"))},
+return new A.Ir(a,new A.w9(r,s.i("w9<+key,value(1,2)>")),A.C(b,s.i("aus<+key,value(1,2)>")),s.i("Ir<1,2>"))},
 de(){var s=new Float32Array(16)
 s[15]=1
 s[0]=1
@@ -5976,15 +5976,15 @@ return r==null?null:r.charCodeAt(0)}if(!(s>=$.aBE()&&s<=$.aBF()))r=s>=$.aBP()&&s
 else r=!0
 if(r)return b.toLowerCase().charCodeAt(0)
 return null},
-aJB(a){var s=A.B(t.S,t.N)
+aJB(a){var s=A.C(t.S,t.N)
 s.PS(s,B.ju.gf0(B.ju).ik(0,new A.akf(),t.q9))
 return new A.ake(a,s)},
-aLT(a){var s,r,q,p,o=a.TX(),n=A.B(t.N,t.S)
+aLT(a){var s,r,q,p,o=a.TX(),n=A.C(t.N,t.S)
 for(s=a.a,r=0;r<o;++r){q=a.akc()
 p=a.c
 a.c=p+1
 n.n(0,q,s.charCodeAt(p))}return n},
-asz(a){var s,r,q,p,o=A.aJB(a),n=o.TX(),m=A.B(t.N,t._P)
+asz(a){var s,r,q,p,o=A.aJB(a),n=o.TX(),m=A.C(t.N,t._P)
 for(s=o.a,r=o.b,q=0;q<n;++q){p=o.c
 o.c=p+1
 p=r.h(0,s.charCodeAt(p))
@@ -6445,7 +6445,7 @@ hp(a,b,c,d){if(b==null){if(a==null)return new A.er(c.i("@<0>").aa(d).i("er<1,2>"
 b=A.as2()}else{if(A.azg()===b&&A.azf()===a)return new A.xc(c.i("@<0>").aa(d).i("xc<1,2>"))
 if(a==null)a=A.as1()}return A.aJh(a,b,null,c,d)},
 a(a,b,c){return A.azt(a,new A.er(b.i("@<0>").aa(c).i("er<1,2>")))},
-B(a,b){return new A.er(a.i("@<0>").aa(b).i("er<1,2>"))},
+C(a,b){return new A.er(a.i("@<0>").aa(b).i("er<1,2>"))},
 aJh(a,b,c,d,e){return new A.C_(a,b,new A.ahj(d),d.i("@<0>").aa(e).i("C_<1,2>"))},
 cD(a){return new A.n5(a.i("n5<0>"))},
 are(){var s=Object.create(null)
@@ -7632,7 +7632,7 @@ if(q.length!==0)r=r+"\\"+q+"\\"}r=A.LA(r,p,"\\")
 o=s&&o===1?r+"\\":r
 return o.charCodeAt(0)==0?o:o},
 aJX(){return A.c([],t.s)},
-ay0(a){var s,r,q,p,o,n=A.B(t.N,t.yp),m=new A.al8(a,B.a0,n)
+ay0(a){var s,r,q,p,o,n=A.C(t.N,t.yp),m=new A.al8(a,B.a0,n)
 for(s=a.length,r=0,q=0,p=-1;r<s;){o=a.charCodeAt(r)
 if(o===61){if(p<0)p=r}else if(o===38){m.$3(q,p,r)
 q=r+1
@@ -8158,7 +8158,7 @@ if(!(q<s))break
 r.push(A.ayf(a[q]));++q}return r}return a},
 hO(a){var s,r,q,p,o,n
 if(a==null)return null
-s=A.B(t.N,t.z)
+s=A.C(t.N,t.z)
 r=Object.getOwnPropertyNames(a)
 for(q=r.length,p=0;p<r.length;r.length===q||(0,A.P)(r),++p){o=r[p]
 n=o
@@ -8341,7 +8341,7 @@ atG(a){return new A.v(a>>>0)},
 U(a,b,c,d){return new A.v(((a&255)<<24|(b&255)<<16|(c&255)<<8|d&255)>>>0)},
 apI(a){if(a<=0.03928)return a/12.92
 return Math.pow((a+0.055)/1.055,2.4)},
-A(a,b,c){if(b==null)if(a==null)return null
+B(a,b,c){if(b==null)if(a==null)return null
 else return A.ayR(a,1-c)
 else if(a==null)return A.ayR(b,c)
 else return A.U(A.nr(B.d.ar(A.amC(a.gl(a)>>>24&255,b.gl(b)>>>24&255,c)),0,255),A.nr(B.d.ar(A.amC(a.gl(a)>>>16&255,b.gl(b)>>>16&255,c)),0,255),A.nr(B.d.ar(A.amC(a.gl(a)>>>8&255,b.gl(b)>>>8&255,c)),0,255),A.nr(B.d.ar(A.amC(a.gl(a)&255,b.gl(b)&255,c)),0,255))},
@@ -8356,7 +8356,7 @@ return A.U(q,B.i.ld((a.gl(a)>>>16&255)*p+(b.gl(b)>>>16&255)*r,q),B.i.ld((a.gl(a)
 auR(a,b,c,d,e){return $.ae().QZ(0,a,b,c,d,e,null)},
 av_(a,b){return $.ae().R_(a,b)},
 aHL(a){return a>0?a*0.57735+0.5:0},
-aHM(a,b,c){var s,r,q=A.A(a.a,b.a,c)
+aHM(a,b,c){var s,r,q=A.B(a.a,b.a,c)
 q.toString
 s=A.ji(a.b,b.b,c)
 s.toString
@@ -9078,7 +9078,7 @@ else{r=A.a3(s).i("ak<1,v>")
 r=new A.iv(A.aa(new A.ak(s,new A.aec(c),r),!0,r.i("ax.E")))
 s=r}return s}s=A.c([],t.t_)
 for(r=b.a,q=a.a,p=0;p<r.length;++p){o=q==null?null:q[p]
-o=A.A(o,r[p],c)
+o=A.B(o,r[p],c)
 o.toString
 s.push(o)}return new A.iv(s)},
 Yl:function Yl(a){this.a=a},
@@ -10391,7 +10391,7 @@ Vv:function Vv(){},
 Vw:function Vw(){},
 Vx:function Vx(){},
 auL(a,b){var s=t.S,r=A.cD(s)
-return new A.i2(B.kC,A.B(s,t.o),r,a,b,A.EW(),A.B(s,t.B))},
+return new A.i2(B.kC,A.C(s,t.o),r,a,b,A.EW(),A.C(s,t.B))},
 auM(a,b,c){var s=(c-a)/(b-a)
 return!isNaN(s)?A.H(s,0,1):s},
 pG:function pG(a,b){this.a=a
@@ -10426,7 +10426,7 @@ kl:function kl(a,b,c){this.a=a
 this.b=b
 this.c=c},
 a3b(a,b,c){var s=b==null?B.f1:b,r=t.S,q=A.cD(r),p=A.azL()
-return new A.fg(s,null,B.c7,A.B(r,t.o),q,a,c,p,A.B(r,t.B))},
+return new A.fg(s,null,B.c7,A.C(r,t.o),q,a,c,p,A.C(r,t.B))},
 aFW(a){return a===1||a===2||a===4},
 rc:function rc(a,b){this.a=a
 this.b=b},
@@ -10471,11 +10471,11 @@ this.c=c},
 aEL(a){return new A.is(a.gcn(a),A.bh(20,null,!1,t.av))},
 aEM(a){return a===1},
 ax6(a,b){var s=t.S,r=A.c([],t.t),q=A.cD(s),p=A.asn()
-return new A.it(B.at,B.ef,A.asm(),B.cH,A.B(s,t.GY),r,A.B(s,t.o),q,a,b,p,A.B(s,t.B))},
+return new A.it(B.at,B.ef,A.asm(),B.cH,A.C(s,t.GY),r,A.C(s,t.o),q,a,b,p,A.C(s,t.B))},
 aqe(a,b){var s=t.S,r=A.c([],t.t),q=A.cD(s),p=A.asn()
-return new A.i5(B.at,B.ef,A.asm(),B.cH,A.B(s,t.GY),r,A.B(s,t.o),q,a,b,p,A.B(s,t.B))},
+return new A.i5(B.at,B.ef,A.asm(),B.cH,A.C(s,t.GY),r,A.C(s,t.o),q,a,b,p,A.C(s,t.B))},
 avM(a,b){var s=t.S,r=A.c([],t.t),q=A.cD(s),p=A.asn()
-return new A.ia(B.at,B.ef,A.asm(),B.cH,A.B(s,t.GY),r,A.B(s,t.o),q,a,b,p,A.B(s,t.B))},
+return new A.ia(B.at,B.ef,A.asm(),B.cH,A.C(s,t.GY),r,A.C(s,t.o),q,a,b,p,A.C(s,t.B))},
 Bq:function Bq(a,b){this.a=a
 this.b=b},
 wa:function wa(){},
@@ -10591,7 +10591,7 @@ ew:function ew(a,b){this.a=a
 this.b=b},
 Pc:function Pc(){},
 aqY(a,b){var s=t.S,r=A.cD(s)
-return new A.fr(B.aK,18,B.c7,A.B(s,t.o),r,a,b,A.EW(),A.B(s,t.B))},
+return new A.fr(B.aK,18,B.c7,A.C(s,t.o),r,a,b,A.EW(),A.C(s,t.B))},
 th:function th(a,b){this.a=a
 this.c=b},
 mR:function mR(){},
@@ -10826,7 +10826,7 @@ o=A.aIr(r,q)
 q=A.aIq(o)
 n=A.aIs(o)
 m=p.a
-s.push(new A.M3(A.C(A.apv(a,p),l,l,l,l,l,l),m,new A.aD(q,0,n,0),l,l))}return s
+s.push(new A.M3(A.A(A.apv(a,p),l,l,l,l,l,l),m,new A.aD(q,0,n,0),l,l))}return s
 case 3:case 5:return new A.ak(b,new A.Wi(a),A.a3(b).i("ak<1,k>"))
 case 4:return new A.ak(b,new A.Wj(a),A.a3(b).i("ak<1,k>"))}},
 Fh:function Fh(a,b,c){this.c=a
@@ -10835,7 +10835,7 @@ this.a=c},
 Wh:function Wh(){},
 Wi:function Wi(a){this.a=a},
 Wj:function Wj(a){this.a=a},
-aG_(){return new A.wP(new A.a3p(),A.B(t.K,t.Qu))},
+aG_(){return new A.wP(new A.a3p(),A.C(t.K,t.Qu))},
 abc:function abc(a,b){this.a=a
 this.b=b},
 xB:function xB(a,b,c,d,e){var _=this
@@ -10931,12 +10931,12 @@ _.ax=p},
 aDc(a,b,c,d,e,f,g,h,i,j,k,l,m,n,o){return new A.q9(b==null?null:b,e,d,g,h,j,i,f,a,c,l,n,o,m,k)},
 aDd(a,b,c){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e
 if(a===b&&!0)return a
-s=A.A(a.a,b.a,c)
-r=A.A(a.b,b.b,c)
+s=A.B(a.a,b.a,c)
+r=A.B(a.b,b.b,c)
 q=A.Y(a.c,b.c,c)
 p=A.Y(a.d,b.d,c)
-o=A.A(a.e,b.e,c)
-n=A.A(a.f,b.f,c)
+o=A.B(a.e,b.e,c)
+n=A.B(a.f,b.f,c)
 m=A.cZ(a.r,b.r,c)
 l=A.km(a.w,b.w,c)
 k=A.km(a.x,b.x,c)
@@ -10992,8 +10992,8 @@ a3r:function a3r(a,b){this.a=a
 this.b=b},
 aDg(a,b,c){var s,r,q,p,o,n,m
 if(a===b&&!0)return a
-s=A.A(a.a,b.a,c)
-r=A.A(a.b,b.b,c)
+s=A.B(a.a,b.a,c)
+r=A.B(a.b,b.b,c)
 q=A.Y(a.c,b.c,c)
 p=A.Y(a.d,b.d,c)
 o=A.b9(a.e,b.e,c)
@@ -11022,13 +11022,13 @@ _.w=h},
 Q1:function Q1(){},
 aDj(a,b,c){var s,r,q,p,o,n
 if(a===b&&!0)return a
-s=A.A(a.a,b.a,c)
+s=A.B(a.a,b.a,c)
 r=A.Y(a.b,b.b,c)
 if(c<0.5)q=a.c
 else q=b.c
 p=A.Y(a.d,b.d,c)
-o=A.A(a.e,b.e,c)
-n=A.A(a.f,b.f,c)
+o=A.B(a.e,b.e,c)
+n=A.B(a.f,b.f,c)
 return new A.vm(s,r,q,p,o,n,A.dy(a.r,b.r,c))},
 vm:function vm(a,b,c,d,e,f,g){var _=this
 _.a=a
@@ -11041,12 +11041,12 @@ _.r=g},
 Nc:function Nc(){},
 aDk(a,b,c){var s,r,q,p,o,n,m,l,k,j,i,h,g,f
 if(a===b&&!0)return a
-s=A.A(a.a,b.a,c)
+s=A.B(a.a,b.a,c)
 r=A.Y(a.b,b.b,c)
 q=A.km(a.c,b.c,c)
 p=A.km(a.d,b.d,c)
-o=A.A(a.e,b.e,c)
-n=A.A(a.f,b.f,c)
+o=A.B(a.e,b.e,c)
+n=A.B(a.f,b.f,c)
 m=A.b9(a.r,b.r,c)
 l=A.b9(a.w,b.w,c)
 k=c<0.5
@@ -11081,18 +11081,18 @@ _.at=n},
 Nd:function Nd(){},
 aDl(a,b,c){var s,r,q,p,o,n,m,l,k,j,i,h
 if(a===b)return a
-s=A.A(a.a,b.a,c)
-r=A.A(a.b,b.b,c)
+s=A.B(a.a,b.a,c)
+r=A.B(a.b,b.b,c)
 q=A.Y(a.c,b.c,c)
-p=A.A(a.d,b.d,c)
-o=A.A(a.e,b.e,c)
-n=A.A(a.f,b.f,c)
+p=A.B(a.d,b.d,c)
+o=A.B(a.e,b.e,c)
+n=A.B(a.f,b.f,c)
 m=A.Y(a.r,b.r,c)
 l=A.cZ(a.w,b.w,c)
 k=c<0.5
 if(k)j=a.x
 else j=b.x
-i=A.A(a.y,b.y,c)
+i=A.B(a.y,b.y,c)
 h=A.a9r(a.z,b.z,c)
 if(k)k=a.Q
 else k=b.Q
@@ -11396,9 +11396,9 @@ aDv(a,b,c){var s,r,q,p,o,n
 if(a===b&&!0)return a
 if(c<0.5)s=a.a
 else s=b.a
-r=A.A(a.b,b.b,c)
-q=A.A(a.c,b.c,c)
-p=A.A(a.d,b.d,c)
+r=A.B(a.b,b.b,c)
+q=A.B(a.c,b.c,c)
+p=A.B(a.d,b.d,c)
 o=A.Y(a.e,b.e,c)
 n=A.dy(a.f,b.f,c)
 return new A.vu(s,r,q,p,o,n,A.cZ(a.r,b.r,c))},
@@ -11525,18 +11525,18 @@ Np:function Np(){},
 aDD(a3,a4,a5){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1,a2
 if(a3===a4)return a3
 s=A.aU(a3.a,a4.a,a5,A.bL(),t._)
-r=A.A(a3.b,a4.b,a5)
-q=A.A(a3.c,a4.c,a5)
-p=A.A(a3.d,a4.d,a5)
-o=A.A(a3.e,a4.e,a5)
-n=A.A(a3.f,a4.f,a5)
-m=A.A(a3.r,a4.r,a5)
-l=A.A(a3.w,a4.w,a5)
-k=A.A(a3.x,a4.x,a5)
+r=A.B(a3.b,a4.b,a5)
+q=A.B(a3.c,a4.c,a5)
+p=A.B(a3.d,a4.d,a5)
+o=A.B(a3.e,a4.e,a5)
+n=A.B(a3.f,a4.f,a5)
+m=A.B(a3.r,a4.r,a5)
+l=A.B(a3.w,a4.w,a5)
+k=A.B(a3.x,a4.x,a5)
 j=a5<0.5
 if(j)i=a3.y!==!1
 else i=a4.y!==!1
-h=A.A(a3.z,a4.z,a5)
+h=A.B(a3.z,a4.z,a5)
 g=A.dy(a3.Q,a4.Q,a5)
 f=A.dy(a3.as,a4.as,a5)
 e=A.aDC(a3.at,a4.at,a5)
@@ -11589,130 +11589,130 @@ if(b7===b8)return b7
 s=b9<0.5?b7.a:b8.a
 r=b7.b
 q=b8.b
-p=A.A(r,q,b9)
+p=A.B(r,q,b9)
 p.toString
 o=b7.c
 n=b8.c
-m=A.A(o,n,b9)
+m=A.B(o,n,b9)
 m.toString
 l=b7.d
 if(l==null)l=r
 k=b8.d
-l=A.A(l,k==null?q:k,b9)
+l=A.B(l,k==null?q:k,b9)
 k=b7.e
 if(k==null)k=o
 j=b8.e
-k=A.A(k,j==null?n:j,b9)
+k=A.B(k,j==null?n:j,b9)
 j=b7.f
 i=b8.f
-h=A.A(j,i,b9)
+h=A.B(j,i,b9)
 h.toString
 g=b7.r
 f=b8.r
-e=A.A(g,f,b9)
+e=A.B(g,f,b9)
 e.toString
 d=b7.w
 if(d==null)d=j
 c=b8.w
-d=A.A(d,c==null?i:c,b9)
+d=A.B(d,c==null?i:c,b9)
 c=b7.x
 if(c==null)c=g
 b=b8.x
-c=A.A(c,b==null?f:b,b9)
+c=A.B(c,b==null?f:b,b9)
 b=b7.y
 a=b==null
 a0=a?j:b
 a1=b8.y
 a2=a1==null
-a0=A.A(a0,a2?i:a1,b9)
+a0=A.B(a0,a2?i:a1,b9)
 a3=b7.z
 a4=a3==null
 a5=a4?g:a3
 a6=b8.z
 a7=a6==null
-a5=A.A(a5,a7?f:a6,b9)
+a5=A.B(a5,a7?f:a6,b9)
 a8=b7.Q
 if(a8==null)j=a?j:b
 else j=a8
 b=b8.Q
 if(b==null)i=a2?i:a1
 else i=b
-i=A.A(j,i,b9)
+i=A.B(j,i,b9)
 j=b7.as
 if(j==null)j=a4?g:a3
 g=b8.as
 if(g==null)g=a7?f:a6
-g=A.A(j,g,b9)
+g=A.B(j,g,b9)
 j=b7.at
 f=b8.at
-b=A.A(j,f,b9)
+b=A.B(j,f,b9)
 b.toString
 a=b7.ax
 a1=b8.ax
-a2=A.A(a,a1,b9)
+a2=A.B(a,a1,b9)
 a2.toString
 a3=b7.ay
 j=a3==null?j:a3
 a3=b8.ay
-j=A.A(j,a3==null?f:a3,b9)
+j=A.B(j,a3==null?f:a3,b9)
 f=b7.ch
 if(f==null)f=a
 a=b8.ch
-f=A.A(f,a==null?a1:a,b9)
-a=A.A(b7.CW,b8.CW,b9)
+f=A.B(f,a==null?a1:a,b9)
+a=A.B(b7.CW,b8.CW,b9)
 a.toString
 a1=b7.cx
 a3=b8.cx
-a4=A.A(a1,a3,b9)
+a4=A.B(a1,a3,b9)
 a4.toString
 a6=b7.cy
 a7=b8.cy
-a8=A.A(a6,a7,b9)
+a8=A.B(a6,a7,b9)
 a8.toString
 a9=b7.db
 b0=b8.db
-b1=A.A(a9,b0,b9)
+b1=A.B(a9,b0,b9)
 b1.toString
 b2=b7.dx
 if(b2==null)b2=a6
 b3=b8.dx
-b2=A.A(b2,b3==null?a7:b3,b9)
+b2=A.B(b2,b3==null?a7:b3,b9)
 b3=b7.dy
 if(b3==null)b3=a9
 b4=b8.dy
-b3=A.A(b3,b4==null?b0:b4,b9)
+b3=A.B(b3,b4==null?b0:b4,b9)
 b4=b7.fr
 if(b4==null)b4=a1
 b5=b8.fr
-b4=A.A(b4,b5==null?a3:b5,b9)
+b4=A.B(b4,b5==null?a3:b5,b9)
 b5=b7.fx
 a1=b5==null?a1:b5
 b5=b8.fx
-a1=A.A(a1,b5==null?a3:b5,b9)
+a1=A.B(a1,b5==null?a3:b5,b9)
 a3=b7.fy
 if(a3==null)a3=B.n
 b5=b8.fy
-a3=A.A(a3,b5==null?B.n:b5,b9)
+a3=A.B(a3,b5==null?B.n:b5,b9)
 b5=b7.go
 if(b5==null)b5=B.n
 b6=b8.go
-b5=A.A(b5,b6==null?B.n:b6,b9)
+b5=A.B(b5,b6==null?B.n:b6,b9)
 b6=b7.id
 a9=b6==null?a9:b6
 b6=b8.id
-a9=A.A(a9,b6==null?b0:b6,b9)
+a9=A.B(a9,b6==null?b0:b6,b9)
 b0=b7.k1
 a6=b0==null?a6:b0
 b0=b8.k1
-a6=A.A(a6,b0==null?a7:b0,b9)
+a6=A.B(a6,b0==null?a7:b0,b9)
 a7=b7.k2
 o=a7==null?o:a7
 a7=b8.k2
-o=A.A(o,a7==null?n:a7,b9)
+o=A.B(o,a7==null?n:a7,b9)
 n=b7.k3
 r=n==null?r:n
 n=b8.k3
-return A.apH(a,s,b,j,o,a9,a4,a2,f,a6,m,k,e,c,b1,b3,a5,g,b4,a1,p,l,b5,h,d,a3,a8,A.A(r,n==null?q:n,b9),b2,a0,i)},
+return A.apH(a,s,b,j,o,a9,a4,a2,f,a6,m,k,e,c,b1,b3,a5,g,b4,a1,p,l,b5,h,d,a3,a8,A.B(r,n==null?q:n,b9),b2,a0,i)},
 qs:function qs(a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,a0,a1,a2,a3,a4,a5,a6,a7,a8,a9,b0,b1){var _=this
 _.a=a
 _.b=b
@@ -11787,13 +11787,13 @@ _.at=n},
 O5:function O5(){},
 aE2(b6,b7,b8){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1,a2,a3,a4,a5,a6,a7,a8,a9,b0,b1,b2,b3,b4,b5
 if(b6===b7&&!0)return b6
-s=A.A(b6.a,b7.a,b8)
+s=A.B(b6.a,b7.a,b8)
 r=A.Y(b6.b,b7.b,b8)
-q=A.A(b6.c,b7.c,b8)
-p=A.A(b6.d,b7.d,b8)
+q=A.B(b6.c,b7.c,b8)
+p=A.B(b6.d,b7.d,b8)
 o=A.cZ(b6.e,b7.e,b8)
-n=A.A(b6.f,b7.f,b8)
-m=A.A(b6.r,b7.r,b8)
+n=A.B(b6.f,b7.f,b8)
+m=A.B(b6.r,b7.r,b8)
 l=A.b9(b6.w,b7.w,b8)
 k=A.b9(b6.x,b7.x,b8)
 j=A.b9(b6.y,b7.y,b8)
@@ -11809,18 +11809,18 @@ a=A.b9(b6.CW,b7.CW,b8)
 a0=A.aU(b6.cx,b7.cx,b8,A.bL(),h)
 a1=A.aU(b6.cy,b7.cy,b8,A.bL(),h)
 a2=A.aU(b6.db,b7.db,b8,A.bL(),h)
-a3=A.A(b6.dx,b7.dx,b8)
+a3=A.B(b6.dx,b7.dx,b8)
 a4=A.Y(b6.dy,b7.dy,b8)
-a5=A.A(b6.fr,b7.fr,b8)
-a6=A.A(b6.fx,b7.fx,b8)
+a5=A.B(b6.fr,b7.fr,b8)
+a6=A.B(b6.fx,b7.fx,b8)
 a7=A.cZ(b6.fy,b7.fy,b8)
-a8=A.A(b6.go,b7.go,b8)
-a9=A.A(b6.id,b7.id,b8)
+a8=A.B(b6.go,b7.go,b8)
+a9=A.B(b6.id,b7.id,b8)
 b0=A.b9(b6.k1,b7.k1,b8)
 b1=A.b9(b6.k2,b7.k2,b8)
-b2=A.A(b6.k3,b7.k3,b8)
+b2=A.B(b6.k3,b7.k3,b8)
 h=A.aU(b6.k4,b7.k4,b8,A.bL(),h)
-b3=A.A(b6.ok,b7.ok,b8)
+b3=A.B(b6.ok,b7.ok,b8)
 if(b8<0.5)b4=b6.p1
 else b4=b7.p1
 b5=A.iV(b6.p2,b7.p2,b8)
@@ -11875,7 +11875,7 @@ GU:function GU(a,b,c){this.c=a
 this.d=b
 this.a=c},
 aEb(a,b,c){var s=null
-return new A.qC(b,A.C(c,s,B.bv,s,B.yc.bQ(A.a2(a).ay.a===B.as?B.h:B.M),s,s),s)},
+return new A.qC(b,A.A(c,s,B.bv,s,B.yc.bQ(A.a2(a).ay.a===B.as?B.h:B.M),s,s),s)},
 qC:function qC(a,b,c){this.c=a
 this.d=b
 this.a=c},
@@ -11968,13 +11968,13 @@ _.x=j
 _.y=k},
 aEg(a,b,c){var s,r,q,p,o,n,m,l,k
 if(a===b&&!0)return a
-s=A.A(a.a,b.a,c)
+s=A.B(a.a,b.a,c)
 r=A.Y(a.b,b.b,c)
-q=A.A(a.c,b.c,c)
-p=A.A(a.d,b.d,c)
+q=A.B(a.c,b.c,c)
+p=A.B(a.d,b.d,c)
 o=A.cZ(a.e,b.e,c)
 n=A.Fj(a.f,b.f,c)
-m=A.A(a.y,b.y,c)
+m=A.B(a.y,b.y,c)
 l=A.b9(a.r,b.r,c)
 k=A.b9(a.w,b.w,c)
 return new A.qD(s,r,q,p,o,n,l,k,A.dy(a.x,b.x,c),m)},
@@ -12013,7 +12013,7 @@ _.d=e
 _.e=f},
 aEr(a,b,c){var s,r,q,p
 if(a===b&&!0)return a
-s=A.A(a.a,b.a,c)
+s=A.B(a.a,b.a,c)
 r=A.Y(a.b,b.b,c)
 q=A.Y(a.c,b.c,c)
 p=A.Y(a.d,b.d,c)
@@ -12031,11 +12031,11 @@ _.e=e},
 Oo:function Oo(){},
 aEP(a,b,c){var s,r,q,p,o,n,m
 if(a===b)return a
-s=A.A(a.a,b.a,c)
-r=A.A(a.b,b.b,c)
+s=A.B(a.a,b.a,c)
+r=A.B(a.b,b.b,c)
 q=A.Y(a.c,b.c,c)
-p=A.A(a.d,b.d,c)
-o=A.A(a.e,b.e,c)
+p=A.B(a.d,b.d,c)
+o=A.B(a.e,b.e,c)
 n=A.cZ(a.f,b.f,c)
 m=A.cZ(a.r,b.r,c)
 return new A.wc(s,r,q,p,o,n,m,A.Y(a.w,b.w,c))},
@@ -12143,15 +12143,15 @@ l8:function l8(a,b){this.a=a
 this.b=b},
 aF7(a,b,c){var s,r,q,p,o,n,m,l,k,j,i,h,g
 if(a===b)return a
-s=A.A(a.a,b.a,c)
-r=A.A(a.b,b.b,c)
+s=A.B(a.a,b.a,c)
+r=A.B(a.b,b.b,c)
 q=A.dy(a.c,b.c,c)
 p=A.Fj(a.d,b.d,c)
 o=A.dy(a.e,b.e,c)
-n=A.A(a.f,b.f,c)
-m=A.A(a.r,b.r,c)
-l=A.A(a.w,b.w,c)
-k=A.A(a.x,b.x,c)
+n=A.B(a.f,b.f,c)
+m=A.B(a.r,b.r,c)
+l=A.B(a.w,b.w,c)
+k=A.B(a.x,b.x,c)
 j=A.cZ(a.y,b.y,c)
 i=A.cZ(a.z,b.z,c)
 h=c<0.5
@@ -12281,11 +12281,11 @@ UE:function UE(){},
 aF9(a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,a0,a1){return new A.qO(k,a,i,m,a1,c,j,n,b,l,r,d,o,s,a0,p,g,e,f,h,q)},
 aFa(a2,a3,a4){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1
 if(a2===a3)return a2
-s=A.A(a2.a,a3.a,a4)
-r=A.A(a2.b,a3.b,a4)
-q=A.A(a2.c,a3.c,a4)
-p=A.A(a2.d,a3.d,a4)
-o=A.A(a2.e,a3.e,a4)
+s=A.B(a2.a,a3.a,a4)
+r=A.B(a2.b,a3.b,a4)
+q=A.B(a2.c,a3.c,a4)
+p=A.B(a2.d,a3.d,a4)
+o=A.B(a2.e,a3.e,a4)
 n=A.Y(a2.f,a3.f,a4)
 m=A.Y(a2.r,a3.r,a4)
 l=A.Y(a2.w,a3.w,a4)
@@ -13067,15 +13067,15 @@ else r=a1.a
 q=A.cZ(a0.b,a1.b,a2)
 if(s)p=a0.c
 else p=a1.c
-o=A.A(a0.d,a1.d,a2)
-n=A.A(a0.e,a1.e,a2)
-m=A.A(a0.f,a1.f,a2)
+o=A.B(a0.d,a1.d,a2)
+n=A.B(a0.e,a1.e,a2)
+m=A.B(a0.f,a1.f,a2)
 l=A.b9(a0.r,a1.r,a2)
 k=A.b9(a0.w,a1.w,a2)
 j=A.b9(a0.x,a1.x,a2)
 i=A.dy(a0.y,a1.y,a2)
-h=A.A(a0.z,a1.z,a2)
-g=A.A(a0.Q,a1.Q,a2)
+h=A.B(a0.z,a1.z,a2)
+g=A.B(a0.Q,a1.Q,a2)
 f=A.Y(a0.as,a1.as,a2)
 e=A.Y(a0.at,a1.at,a2)
 d=A.Y(a0.ax,a1.ax,a2)
@@ -13395,11 +13395,11 @@ Qd:function Qd(){},
 aGk(a,b,c){var s,r,q,p,o,n,m,l,k,j
 if(a===b)return a
 s=A.Y(a.a,b.a,c)
-r=A.A(a.b,b.b,c)
+r=A.B(a.b,b.b,c)
 q=A.Y(a.c,b.c,c)
-p=A.A(a.d,b.d,c)
-o=A.A(a.e,b.e,c)
-n=A.A(a.f,b.f,c)
+p=A.B(a.d,b.d,c)
+o=A.B(a.e,b.e,c)
+n=A.B(a.f,b.f,c)
 m=A.cZ(a.r,b.r,c)
 l=A.aU(a.w,b.w,c,A.EY(),t.p8)
 k=A.aU(a.x,b.x,c,A.azE(),t.lF)
@@ -13422,11 +13422,11 @@ Qr:function Qr(){},
 aGl(a,b,c){var s,r,q,p,o,n,m,l,k
 if(a===b)return a
 s=A.Y(a.a,b.a,c)
-r=A.A(a.b,b.b,c)
+r=A.B(a.b,b.b,c)
 q=A.Y(a.c,b.c,c)
-p=A.A(a.d,b.d,c)
-o=A.A(a.e,b.e,c)
-n=A.A(a.f,b.f,c)
+p=A.B(a.d,b.d,c)
+o=A.B(a.e,b.e,c)
+n=A.B(a.f,b.f,c)
 m=A.cZ(a.r,b.r,c)
 l=a.w
 l=A.a9r(l,l,c)
@@ -13446,7 +13446,7 @@ _.y=j},
 Qs:function Qs(){},
 aGm(a,b,c){var s,r,q,p,o,n,m,l,k,j,i,h
 if(a===b)return a
-s=A.A(a.a,b.a,c)
+s=A.B(a.a,b.a,c)
 r=A.Y(a.b,b.b,c)
 q=A.b9(a.c,b.c,c)
 p=A.b9(a.d,b.d,c)
@@ -13466,7 +13466,7 @@ if(l)k=a.w
 else k=b.w
 if(l)l=a.x
 else l=b.x
-j=A.A(a.y,b.y,c)
+j=A.B(a.y,b.y,c)
 i=A.cZ(a.z,b.z,c)
 h=A.Y(a.Q,b.Q,c)
 return new A.xW(s,r,q,p,o,n,m,k,l,j,i,h,A.Y(a.as,b.as,c))},
@@ -13621,11 +13621,11 @@ ED:function ED(){},
 EE:function EE(){},
 aGR(a,b,c){var s,r,q,p,o,n,m,l,k,j,i
 if(a===b)return a
-s=A.A(a.a,b.a,c)
+s=A.B(a.a,b.a,c)
 r=A.cZ(a.b,b.b,c)
 q=A.Y(a.c,b.c,c)
-p=A.A(a.d,b.d,c)
-o=A.A(a.e,b.e,c)
+p=A.B(a.d,b.d,c)
+o=A.B(a.e,b.e,c)
 n=A.b9(a.f,b.f,c)
 m=A.aU(a.r,b.r,c,A.EY(),t.p8)
 l=c<0.5
@@ -13635,7 +13635,7 @@ if(l)j=a.x
 else j=b.x
 if(l)l=a.y
 else l=b.y
-i=A.A(a.z,b.z,c)
+i=A.B(a.z,b.z,c)
 return new A.yl(s,r,q,p,o,n,m,k,j,l,i,A.Y(a.Q,b.Q,c))},
 yl:function yl(a,b,c,d,e,f,g,h,i,j,k,l){var _=this
 _.a=a
@@ -13653,11 +13653,11 @@ _.Q=l},
 Rn:function Rn(){},
 aH8(a,b,c){var s,r,q,p
 if(a===b)return a
-s=A.A(a.a,b.a,c)
-r=A.A(a.b,b.b,c)
+s=A.B(a.a,b.a,c)
+r=A.B(a.b,b.b,c)
 q=A.Y(a.c,b.c,c)
-p=A.A(a.d,b.d,c)
-return new A.yn(s,r,q,p,A.A(a.e,b.e,c))},
+p=A.B(a.d,b.d,c)
+return new A.yn(s,r,q,p,A.B(a.e,b.e,c))},
 yn:function yn(a,b,c,d,e){var _=this
 _.a=a
 _.b=b
@@ -13969,9 +13969,9 @@ this.c=c},
 Sq:function Sq(){},
 aHB(a,b,c){var s,r,q,p,o,n,m,l
 if(a===b)return a
-s=A.A(a.a,b.a,c)
+s=A.B(a.a,b.a,c)
 r=A.Y(a.b,b.b,c)
-q=A.A(a.c,b.c,c)
+q=A.B(a.c,b.c,c)
 p=A.aHA(a.d,b.d,c)
 o=A.avH(a.e,b.e,c)
 n=a.f
@@ -13979,7 +13979,7 @@ m=b.f
 l=A.b9(n,m,c)
 n=A.b9(n,m,c)
 m=A.nH(a.w,b.w,c)
-return new A.zo(s,r,q,p,o,l,n,m,A.A(a.x,b.x,c))},
+return new A.zo(s,r,q,p,o,l,n,m,A.B(a.x,b.x,c))},
 aHA(a,b,c){if(a==null||b==null)return null
 if(a===b)return a
 return A.aI(a,b,c)},
@@ -14006,22 +14006,22 @@ Ss:function Ss(){},
 aHS(b3,b4,b5){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1,a2,a3,a4,a5,a6,a7,a8,a9,b0,b1,b2
 if(b3===b4)return b3
 s=A.Y(b3.a,b4.a,b5)
-r=A.A(b3.b,b4.b,b5)
-q=A.A(b3.c,b4.c,b5)
-p=A.A(b3.d,b4.d,b5)
-o=A.A(b3.e,b4.e,b5)
-n=A.A(b3.r,b4.r,b5)
-m=A.A(b3.f,b4.f,b5)
-l=A.A(b3.w,b4.w,b5)
-k=A.A(b3.x,b4.x,b5)
-j=A.A(b3.y,b4.y,b5)
-i=A.A(b3.z,b4.z,b5)
-h=A.A(b3.Q,b4.Q,b5)
-g=A.A(b3.as,b4.as,b5)
-f=A.A(b3.at,b4.at,b5)
-e=A.A(b3.ax,b4.ax,b5)
-d=A.A(b3.ay,b4.ay,b5)
-c=A.A(b3.ch,b4.ch,b5)
+r=A.B(b3.b,b4.b,b5)
+q=A.B(b3.c,b4.c,b5)
+p=A.B(b3.d,b4.d,b5)
+o=A.B(b3.e,b4.e,b5)
+n=A.B(b3.r,b4.r,b5)
+m=A.B(b3.f,b4.f,b5)
+l=A.B(b3.w,b4.w,b5)
+k=A.B(b3.x,b4.x,b5)
+j=A.B(b3.y,b4.y,b5)
+i=A.B(b3.z,b4.z,b5)
+h=A.B(b3.Q,b4.Q,b5)
+g=A.B(b3.as,b4.as,b5)
+f=A.B(b3.at,b4.at,b5)
+e=A.B(b3.ax,b4.ax,b5)
+d=A.B(b3.ay,b4.ay,b5)
+c=A.B(b3.ch,b4.ch,b5)
 b=b5<0.5
 a=b?b3.CW:b4.CW
 a0=b?b3.cx:b4.cx
@@ -14125,9 +14125,9 @@ ak8:function ak8(a){this.a=a},
 aHU(a,b,c,d,e,f,g,h,i,j,k,l,m,n){return new A.t6(d,c,i,g,k,m,e,n,l,f,b,a,h,j)},
 aHV(a,b,c){var s,r,q,p,o,n,m,l,k,j,i,h,g,f
 if(a===b&&!0)return a
-s=A.A(a.a,b.a,c)
-r=A.A(a.b,b.b,c)
-q=A.A(a.c,b.c,c)
+s=A.B(a.a,b.a,c)
+r=A.B(a.b,b.b,c)
+q=A.B(a.c,b.c,c)
 p=A.b9(a.d,b.d,c)
 o=A.Y(a.e,b.e,c)
 n=A.cZ(a.f,b.f,c)
@@ -14136,10 +14136,10 @@ if(m)l=a.r
 else l=b.r
 k=A.Y(a.w,b.w,c)
 j=A.Zu(a.x,b.x,c)
-i=A.A(a.z,b.z,c)
+i=A.B(a.z,b.z,c)
 h=A.Y(a.Q,b.Q,c)
-g=A.A(a.as,b.as,c)
-f=A.A(a.at,b.at,c)
+g=A.B(a.as,b.as,c)
+f=A.B(a.at,b.at,c)
 if(m)m=a.ax
 else m=b.ax
 return A.aHU(g,h,r,s,l,i,p,f,q,m,o,j,n,k)},
@@ -14192,15 +14192,15 @@ T9:function T9(){},
 aIc(a,b,c){var s,r,q,p,o,n,m,l,k,j,i,h,g,f
 if(a===b)return a
 s=A.Yx(a.a,b.a,c)
-r=A.A(a.b,b.b,c)
+r=A.B(a.b,b.b,c)
 q=c<0.5
 p=q?a.c:b.c
-o=A.A(a.d,b.d,c)
+o=A.B(a.d,b.d,c)
 n=q?a.e:b.e
-m=A.A(a.f,b.f,c)
+m=A.B(a.f,b.f,c)
 l=A.dy(a.r,b.r,c)
 k=A.b9(a.w,b.w,c)
-j=A.A(a.x,b.x,c)
+j=A.B(a.x,b.x,c)
 i=A.b9(a.y,b.y,c)
 h=A.aU(a.z,b.z,c,A.bL(),t._)
 g=q?a.Q:b.Q
@@ -14361,9 +14361,9 @@ this.a=b},
 Q9:function Q9(){},
 aIl(a,b,c){var s,r
 if(a===b)return a
-s=A.A(a.a,b.a,c)
-r=A.A(a.b,b.b,c)
-return new A.Ad(s,r,A.A(a.c,b.c,c))},
+s=A.B(a.a,b.a,c)
+r=A.B(a.b,b.b,c)
+return new A.Ad(s,r,A.B(a.c,b.c,c))},
 Ad:function Ad(a,b,c){this.a=a
 this.b=b
 this.c=c},
@@ -14705,7 +14705,7 @@ a=a2}if(j==null)j=o?B.bP:B.h
 return A.ar0(d1,A.aIv(d3),B.yK,g===!0,a,B.yP,B.Hx,j,B.z5,B.z6,B.z7,B.zj,b7,k,b,B.Al,B.Am,B.An,n,d1,B.Ck,B.Cl,c,B.Cy,b8,i,B.CB,B.CD,B.CE,B.Db,h,B.Df,A.aIx(d2),B.Do,B.Dr,a6,b9,b6,a7,B.DA,c9,d,B.zD,B.E1,s,B.HD,B.HE,B.HF,B.HP,B.HQ,B.HS,B.IP,B.zQ,d4,B.JC,e,a3,a1,d0,c8,B.JD,B.JE,f,B.K3,B.K4,B.K5,b5,B.K6,B.n,B.Lm,B.Lw,c0,q,B.LE,B.LK,B.LL,B.M4,c7,B.Qg,B.Qk,a5,B.Qo,c4,b4,d7,r)},
 ar0(a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,a0,a1,a2,a3,a4,a5,a6,a7,a8,a9,b0,b1,b2,b3,b4,b5,b6,b7,b8,b9,c0,c1,c2,c3,c4,c5,c6,c7,c8,c9,d0,d1,d2,d3,d4,d5,d6,d7,d8,d9,e0,e1,e2,e3,e4,e5,e6,e7,e8,e9,f0,f1,f2,f3,f4,f5,f6,f7,f8,f9,g0,g1,g2,g3,g4,g5,g6){return new A.hH(d,a0,b3,b,c3,c5,d3,d4,e4,f3,!0,g6,h,n,o,s,a3,a5,a6,b6,b7,b8,b9,c2,d6,d7,d8,e3,e7,e9,f2,g4,c1,d9,e0,f8,g3,a,c,f,g,i,j,k,l,m,p,q,r,a1,a2,a4,a7,a8,a9,b0,b2,b4,b5,c0,c4,c6,c7,c8,c9,d0,d1,d2,d5,e1,e2,e5,e6,e8,f0,f1,f4,f5,f6,f7,f9,g0,g2,b1,e,g1)},
 aIu(){return A.Af(B.ad,null,null)},
-aIv(a){var s,r,q=A.B(t.n,t.gj)
+aIv(a){var s,r,q=A.C(t.n,t.gj)
 for(s=0;!1;++s){r=a[s]
 q.n(0,r.guF(r),r)}return q},
 aIz(a,b){return $.aAM().bK(0,new A.u5(a,b),new A.abb(a,b))},
@@ -14716,7 +14716,7 @@ aIw(a,b,c){var s=a.c,r=s.nC(s,new A.ab8(b,c),t.K,t.Ag)
 s=b.c
 r.PS(r,s.gf0(s).k9(0,new A.ab9(a)))
 return r},
-aIx(a){var s,r,q=t.K,p=t.ZF,o=A.B(q,p)
+aIx(a){var s,r,q=t.K,p=t.ZF,o=A.C(q,p)
 for(s=0;!1;++s){r=a[s]
 o.n(0,r.guF(r),p.a(r))}return A.apK(o,q,t.Ag)},
 aIy(h4,h5,h6){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1,a2,a3,a4,a5,a6,a7,a8,a9,b0,b1,b2,b3,b4,b5,b6,b7,b8,b9,c0,c1,c2,c3,c4,c5,c6,c7,c8,c9,d0,d1,d2,d3,d4,d5,d6,d7,d8,d9,e0,e1,e2,e3,e4,e5,e6,e7,e8,e9,f0,f1,f2,f3,f4,f5,f6,f7,f8,f9,g0,g1,g2,g3,g4,g5,g6,g7,g8,g9,h0,h1,h2,h3
@@ -14733,42 +14733,42 @@ k=s?h4.w:h5.w
 j=A.aHx(h4.x,h5.x,h6)
 i=s?h4.y:h5.y
 h=A.aIT(h4.Q,h5.Q,h6)
-g=A.A(h4.at,h5.at,h6)
+g=A.B(h4.at,h5.at,h6)
 g.toString
-f=A.A(h4.ax,h5.ax,h6)
+f=A.B(h4.ax,h5.ax,h6)
 f.toString
 e=A.aDM(h4.ay,h5.ay,h6)
-d=A.A(h4.ch,h5.ch,h6)
+d=A.B(h4.ch,h5.ch,h6)
 d.toString
-c=A.A(h4.CW,h5.CW,h6)
+c=A.B(h4.CW,h5.CW,h6)
 c.toString
-b=A.A(h4.cx,h5.cx,h6)
+b=A.B(h4.cx,h5.cx,h6)
 b.toString
-a=A.A(h4.cy,h5.cy,h6)
+a=A.B(h4.cy,h5.cy,h6)
 a.toString
-a0=A.A(h4.db,h5.db,h6)
+a0=A.B(h4.db,h5.db,h6)
 a0.toString
-a1=A.A(h4.dx,h5.dx,h6)
+a1=A.B(h4.dx,h5.dx,h6)
 a1.toString
-a2=A.A(h4.dy,h5.dy,h6)
+a2=A.B(h4.dy,h5.dy,h6)
 a2.toString
-a3=A.A(h4.fr,h5.fr,h6)
+a3=A.B(h4.fr,h5.fr,h6)
 a3.toString
-a4=A.A(h4.fx,h5.fx,h6)
+a4=A.B(h4.fx,h5.fx,h6)
 a4.toString
-a5=A.A(h4.fy,h5.fy,h6)
+a5=A.B(h4.fy,h5.fy,h6)
 a5.toString
-a6=A.A(h4.go,h5.go,h6)
+a6=A.B(h4.go,h5.go,h6)
 a6.toString
-a7=A.A(h4.id,h5.id,h6)
+a7=A.B(h4.id,h5.id,h6)
 a7.toString
-a8=A.A(h4.k1,h5.k1,h6)
+a8=A.B(h4.k1,h5.k1,h6)
 a8.toString
-a9=A.A(h4.k2,h5.k2,h6)
+a9=A.B(h4.k2,h5.k2,h6)
 a9.toString
-b0=A.A(h4.k3,h5.k3,h6)
+b0=A.B(h4.k3,h5.k3,h6)
 b0.toString
-b1=A.A(h4.k4,h5.k4,h6)
+b1=A.B(h4.k4,h5.k4,h6)
 b1.toString
 b2=A.km(h4.ok,h5.ok,h6)
 b3=A.km(h4.p1,h5.p1,h6)
@@ -14780,10 +14780,10 @@ b8=A.aDd(h4.RG,h5.RG,h6)
 b9=A.aDg(h4.rx,h5.rx,h6)
 c0=h4.ry
 c1=h5.ry
-c2=A.A(c0.a,c1.a,h6)
-c3=A.A(c0.b,c1.b,h6)
-c4=A.A(c0.c,c1.c,h6)
-c5=A.A(c0.d,c1.d,h6)
+c2=A.B(c0.a,c1.a,h6)
+c3=A.B(c0.b,c1.b,h6)
+c4=A.B(c0.c,c1.c,h6)
+c5=A.B(c0.d,c1.d,h6)
 c6=A.b9(c0.e,c1.e,h6)
 c7=A.Y(c0.f,c1.f,h6)
 c8=A.dy(c0.r,c1.r,h6)
@@ -14834,22 +14834,22 @@ g9=h4.u
 g9.toString
 h0=h5.u
 h0.toString
-h0=A.A(g9,h0,h6)
+h0=A.B(g9,h0,h6)
 g9=h4.bv
 g9.toString
 h1=h5.bv
 h1.toString
-h1=A.A(g9,h1,h6)
+h1=A.B(g9,h1,h6)
 g9=h4.e4
 g9.toString
 h2=h5.e4
 h2.toString
-h2=A.A(g9,h2,h6)
+h2=A.B(g9,h2,h6)
 g9=h4.as
 g9.toString
 h3=h5.as
 h3.toString
-return A.ar0(b7,r,b8,q,h2,b9,new A.xC(c2,c3,c4,c5,c6,c7,c8,c0),A.A(g9,h3,h6),c1,c9,d0,d1,s,g,f,d2,d3,d4,e,p,d5,d6,d,d7,c,b,d8,d9,e0,e1,h1,e2,o,e3,e4,a,a0,a1,a2,e5,b2,a3,n,e6,m,e7,e8,e9,f0,f1,f2,f3,l,k,f4,a4,a5,a6,b3,b4,f5,f6,a7,j,f7,f8,a8,f9,a9,g0,g1,b0,i,g2,g3,g4,g5,b5,g6,g7,h0,g8,b6,b1,!0,h)},
+return A.ar0(b7,r,b8,q,h2,b9,new A.xC(c2,c3,c4,c5,c6,c7,c8,c0),A.B(g9,h3,h6),c1,c9,d0,d1,s,g,f,d2,d3,d4,e,p,d5,d6,d,d7,c,b,d8,d9,e0,e1,h1,e2,o,e3,e4,a,a0,a1,a2,e5,b2,a3,n,e6,m,e7,e8,e9,f0,f1,f2,f3,l,k,f4,a4,a5,a6,b3,b4,f5,f6,a7,j,f7,f8,a8,f9,a9,g0,g1,b0,i,g2,g3,g4,g5,b5,g6,g7,h0,g8,b6,b1,!0,h)},
 aG2(a,b){return new A.Iv(a,b,B.kz,b.a,b.b,b.c,b.d,b.e,b.f,b.r)},
 aIS(a){switch(a.a){case 0:case 2:case 1:break
 case 3:case 4:case 5:return B.RS}return B.dm},
@@ -14984,25 +14984,25 @@ else if(s==null)s=a3.d
 else{r=a3.d
 if(!(r==null)){s.toString
 r.toString
-s=A.aI(s,r,a4)}}r=A.A(a2.a,a3.a,a4)
+s=A.aI(s,r,a4)}}r=A.B(a2.a,a3.a,a4)
 q=A.iV(a2.b,a3.b,a4)
 p=A.iV(a2.c,a3.c,a4)
 o=a2.gtb()
 n=a3.gtb()
-o=A.A(o,n,a4)
+o=A.B(o,n,a4)
 n=t.KX.a(A.cZ(a2.f,a3.f,a4))
-m=A.A(a2.r,a3.r,a4)
+m=A.B(a2.r,a3.r,a4)
 l=A.b9(a2.w,a3.w,a4)
-k=A.A(a2.x,a3.x,a4)
-j=A.A(a2.y,a3.y,a4)
-i=A.A(a2.z,a3.z,a4)
+k=A.B(a2.x,a3.x,a4)
+j=A.B(a2.y,a3.y,a4)
+i=A.B(a2.z,a3.z,a4)
 h=A.b9(a2.Q,a3.Q,a4)
 g=A.Y(a2.as,a3.as,a4)
-f=A.A(a2.at,a3.at,a4)
+f=A.B(a2.at,a3.at,a4)
 e=A.b9(a2.ax,a3.ax,a4)
-d=A.A(a2.ay,a3.ay,a4)
+d=A.B(a2.ay,a3.ay,a4)
 c=A.cZ(a2.ch,a3.ch,a4)
-b=A.A(a2.CW,a3.CW,a4)
+b=A.B(a2.CW,a3.CW,a4)
 a=A.b9(a2.cx,a3.cx,a4)
 if(a4<0.5)a0=a2.cy
 else a0=a3.cy
@@ -15037,17 +15037,17 @@ aID(a,b,c){var s,r,q,p,o,n,m,l,k,j,i,h,g,f
 if(a===b)return a
 s=A.b9(a.a,b.a,c)
 r=A.nH(a.b,b.b,c)
-q=A.A(a.c,b.c,c)
-p=A.A(a.d,b.d,c)
-o=A.A(a.e,b.e,c)
-n=A.A(a.f,b.f,c)
-m=A.A(a.r,b.r,c)
-l=A.A(a.w,b.w,c)
-k=A.A(a.y,b.y,c)
-j=A.A(a.x,b.x,c)
-i=A.A(a.z,b.z,c)
-h=A.A(a.Q,b.Q,c)
-g=A.A(a.as,b.as,c)
+q=A.B(a.c,b.c,c)
+p=A.B(a.d,b.d,c)
+o=A.B(a.e,b.e,c)
+n=A.B(a.f,b.f,c)
+m=A.B(a.r,b.r,c)
+l=A.B(a.w,b.w,c)
+k=A.B(a.y,b.y,c)
+j=A.B(a.x,b.x,c)
+i=A.B(a.z,b.z,c)
+h=A.B(a.Q,b.Q,c)
+g=A.B(a.as,b.as,c)
 f=A.iU(a.ax,b.ax,c)
 return new A.Al(s,r,q,p,o,n,m,l,j,k,i,h,g,A.Y(a.at,b.at,c),f)},
 Al:function Al(a,b,c,d,e,f,g,h,i,j,k,l,m,n,o){var _=this
@@ -15361,7 +15361,7 @@ s.toString
 if(s<0)return B.l
 r=a.c
 q=b.c
-if(r===q&&a.d===b.d){q=A.A(a.a,b.a,c)
+if(r===q&&a.d===b.d){q=A.B(a.a,b.a,c)
 q.toString
 return new A.aS(q,s,r,a.d)}switch(r.a){case 1:p=a.a
 break
@@ -15375,11 +15375,11 @@ o=A.U(0,r.gl(r)>>>16&255,r.gl(r)>>>8&255,r.gl(r)&255)
 break
 default:o=null}r=a.d
 q=b.d
-if(r!==q){n=A.A(p,o,c)
+if(r!==q){n=A.B(p,o,c)
 n.toString
 q=A.Y(r,q,c)
 q.toString
-return new A.aS(n,s,B.x,q)}q=A.A(p,o,c)
+return new A.aS(n,s,B.x,q)}q=A.B(p,o,c)
 q.toString
 return new A.aS(q,s,B.x,r)},
 cZ(a,b,c){var s,r
@@ -15571,7 +15571,7 @@ aty(a,b,c){var s,r,q,p,o,n
 if(a===b)return a
 if(c===0)return a
 if(c===1)return b
-s=A.A(a.a,b.a,c)
+s=A.B(a.a,b.a,c)
 r=A.apO(a.b,b.b,c)
 q=A.atx(a.c,b.c,c)
 p=A.iT(a.d,b.d,c)
@@ -15592,7 +15592,7 @@ _.e=_.d=_.c=null
 _.a=b},
 aDp(a,b,c){var s,r,q,p,o
 if(a===b)return a
-s=A.A(a.a,b.a,c)
+s=A.B(a.a,b.a,c)
 s.toString
 r=A.ji(a.b,b.b,c)
 r.toString
@@ -15800,7 +15800,7 @@ s=a==null
 if(!s&&b!=null){if(c===0)return a
 if(c===1)return b}r=s?m:a.a
 q=b==null
-r=A.A(r,q?m:b.a,c)
+r=A.B(r,q?m:b.a,c)
 p=s?m:a.b
 p=A.auS(p,q?m:b.b,c)
 o=s?m:a.c
@@ -15975,8 +15975,8 @@ ad(a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,a0,a1,a2,a3,a4,a5,a6){return new A.q(r,
 b9(a7,a8,a9){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1,a2,a3,a4,a5,a6=null
 if(a7==a8)return a7
 if(a7==null){s=a8.a
-r=A.A(a6,a8.b,a9)
-q=A.A(a6,a8.c,a9)
+r=A.B(a6,a8.b,a9)
+q=A.B(a6,a8.c,a9)
 p=a9<0.5
 o=p?a6:a8.r
 n=A.aqc(a6,a8.w,a9)
@@ -15993,15 +15993,15 @@ d=p?a6:a8.dy
 c=p?a6:a8.fr
 b=A.ask(a6,a8.fx,a9)
 a=p?a6:a8.CW
-a0=A.A(a6,a8.cx,a9)
+a0=A.B(a6,a8.cx,a9)
 a1=p?a6:a8.cy
 a2=p?a6:a8.db
 a3=p?a6:a8.gmX(0)
 a4=p?a6:a8.e
 a5=p?a6:a8.f
 return A.ad(e,q,r,a6,a,a0,a1,a2,a3,a4,c,o,m,b,n,f,i,s,h,l,g,p?a6:a8.fy,a5,d,j,k)}if(a8==null){s=a7.a
-r=A.A(a7.b,a6,a9)
-q=A.A(a6,a7.c,a9)
+r=A.B(a7.b,a6,a9)
+q=A.B(a6,a7.c,a9)
 p=a9<0.5
 o=p?a7.r:a6
 n=A.aqc(a7.w,a6,a9)
@@ -16018,7 +16018,7 @@ d=p?a7.dy:a6
 c=p?a7.fr:a6
 b=A.ask(a7.fx,a6,a9)
 a=p?a7.CW:a6
-a0=A.A(a7.cx,a6,a9)
+a0=A.B(a7.cx,a6,a9)
 a1=p?a7.cy:a6
 a2=p?a7.db:a6
 a3=p?a7.gmX(0):a6
@@ -16028,10 +16028,10 @@ return A.ad(e,q,r,a6,a,a0,a1,a2,a3,a4,c,o,m,b,n,f,i,s,h,l,g,p?a7.fy:a6,a5,d,j,k)
 r=s?a7.a:a8.a
 q=a7.ay
 p=q==null
-o=p&&a8.ay==null?A.A(a7.b,a8.b,a9):a6
+o=p&&a8.ay==null?A.B(a7.b,a8.b,a9):a6
 n=a7.ch
 m=n==null
-l=m&&a8.ch==null?A.A(a7.c,a8.c,a9):a6
+l=m&&a8.ch==null?A.B(a7.c,a8.c,a9):a6
 k=a7.r
 j=k==null?a8.r:k
 i=a8.r
@@ -16074,7 +16074,7 @@ n=s?a7.dy:a8.dy
 m=s?a7.fr:a8.fr
 b=A.ask(a7.fx,a8.fx,a9)
 a=s?a7.CW:a8.CW
-a0=A.A(a7.cx,a8.cx,a9)
+a0=A.B(a7.cx,a8.cx,a9)
 a1=s?a7.cy:a8.cy
 a2=a7.db
 a3=a2==null?a8.db:a2
@@ -16418,7 +16418,7 @@ s.h(a,r)
 n=b[-1]
 n.gyJ(n)
 break}m=A.ba("oldKeyedChildren")
-if(p){m.sck(A.B(t.D2,t.bu))
+if(p){m.sck(A.C(t.D2,t.bu))
 for(l=m.a,k=0;k<=r;){j=s.h(a,k)
 i=j.a
 if(i!=null){h=m.b
@@ -16857,12 +16857,12 @@ RR:function RR(){},
 RS:function RS(){},
 CF:function CF(){},
 ai(){return new A.If()},
-aGw(a){return new A.JJ(a,A.B(t.S,t.M),A.ai())},
-aGq(a){return new A.i9(a,A.B(t.S,t.M),A.ai())},
-awY(a){return new A.tv(a,B.f,A.B(t.S,t.M),A.ai())},
-aqz(){return new A.J7(B.f,A.B(t.S,t.M),A.ai())},
-ato(a){return new A.vh(a,B.cm,A.B(t.S,t.M),A.ai())},
-aqr(a,b){return new A.xl(a,b,A.B(t.S,t.M),A.ai())},
+aGw(a){return new A.JJ(a,A.C(t.S,t.M),A.ai())},
+aGq(a){return new A.i9(a,A.C(t.S,t.M),A.ai())},
+awY(a){return new A.tv(a,B.f,A.C(t.S,t.M),A.ai())},
+aqz(){return new A.J7(B.f,A.C(t.S,t.M),A.ai())},
+ato(a){return new A.vh(a,B.cm,A.C(t.S,t.M),A.ai())},
+aqr(a,b){return new A.xl(a,b,A.C(t.S,t.M),A.ai())},
 auJ(a){var s,r,q=new A.bi(new Float64Array(16))
 q.dS()
 for(s=a.length-1;s>0;--s){r=a[s]
@@ -18909,7 +18909,7 @@ o.push(n)
 n=null}}B.b.iD(o)
 s=t.IX
 return A.aa(new A.fK(o,new A.alD(),s),!0,s.i("m.E"))},
-jr(){return new A.ij(A.B(t._S,t.HT),A.B(t.I7,t.M),new A.cy("",B.aB),new A.cy("",B.aB),new A.cy("",B.aB),new A.cy("",B.aB),new A.cy("",B.aB))},
+jr(){return new A.ij(A.C(t._S,t.HT),A.C(t.I7,t.M),new A.cy("",B.aB),new A.cy("",B.aB),new A.cy("",B.aB),new A.cy("",B.aB),new A.cy("",B.aB))},
 alH(a,b,c,d){if(a.a.length===0)return c
 if(d!=b&&b!=null)switch(b.a){case 0:a=new A.cy("\u202b",B.aB).S(0,a).S(0,new A.cy("\u202c",B.aB))
 break
@@ -20276,7 +20276,7 @@ _.dx=null
 _.dy=!0
 _.fr=null},
 axa(){var s=null,r=A.c([],t.GA),q=$.ay,p=$.as(),o=A.c([],t.Jh),n=A.bh(7,s,!1,t.JI),m=t.S,l=t.j1
-m=new A.Mz(s,$,r,!0,new A.by(new A.aC(q,t.V),t.gR),!1,s,!1,$,s,$,$,$,A.B(t.K,t.Ju),!1,0,!1,$,0,s,$,$,new A.Tb(A.aP(t.M)),$,$,$,new A.cd(s,p),$,s,o,s,A.aM9(),new A.HV(A.aM8(),n,t.G7),!1,0,A.B(m,t.h1),A.cD(m),A.c([],l),A.c([],l),s,!1,B.dh,!0,!1,s,B.w,B.w,s,0,s,!1,s,s,0,A.md(s,t.qL),new A.a5k(A.B(m,t.rr),A.B(t.Ld,t.iD)),new A.a0R(A.B(m,t.cK)),new A.a5n(),A.B(m,t.Fn),$,!1,B.CQ)
+m=new A.Mz(s,$,r,!0,new A.by(new A.aC(q,t.V),t.gR),!1,s,!1,$,s,$,$,$,A.C(t.K,t.Ju),!1,0,!1,$,0,s,$,$,new A.Tb(A.aP(t.M)),$,$,$,new A.cd(s,p),$,s,o,s,A.aM9(),new A.HV(A.aM8(),n,t.G7),!1,0,A.C(m,t.h1),A.cD(m),A.c([],l),A.c([],l),s,!1,B.dh,!0,!1,s,B.w,B.w,s,0,s,!1,s,s,0,A.md(s,t.qL),new A.a5k(A.C(m,t.rr),A.C(t.Ld,t.iD)),new A.a0R(A.C(m,t.cK)),new A.a5n(),A.C(m,t.Fn),$,!1,B.CQ)
 m.fK()
 m.a_9()
 return m},
@@ -21035,7 +21035,7 @@ o.push(p)
 if(!(p instanceof A.kh))B.b.M(o,A.auG(p))}return o},
 aFk(a,b,c){var s,r,q,p,o,n,m,l,k,j=b==null?null:b.dy
 if(j==null)j=A.aqJ()
-s=A.B(t.pk,t.fk)
+s=A.C(t.pk,t.fk)
 for(r=A.auG(a),q=r.length,p=t.bp,o=0;o<r.length;r.length===q||(0,A.P)(r),++o){n=r[o]
 m=A.a0o(n)
 l=J.hP(n)
@@ -21082,7 +21082,7 @@ r=(r==null?p:r).jO(0,p)}if(r.ga5(r))return B.b.gK(a).a
 return B.b.agc(B.b.gK(a).gRk(),r.gkB(r)).w},
 axy(a,b){A.lw(a,new A.aiL(b),t.zP)},
 aJp(a,b){A.lw(a,new A.aiI(b),t.h7)},
-aqJ(){return new A.a6A(A.B(t.l5,t.UJ),A.aMR())},
+aqJ(){return new A.a6A(A.C(t.l5,t.UJ),A.aMR())},
 auF(a,b){return new A.wF(b==null?A.aqJ():b,a,null)},
 a0o(a){var s
 for(;s=a.Q,s!=null;a=s){if(a.e==null)return null
@@ -21448,7 +21448,7 @@ aeC:function aeC(a){this.a=a},
 aeD:function aeD(a,b){this.a=a
 this.b=b},
 auT(a,b,c){return new A.om(b,a,c,null)},
-auU(a,b,c){var s=A.B(t.K,t.U3)
+auU(a,b,c){var s=A.C(t.K,t.U3)
 a.aR(new A.a1p(c,new A.a1o(s,b)))
 return s},
 axo(a,b){var s,r=a.gV()
@@ -21567,7 +21567,7 @@ n=A.Y(n,q?i:b.d,c)
 m=s?i:a.e
 m=A.Y(m,q?i:b.e,c)
 l=s?i:a.f
-l=A.A(l,q?i:b.f,c)
+l=A.B(l,q?i:b.f,c)
 k=s?i:a.gf4(0)
 k=A.Y(k,q?i:b.gf4(0),c)
 j=s?i:a.w
@@ -21760,7 +21760,7 @@ FY:function FY(a){this.a=a},
 tM:function tM(a,b,c){this.c=a
 this.d=b
 this.a=c},
-aLp(a,b){var s,r,q,p,o,n,m,l,k={},j=t.n,i=t.z,h=A.B(j,i)
+aLp(a,b){var s,r,q,p,o,n,m,l,k={},j=t.n,i=t.z,h=A.C(j,i)
 k.a=null
 s=A.aP(j)
 r=A.c([],t.a9)
@@ -23436,7 +23436,7 @@ SE:function SE(a,b,c){this.x=a
 this.b=b
 this.a=c},
 dT(a,b,c,d,e){return new A.aL(a,c,e,b,d)},
-aHP(a){var s=A.B(t.y6,t.Xw)
+aHP(a){var s=A.C(t.y6,t.Xw)
 a.a1(0,new A.a9l(s))
 return s},
 aqP(a,b,c){return new A.ps(null,c,a,b,null)},
@@ -23804,7 +23804,7 @@ _.a=g},
 k8(a,b,c,d,e,f,g,h,i){return new A.qB(f,g,e,d,c,i,h,a,b)},
 apP(a){var s=a.ah(t.uy)
 return s==null?null:s.gzH()},
-C(a,b,c,d,e,f,g){return new A.zZ(a,null,e,f,g,c,b,d,null)},
+A(a,b,c,d,e,f,g){return new A.zZ(a,null,e,f,g,c,b,d,null)},
 qB:function qB(a,b,c,d,e,f,g,h,i){var _=this
 _.w=a
 _.x=b
@@ -24477,7 +24477,7 @@ _.d=e
 _.e=f
 _.f=g
 _.r=h},
-aDw(a,b){var s=new A.vv(new A.Xu(),A.B(t.N,b.i("aB<p,0>")),b.i("vv<0>"))
+aDw(a,b){var s=new A.vv(new A.Xu(),A.C(t.N,b.i("aB<p,0>")),b.i("vv<0>"))
 s.M(0,a)
 return s},
 vv:function vv(a,b,c){this.a=a
@@ -24486,7 +24486,7 @@ this.$ti=c},
 Xu:function Xu(){},
 aG8(a){return A.aNX("media type",a,new A.a3C(a))},
 avs(a,b,c){var s=t.N
-s=c==null?A.B(s,s):A.aDw(c,s)
+s=c==null?A.C(s,s):A.aDw(c,s)
 return new A.xF(a.toLowerCase(),b.toLowerCase(),new A.l1(s,t.G5))},
 xF:function xF(a,b,c){this.a=a
 this.b=b
@@ -24602,13 +24602,13 @@ a9j(){var s=0,r=A.M(t.nf),q,p,o,n,m,l,k,j
 var $async$a9j=A.N(function(a,b){if(a===1)return A.J(b,r)
 while(true)switch(s){case 0:n=t.N
 m=t.K
-l=A.B(n,m)
+l=A.C(n,m)
 k=J
 j=l
 s=3
 return A.I($.asI().mk(0),$async$a9j)
 case 3:k.uS(j,b)
-p=A.B(n,m)
+p=A.C(n,m)
 for(n=l,n=A.je(n,n.r);n.v();){m=n.d
 o=B.c.cj(m,8)
 m=J.aR(l,m)
@@ -25452,7 +25452,7 @@ q_(a){var s=u.R.charCodeAt(a>>>6)+(a&63),r=s&1,q=u.I.charCodeAt(s>>>1)
 return q>>>4&-r|q&15&r-1},
 jX(a,b){var s=(a&1023)<<10|b&1023,r=u.R.charCodeAt(1024+(s>>>9))+(s&511),q=r&1,p=u.I.charCodeAt(r>>>1)
 return p>>>4&-q|p&15&q-1},
-aMZ(a,b,c,d){var s,r,q,p,o,n=A.B(d,c.i("O<0>"))
+aMZ(a,b,c,d){var s,r,q,p,o,n=A.C(d,c.i("O<0>"))
 for(s=c.i("z<0>"),r=0;r<1;++r){q=a[r]
 p=b.$1(q)
 o=n.h(0,p)
@@ -26575,7 +26575,7 @@ e=$.uG
 e.toString
 d=f.a
 a5.push(p.ov(d,e.uO(d),j))}}if(!m)a5.push(p.ov("Roboto","https://fonts.gstatic.com/s/roboto/v20/KFOmCnqEu92Fr1Me5WZLCzYlKw.ttf","Roboto"))
-c=A.B(t.N,t.FK)
+c=A.C(t.N,t.FK)
 b=A.c([],t.Co)
 a6=J
 s=3
@@ -27271,7 +27271,7 @@ n=A.c([],o)
 o=A.c([],o)
 m=A.c([],t.jT)
 l.d!==$&&A.ag()
-k=l.d=new A.HY(s.d,l,new A.wk(q,r),A.B(p,t.GB),A.B(p,t.JH),A.B(p,t.Xq),A.aP(p),n,o,m,A.B(p,t.c8))}return k},
+k=l.d=new A.HY(s.d,l,new A.wk(q,r),A.C(p,t.GB),A.C(p,t.JH),A.C(p,t.Xq),A.aP(p),n,o,m,A.C(p,t.c8))}return k},
 tn(a){return this.afs(a)},
 afs(a){var s=0,r=A.M(t.H),q,p=this,o,n,m,l
 var $async$tn=A.N(function(b,c){if(b===1)return A.J(c,r)
@@ -27329,7 +27329,7 @@ q=t.Pc
 p=A.c([],q)
 q=A.c([],q)
 this.b!==$&&A.ag()
-o=this.b=new A.L6(A.aP(s),r,p,q,A.B(s,t.gS))}return o},
+o=this.b=new A.L6(A.aP(s),r,p,q,A.C(s,t.gS))}return o},
 gtG(){var s,r,q,p,o=this.b
 if(o===$){s=t.N
 r=A.c([],t.LX)
@@ -27337,7 +27337,7 @@ q=t.Pc
 p=A.c([],q)
 q=A.c([],q)
 this.b!==$&&A.ag()
-o=this.b=new A.L6(A.aP(s),r,p,q,A.B(s,t.gS))}return o},
+o=this.b=new A.L6(A.aP(s),r,p,q,A.C(s,t.gS))}return o},
 lZ(a){var s=0,r=A.M(t.H),q,p=this,o
 var $async$lZ=A.N(function(b,c){if(b===1)return A.J(c,r)
 while(true)switch(s){case 0:o=p.a
@@ -27458,7 +27458,7 @@ if(n.f==null)for(m=o.b.gaI(0),l=A.n(m),l=l.i("@<1>").aa(l.y[1]),m=new A.bo(J.az(
 e=(e==null?l.a(e):e).a
 d=p.e
 if(d===$){d!==$&&A.ag()
-d=p.e=new A.wD(p,A.B(j,i),A.B(j,h),new A.nj(null,null,k),new A.nj(null,null,k))}c=d.b.h(0,e)
+d=p.e=new A.wD(p,A.C(j,i),A.C(j,h),new A.nj(null,null,k),new A.nj(null,null,k))}c=d.b.h(0,e)
 g.n(0,c.a,f.EQ(c))}if(n.f==null){p=o.d
 n.f=new A.eW(p,A.n(p).i("eW<1>")).yM(n.ga8q())}if(n.r==null){p=o.e
 n.r=new A.eW(p,A.n(p).i("eW<1>")).yM(n.ga8s())}$.apE.b=n
@@ -28418,7 +28418,7 @@ if(q.f==null)q.f=new A.by(new A.aC($.ay,t.V),t.gR)
 if(r===0)A.c9(B.w,q.gWu())},
 oc(){var s=0,r=A.M(t.H),q=this,p,o,n,m,l,k,j,i
 var $async$oc=A.N(function(a,b){if(a===1)return A.J(b,r)
-while(true)switch(s){case 0:j=A.B(t.N,t.uz)
+while(true)switch(s){case 0:j=A.C(t.N,t.uz)
 i=A.c([],t.s)
 for(p=q.d,o=p.gaI(0),n=A.n(o),n=n.i("@<1>").aa(n.y[1]),o=new A.bo(J.az(o.a),o.b,n.i("bo<1,2>")),m=t.H,n=n.y[1];o.v();){l=o.a
 if(l==null)l=n.a(l)
@@ -28495,7 +28495,7 @@ s=J.iP(t.j.a(s.h(a,"fonts")),new A.an8(),t.zq)
 return new A.og(r,A.aa(s,!0,A.n(s).i("ax.E")))},
 $S:282}
 A.an8.prototype={
-$1(a){var s,r,q,p,o=t.N,n=A.B(o,o)
+$1(a){var s,r,q,p,o=t.N,n=A.C(o,o)
 for(o=J.atc(t.a.a(a)),o=o.ga9(o),s=null;o.v();){r=o.gI(o)
 q=r.a
 p=J.e(q,"asset")
@@ -31380,7 +31380,7 @@ n=t.N
 m=A.aq0(o,"webgl2",A.a([c1,!1],n,t.z))
 m.toString
 l=new A.HR(m)
-$.a1a.b=A.B(n,t.eS)
+$.a1a.b=A.C(n,t.eS)
 l.dy=o
 o=$.a1a}else{o=o.b
 o.toString
@@ -31390,7 +31390,7 @@ m=t.N
 n=A.i_(o,n,A.a([c1,!1],m,t.z))
 n.toString
 l=new A.HR(n)
-$.a1a.b=A.B(m,t.eS)
+$.a1a.b=A.C(m,t.eS)
 l.dy=o
 o=$.a1a}l.fr=s
 l.fx=p
@@ -31718,7 +31718,7 @@ if(j!=null)e=!(j.c===B.aC&&A.w(l)===A.w(j))
 else e=!0
 if(e)continue
 n.push(new A.ng(l,k,l.Gs(j)))}}B.b.ep(n,new A.a4Z())
-i=A.B(t.mc,t.ix)
+i=A.C(t.mc,t.ix)
 for(s=0;s<n.length;++s){h=n[s]
 e=h.b
 g=q[e]
@@ -31880,7 +31880,7 @@ r=t.S
 q=s===B.bC||s===B.aM
 s=A.aFM(s)
 p.a!==$&&A.ag()
-o=p.a=new A.a2I(p.ga87(),q,s,A.B(r,r),A.B(r,t.M))}return o},
+o=p.a=new A.a2I(p.ga87(),q,s,A.C(r,r),A.C(r,t.M))}return o},
 Jk(a,b,c){var s=t.g.a(A.bz(new A.a2G(c)))
 this.b.n(0,b,s)
 A.co(self.window,b,s,!0)},
@@ -32254,7 +32254,7 @@ if(p===$){s=t.S
 r=A.a9X(!0,s)
 q=A.a9X(!0,s)
 p!==$&&A.ag()
-p=this.e=new A.wD(this,A.B(s,t.lz),A.B(s,t.e),r,q)}return p},
+p=this.e=new A.wD(this,A.C(s,t.lz),A.C(s,t.e),r,q)}return p},
 gahG(){return t.W.a(this.gdn().b.h(0,0))},
 Ga(){var s=this.f
 if(s!=null)A.lt(s,this.r)},
@@ -32410,7 +32410,7 @@ this.fy=p
 s=self.document.documentElement
 s.toString
 r=A.c(["style"],t.s)
-q=A.B(t.N,t.z)
+q=A.C(t.N,t.z)
 q.n(0,"attributes",!0)
 q.n(0,"attributeFilter",r)
 r=A.an(q)
@@ -32553,7 +32553,7 @@ A.a7V.prototype={
 $1(a){},
 $S:2}
 A.a5f.prototype={
-a1S(){if("PointerEvent" in self.window){var s=new A.ai3(A.B(t.S,t.ZW),this,A.c([],t.he))
+a1S(){if("PointerEvent" in self.window){var s=new A.ai3(A.C(t.S,t.ZW),this,A.c([],t.he))
 s.W5()
 return s}throw A.d(A.a0("This browser does not support pointer events which are necessary to handle interactions with Flutter Web apps."))}}
 A.Gb.prototype={
@@ -33859,7 +33859,7 @@ n.k4=null
 m=n.p1
 if(m!=null)m.m()
 n.p1=null}l.f=A.c([],t.Qo)
-l.e=A.B(t.S,k)
+l.e=A.C(t.S,k)
 l.c=B.KA
 try{k=l.r
 r=k.length
@@ -34477,7 +34477,7 @@ b.b=m+1
 s.push(k.kX(p.getUint8(m),b))}break
 case 13:q=k.f6(b)
 p=t.z
-s=A.B(p,p)
+s=A.C(p,p)
 for(p=b.a,n=0;n<q;++n){m=b.b
 if(m>=p.byteLength)A.a7(B.b9)
 b.b=m+1
@@ -34836,7 +34836,7 @@ var $async$kR=A.N(function(a1,a2){if(a1===1)return A.J(a2,r)
 while(true)switch(s){case 0:b=A.c([],t.Rh)
 for(o=a0.a,n=o.length,m=0;m<o.length;o.length===n||(0,A.P)(o),++m){l=o[m]
 for(k=l.b,j=k.length,i=0;i<k.length;k.length===j||(0,A.P)(k),++i)b.push(new A.a1P(p,k[i],l).$0())}h=A.c([],t.s)
-g=A.B(t.N,t.FK)
+g=A.C(t.N,t.FK)
 a=J
 s=3
 return A.I(A.qT(b,t.BZ),$async$kR)
@@ -38159,7 +38159,7 @@ case 4:q=2
 break
 case 3:return 0
 case 1:return b.c=o,3}}}},
-nC(a,b,c,d){var s=A.B(c,d)
+nC(a,b,c,d){var s=A.C(c,d)
 this.a1(0,new A.Y9(this,b,s))
 return s},
 $iat:1}
@@ -40007,7 +40007,7 @@ for(s=J.az(this.gbF(a)),r=A.bq(a).i("aG.V");s.v();){q=s.gI(s)
 p=this.h(a,q)
 this.n(a,q,b.$2(q,p==null?r.a(p):p))}},
 gf0(a){return J.iP(this.gbF(a),new A.a3m(a),A.bq(a).i("aB<aG.K,aG.V>"))},
-nC(a,b,c,d){var s,r,q,p,o,n=A.B(c,d)
+nC(a,b,c,d){var s,r,q,p,o,n=A.C(c,d)
 for(s=J.az(this.gbF(a)),r=A.bq(a).i("aG.V");s.v();){q=s.gI(s)
 p=this.h(a,q)
 o=b.$2(q,p==null?r.a(p):p)
@@ -40590,7 +40590,7 @@ if(s==null)s=this.c=A.c(Object.keys(this.a),t.s)
 return s},
 PA(){var s,r,q,p,o,n=this
 if(n.b==null)return n.c
-s=A.B(t.N,t.z)
+s=A.C(t.N,t.z)
 r=n.ot()
 for(q=0;p=r.length,q<p;++q){o=r[q]
 s.n(0,o,n.h(0,o))}if(p===0)r.push("")
@@ -42027,7 +42027,7 @@ $ibk:1,
 $im:1,
 $iO:1}
 A.lZ.prototype={
-gakC(a){var s,r,q,p,o,n,m=t.N,l=A.B(m,m),k=a.getAllResponseHeaders(),j=k.split("\r\n")
+gakC(a){var s,r,q,p,o,n,m=t.N,l=A.C(m,m),k=a.getAllResponseHeaders(),j=k.split("\r\n")
 for(m=j.length,s=0;s<m;++s){r=j[s]
 q=J.ao(r)
 if(q.gt(r)===0)continue
@@ -42708,7 +42708,7 @@ s=j.b
 q=s[r]
 if(q!=null)return q
 p=t.z
-o=A.B(p,p)
+o=A.C(p,p)
 s[r]=o
 j.agl(a,new A.ac0(j,o))
 return o}s=a instanceof Array
@@ -42831,7 +42831,7 @@ if(a instanceof RegExp)throw A.d(A.bD("structured clone of RegExp",null))
 if(typeof Promise!="undefined"&&a instanceof Promise)return A.jZ(a,t.X)
 r=Object.getPrototypeOf(a)
 if(r===Object.prototype||r===null){q=t.X
-p=A.B(q,q)
+p=A.C(q,q)
 s.n(0,a,p)
 o=Object.keys(a)
 n=[]
@@ -44258,7 +44258,7 @@ sba(a,b){return this.b=b}}
 A.z2.prototype={
 ey(a){return this.c.ey(1-a)}}
 A.f0.prototype={
-ey(a){return A.A(this.a,this.b,a)}}
+ey(a){return A.B(this.a,this.b,a)}}
 A.L5.prototype={
 ey(a){return A.a9r(this.a,this.b,a)}}
 A.yz.prototype={
@@ -44549,7 +44549,7 @@ ai(){return new A.B8(B.k)}}
 A.B8.prototype={
 a7Y(a){this.H(new A.ae8(this))},
 a8_(a){this.H(new A.ae9(this))},
-L(a){var s=this,r=null,q=s.a.f,p=A.C(q,r,B.bv,r,B.yc.bQ(s.d?A.vQ(a).gma():B.eZ.dd(a)),r,r)
+L(a){var s=this,r=null,q=s.a.f,p=A.A(q,r,B.bv,r,B.yc.bQ(s.d?A.vQ(a).gma():B.eZ.dd(a)),r,r)
 q=s.d?A.vQ(a).gfO():r
 return A.b1(A.ml(A.atL(B.bM,B.c1,p,q,B.Ch,0,s.a.c,B.D9,0.7),B.bO,r,s.ga7X(),s.ga7Z(),r),r,1/0)}}
 A.ae8.prototype={
@@ -44788,12 +44788,12 @@ s=r}else s=!1
 return s},
 gB(a){return J.y(this.a)}}
 A.aeb.prototype={
-$1(a){var s=A.A(null,a,this.a)
+$1(a){var s=A.B(null,a,this.a)
 s.toString
 return s},
 $S:76}
 A.aec.prototype={
-$1(a){var s=A.A(null,a,1-this.a)
+$1(a){var s=A.B(null,a,1-this.a)
 s.toString
 return s},
 $S:76}
@@ -44814,7 +44814,7 @@ break
 default:n=null
 m=null}for(s=b.b,r=s+p,l=0,k=0;k<q;++k){if(B.i.ld(k,o)!==l)++l
 j=$.ae().b6()
-i=A.A(h[l],h[l+1],B.i.dH(k,o)/o)
+i=A.B(h[l],h[l+1],B.i.dH(k,o)/o)
 i.toString
 j.sap(0,i)
 i=n+m*k-1
@@ -45096,14 +45096,14 @@ a.h6(s,r,p)
 a.h6(r,q,p)},
 em(a){return!a.b.j(0,this.b)||a.c!==this.c}}
 A.Be.prototype={
-aA(a){var s=new A.pL(A.B(t.TC,t.x),this.w,this.e,this.f,0,null,null,A.ai())
+aA(a){var s=new A.pL(A.C(t.TC,t.x),this.w,this.e,this.f,0,null,null,A.ai())
 s.az()
 return s},
 aE(a,b){b.sajK(0,this.w)
 b.safp(this.e)
 b.safq(this.f)},
 bk(a){var s=t.h
-return new A.NY(A.B(t.TC,s),A.cD(s),this,B.a6)}}
+return new A.NY(A.C(t.TC,s),A.cD(s),this,B.a6)}}
 A.NY.prototype={
 gV(){return t.l0.a(A.bd.prototype.gV.call(this))},
 Pn(a,b){var s
@@ -45357,7 +45357,7 @@ p=q.f
 if(p==null){q=q.e
 q.toString
 q=A.atO(a,q)}else q=p
-s=A.C(q,r,B.bv,r,B.Oj.bQ(this.a.d!=null?B.eZ.dd(a):B.cT),r,r)
+s=A.A(q,r,B.bv,r,B.Oj.bQ(this.a.d!=null?B.eZ.dd(a):B.cT),r,r)
 q=this.a.e
 if(q==null)return s
 switch(q.b.a){case 0:case 1:case 2:case 3:case 4:case 5:case 6:case 7:case 9:return s
@@ -46081,7 +46081,7 @@ a5y(){if(this.c<=0)this.gNn().fb(0)},
 gNn(){var s=this,r=s.f2$
 if(r===$){$.uR()
 r!==$&&A.ag()
-r=s.f2$=new A.ajm(A.B(t.S,t.GG),B.w,new A.ta(),B.w,B.w,s.ga5g(),s.ga5x(),B.CK)}return r},
+r=s.f2$=new A.ajm(A.C(t.S,t.GG),B.w,new A.ta(),B.w,B.w,s.ga5g(),s.ga5x(),B.CK)}return r},
 $iah:1}
 A.a0U.prototype={
 $0(){var s=null
@@ -46948,7 +46948,7 @@ if(r!=null)s.KK(a,r,A.r9(r,p,o))
 s.KK(a,q,n)},
 KK(a,b,c){c.a1(0,new A.a5l(this,b,a))}}
 A.a5m.prototype={
-$0(){return A.B(t.Ld,t.iD)},
+$0(){return A.C(t.Ld,t.iD)},
 $S:406}
 A.a5l.prototype={
 $2(a,b){if(J.nz(this.b,a))this.a.a2j(this.c,a,b)},
@@ -48777,7 +48777,7 @@ if(a>=0.25)r.toString
 else{s=this.f
 s.toString
 r.toString
-r=A.A(s,r,a*4)
+r=A.B(s,r,a*4)
 r.toString}return r},
 Bk(a,b,c,d){a.cC(this.fr.hO(b),c)
 this.fr.kD(d).ak(a,b)},
@@ -48801,13 +48801,13 @@ r=f.r
 r.toString
 q=f.w
 q.toString
-q=A.A(r,q,f.a.gl(0))
+q=A.B(r,q,f.a.gl(0))
 r=f.x
 r.toString
-r=A.A(q,r,f.d.gl(0))
+r=A.B(q,r,f.d.gl(0))
 q=f.y
 q.toString
-q=A.A(r,q,f.c.gl(0))
+q=A.B(r,q,f.c.gl(0))
 q.toString
 s.sap(0,q)
 q=f.z
@@ -50261,7 +50261,7 @@ L(a){var s=this,r=a.ah(t.sZ),q=r==null?null:r.f
 return new A.BR(s.c,s.d,s.e,s.f,s.r,s.w,s.x,s.y,s.Q,s.z,s.as,s.at,s.ax,s.ay,s.ch,s.CW,s.cx,s.cy,s.db,s.dx,s.dy,s.fr,s.fx,s.fy,s.go,s.id,!1,s.k2,!1,s.k4,s.ok,q,s.gVo(),s.gaf6(),s.p1,s.p2,null)},
 af7(a){return!0}}
 A.BR.prototype={
-ai(){return new A.BQ(A.B(t.R9,t.Pr),new A.b0(A.c([],t.ML),t.yw),null,B.k)}}
+ai(){return new A.BQ(A.C(t.R9,t.Pr),new A.b0(A.c([],t.ML),t.yw),null,B.k)}}
 A.n6.prototype={
 G(){return"_HighlightType."+this.b}}
 A.BQ.prototype={
@@ -50911,7 +50911,7 @@ q=r.w
 q.toString
 p=r.x
 o=r.c
-o=A.C(q,r.y,B.bv,n,p,o,n)
+o=A.A(q,r.y,B.bv,n,p,o,n)
 return A.bZ(n,n,A.j6(!1,A.auN(o,!0,s),m),!0,n,n,!1,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n)},
 L(a){var s,r=this,q=r.d
 q===$&&A.b()
@@ -51139,7 +51139,7 @@ return new A.ql(k,j.b)},
 eJ(a){a.k1=this.ga1b()},
 bq(){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1,a2,a3,a4,a5,a6,a7,a8,a9,b0,b1,b2,b3,b4,b5,b6,b7,b8,b9,c0,c1,c2,c3,c4,c5,c6,c7,c8,c9,d0,d1,d2,d3,d4,d5,d6,d7,d8,d9,e0,e1,e2,e3,e4,e5,e6,e7,e8,e9=this,f0=null,f1=t.k,f2=f1.a(A.r.prototype.gT.call(e9))
 e9.aC=null
-s=A.B(t.Qv,t.i)
+s=A.C(t.Qv,t.i)
 r=f2.b
 q=f2.d
 p=new A.au(0,r,0,q)
@@ -51504,7 +51504,7 @@ case 9:return s.d.cy
 case 10:return s.d.db}},
 aA(a){var s,r=this
 A.a2(a)
-s=new A.CC(r.d,r.e,r.f,r.r,r.w,!1,!0,A.B(t.uC,t.x),A.ai())
+s=new A.CC(r.d,r.e,r.f,r.r,r.w,!1,!0,A.C(t.uC,t.x),A.ai())
 s.az()
 return s},
 aE(a,b){var s=this
@@ -51633,7 +51633,7 @@ else{n=b7.a.y&&!b7.ga6w()?1:0
 b7.gaG()
 h=b7.gaG()
 g=b7.a.e
-i=A.aDb(A.C(j,b7.gaG().as,B.bv,b8,k,g,h.Q),B.az,B.CM,n)}b7.gaG()
+i=A.aDb(A.A(j,b7.gaG().as,B.bv,b8,k,g,h.Q),B.az,B.CM,n)}b7.gaG()
 if(b7.a.r)if(b7.gll())b7.gaG()
 else b7.gaG()
 else if(b7.gll())b7.gaG()
@@ -51677,7 +51677,7 @@ else if(b7.gaG().p3!=null&&b7.gaG().p3!==""){a8=b7.a.r
 a9=b7.gaG().p3
 a9.toString
 p=b7.Lj(b9,s).bp(A.cE(b7.gaG().R8,b7.ghI(),p))
-a7=A.bZ(b8,b8,A.C(a9,b8,B.bv,b7.gaG().aH,p,b8,b8),!0,b8,b8,!1,b8,b8,b8,b8,a8,b8,b8,b8,b8,b8,b8,b8,b8,b8,b8,b8,b8,b8,b8,b8,b8,b8,b8)}else a7=b8
+a7=A.bZ(b8,b8,A.A(a9,b8,B.bv,b7.gaG().aH,p,b8,b8),!0,b8,b8,!1,b8,b8,b8,b8,a8,b8,b8,b8,b8,b8,b8,b8,b8,b8,b8,b8,b8,b8,b8,b8,b8,b8,b8)}else a7=b8
 p=c0.ah(t.I)
 p.toString
 b7.gaG()
@@ -52024,7 +52024,7 @@ switch(a.a){case 0:return s.d
 case 1:return s.e
 case 2:return s.f
 case 3:return s.r}},
-aA(a){var s=this,r=new A.CK(!1,s.y,!1,s.z,s.Q,s.as,s.at,s.ax,s.ay,s.ch,A.B(t.cB,t.x),A.ai())
+aA(a){var s=this,r=new A.CK(!1,s.y,!1,s.z,s.Q,s.as,s.at,s.ax,s.ay,s.ch,A.C(t.cB,t.x),A.ai())
 r.az()
 return r},
 aE(a,b){var s=this
@@ -53222,7 +53222,7 @@ $0(){this.a.a.toString},
 $S:0}
 A.z7.prototype={
 ai(){var s=null,r=t.bR,q=t.A,p=$.as()
-return new A.rO(new A.bI(s,r),new A.bI(s,r),new A.bI(s,q),new A.z_(!1,p),new A.z_(!1,p),A.c([],t.Z4),new A.bI(s,q),B.n,s,A.B(t.yb,t.M),s,!0,s,s,s,B.k)}}
+return new A.rO(new A.bI(s,r),new A.bI(s,r),new A.bI(s,q),new A.z_(!1,p),new A.z_(!1,p),A.c([],t.Z4),new A.bI(s,q),B.n,s,A.C(t.yb,t.M),s,!0,s,s,s,B.k)}}
 A.rO.prototype={
 ge6(){this.a.toString
 return null},
@@ -53616,7 +53616,7 @@ s=s.cy
 s===$&&A.b()
 s=s.x
 s===$&&A.b()
-s=A.A(r,q,s)
+s=A.B(r,q,s)
 s.toString
 return s},
 $S:5}
@@ -54042,7 +54042,7 @@ A.auC(s)
 break}}}}
 A.A4.prototype={
 ai(){var s=null
-return new A.DD(new A.bI(s,t.NE),s,A.B(t.yb,t.M),s,!0,s,B.k)}}
+return new A.DD(new A.bI(s,t.NE),s,A.C(t.yb,t.M),s,!0,s,B.k)}}
 A.DD.prototype={
 gkl(){var s=this.a.d
 return s},
@@ -56040,7 +56040,7 @@ q.dK(r.Z(b).cp(a))
 return q}r=$.ae().bI()
 r.kv(a)
 return r}},
-bd(a,b){var s=this,r=null,q=A.A(r,s.a,b),p=A.apO(r,s.b,b),o=A.atx(r,s.c,b),n=A.iT(r,s.d,b),m=A.apC(r,s.e,b)
+bd(a,b){var s=this,r=null,q=A.B(r,s.a,b),p=A.apO(r,s.b,b),o=A.atx(r,s.c,b),n=A.iT(r,s.d,b),m=A.apC(r,s.e,b)
 return new A.ek(q,p,o,n,m,r,s.w)},
 gyH(){return this.e!=null},
 dh(a,b){if(a==null)return this.bd(0,b)
@@ -57656,7 +57656,7 @@ ahO(){var s,r=this.as$
 if(r!=null){r.dy$=$.as()
 r.dx$=0}r=t.S
 s=$.as()
-this.as$=new A.IO(new A.a7w(this),new A.a3Y(B.bu,A.B(r,t.ZA)),A.B(r,t.xg),s)},
+this.as$=new A.IO(new A.a7w(this),new A.a3Y(B.bu,A.C(r,t.ZA)),A.C(r,t.xg),s)},
 a6v(a){B.HH.jo("first-frame",null,!1,t.H)},
 a59(a){this.Fn()
 this.aad()},
@@ -57792,14 +57792,14 @@ gB(a){return A.T(this.a,this.b,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B
 A.D.prototype={
 e7(a){if(!(a.b instanceof A.el))a.b=new A.el(B.f)},
 ac(a,b,c){var s=this.fx
-if(s==null)s=this.fx=A.B(t.oc,t.i)
+if(s==null)s=this.fx=A.C(t.oc,t.i)
 return s.bK(0,new A.BW(a,b),new A.a6J(c,b))},
 b3(a){return 0},
 aT(a){return 0},
 aW(a){return 0},
 b0(a){return 0},
 iz(a){var s=this.fy
-if(s==null)s=this.fy=A.B(t.k,t.FW)
+if(s==null)s=this.fy=A.C(t.k,t.FW)
 return s.bK(0,a,new A.a6L(this,a))},
 ce(a){return B.r},
 gq(a){var s=this.id
@@ -57811,7 +57811,7 @@ try{s=this.l5(a)}finally{}if(s==null&&!b)return this.gq(0).b
 return s},
 ml(a){return this.A4(a,!1)},
 l5(a){var s=this.k1
-if(s==null)s=this.k1=A.B(t._0,t.PM)
+if(s==null)s=this.k1=A.C(t._0,t.PM)
 return s.bK(0,a,new A.a6K(this,a))},
 f_(a){return null},
 gT(){return t.k.a(A.r.prototype.gT.call(this))},
@@ -57915,7 +57915,7 @@ fM(a,b){var s=this.b.h(0,a).b
 s.toString
 t.Wz.a(s).a=b},
 a0X(a,b){var s,r,q,p,o,n,m=this,l=m.b
-try{m.b=A.B(t.K,t.x)
+try{m.b=A.C(t.K,t.x)
 for(r=t.Wz,q=b;q!=null;q=n){p=q.b
 p.toString
 s=r.a(p)
@@ -59762,7 +59762,7 @@ aeX(a,b){return new A.rq(a,b)},
 kV(a,b,c,d,e,f){var s,r,q=this
 if(e===B.v){d.$2(q,b)
 return null}s=c.c9(b)
-if(a){r=f==null?new A.vE(B.a1,A.B(t.S,t.M),A.ai()):f
+if(a){r=f==null?new A.vE(B.a1,A.C(t.S,t.M),A.ai()):f
 if(!s.j(0,r.k3)){r.k3=s
 r.eN()}if(e!==r.k4){r.k4=e
 r.eN()}q.q1(r,d,b,s)
@@ -59772,7 +59772,7 @@ ak2(a,b,c,d,e,f,g){var s,r,q,p=this
 if(f===B.v){e.$2(p,b)
 return null}s=c.c9(b)
 r=d.c9(b)
-if(a){q=g==null?new A.vD(B.cQ,A.B(t.S,t.M),A.ai()):g
+if(a){q=g==null?new A.vD(B.cQ,A.C(t.S,t.M),A.ai()):g
 if(!r.j(0,q.k3)){q.k3=r
 q.eN()}if(f!==q.k4){q.k4=f
 q.eN()}p.q1(q,e,b,s)
@@ -59782,7 +59782,7 @@ GY(a,b,c,d,e,f,g){var s,r,q,p=this
 if(f===B.v){e.$2(p,b)
 return null}s=c.c9(b)
 r=d.c9(b)
-if(a){q=g==null?new A.vC(B.cQ,A.B(t.S,t.M),A.ai()):g
+if(a){q=g==null?new A.vC(B.cQ,A.C(t.S,t.M),A.ai()):g
 if(r!==q.k3){q.k3=r
 q.eN()}if(f!==q.k4){q.k4=f
 q.eN()}p.q1(q,e,b,s)
@@ -59864,7 +59864,7 @@ q.S3()}}finally{}},
 Pu(){var s=this,r=s.cx
 r=r==null?null:r.a.grq().a
 if(r===!0||s.ax>0){if(s.at==null){r=t.bu
-s.at=new A.zu(s.c,A.aP(r),A.B(t.S,r),A.aP(r),$.as())
+s.at=new A.zu(s.c,A.aP(r),A.C(t.S,r),A.aP(r),$.as())
 r=s.b
 if(r!=null)r.$0()}}else{r=s.at
 if(r!=null){r.m()
@@ -60143,7 +60143,7 @@ q=A.c([],t.q1)
 p=c.c||e.gaM(e)==null
 o=c.k1
 n=t.pp
-m=A.B(t.ZX,n)
+m=A.C(t.ZX,n)
 l=t.CZ
 k=A.c([],l)
 j=A.c([],t.i1)
@@ -61813,7 +61813,7 @@ a0=A.av_(a.a,p)
 s=a1.ch
 q=s.a
 if(q instanceof A.wV){if(!a0.j(0,q.b1)){q.b1=a0
-q.eN()}}else s.sam(0,new A.wV(a0,B.f,A.B(t.S,t.M),A.ai()))
+q.eN()}}else s.sam(0,new A.wV(a0,B.f,A.C(t.S,t.M),A.ai()))
 s=s.a
 s.toString
 a2.mc(s,A.ey.prototype.gf5.call(a1),a3)}}},
@@ -62151,7 +62151,7 @@ c8(a,b){if(this.u.a==null&&!0)return!1
 return this.ci(a,b)},
 ci(a,b){return a.Ec(new A.a6X(this),b,this.HH())},
 ak(a,b){var s,r=this,q=r.u.d,p=q==null?r.ad:r.bj.xk(q).W(0,r.d0.xk(r.gq(0))).S(0,r.ad),o=t.RC
-if(o.a(A.r.prototype.gam.call(r,0))==null)r.ch.sam(0,new A.wG(r.u,!1,b,p,A.B(t.S,t.M),A.ai()))
+if(o.a(A.r.prototype.gam.call(r,0))==null)r.ch.sam(0,new A.wG(r.u,!1,b,p,A.C(t.S,t.M),A.ai()))
 else{s=o.a(A.r.prototype.gam.call(r,0))
 if(s!=null){s.k3=r.u
 s.k4=!1
@@ -62168,7 +62168,7 @@ sl(a,b){if(this.u.j(0,b))return
 this.u=b
 this.ao()},
 sWl(a){return},
-ak(a,b){var s=this,r=s.u,q=s.gq(0),p=new A.v9(r,q,b,A.B(t.S,t.M),A.ai(),s.$ti.i("v9<1>"))
+ak(a,b){var s=this,r=s.u,q=s.gq(0),p=new A.v9(r,q,b,A.C(t.S,t.M),A.ai(),s.$ti.i("v9<1>"))
 s.ad.sam(0,p)
 a.mc(p,A.ey.prototype.gf5.call(s),b)},
 m(){this.ad.sam(0,null)
@@ -64111,7 +64111,7 @@ if(!r)q.xr$=a
 q.RG$=!1
 try{q.rx$=B.JT
 s=q.p1$
-q.p1$=A.B(t.S,t.h1)
+q.p1$=A.C(t.S,t.h1)
 J.dt(s,new A.a88(q))
 q.p2$.R(0)}finally{q.rx$=B.JU}},
 akA(a){var s=this,r=s.au$,q=r==null
@@ -64590,8 +64590,8 @@ return A.aa(new A.fK(n,new A.ajY(),s),!0,s.i("m.E"))},
 Wq(){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1,a2,a3=this.c,a4=a3.length
 if(a4<=1)return a3
 s=t.S
-r=A.B(s,t.bu)
-q=A.B(s,s)
+r=A.C(s,t.bu)
+q=A.C(s,s)
 for(p=this.b,o=p===B.O,p=p===B.q,n=a4,m=0;m<n;g===a4||(0,A.P)(a3),++m,n=g){l=a3[m]
 r.n(0,l.b,l)
 n=l.e
@@ -64933,7 +64933,7 @@ return a},
 $S:294}
 A.vf.prototype={
 l_(){var s,r,q=this
-if(q.a){s=A.B(t.N,t.z)
+if(q.a){s=A.C(t.N,t.z)
 s.n(0,"uniqueIdentifier",q.b)
 s.n(0,"hints",q.c)
 s.n(0,"editingValue",q.d.Hi())
@@ -64942,7 +64942,7 @@ if(r!=null)s.n(0,"hintText",r)}else s=null
 return s}}
 A.WU.prototype={}
 A.rX.prototype={
-a6G(){var s,r,q=this,p=t.v3,o=new A.a1g(A.B(p,t.u),A.aP(t.SQ),A.c([],t.sA))
+a6G(){var s,r,q=this,p=t.v3,o=new A.a1g(A.C(p,t.u),A.aP(t.SQ),A.c([],t.sA))
 q.e0$!==$&&A.bR()
 q.e0$=o
 s=$.asH()
@@ -65394,7 +65394,7 @@ b.b=r+1
 n[m]=k.kX(s.getUint8(r),b)}return n
 case 13:p=k.f6(b)
 s=t.X
-n=A.B(s,s)
+n=A.C(s,s)
 for(s=b.a,m=0;m<p;++m){r=b.b
 if(r>=s.byteLength)A.a7(B.b9)
 b.b=r+1
@@ -65669,7 +65669,7 @@ G(){return"KeyboardSide."+this.b}}
 A.fY.prototype={
 G(){return"ModifierKey."+this.b}}
 A.yv.prototype={
-gaiM(){var s,r,q=A.B(t.xS,t.Di)
+gaiM(){var s,r,q=A.C(t.xS,t.Di)
 for(s=0;s<9;++s){r=B.mT[s]
 if(this.ai3(r))q.n(0,r,B.cY)}return q}}
 A.kK.prototype={}
@@ -65701,7 +65701,7 @@ q=A.bb(l)
 k=A.bB("while processing a raw key listener")
 j=$.iL()
 if(j!=null)j.$1(new A.bH(r,q,"services library",k,null,!1))}}return!1},
-abm(a1){var s,r,q,p,o,n,m,l,k,j,i,h,g=a1.c,f=g.gaiM(),e=t.v3,d=A.B(e,t.u),c=A.aP(e),b=this.d,a=A.eQ(new A.aF(b,A.n(b).i("aF<1>")),e),a0=a1 instanceof A.my
+abm(a1){var s,r,q,p,o,n,m,l,k,j,i,h,g=a1.c,f=g.gaiM(),e=t.v3,d=A.C(e,t.u),c=A.aP(e),b=this.d,a=A.eQ(new A.aF(b,A.n(b).i("aF<1>")),e),a0=a1 instanceof A.my
 if(a0)a.D(0,g.gjb())
 for(s=g.a,r=null,q=0;q<9;++q){p=B.mT[q]
 o=$.aAz()
@@ -65781,7 +65781,7 @@ s=q.a
 if(b){p=q.a23(a)
 r=t.N
 if(p==null){p=t.X
-p=A.B(p,p)}r=new A.d4(p,q,null,"root",A.B(r,t.z4),A.B(r,t.I1))
+p=A.C(p,p)}r=new A.d4(p,q,null,"root",A.C(r,t.z4),A.C(r,t.I1))
 p=r}else p=null
 q.a=p
 q.c=!0
@@ -65834,13 +65834,13 @@ if(r)s.oA()
 return q},
 adV(a,b){var s,r,q,p,o=this,n=o.f
 if(n.aj(0,a)||!J.nz(o.grk(),a)){n=t.N
-s=new A.d4(A.B(n,t.X),null,null,a,A.B(n,t.z4),A.B(n,t.I1))
+s=new A.d4(A.C(n,t.X),null,null,a,A.C(n,t.z4),A.C(n,t.I1))
 o.hv(s)
 return s}r=t.N
 q=o.c
 p=J.aR(o.grk(),a)
 p.toString
-s=new A.d4(t.pE.a(p),q,o,a,A.B(r,t.z4),A.B(r,t.I1))
+s=new A.d4(t.pE.a(p),q,o,a,A.C(r,t.z4),A.C(r,t.I1))
 n.n(0,a,s)
 return s},
 hv(a){var s=this,r=a.d
@@ -65907,11 +65907,11 @@ r.x=!0},
 k(a){return"RestorationBucket(restorationId: "+this.e+", owner: "+A.i(this.b)+")"}}
 A.a7D.prototype={
 $0(){var s=t.X
-return A.B(s,s)},
+return A.C(s,s)},
 $S:143}
 A.a7E.prototype={
 $0(){var s=t.X
-return A.B(s,s)},
+return A.C(s,s)},
 $S:143}
 A.a7C.prototype={
 $0(){return A.c([],t.QT)},
@@ -66165,7 +66165,7 @@ G(){return"TextInputAction."+this.b}}
 A.aan.prototype={
 G(){return"TextCapitalization."+this.b}}
 A.aaG.prototype={
-l_(){var s=this,r=s.e.l_(),q=A.B(t.N,t.z)
+l_(){var s=this,r=s.e.l_(),q=A.C(t.N,t.z)
 q.n(0,"inputType",s.a.l_())
 q.n(0,"readOnly",s.b)
 q.n(0,"obscureText",s.c)
@@ -66982,7 +66982,7 @@ r=this.d.h(0,s)
 r.toString
 s.F(0,r)}this.aN()},
 a0e(a){var s,r=this,q=a.a,p=r.d
-if(p==null)p=r.d=A.B(t.I_,t.M)
+if(p==null)p=r.d=A.C(t.I_,t.M)
 p.n(0,q,r.a1T(q))
 p=r.d.h(0,q)
 p.toString
@@ -67698,7 +67698,7 @@ A.E6.prototype={
 fK(){this.a_3()
 $.Jx=this
 var s=t.K
-this.RM$=new A.a27(A.B(s,t.j4),A.B(s,t.B6),A.B(s,t.pt))},
+this.RM$=new A.a27(A.C(s,t.j4),A.C(s,t.B6),A.C(s,t.pt))},
 tI(){this.YG()
 var s=this.RM$
 s===$&&A.b()
@@ -67772,14 +67772,14 @@ p=$.e2.e1$
 p===$&&A.b()
 p.a=n.gSl()
 $.eq.aC$.b.n(0,n.gSm(),k)
-s=new A.X9(new A.Pu(r),q,m,A.B(t.yi,s))
+s=new A.X9(new A.Pu(r),q,m,A.C(t.yi,s))
 l.a7$=s
 s.a=l.ga40()
 s=$.aN()
 s.fr=l.gagI()
 s.fx=$.ay
 B.fM.o5(l.ga53())
-s=new A.GQ(A.B(o,t.qa),B.tf)
+s=new A.GQ(A.C(o,t.qa),B.tf)
 B.tf.o5(s.ga7x())
 l.bR$=s},
 FN(){var s,r,q
@@ -69965,7 +69965,7 @@ if(p==null){q=g.gO()
 o=g.gO().bv.gd5()
 n=q.an.p9()
 m=q.a7a(o,n)
-p=new A.abL(m.b,m.a,o,n,q,A.B(t.S,t.tO))}if(a instanceof A.kg){q=a.a
+p=new A.abL(m.b,m.a,o,n,q,A.C(t.S,t.tO))}if(a instanceof A.kg){q=a.a
 o=q?1:-1
 l=p.aiN(o*g.gO().gq(0).b)}else{q=a.a
 l=q?p.v():p.Tn()}if(l)k=p.c
@@ -71051,7 +71051,7 @@ r=a2[f]
 if(s!=null){g=s.e
 g.toString
 g=!(A.w(g)===A.w(r)&&J.e(g.a,r.a))}else g=!0
-if(g)break;--q;--f}if(p){o=A.B(t.D2,d)
+if(g)break;--q;--f}if(p){o=A.C(t.D2,d)
 for(;a0<=q;){s=i.$1(a1[a0])
 if(s!=null){g=s.e.a
 if(g!=null)o.n(0,g,s)
@@ -71506,7 +71506,7 @@ A.cf.prototype={
 QI(){return this.a.$0()},
 SI(a){return this.b.$1(a)}}
 A.HO.prototype={
-L(a){var s=this,r=A.B(t.n,t.xR),q=A.cp(a,B.yz),p=q==null?null:q.CW
+L(a){var s=this,r=A.C(t.n,t.xR),q=A.cp(a,B.yz),p=q==null?null:q.CW
 if(s.d==null)if(s.e==null)if(s.f==null)if(s.r==null)if(s.w==null)if(s.x==null)if(s.y==null)if(s.z==null)q=!1
 else q=!0
 else q=!0
@@ -71548,7 +71548,7 @@ a.c=null},
 $S:153}
 A.a0Y.prototype={
 $0(){var s=t.S,r=A.aNm()
-return new A.i1(A.B(s,t.HE),this.a,null,r,A.B(s,t.B))},
+return new A.i1(A.C(s,t.HE),this.a,null,r,A.C(s,t.B))},
 $S:364}
 A.a11.prototype={
 $1(a){a.f=null
@@ -71638,7 +71638,7 @@ this.d=null
 this.aN()},
 DB(a){var s,r,q,p,o=this,n=o.d
 n.toString
-o.d=A.B(t.n,t.cD)
+o.d=A.C(t.n,t.cD)
 for(s=a.gbF(a),s=s.ga9(s);s.v();){r=s.gI(s)
 q=o.d
 q.toString
@@ -72492,7 +72492,7 @@ A.GT.prototype={$iAD:1}
 A.C0.prototype={
 cv(a){return this.w!==a.w}}
 A.xu.prototype={
-ai(){return new A.PY(new A.bI(null,t.A),A.B(t.n,t.z),B.k)}}
+ai(){return new A.PY(new A.bI(null,t.A),A.C(t.n,t.z),B.k)}}
 A.PY.prototype={
 aq(){this.aJ()
 this.m4(0,this.a.c)},
@@ -72917,7 +72917,7 @@ if(s!=null)this.cu("onAnyTapUp",s)},
 yy(a,b,c){}}
 A.MX.prototype={
 QI(){var s=t.S,r=A.cD(s)
-return new A.tJ(B.aK,18,B.c7,A.B(s,t.o),r,null,null,A.EW(),A.B(s,t.B))},
+return new A.tJ(B.aK,18,B.c7,A.C(s,t.o),r,null,null,A.EW(),A.C(s,t.B))},
 SI(a){a.aH=this.a}}
 A.Qj.prototype={
 L(a){return new A.jo(this.c,A.a([B.Rd,new A.MX(this.d)],t.n,t.xR),B.aL,!1,null)}}
@@ -73049,7 +73049,7 @@ A.Mf.prototype={}
 A.GS.prototype={}
 A.xX.prototype={
 ai(){var s=null,r=A.c([],t.uD),q=$.as(),p=t.Tp
-return new A.i8(new A.Ph(r,q),A.aP(t.Ez),new A.Pi(q),A.md(s,p),A.md(s,p),A.f8(!0,"Navigator",!0,!0,s,s,!1),new A.z0(0,q,t.dZ),new A.cd(!1,q),A.aP(t.S),s,A.B(t.yb,t.M),s,!0,s,s,s,B.k)},
+return new A.i8(new A.Ph(r,q),A.aP(t.Ez),new A.Pi(q),A.md(s,p),A.md(s,p),A.f8(!0,"Navigator",!0,!0,s,s,!1),new A.z0(0,q,t.dZ),new A.cd(!1,q),A.aP(t.S),s,A.C(t.yb,t.M),s,!0,s,s,s,B.k)},
 ajb(a,b){return this.Q.$2(a,b)}}
 A.a4q.prototype={
 $1(a){return a==null},
@@ -73578,14 +73578,14 @@ return this.d.$2(s,this.e)},
 gUl(){return this.c}}
 A.Pi.prototype={
 bh(a0,a1){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c=this,b=null,a=c.y==null
-if(a)c.y=A.B(t.N,t.UX)
+if(a)c.y=A.C(t.N,t.UX)
 s=t.c
 r=A.c([],s)
 q=c.y
 q.toString
 p=J.aR(q,null)
 if(p==null)p=B.ft
-o=A.B(t.ob,t.UX)
+o=A.C(t.ob,t.UX)
 q=c.y
 q.toString
 n=J.aD1(J.q2(q))
@@ -75003,7 +75003,7 @@ return A.L($async$CP,r)}}
 A.ry.prototype={
 cv(a){return this.f!=a.f}}
 A.mC.prototype={
-ai(){return new A.S9(null,A.B(t.yb,t.M),null,!0,null,B.k)}}
+ai(){return new A.S9(null,A.C(t.yb,t.M),null,!0,null,B.k)}}
 A.S9.prototype={
 ge6(){return this.a.d},
 jd(a,b){},
@@ -75180,7 +75180,7 @@ $S:42}
 A.mE.prototype={
 gl3(){return this.b}}
 A.KA.prototype={
-ai(){return new A.us(new A.S6($.as()),null,A.B(t.yb,t.M),null,!0,null,B.k,this.$ti.i("us<1>"))}}
+ai(){return new A.us(new A.S6($.as()),null,A.C(t.yb,t.M),null,!0,null,B.k,this.$ti.i("us<1>"))}}
 A.Kz.prototype={
 G(){return"RouteInformationReportingType."+this.b}}
 A.us.prototype={
@@ -76009,7 +76009,7 @@ if(r!=null){s=p.e
 if(s!=null)new A.aF(s,A.n(s).i("aF<1>")).a1(0,r.gjw(r))}}},
 D(a,b){var s,r=this,q=r.ail(b)
 b.X(0,q)
-s=r.e;(s==null?r.e=A.B(t.x9,t.M):s).n(0,b,q)
+s=r.e;(s==null?r.e=A.C(t.x9,t.M):s).n(0,b,q)
 r.f.D(0,b)
 if(b.gl(b).c!==B.di)r.wW(b,!0)},
 C(a,b){var s=this.e
@@ -76603,7 +76603,7 @@ if(o!=null){s=r.c
 s.toString
 r=p.at
 r.toString
-if(o.a==null)o.a=A.B(t.K,t.z)
+if(o.a==null)o.a=A.C(t.K,t.z)
 s=o.Ju(s)
 if(s.length!==0)o.a.n(0,new A.Dt(s),r)}},
 afl(){var s,r,q
@@ -76804,7 +76804,7 @@ $2(a,b){if(!a.a)a.F(0,b)},
 $S:42}
 A.zk.prototype={
 ai(){var s=null,r=t.A
-return new A.rP(new A.S7($.as()),new A.bI(s,r),new A.bI(s,t.hA),new A.bI(s,r),B.rP,s,A.B(t.yb,t.M),s,!0,s,s,s,B.k)},
+return new A.rP(new A.S7($.as()),new A.bI(s,r),new A.bI(s,t.hA),new A.bI(s,r),B.rP,s,A.C(t.yb,t.M),s,!0,s,s,s,B.k)},
 ali(a,b){return this.f.$2(a,b)}}
 A.a8x.prototype={
 $1(a){return null},
@@ -77131,7 +77131,7 @@ r=s.c
 s=s.d
 q=t.x9
 p=t.i
-q=new A.D6(r,new A.Zs(r,30),s,A.B(q,p),A.B(q,p),A.c([],t.D1),A.aP(q),B.K9,$.as())
+q=new A.D6(r,new A.Zs(r,30),s,A.C(q,p),A.C(q,p),A.c([],t.D1),A.aP(q),B.K9,$.as())
 s.X(0,q.gNw())
 this.d=q},
 aK(a){var s,r
@@ -78214,7 +78214,7 @@ if(p.Dw(A.bg(r))){q=p.at
 q===$&&A.b()
 q.cT(0,s,r)}}else if(a instanceof A.mF)if(p.d==null)p.wd()
 return!1},
-ga3n(){var s=this,r=A.B(t.n,t.xR)
+ga3n(){var s=this,r=A.C(t.n,t.xR)
 if(s.gmR()==null||!s.gne())return r
 r.n(0,B.Rf,new A.cf(new A.a6t(s),new A.a6u(s),t.ff))
 r.n(0,B.Rg,new A.cf(new A.a6v(s),new A.a6w(s),t.Bk))
@@ -78296,7 +78296,7 @@ s.w=null},
 $S:0}
 A.a6t.prototype={
 $0(){var s=this.a,r=s.a.CW,q=t.S,p=A.cD(q),o=A.azL()
-return new A.jP(s.z,r,null,B.c7,A.B(q,t.o),p,s,null,o,A.B(q,t.B))},
+return new A.jP(s.z,r,null,B.c7,A.C(q,t.o),p,s,null,o,A.C(q,t.B))},
 $S:428}
 A.a6u.prototype={
 $1(a){var s=this.a
@@ -78316,7 +78316,7 @@ $1(a){return this.a.yA(a.b,a.c)},
 $S:96}
 A.a6v.prototype={
 $0(){var s=this.a,r=t.S,q=A.cD(r)
-return new A.jQ(s.z,B.aK,18,B.c7,A.B(r,t.o),q,s,null,A.EW(),A.B(r,t.B))},
+return new A.jQ(s.z,B.aK,18,B.c7,A.C(r,t.o),q,s,null,A.EW(),A.C(r,t.B))},
 $S:432}
 A.a6w.prototype={
 $1(a){a.aH=this.a.ga6m()},
@@ -78855,7 +78855,7 @@ A.zy.prototype={
 ai(){return new A.SD(B.k)}}
 A.SD.prototype={
 L(a){var s=this.a.c,r=this.d
-return new A.SE(r===$?this.d=A.B(t.K,t.X):r,s,null)}}
+return new A.SE(r===$?this.d=A.C(t.K,t.X):r,s,null)}}
 A.SE.prototype={
 cv(a){return this.x!==a.x},
 UQ(a,b){var s,r,q,p
@@ -78952,13 +78952,13 @@ L(a){var s=null,r=B.R1.k(0)
 return A.qQ(!1,!1,this.a.e,r,s,s,s,!0,s,s,s,this.ga56(),s,s)}}
 A.zA.prototype={
 m(){this.cV()},
-gl9(){var s,r=A.B(t.Vz,t.vz)
+gl9(){var s,r=A.C(t.Vz,t.vz)
 for(s=this.c,s=s.gf0(s),s=s.ga9(s);s.v();)r.M(0,s.gI(s).b)
 return r},
 $iac:1}
 A.zz.prototype={
 ai(){var s=$.as()
-return new A.Dg(new A.zA(A.B(t.yE,t.kY),s),new A.t_(B.fF,s),B.k)}}
+return new A.Dg(new A.zA(A.C(t.yE,t.kY),s),new A.t_(B.fF,s),B.k)}}
 A.Dg.prototype={
 aq(){this.aJ()
 this.d.X(0,this.gO_())},
@@ -79182,7 +79182,7 @@ A.t3.prototype={
 bk(a){return A.aww(this,!1)}}
 A.Lc.prototype={
 bk(a){return A.aww(this,!0)},
-aA(a){var s=new A.Kq(t.dq.a(a),A.B(t.S,t.x),0,null,null,A.ai())
+aA(a){var s=new A.Kq(t.dq.a(a),A.C(t.S,t.x),0,null,null,A.ai())
 s.az()
 return s}}
 A.t2.prototype={
@@ -79327,7 +79327,7 @@ if(r instanceof A.r&&!s)r.Y()}}}
 A.zF.prototype={}
 A.fm.prototype={
 bk(a){var s=A.n(this),r=t.h
-return new A.zG(A.B(s.i("fm.0"),r),A.B(t.D2,r),this,B.a6,s.i("@<fm.0>").aa(s.i("fm.1")).i("zG<1,2>"))}}
+return new A.zG(A.C(s.i("fm.0"),r),A.C(t.D2,r),this,B.a6,s.i("@<fm.0>").aa(s.i("fm.1")).i("zG<1,2>"))}}
 A.jt.prototype={
 ghy(a){return this.dC$.gaI(0)},
 f7(){J.dt(this.ghy(this),this.gH5())},
@@ -79351,10 +79351,10 @@ s=f.$ti
 s.i("fm<1,2>").a(e)
 r=f.ok
 q=t.h
-f.ok=A.B(t.D2,q)
+f.ok=A.C(t.D2,q)
 p=f.k4
 s=s.c
-f.k4=A.B(s,q)
+f.k4=A.C(s,q)
 for(q=e.gIr(),o=q.length,n=0;n<o;++n){m=q[n]
 l=e.Qu(m)
 k=l==null?null:l.a
@@ -79471,7 +79471,7 @@ return s},
 gB(a){var s=this
 return A.T(s.a,s.c,s.d,s.e,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a)}}
 A.LM.prototype={
-aA(a){var s=new A.yX(new A.ws(new WeakMap()),A.aP(t.Cn),A.B(t.X,t.hh),B.bS,null,A.ai())
+aA(a){var s=new A.yX(new A.ws(new WeakMap()),A.aP(t.Cn),A.C(t.X,t.hh),B.bS,null,A.ai())
 s.az()
 s.saO(null)
 return s},
@@ -80589,7 +80589,7 @@ if(s!=null)s.$1(a)},
 a4T(a){this.a.as.$1(a)},
 a4R(a){this.a.at.$1(a)},
 a4P(a){this.a.ax.$1(a)},
-L(a){var s,r,q=this,p=A.B(t.n,t.xR)
+L(a){var s,r,q=this,p=A.C(t.n,t.xR)
 p.n(0,B.km,new A.cf(new A.akG(q),new A.akH(q),t.jl))
 q.a.toString
 p.n(0,B.kj,new A.cf(new A.akI(q),new A.akJ(q),t.jn))
@@ -80621,7 +80621,7 @@ a.RG=s.ga4O()},
 $S:155}
 A.akK.prototype={
 $0(){var s=null,r=t.S,q=A.cD(r)
-return new A.jy(B.at,B.eG,A.aP(r),s,s,0,s,s,s,s,s,s,A.B(r,t.o),q,this.a,s,A.EW(),A.B(r,t.B))},
+return new A.jy(B.at,B.eG,A.aP(r),s,s,0,s,s,s,s,s,s,A.C(r,t.o),q,this.a,s,A.EW(),A.C(r,t.B))},
 $S:449}
 A.akL.prototype={
 $1(a){var s
@@ -80638,7 +80638,7 @@ a.dx=s.gOx()},
 $S:450}
 A.akM.prototype={
 $0(){var s=null,r=t.S,q=A.cD(r)
-return new A.jz(B.at,B.eG,A.aP(r),s,s,0,s,s,s,s,s,s,A.B(r,t.o),q,this.a,s,A.EW(),A.B(r,t.B))},
+return new A.jz(B.at,B.eG,A.aP(r),s,s,0,s,s,s,s,s,s,A.C(r,t.o),q,this.a,s,A.EW(),A.C(r,t.B))},
 $S:451}
 A.akN.prototype={
 $1(a){var s
@@ -81456,7 +81456,7 @@ q=i.gGk().h(0,0)
 q.toString
 i.Af(h)
 p=t.N
-o=A.B(p,p)
+o=A.C(p,p)
 while(!0){p=i.d=B.c.nD(";",j,i.c)
 n=i.e=i.c
 m=p!=null
@@ -81749,7 +81749,7 @@ o=t.K
 s=3
 return A.I(B.t1.SV("getAll",p,o),$async$mk)
 case 3:n=c
-q=n==null?A.B(p,o):n
+q=n==null?A.C(p,o):n
 s=1
 break
 case 1:return A.K(q,r)}})
@@ -81769,7 +81769,7 @@ A_(a){return this.V7(a)},
 V7(a){var s=0,r=A.M(t.nf),q,p=this,o,n,m,l,k,j
 var $async$A_=A.N(function(b,c){if(b===1)return A.J(c,r)
 while(true)switch(s){case 0:k=a.a
-j=A.B(t.N,t.K)
+j=A.C(t.N,t.K)
 for(o=p.a3A(k.a,k.b),n=J.az(o.a),o=new A.l3(n,o.b);o.v();){m=n.gI(n)
 l=self.window.localStorage.getItem(m)
 l.toString
@@ -82590,7 +82590,7 @@ r.d=s
 r.e=J.bU(s)},
 L(a){var s,r=null,q=this.e
 q===$&&A.b()
-q=A.iR(r,A.C("\u5df2\u5b78\u6703\u7684\u55ae\u5b57 "+q+" \u500b",r,r,r,r,r,r))
+q=A.iR(r,A.A("\u5df2\u5b78\u6703\u7684\u55ae\u5b57 "+q+" \u500b",r,r,r,r,r,r))
 s=this.d
 s===$&&A.b()
 return A.ih(q,A.oC(new A.acx(this),J.bU(s),r,!1))}}
@@ -82600,7 +82600,7 @@ o===$&&A.b()
 s=J.uU(J.q2(o),J.bU(p.d)-1-b)
 r=J.aR(p.d,s)
 o=J.ao(r)
-return A.me(!1,q,q,q,!0,q,!1,q,q,q,!1,q,q,q,q,q,A.C("[ "+s+" ]: "+A.i(o.h(r,"pos"))+" --- "+A.i(o.h(r,"chinese")),q,q,q,q,q,q),A.bF(A.c([A.ap(A.e_(B.b_,q),new A.acv(s),A.br(q,q,q,q,q,q,q,q,q,q,q,new A.E(70,30),q,q,q,q,q,q,q)),A.b1(q,q,10),A.ap(A.C("\u5fa9\u539f",q,q,q,q,q,q),new A.acw(p,s),q)],t.p),B.t,B.y,B.be,q),q)},
+return A.me(!1,q,q,q,!0,q,!1,q,q,q,!1,q,q,q,q,q,A.A("[ "+s+" ]: "+A.i(o.h(r,"pos"))+" --- "+A.i(o.h(r,"chinese")),q,q,q,q,q,q),A.bF(A.c([A.ap(A.e_(B.b_,q),new A.acv(s),A.br(q,q,q,q,q,q,q,q,q,q,q,new A.E(70,30),q,q,q,q,q,q,q)),A.b1(q,q,10),A.ap(A.A("\u5fa9\u539f",q,q,q,q,q,q),new A.acw(p,s),q)],t.p),B.t,B.y,B.be,q),q)},
 $S:40}
 A.acv.prototype={
 $0(){var s=0,r=A.M(t.H),q=this
@@ -82619,7 +82619,7 @@ A.acu.prototype={
 $0(){var s=null,r=this.a,q=r.e
 q===$&&A.b()
 r.e=q-1
-A.C("\u5df2\u5fa9\u539f",s,s,s,s,s,s)},
+A.A("\u5df2\u5fa9\u539f",s,s,s,s,s,s)},
 $S:0}
 A.lE.prototype={
 ai(){return new A.N7(A.c([],t.s),B.k)},
@@ -82633,14 +82633,14 @@ r.aJ()
 s=r.a.c
 r.d=s
 r.e=J.bU(s)
-r.f=A.B(t.N,t.A9)
+r.f=A.C(t.N,t.A9)
 J.dt(r.d,new A.acT(r))},
 L(a){var s=this,r=null,q=s.geS(),p=A.n(q).i("aF<1>"),o=A.aa(new A.aF(q,p),!0,p.i("m.E"))
 p=s.e
 p===$&&A.b()
-p=A.iR(r,A.C("\u5df2\u5b78\u6703\u55ae\u5b57 "+p+" \u500b",r,r,r,r,r,r))
+p=A.iR(r,A.A("\u5df2\u5b78\u6703\u55ae\u5b57 "+p+" \u500b",r,r,r,r,r,r))
 q=A.c([A.fL(A.oC(new A.acQ(s,o),o.length*2-1,r,!1))],t.p)
-if(s.e>0)q.push(A.ap(A.C("\u9078\u64c7\u4e00\u9375\u5fa9\u539f\u985e\u5225",r,r,r,r,r,r),new A.acR(s,a),r))
+if(s.e>0)q.push(A.ap(A.A("\u9078\u64c7\u4e00\u9375\u5fa9\u539f\u985e\u5225",r,r,r,r,r,r),new A.acR(s,a),r))
 return A.ih(p,A.bV(q,B.t,B.y,B.p,r))},
 a01(a){A.hQ(new A.acK(this),a,t.z)},
 a00(){this.H(new A.acE(this))}}
@@ -82658,13 +82658,13 @@ s=this.b[B.i.cL(b,2)]
 r=this.a
 q=r.geS().h(0,s)
 q.toString
-p=A.C(s,o,o,o,A.ad(o,o,B.rU,o,o,o,o,o,o,o,o,18,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),o,o)
+p=A.A(s,o,o,o,A.ad(o,o,B.rU,o,o,o,o,o,o,o,o,18,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),o,o)
 r=J.iP(q,new A.acP(r,s),t.hT)
 return A.bV(A.c([new A.cq(B.iy,p,o),A.bV(A.aa(r,!0,A.n(r).i("ax.E")),B.c3,B.y,B.p,o)],t.p),B.c3,B.y,B.p,o)},
 $S:180}
 A.acP.prototype={
 $1(a){var s=null,r=a.a,q=a.b,p=J.ao(q)
-return A.me(!1,s,s,s,!0,s,!1,s,s,s,!1,s,s,s,s,s,A.C("[ "+r+" ]: "+A.i(p.h(q,"pos"))+" --- "+A.i(p.h(q,"chinese")),s,s,s,s,s,s),A.bF(A.c([A.ap(A.e_(B.b_,s),new A.acN(r),A.br(s,s,s,s,s,s,s,s,s,s,s,new A.E(70,30),s,s,s,s,s,s,s)),A.b1(s,s,10),A.ap(A.C("\u5fa9\u539f",s,s,s,s,s,s),new A.acO(this.a,r,this.b),s)],t.p),B.t,B.y,B.be,s),s)},
+return A.me(!1,s,s,s,!0,s,!1,s,s,s,!1,s,s,s,s,s,A.A("[ "+r+" ]: "+A.i(p.h(q,"pos"))+" --- "+A.i(p.h(q,"chinese")),s,s,s,s,s,s),A.bF(A.c([A.ap(A.e_(B.b_,s),new A.acN(r),A.br(s,s,s,s,s,s,s,s,s,s,s,new A.E(70,30),s,s,s,s,s,s,s)),A.b1(s,s,10),A.ap(A.A("\u5fa9\u539f",s,s,s,s,s,s),new A.acO(this.a,r,this.b),s)],t.p),B.t,B.y,B.be,s),s)},
 $S:181}
 A.acN.prototype={
 $0(){var s=0,r=A.M(t.H),q=this
@@ -82682,7 +82682,7 @@ A.acM.prototype={
 $0(){var s,r,q=null,p=this.a,o=p.e
 o===$&&A.b()
 p.e=o-1
-A.C("\u5df2\u5fa9\u539f",q,q,q,q,q,q)
+A.A("\u5df2\u5fa9\u539f",q,q,q,q,q,q)
 o=this.b
 p.a.kT(o)
 s=this.c
@@ -82701,14 +82701,15 @@ A.acR.prototype={
 $0(){this.a.a01(this.b)},
 $S:0}
 A.acK.prototype={
-$1(a){var s=null,r=A.C("\u9078\u64c7\u4e00\u9375\u5fa9\u539f\u985e\u5225(\uff89>\u03c9<)\uff89",s,s,s,s,s,s),q=this.a,p=q.geS(),o=A.n(p).i("aF<1>")
-o=A.mh(new A.aF(p,o),new A.acI(q),o.i("m.E"),t.al)
-o=A.il(A.bV(A.aa(o,!0,A.n(o).i("m.E")),B.t,B.y,B.p,s),B.aj)
-return A.hc(A.c([A.dn(A.C("\u78ba\u5b9a",s,s,s,s,s,s),new A.acJ(q,a),s)],t.p),o,r)},
+$1(a){var s=null,r=A.A("\u9078\u64c7\u4e00\u9375\u5fa9\u539f\u985e\u5225(\uff89>\u03c9<)\uff89",s,s,s,s,s,s),q=t.p,p=A.c([A.A("\u63d0\u793a:\u53ea\u9700\u9ede\u9078\u4e00\u4e0b",s,s,s,s,s,s)],q),o=this.a,n=o.geS(),m=A.n(n).i("aF<1>")
+m=A.mh(new A.aF(n,m),new A.acI(o),m.i("m.E"),t.al)
+B.b.M(p,A.aa(m,!0,A.n(m).i("m.E")))
+p=A.il(A.bV(p,B.t,B.y,B.p,s),B.aj)
+return A.hc(A.c([A.dn(A.A("\u78ba\u5b9a",s,s,s,s,s,s),new A.acJ(o,a),s)],q),p,r)},
 $S:17}
 A.acI.prototype={
 $1(a){var s=null,r=this.a
-return A.atB(B.rV,new A.acH(r,a),A.C(a,s,s,s,s,s,s),B.b.p(r.r,a))},
+return A.atB(B.rV,new A.acH(r,a),A.A(a,s,s,s,s,s,s),B.b.p(r.r,a))},
 $S:183}
 A.acH.prototype={
 $1(a){var s=this.a
@@ -82759,7 +82760,7 @@ r.d=s
 r.e=s.a},
 L(a){var s,r=null,q=this.e
 q===$&&A.b()
-q=A.iR(r,A.C("\u5269\u9918\u55ae\u5b57 "+q+" \u500b",r,r,r,r,r,r))
+q=A.iR(r,A.A("\u5269\u9918\u55ae\u5b57 "+q+" \u500b",r,r,r,r,r,r))
 s=this.d
 s===$&&A.b()
 return A.ih(q,A.oC(new A.adt(this),s.a,r,!1))}}
@@ -82769,7 +82770,7 @@ o===$&&A.b()
 s=new A.aF(o,A.n(o).i("aF<1>")).aV(0,o.a-1-b)
 r=p.d.h(0,s)
 o=J.ao(r)
-return A.me(!1,q,q,q,!0,q,!1,q,q,q,!1,q,q,q,q,q,A.C("[ "+s+" ]: "+A.i(o.h(r,"pos"))+" --- "+A.i(o.h(r,"chinese")),q,q,q,q,q,q),A.bF(A.c([A.ap(A.e_(B.b_,q),new A.adr(s),A.br(q,q,q,q,q,q,q,q,q,q,q,new A.E(70,30),q,q,q,q,q,q,q)),A.b1(q,q,10),A.ap(A.C("\u5df2\u5b78\u6703",q,q,q,q,q,q),new A.ads(p,s),q)],t.p),B.t,B.y,B.be,q),q)},
+return A.me(!1,q,q,q,!0,q,!1,q,q,q,!1,q,q,q,q,q,A.A("[ "+s+" ]: "+A.i(o.h(r,"pos"))+" --- "+A.i(o.h(r,"chinese")),q,q,q,q,q,q),A.bF(A.c([A.ap(A.e_(B.b_,q),new A.adr(s),A.br(q,q,q,q,q,q,q,q,q,q,q,new A.E(70,30),q,q,q,q,q,q,q)),A.b1(q,q,10),A.ap(A.A("\u5df2\u5b78\u6703",q,q,q,q,q,q),new A.ads(p,s),q)],t.p),B.t,B.y,B.be,q),q)},
 $S:40}
 A.adr.prototype={
 $0(){var s=0,r=A.M(t.H),q=this
@@ -82788,7 +82789,7 @@ A.adq.prototype={
 $0(){var s=null,r=this.a,q=r.e
 q===$&&A.b()
 r.e=q-1
-A.C("\u5df2\u7d93\u522a\u9664",s,s,s,s,s,s)},
+A.A("\u5df2\u7d93\u522a\u9664",s,s,s,s,s,s)},
 $S:0}
 A.lJ.prototype={
 ai(){return new A.Ns(A.c([],t.s),B.k)},
@@ -82802,14 +82803,14 @@ r.aJ()
 s=r.a.c
 r.d=s
 r.e=J.bU(s)
-r.f=A.B(t.N,t.A9)
+r.f=A.C(t.N,t.A9)
 J.dt(r.d,new A.adY(r))},
 L(a){var s=this,r=null,q=s.geS(),p=A.n(q).i("aF<1>"),o=A.aa(new A.aF(q,p),!0,p.i("m.E"))
 p=s.e
 p===$&&A.b()
-p=A.iR(r,A.C("\u5269\u9918\u55ae\u5b57 "+p+" \u500b",r,r,r,r,r,r))
+p=A.iR(r,A.A("\u5269\u9918\u55ae\u5b57 "+p+" \u500b",r,r,r,r,r,r))
 q=A.c([A.fL(A.oC(new A.adV(s,o),o.length*2-1,r,!1))],t.p)
-if(s.e>0)q.push(A.ap(A.C("\u9078\u64c7\u4e00\u9375\u5b78\u6703\u985e\u5225",r,r,r,r,r,r),new A.adW(s,a),r))
+if(s.e>0)q.push(A.ap(A.A("\u9078\u64c7\u4e00\u9375\u5b78\u6703\u985e\u5225",r,r,r,r,r,r),new A.adW(s,a),r))
 return A.ih(p,A.bV(q,B.t,B.y,B.p,r))},
 ab_(a){A.hQ(new A.adP(this),a,t.z)},
 a7m(){this.H(new A.adJ(this))}}
@@ -82827,13 +82828,13 @@ s=this.b[B.i.cL(b,2)]
 r=this.a
 q=r.geS().h(0,s)
 q.toString
-p=A.C(s,o,o,o,A.ad(o,o,B.rU,o,o,o,o,o,o,o,o,18,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),o,o)
+p=A.A(s,o,o,o,A.ad(o,o,B.rU,o,o,o,o,o,o,o,o,18,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),o,o)
 r=J.iP(q,new A.adU(r,s),t.hT)
 return A.bV(A.c([new A.cq(B.iy,p,o),A.bV(A.aa(r,!0,A.n(r).i("ax.E")),B.c3,B.y,B.p,o)],t.p),B.c3,B.y,B.p,o)},
 $S:180}
 A.adU.prototype={
 $1(a){var s=null,r=a.a,q=a.b,p=J.ao(q)
-return A.me(!1,s,s,s,!0,s,!1,s,s,s,!1,s,s,s,s,s,A.C("[ "+r+" ]: "+A.i(p.h(q,"pos"))+" --- "+A.i(p.h(q,"chinese")),s,s,s,s,s,s),A.bF(A.c([A.ap(A.e_(B.b_,s),new A.adS(r),A.br(s,s,s,s,s,s,s,s,s,s,s,new A.E(70,30),s,s,s,s,s,s,s)),A.b1(s,s,10),A.ap(A.C("\u5df2\u5b78\u6703",s,s,s,s,s,s),new A.adT(this.a,r,this.b),s)],t.p),B.t,B.y,B.be,s),s)},
+return A.me(!1,s,s,s,!0,s,!1,s,s,s,!1,s,s,s,s,s,A.A("[ "+r+" ]: "+A.i(p.h(q,"pos"))+" --- "+A.i(p.h(q,"chinese")),s,s,s,s,s,s),A.bF(A.c([A.ap(A.e_(B.b_,s),new A.adS(r),A.br(s,s,s,s,s,s,s,s,s,s,s,new A.E(70,30),s,s,s,s,s,s,s)),A.b1(s,s,10),A.ap(A.A("\u5df2\u5b78\u6703",s,s,s,s,s,s),new A.adT(this.a,r,this.b),s)],t.p),B.t,B.y,B.be,s),s)},
 $S:181}
 A.adS.prototype={
 $0(){var s=0,r=A.M(t.H),q=this
@@ -82851,7 +82852,7 @@ A.adR.prototype={
 $0(){var s,r,q=null,p=this.a,o=p.d
 o===$&&A.b()
 p.e=J.bU(o)
-A.C("\u5df2\u5fa9\u539f",q,q,q,q,q,q)
+A.A("\u5df2\u5fa9\u539f",q,q,q,q,q,q)
 o=this.b
 p.a.kT(o)
 s=this.c
@@ -82868,14 +82869,15 @@ A.adW.prototype={
 $0(){this.a.ab_(this.b)},
 $S:0}
 A.adP.prototype={
-$1(a){var s=null,r=A.C("\u9078\u64c7\u4e00\u9375\u5b78\u6703\u985e\u5225(\uff89>\u03c9<)\uff89",s,s,s,s,s,s),q=this.a,p=q.geS(),o=A.n(p).i("aF<1>")
-o=A.mh(new A.aF(p,o),new A.adN(q),o.i("m.E"),t.al)
-o=A.il(A.bV(A.aa(o,!0,A.n(o).i("m.E")),B.t,B.y,B.p,s),B.aj)
-return A.hc(A.c([A.dn(A.C("\u78ba\u5b9a",s,s,s,s,s,s),new A.adO(q,a),s)],t.p),o,r)},
+$1(a){var s=null,r=A.A("\u9078\u64c7\u4e00\u9375\u5fa9\u539f\u985e\u5225(\uff89>\u03c9<)\uff89",s,s,s,s,s,s),q=t.p,p=A.c([A.A("\u63d0\u793a:\u53ea\u9700\u9ede\u9078\u4e00\u4e0b",s,s,s,s,s,s)],q),o=this.a,n=o.geS(),m=A.n(n).i("aF<1>")
+m=A.mh(new A.aF(n,m),new A.adN(o),m.i("m.E"),t.al)
+B.b.M(p,A.aa(m,!0,A.n(m).i("m.E")))
+p=A.il(A.bV(p,B.t,B.y,B.p,s),B.aj)
+return A.hc(A.c([A.dn(A.A("\u78ba\u5b9a",s,s,s,s,s,s),new A.adO(o,a),s)],q),p,r)},
 $S:17}
 A.adN.prototype={
 $1(a){var s=null,r=this.a
-return A.atB(B.rV,new A.adM(r,a),A.C(a,s,s,s,s,s,s),B.b.p(r.r,a))},
+return A.atB(B.rV,new A.adM(r,a),A.A(a,s,s,s,s,s,s),B.b.p(r.r,a))},
 $S:183}
 A.adM.prototype={
 $1(a){var s=this.a
@@ -82958,7 +82960,7 @@ A.d_().c_(new A.agG(this),t.P)},
 vC(a){A.vH(new A.nN(a))
 A.a0i(A.U(B.d.bt(178.5),0,0,0),B.Qi,"\u5df2\u8907\u88fd\u9023\u7d50\u5230\u526a\u8cbc\u7c3f",B.h)},
 L(a){var s=this,r=null,q="   ",p=t.p
-return A.ih(A.iR(B.rS,A.C("RCc\u80cc\u55ae\u5b57",r,r,r,r,r,r)),A.dY(r,A.il(new A.dX(new A.au(0,1/0,A.bC(a,r,t.w).w.a.b,1/0),A.bV(A.c([A.C(" Now At Home ",r,r,r,A.ad(r,r,B.rW,r,r,r,r,r,r,r,r,20,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r),A.dY(r,A.bV(A.c([A.b1(r,50,r),A.C("\u7d2f\u7a4d\u5237\u984c\u6b21\u6578 : "+$.fF,r,r,r,A.ad(r,r,B.h,r,r,r,r,r,r,r,r,30,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),B.C,r),A.b1(r,20,r),A.ap(A.C("2~4\u7d1a",r,r,r,A.ad(r,r,r,r,r,r,r,r,r,r,r,15,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r),new A.agy(a),A.br(r,r,r,r,r,r,r,r,r,r,r,new A.E(120,40),r,r,r,r,r,r,r)),A.b1(r,10,r),A.ap(A.C("5\u30016\u7d1a",r,r,r,A.ad(r,r,r,r,r,r,r,r,r,r,r,15,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r),new A.agz(a),A.br(r,r,r,r,r,r,r,r,r,r,r,new A.E(120,40),r,r,r,r,r,r,r)),A.b1(r,10,r),A.ap(A.C("input",r,r,r,A.ad(r,r,r,r,r,r,r,r,r,r,r,15,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r),new A.agA(a),A.br(r,r,r,r,r,r,r,r,r,r,r,new A.E(120,40),r,r,r,r,r,r,r)),A.b1(r,10,r),A.b1(r,20,r),A.ap(A.C("RC\u7684\u5c08\u7528\u5132\u85cf\u5ba4",r,r,r,A.ad(r,r,r,r,r,r,r,r,r,r,r,10,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r),new A.agB(s,a),A.br(r,r,r,r,r,r,r,r,r,r,r,new A.E(120,40),r,r,r,r,r,r,r)),A.b1(r,20,r),A.apU(100,100),A.C("[ \u9ede\u64ca\u4e0b\u65b9\u6587\u5b57\uff0c\u8907\u88fd\u9023\u7d50\u4e26\u8cbc\u5230\u700f\u89bd\u5668\u4e2d\u524d\u5f80 ]",r,r,r,A.ad(r,r,B.rW,r,r,r,r,r,r,r,r,10,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),B.C,r),A.il(A.bV(A.c([A.iW(A.dn(A.bF(A.c([A.C("README \u5b78\u7fd2\u6b77\u7a0b ! => https://hackmd.io/@Rcchu/Sy8DaW-fR",r,r,r,r,r,r),A.C(q,r,r,r,r,r,r),A.e_(B.fe,r)],p),B.t,B.y,B.be,r),new A.agC(s,a),r),r,r),A.iW(A.dn(A.bF(A.c([A.C("\u4f7f\u7528\u8aaa\u660e & CONTACT ME ! => https://hackmd.io/@Rcchu/ry3UPjdVR/edit",r,r,r,r,r,r),A.C(q,r,r,r,r,r,r),A.e_(B.fe,r)],p),B.t,B.y,B.be,r),new A.agD(s,a),r),r,r),A.iW(A.dn(A.bF(A.c([A.C("ANOTHER PROJECT \u5b78\u6e2c\u5230\u6578 => https://123456dr.github.io/CountDown/",r,r,r,r,r,r),A.C(q,r,r,r,r,r,r),A.e_(B.fe,r)],p),B.t,B.y,B.be,r),new A.agE(s,a),r),r,r),A.iW(A.dn(A.bF(A.c([A.C("MORE => https://github.com/123456dr/RCvocabulary",r,r,r,r,r,r),A.C(q,r,r,r,r,r,r),A.e_(B.fe,r)],p),B.t,B.y,B.be,r),new A.agF(s,a),r),r,r)],p),B.aZ,B.al,B.p,B.m),B.ai)],p),B.t,B.al,B.p,r),B.v,r,r,r,r,r,r)],p),B.c4,B.y,B.p,r),r),B.aj),B.v,B.d2,r,r,r,r,r))}}
+return A.ih(A.iR(B.rS,A.A("RCc\u80cc\u55ae\u5b57",r,r,r,r,r,r)),A.dY(r,A.il(new A.dX(new A.au(0,1/0,A.bC(a,r,t.w).w.a.b,1/0),A.bV(A.c([A.A(" Now At Home ",r,r,r,A.ad(r,r,B.rW,r,r,r,r,r,r,r,r,20,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r),A.dY(r,A.bV(A.c([A.b1(r,50,r),A.A("\u7d2f\u7a4d\u5237\u984c\u6b21\u6578 : "+$.fF,r,r,r,A.ad(r,r,B.h,r,r,r,r,r,r,r,r,30,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),B.C,r),A.b1(r,20,r),A.ap(A.A("2~4\u7d1a",r,r,r,A.ad(r,r,r,r,r,r,r,r,r,r,r,15,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r),new A.agy(a),A.br(r,r,r,r,r,r,r,r,r,r,r,new A.E(120,40),r,r,r,r,r,r,r)),A.b1(r,10,r),A.ap(A.A("5\u30016\u7d1a",r,r,r,A.ad(r,r,r,r,r,r,r,r,r,r,r,15,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r),new A.agz(a),A.br(r,r,r,r,r,r,r,r,r,r,r,new A.E(120,40),r,r,r,r,r,r,r)),A.b1(r,10,r),A.ap(A.A("input",r,r,r,A.ad(r,r,r,r,r,r,r,r,r,r,r,15,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r),new A.agA(a),A.br(r,r,r,r,r,r,r,r,r,r,r,new A.E(120,40),r,r,r,r,r,r,r)),A.b1(r,10,r),A.b1(r,20,r),A.ap(A.A("RC\u7684\u5c08\u7528\u5132\u85cf\u5ba4",r,r,r,A.ad(r,r,r,r,r,r,r,r,r,r,r,10,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r),new A.agB(s,a),A.br(r,r,r,r,r,r,r,r,r,r,r,new A.E(120,40),r,r,r,r,r,r,r)),A.b1(r,20,r),A.apU(100,100),A.A("[ \u9ede\u64ca\u4e0b\u65b9\u6587\u5b57\uff0c\u8907\u88fd\u9023\u7d50\u4e26\u8cbc\u5230\u700f\u89bd\u5668\u4e2d\u524d\u5f80 ]",r,r,r,A.ad(r,r,B.rW,r,r,r,r,r,r,r,r,10,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),B.C,r),A.il(A.bV(A.c([A.iW(A.dn(A.bF(A.c([A.A("README \u5b78\u7fd2\u6b77\u7a0b ! => https://hackmd.io/@Rcchu/Sy8DaW-fR",r,r,r,r,r,r),A.A(q,r,r,r,r,r,r),A.e_(B.fe,r)],p),B.t,B.y,B.be,r),new A.agC(s,a),r),r,r),A.iW(A.dn(A.bF(A.c([A.A("\u4f7f\u7528\u8aaa\u660e & CONTACT ME ! => https://hackmd.io/@Rcchu/ry3UPjdVR/edit",r,r,r,r,r,r),A.A(q,r,r,r,r,r,r),A.e_(B.fe,r)],p),B.t,B.y,B.be,r),new A.agD(s,a),r),r,r),A.iW(A.dn(A.bF(A.c([A.A("ANOTHER PROJECT \u5b78\u6e2c\u5230\u6578 => https://123456dr.github.io/CountDown/",r,r,r,r,r,r),A.A(q,r,r,r,r,r,r),A.e_(B.fe,r)],p),B.t,B.y,B.be,r),new A.agE(s,a),r),r,r),A.iW(A.dn(A.bF(A.c([A.A("MORE => https://github.com/123456dr/RCvocabulary",r,r,r,r,r,r),A.A(q,r,r,r,r,r,r),A.e_(B.fe,r)],p),B.t,B.y,B.be,r),new A.agF(s,a),r),r,r)],p),B.aZ,B.al,B.p,B.m),B.ai)],p),B.t,B.al,B.p,r),B.v,r,r,r,r,r,r)],p),B.c4,B.y,B.p,r),r),B.aj),B.v,B.d2,r,r,r,r,r))}}
 A.agG.prototype={
 $1(a){var s,r=this.a
 r.d=a
@@ -83046,8 +83048,8 @@ A.agt.prototype={
 $1(a){return new A.jn(null)},
 $S:101}
 A.agu.prototype={
-$1(a){var s=null,r=A.C("\u8f38\u5165\u5bc6\u78bc",s,s,s,s,s,s),q=this.a,p=A.hF(q.e,A.fP(s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,"\u8acb\u8f38\u5165\u5bc6\u78bc",s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s),s,!0,s,new A.agq(q,a))
-return A.hc(A.c([A.dn(A.C("\u53d6\u6d88",s,s,s,s,s,s),new A.agr(a),s),A.dn(A.C("\u78ba\u5b9a",s,s,s,s,s,s),new A.ags(q,a),s)],t.p),p,r)},
+$1(a){var s=null,r=A.A("\u8f38\u5165\u5bc6\u78bc",s,s,s,s,s,s),q=this.a,p=A.hF(q.e,A.fP(s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,"\u8acb\u8f38\u5165\u5bc6\u78bc",s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s),s,!0,s,new A.agq(q,a))
+return A.hc(A.c([A.dn(A.A("\u53d6\u6d88",s,s,s,s,s,s),new A.agr(a),s),A.dn(A.A("\u78ba\u5b9a",s,s,s,s,s,s),new A.ags(q,a),s)],t.p),p,r)},
 $S:17}
 A.agq.prototype={
 $1(a){return this.V2(a)},
@@ -83069,7 +83071,7 @@ s=3
 break
 case 4:p=m.ah(t.Pu)
 p.toString
-p.f.oa(A.t5(null,null,null,null,null,B.a1,null,A.C("\u5bc6\u78bc\u932f\u8aa4\uff0c\u5225\u60f3\u5077\u7aba",null,null,null,A.ad(null,null,B.h,null,null,null,null,null,null,null,null,null,null,null,null,null,null,!0,null,null,null,null,null,null,null,null),null,null),null,B.cW,null,null,null,null,null,null,null,null,null))
+p.f.oa(A.t5(null,null,null,null,null,B.a1,null,A.A("\u5bc6\u78bc\u932f\u8aa4\uff0c\u5225\u60f3\u5077\u7aba",null,null,null,A.ad(null,null,B.h,null,null,null,null,null,null,null,null,null,null,null,null,null,null,!0,null,null,null,null,null,null,null,null),null,null),null,B.cW,null,null,null,null,null,null,null,null,null))
 o.cX(0,B.ag)
 case 3:return A.K(null,r)}})
 return A.L($async$$1,r)},
@@ -83099,7 +83101,7 @@ s=3
 break
 case 4:p=m.ah(t.Pu)
 p.toString
-p.f.oa(A.t5(null,null,null,null,null,B.a1,null,A.C("\u5bc6\u78bc\u932f\u8aa4\uff0c\u5225\u60f3\u5077\u7aba",null,null,null,A.ad(null,null,B.h,null,null,null,null,null,null,null,null,null,null,null,null,null,null,!0,null,null,null,null,null,null,null,null),null,null),null,B.cW,null,null,null,null,null,null,null,null,null))
+p.f.oa(A.t5(null,null,null,null,null,B.a1,null,A.A("\u5bc6\u78bc\u932f\u8aa4\uff0c\u5225\u60f3\u5077\u7aba",null,null,null,A.ad(null,null,B.h,null,null,null,null,null,null,null,null,null,null,null,null,null,null,!0,null,null,null,null,null,null,null,null),null,null),null,B.cW,null,null,null,null,null,null,null,null,null))
 o.cX(0,B.ag)
 case 3:return A.K(null,r)}})
 return A.L($async$$0,r)},
@@ -83113,7 +83115,7 @@ q.lm(s)
 q.vC(s)
 q=this.b.ah(t.Pu)
 q.toString
-q.f.oa(A.t5(r,r,r,r,r,B.a1,r,A.C("\u5df2\u8907\u88fd\u9023\u7d50\u5230\u526a\u8cbc\u7c3f",r,r,r,A.ad(r,r,B.h,r,r,r,r,r,r,r,r,r,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r),r,B.cW,r,r,r,r,r,r,r,r,r))},
+q.f.oa(A.t5(r,r,r,r,r,B.a1,r,A.A("\u5df2\u8907\u88fd\u9023\u7d50\u5230\u526a\u8cbc\u7c3f",r,r,r,A.ad(r,r,B.h,r,r,r,r,r,r,r,r,r,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r),r,B.cW,r,r,r,r,r,r,r,r,r))},
 $S:0}
 A.agD.prototype={
 $0(){var s="https://hackmd.io/@Rcchu/ry3UPjdVR/edit",r=null,q=this.a
@@ -83121,7 +83123,7 @@ q.lm(s)
 q.vC(s)
 q=this.b.ah(t.Pu)
 q.toString
-q.f.oa(A.t5(r,r,r,r,r,B.a1,r,A.C("\u5df2\u8907\u88fd\u9023\u7d50\u5230\u526a\u8cbc\u7c3f",r,r,r,A.ad(r,r,B.h,r,r,r,r,r,r,r,r,r,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r),r,B.cW,r,r,r,r,r,r,r,r,r))},
+q.f.oa(A.t5(r,r,r,r,r,B.a1,r,A.A("\u5df2\u8907\u88fd\u9023\u7d50\u5230\u526a\u8cbc\u7c3f",r,r,r,A.ad(r,r,B.h,r,r,r,r,r,r,r,r,r,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r),r,B.cW,r,r,r,r,r,r,r,r,r))},
 $S:0}
 A.agE.prototype={
 $0(){var s="https://123456dr.github.io/CountDown/",r=null,q=this.a
@@ -83129,7 +83131,7 @@ q.lm(s)
 q.vC(s)
 q=this.b.ah(t.Pu)
 q.toString
-q.f.oa(A.t5(r,r,r,r,r,B.a1,r,A.C("\u5df2\u8907\u88fd\u9023\u7d50\u5230\u526a\u8cbc\u7c3f",r,r,r,A.ad(r,r,B.h,r,r,r,r,r,r,r,r,r,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r),r,B.cW,r,r,r,r,r,r,r,r,r))},
+q.f.oa(A.t5(r,r,r,r,r,B.a1,r,A.A("\u5df2\u8907\u88fd\u9023\u7d50\u5230\u526a\u8cbc\u7c3f",r,r,r,A.ad(r,r,B.h,r,r,r,r,r,r,r,r,r,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r),r,B.cW,r,r,r,r,r,r,r,r,r))},
 $S:0}
 A.agF.prototype={
 $0(){var s=null,r=this.a
@@ -83137,11 +83139,11 @@ r.lm("https://github.com/123456dr/RCvocabulary")
 r.vC("https://123456dr.github.io/CountDown/")
 r=this.b.ah(t.Pu)
 r.toString
-r.f.oa(A.t5(s,s,s,s,s,B.a1,s,A.C("\u5df2\u8907\u88fd\u9023\u7d50\u5230\u526a\u8cbc\u7c3f",s,s,s,A.ad(s,s,B.h,s,s,s,s,s,s,s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),s,B.cW,s,s,s,s,s,s,s,s,s))},
+r.f.oa(A.t5(s,s,s,s,s,B.a1,s,A.A("\u5df2\u8907\u88fd\u9023\u7d50\u5230\u526a\u8cbc\u7c3f",s,s,s,A.ad(s,s,B.h,s,s,s,s,s,s,s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),s,B.cW,s,s,s,s,s,s,s,s,s))},
 $S:0}
 A.lY.prototype={
 ai(){var s=t.N,r=t.z,q=A.a(["upright",A.a(["pos","adv./adj./n.","chinese","\u76f4\u7acb\u5730/\u5782\u76f4\u7684/\u76f4\u7acb\u7684"],s,s),"uprising",A.a(["pos","n.","chinese","\u8d77\u7fa9"],s,s),"upward",A.a(["pos","adj.","chinese","\u5411\u4e0a\u7684"],s,s),"urgency",A.a(["pos","n.","chinese","\u7dca\u6025\u6027"],s,s),"usher",A.a(["pos","v./n.","chinese","\u5f15\u5c0e/\u62db\u5f85\u54e1"],s,s),"utensil",A.a(["pos","n.","chinese","\u5668\u76bf"],s,s),"utter",A.a(["pos","adj./v.","chinese","\u5b8c\u5168\u7684/\u8aaa"],s,s),"vaccine",A.a(["pos","n.","chinese","\u75ab\u82d7"],s,s),"vanilla",A.a(["pos","n.","chinese","\u9999\u8349"],s,s),"vanity",A.a(["pos","n.","chinese","\u865b\u69ae\u5fc3"],s,s),"vapor",A.a(["pos","n.","chinese","\u84b8\u6c7d"],s,s),"veil",A.a(["pos","n./v.","chinese","\u9762\u7d17/\u906e\u84cb"],s,s),"velvet",A.a(["pos","n./adj.","chinese","\u5929\u9d5d\u7d68/\u5929\u9d5d\u7d68\u7684"],s,s),"versatile",A.a(["pos","adj.","chinese","\u591a\u624d\u591a\u85dd\u7684"],s,s),"veterinarian/vet",A.a(["pos","n.","chinese","\u7378\u91ab"],s,s),"veto",A.a(["pos","n./v.","chinese","\u5426\u6c7a"],s,s),"vibrate",A.a(["pos","v.","chinese","\u632f\u52d5"],s,s),"vibration",A.a(["pos","n.","chinese","\u632f\u52d5"],s,s),"vice",A.a(["pos","n.","chinese","\u7f6a\u60e1"],s,s),"victor",A.a(["pos","n.","chinese","\u52dd\u5229\u8005"],s,s),"vigor",A.a(["pos","n.","chinese","\u7cbe\u529b"],s,s),"vigorous",A.a(["pos","adj.","chinese","\u6709\u6d3b\u529b\u7684"],s,s),"villa",A.a(["pos","n.","chinese","\u5225\u5885"],s,s),"villain",A.a(["pos","n.","chinese","\u58de\u4eba"],s,s),"vine",A.a(["pos","n.","chinese","\u85e4\u8513"],s,s),"vineyard",A.a(["pos","n.","chinese","\u8461\u8404\u5712"],s,s),"violinist",A.a(["pos","n.","chinese","\u5c0f\u63d0\u7434\u5bb6"],s,s),"virgin",A.a(["pos","n./adj.","chinese","\u8655\u5973/\u7d14\u7684"],s,s),"vitality",A.a(["pos","n.","chinese","\u6d3b\u529b"],s,s),"vocation",A.a(["pos","n.","chinese","\u8077\u696d"],s,s),"vocational",A.a(["pos","adj.","chinese","\u8077\u696d\u7684"],s,s),"vowel",A.a(["pos","n.","chinese","\u5143\u97f3"],s,s),"wag",A.a(["pos","v./n.","chinese","\u6416\u64fa/\u6416\u64fa"],s,s),"walnut",A.a(["pos","n.","chinese","\u6838\u6843"],s,s),"ward",A.a(["pos","n./v.","chinese","\u75c5\u623f/\u4fdd\u8b77"],s,s),"wardrobe",A.a(["pos","n.","chinese","\u8863\u6ae5"],s,s),"warrant",A.a(["pos","n.","chinese","\u6191\u8b49"],s,s),"warranty",A.a(["pos","n.","chinese","\u4fdd\u56fa"],s,s),"waterproof",A.a(["pos","adj./v.","chinese","\u9632\u6c34\u7684/\u4f7f\u9632\u6c34"],s,s),"weary",A.a(["pos","adj./v.","chinese","\u75b2\u5026\u7684/\u4f7f\u53ad\u5026"],s,s),"wharf",A.a(["pos","n./v.","chinese","\u78bc\u982d/\u505c\u6cca"],s,s),"whiskey/whisky",A.a(["pos","n.","chinese","\u5a01\u58eb\u5fcc"],s,s),"wholesale",A.a(["pos","adj./adv./n./v.","chinese","\u6279\u767c\u7684"],s,s),"wholesome",A.a(["pos","adj.","chinese","\u5065\u5eb7\u7684"],s,s),"widow/widower",A.a(["pos","n.","chinese","\u5be1\u5a66/\u9c25\u592b"],s,s),"withhold",A.a(["pos","v.","chinese","\u4fdd\u7559"],s,s),"woe",A.a(["pos","n.","chinese","\u60b2\u50b7"],s,s),"woodpecker",A.a(["pos","n.","chinese","\u5544\u6728\u9ce5"],s,s),"workforce",A.a(["pos","n.","chinese","\u52de\u52d5\u529b"],s,s),"wrestle",A.a(["pos","v./n.","chinese","\u6454\u8de4"],s,s),"wrinkle",A.a(["pos","n./v.","chinese","\u76ba\u7d0b"],s,s),"yearn",A.a(["pos","v.","chinese","\u6e34\u671b"],s,s),"yoga",A.a(["pos","n.","chinese","\u745c\u4f3d"],s,s),"yogurt",A.a(["pos","n.","chinese","\u512a\u683c"],s,s),"zoom",A.a(["pos","v./n.","chinese","\u7e2e\u653e/\u8b8a\u7126"],s,s),"telecommunications",A.a(["pos","n.","chinese","\u96fb\u4fe1"],s,s),"teller",A.a(["pos","n.","chinese","\u51fa\u7d0d\u54e1"],s,s),"tempo",A.a(["pos","n.","chinese","\u7bc0\u594f"],s,s),"tenant",A.a(["pos","n./v.","chinese","\u623f\u5ba2/\u79df\u6236"],s,s),"tentative",A.a(["pos","adj.","chinese","\u66ab\u5b9a\u7684"],s,s),"terrace",A.a(["pos","n./v.","chinese","\u68af\u7530/\u4f7f\u6210\u68af\u7530"],s,s),"textile",A.a(["pos","n./adj.","chinese","\u7d21\u7e54\u54c1/\u7d21\u7e54\u7684"],s,s),"thereafter",A.a(["pos","adv.","chinese","\u6b64\u5f8c"],s,s),"thermometer",A.a(["pos","n.","chinese","\u6eab\u5ea6\u8a08"],s,s),"tilt",A.a(["pos","n./v.","chinese","\u50be\u659c"],s,s),"tiptoe",A.a(["pos","n./v.","chinese","\u8173\u5c16/\u8e2e\u8173\u8d70"],s,s),"tiresome",A.a(["pos","adj.","chinese","\u4ee4\u4eba\u53ad\u5026\u7684"],s,s),"token",A.a(["pos","n.","chinese","\u8c61\u5fb5"],s,s),"tornado",A.a(["pos","n.","chinese","\u9f8d\u6372\u98a8"],s,s),"torrent",A.a(["pos","n.","chinese","\u6d2a\u6d41"],s,s),"trademark",A.a(["pos","n.","chinese","\u5546\u6a19"],s,s),"transcript",A.a(["pos","n.","chinese","\u6284\u672c"],s,s),"transmit",A.a(["pos","v.","chinese","\u50b3\u9001"],s,s),"transplant",A.a(["pos","n./v.","chinese","\u79fb\u690d"],s,s),"treasury",A.a(["pos","n.","chinese","\u8ca1\u653f\u90e8"],s,s),"trek",A.a(["pos","n./v.","chinese","\u8271\u82e6\u8dcb\u6d89"],s,s),"trifle",A.a(["pos","n./v.","chinese","\u5c0f\u4e8b/\u7cdf\u8e4b"],s,s),"trillion",A.a(["pos","n.","chinese","\u5146"],s,s),"tropic",A.a(["pos","n./adj.","chinese","\u71b1\u5e36"],s,s),"trout",A.a(["pos","n.","chinese","\u9c52\u9b5a"],s,s),"trustee",A.a(["pos","n.","chinese","\u53d7\u8a17\u4eba"],s,s),"tuck",A.a(["pos","v./n.","chinese","\u585e\u5165"],s,s),"turmoil",A.a(["pos","n.","chinese","\u52d5\u76ea"],s,s),"twilight",A.a(["pos","n.","chinese","\u9ec3\u660f"],s,s),"twinkle",A.a(["pos","n./v.","chinese","\u9583\u720d"],s,s),"unanimous",A.a(["pos","adj.","chinese","\u5168\u9ad4\u4e00\u81f4\u7684"],s,s),"unconditional",A.a(["pos","adj.","chinese","\u7121\u689d\u4ef6\u7684"],s,s),"underestimate",A.a(["pos","v./n.","chinese","\u4f4e\u4f30"],s,s),"underneath",A.a(["pos","prep./adv./n./adj.","chinese","\u5728...\u4e0b\u9762"],s,s),"underpass",A.a(["pos","n.","chinese","\u5730\u4e0b\u901a\u9053"],s,s),"underway",A.a(["pos","adv.","chinese","\u9032\u884c\u4e2d"],s,s),"unification",A.a(["pos","n.","chinese","\u7d71\u4e00"],s,s),"unify",A.a(["pos","v.","chinese","\u7d71\u4e00"],s,s),"unveil",A.a(["pos","v.","chinese","\u63ed\u5e55"],s,s),"strangle",A.a(["pos","v.","chinese","\u52d2\u6b7b"],s,s),"stray",A.a(["pos","adj./v./n.","chinese","\u8ff7\u8def\u7684/\u8d70\u5931/\u8d70\u5931\u8005"],s,s),"stride",A.a(["pos","n./v.","chinese","\u5927\u6b65/\u9081\u5927\u6b65\u8d70"],s,s),"stroll",A.a(["pos","n./v.","chinese","\u6563\u6b65"],s,s),"stun",A.a(["pos","v.","chinese","\u4f7f\u9707\u9a5a"],s,s),"stutter",A.a(["pos","n./v.","chinese","\u53e3\u5403/\u53e3\u5403"],s,s),"stylish",A.a(["pos","adj.","chinese","\u6642\u5c1a\u7684"],s,s),"subjective",A.a(["pos","adj./n.","chinese","\u4e3b\u89c0\u7684"],s,s),"subordinate",A.a(["pos","adj./n./v.","chinese","\u4e0b\u7d1a\u7684/\u4e0b\u5c6c/\u4f7f\u670d\u5f9e"],s,s),"subscribe",A.a(["pos","v.","chinese","\u8a02\u95b1"],s,s),"subscription",A.a(["pos","n.","chinese","\u8a02\u95b1"],s,s),"subsidize",A.a(["pos","v.","chinese","\u88dc\u8cbc"],s,s),"succession",A.a(["pos","n.","chinese","\u9023\u7e8c"],s,s),"successive",A.a(["pos","adj.","chinese","\u9023\u7e8c\u7684"],s,s),"suffocate",A.a(["pos","v.","chinese","\u4f7f\u7a92\u606f"],s,s),"suitcase",A.a(["pos","n.","chinese","\u624b\u63d0\u7bb1"],s,s),"summon",A.a(["pos","v.","chinese","\u53ec\u559a"],s,s),"superficial",A.a(["pos","adj.","chinese","\u819a\u6dfa\u7684"],s,s),"superintendent",A.a(["pos","n.","chinese","\u76e3\u7763\u4eba"],s,s),"superiority",A.a(["pos","n.","chinese","\u512a\u8d8a"],s,s),"superstitious",A.a(["pos","adj.","chinese","\u8ff7\u4fe1\u7684"],s,s),"supplement",A.a(["pos","n./v.","chinese","\u88dc\u5145\u54c1/\u88dc\u5145"],s,s),"suppress",A.a(["pos","v./n.","chinese","\u6291\u5236"],s,s),"surge",A.a(["pos","n./v.","chinese","\u6e67\u52d5"],s,s),"surgical",A.a(["pos","adj.","chinese","\u5916\u79d1\u7684"],s,s),"surname",A.a(["pos","n.","chinese","\u59d3\u6c0f"],s,s),"surpass",A.a(["pos","v.","chinese","\u8d85\u904e"],s,s),"suspense",A.a(["pos","n.","chinese","\u61f8\u5ff5"],s,s),"suspension",A.a(["pos","n.","chinese","\u61f8\u639b"],s,s),"swamp",A.a(["pos","n./v.","chinese","\u6cbc\u6fa4/\u6df9\u6c92"],s,s),"swarm",A.a(["pos","n./v.","chinese","\u4e00\u7fa4/\u6210\u7fa4"],s,s),"symbolize",A.a(["pos","v.","chinese","\u8c61\u5fb5"],s,s),"symmetry",A.a(["pos","n.","chinese","\u5c0d\u7a31"],s,s),"sympathize",A.a(["pos","v.","chinese","\u540c\u60c5"],s,s),"symphony",A.a(["pos","n.","chinese","\u4ea4\u97ff\u6a02"],s,s),"synonym",A.a(["pos","n.","chinese","\u540c\u7fa9\u8a5e"],s,s),"synthetic",A.a(["pos","adj./n.","chinese","\u5408\u6210\u7684"],s,s),"syrup",A.a(["pos","n.","chinese","\u7cd6\u6f3f"],s,s),"tan",A.a(["pos","n./adj./v.","chinese","\u68d5\u8910\u8272/\u66ec\u6210\u68d5\u8910\u8272/\u66ec\u9ed1"],s,s),"tedious",A.a(["pos","adj.","chinese","\u5197\u9577\u4e4f\u5473\u7684"],s,s),"sociable",A.a(["pos","adj.","chinese","\u597d\u4ea4\u969b\u7684"],s,s),"socialism",A.a(["pos","n.","chinese","\u793e\u6703\u4e3b\u7fa9"],s,s),"socialist",A.a(["pos","n.","chinese","\u793e\u6703\u4e3b\u7fa9\u8005"],s,s),"socialize",A.a(["pos","v.","chinese","\u793e\u4ea4"],s,s),"sociology",A.a(["pos","n.","chinese","\u793e\u6703\u5b78"],s,s),"solemn",A.a(["pos","adj.","chinese","\u838a\u56b4\u7684"],s,s),"solidarity",A.a(["pos","n.","chinese","\u5718\u7d50\u4e00\u81f4"],s,s),"solitary",A.a(["pos","adj./n.","chinese","\u5b64\u7368\u7684/\u7368\u5c45\u8005"],s,s),"solitude",A.a(["pos","n.","chinese","\u5b64\u7368"],s,s),"soothe",A.a(["pos","v.","chinese","\u64ab\u6170"],s,s),"sorrowful",A.a(["pos","adj.","chinese","\u60b2\u50b7\u7684"],s,s),"sovereign",A.a(["pos","adj./n.","chinese","\u4e3b\u6b0a\u7684/\u541b\u4e3b"],s,s),"spacecraft/spaceship",A.a(["pos","n.","chinese","\u592a\u7a7a\u8239"],s,s),"span",A.a(["pos","n./v.","chinese","\u8de8\u5ea6/\u6a6b\u8de8"],s,s),"sparrow",A.a(["pos","n.","chinese","\u9ebb\u96c0"],s,s),"spectacle",A.a(["pos","n.","chinese","\u666f\u8c61"],s,s),"spiral",A.a(["pos","adj./n./v.","chinese","\u87ba\u65cb\u7684/\u87ba\u65cb/\u76e4\u65cb"],s,s),"splendor",A.a(["pos","n.","chinese","\u58ef\u9e97"],s,s),"spokesperson/spokesman/spokeswoman",A.a(["pos","n.","chinese","\u767c\u8a00\u4eba"],s,s),"spontaneous",A.a(["pos","adj.","chinese","\u81ea\u767c\u7684"],s,s),"sportsman/sportswoman",A.a(["pos","n.","chinese","\u904b\u52d5\u54e1"],s,s),"sportsmanship",A.a(["pos","n.","chinese","\u904b\u52d5\u5bb6\u7cbe\u795e"],s,s),"spotlight",A.a(["pos","n./v.","chinese","\u805a\u5149\u71c8"],s,s),"spur",A.a(["pos","v./n.","chinese","\u97ad\u7b56/\u99ac\u523a"],s,s),"stabilize",A.a(["pos","v.","chinese","\u7a69\u5b9a"],s,s),"stagger",A.a(["pos","v./n.","chinese","\u8e63\u8dda/\u8e63\u8dda"],s,s),"staple",A.a(["pos","n./v.","chinese","\u4e3b\u98df/\u91d8"],s,s),"starvation",A.a(["pos","n.","chinese","\u98e2\u9913"],s,s),"statesman",A.a(["pos","n.","chinese","\u653f\u6cbb\u5bb6"],s,s),"stationary",A.a(["pos","adj.","chinese","\u975c\u6b62\u7684"],s,s),"stationery",A.a(["pos","n.","chinese","\u6587\u5177"],s,s),"stature",A.a(["pos","n.","chinese","\u8eab\u6750"],s,s),"statute",A.a(["pos","n.","chinese","\u6cd5\u4ee4"],s,s),"stepchild",A.a(["pos","n.","chinese","\u7e7c\u5b50\u5973"],s,s),"stepfather",A.a(["pos","n.","chinese","\u7e7c\u7236"],s,s),"stepmother",A.a(["pos","n.","chinese","\u7e7c\u6bcd"],s,s),"stimulation",A.a(["pos","n.","chinese","\u523a\u6fc0"],s,s),"strait",A.a(["pos","n.","chinese","\u6d77\u5cfd"],s,s),"reliant",A.a(["pos","adj.","chinese","\u4f9d\u8cf4\u7684"],s,s),"relic",A.a(["pos","n.","chinese","\u907a\u8de1"],s,s),"remainder",A.a(["pos","n.","chinese","\u9918\u6578"],s,s),"reminiscent",A.a(["pos","adj.","chinese","\u4f7f\u4eba\u56de\u61b6\u7684"],s,s),"renowned",A.a(["pos","adj.","chinese","\u8457\u540d\u7684"],s,s),"reproduce",A.a(["pos","v.","chinese","\u7e41\u6b96"],s,s),"reptile",A.a(["pos","n./adj.","chinese","\u722c\u884c\u52d5\u7269"],s,s),"resent(ment)",A.a(["pos","v./(n.)","chinese","\u618e\u60e1/\u61a4\u6168"],s,s),"reside",A.a(["pos","v.","chinese","\u5c45\u4f4f"],s,s),"resistant",A.a(["pos","adj.","chinese","\u62b5\u6297\u7684"],s,s),"respective",A.a(["pos","adj.","chinese","\u5404\u81ea\u7684"],s,s),"restoration",A.a(["pos","n.","chinese","\u6062\u5fa9"],s,s),"restrain",A.a(["pos","v.","chinese","\u6291\u5236"],s,s),"restraint",A.a(["pos","n.","chinese","\u514b\u5236"],s,s),"retort",A.a(["pos","n./v.","chinese","\u53cd\u99c1"],s,s),"retrieve",A.a(["pos","v.","chinese","\u53d6\u56de"],s,s),"revelation",A.a(["pos","n.","chinese","\u555f\u793a"],s,s),"revival",A.a(["pos","n.","chinese","\u5fa9\u8208"],s,s),"revive",A.a(["pos","v.","chinese","\u6062\u5fa9"],s,s),"revolt",A.a(["pos","n./v.","chinese","\u53db\u4e82"],s,s),"revolve",A.a(["pos","v.","chinese","\u65cb\u8f49"],s,s),"rigorous",A.a(["pos","adj.","chinese","\u56b4\u683c\u7684"],s,s),"ripple",A.a(["pos","n./v.","chinese","\u6f23\u6f2a"],s,s),"rivalry",A.a(["pos","n.","chinese","\u7af6\u722d"],s,s),"roam",A.a(["pos","v./n.","chinese","\u6f2b\u904a"],s,s),"robust",A.a(["pos","adj.","chinese","\u5065\u58ef\u7684"],s,s),"rotate",A.a(["pos","v.","chinese","\u65cb\u8f49"],s,s),"rotation",A.a(["pos","n.","chinese","\u65cb\u8f49"],s,s),"royalty",A.a(["pos","n.","chinese","\u738b\u5ba4"],s,s),"rubbish",A.a(["pos","n.","chinese","\u5783\u573e"],s,s),"rugged",A.a(["pos","adj.","chinese","\u5d0e\u5d87\u7684"],s,s),"ruthless",A.a(["pos","adj.","chinese","\u7121\u60c5\u7684"],s,s),"salute",A.a(["pos","n./v.","chinese","\u656c\u79ae"],s,s),"salvage",A.a(["pos","v.","chinese","\u6253\u6488"],s,s),"sanitation",A.a(["pos","n.","chinese","\u885b\u751f"],s,s),"savage",A.a(["pos","adj./n./v.","chinese","\u91ce\u883b\u7684"],s,s),"scenic",A.a(["pos","adj.","chinese","\u98a8\u666f\u5982\u756b\u7684"],s,s),"scorn",A.a(["pos","n./v.","chinese","\u8f15\u8511"],s,s),"scrape",A.a(["pos","v./n.","chinese","\u64e6\u50b7"],s,s),"screwdriver",A.a(["pos","n.","chinese","\u87ba\u7d72\u5200"],s,s),"scroll",A.a(["pos","n./v.","chinese","\u5377\u8ef8"],s,s),"scrutiny",A.a(["pos","n.","chinese","\u7d30\u770b"],s,s),"sculptor",A.a(["pos","n.","chinese","\u96d5\u5851\u5bb6"],s,s),"seagull/gull",A.a(["pos","n.","chinese","\u6d77\u9dd7"],s,s),"seduce",A.a(["pos","v.","chinese","\u8a98\u60d1"],s,s),"selective",A.a(["pos","adj.","chinese","\u9078\u64c7\u6027\u7684"],s,s),"serene",A.a(["pos","adj.","chinese","\u5be7\u975c\u7684"],s,s),"sergeant",A.a(["pos","n.","chinese","\u8ecd\u58eb"],s,s),"serial",A.a(["pos","adj.","chinese","\u9023\u7e8c\u7684"],s,s),"sermon",A.a(["pos","n.","chinese","\u8b1b\u9053"],s,s),"serving",A.a(["pos","n.","chinese","\u4e00\u4efd\u98df\u7269"],s,s),"setback",A.a(["pos","n.","chinese","\u632b\u6298"],s,s),"psychiatry",A.a(["pos","n.","chinese","\u7cbe\u795e\u75c5\u5b78"],s,s),"psychic",A.a(["pos","adj.","chinese","\u7cbe\u795e\u7684"],s,s),"psychotherapy",A.a(["pos","n.","chinese","\u5fc3\u7406\u6cbb\u7642"],s,s),"publicize",A.a(["pos","v.","chinese","\u516c\u958b\u5ba3\u50b3"],s,s),"puff",A.a(["pos","n./v.","chinese","\u4e00\u53e3\u6c23"],s,s),"punctual",A.a(["pos","adj.","chinese","\u6e96\u6642\u7684"],s,s),"purify",A.a(["pos","v.","chinese","\u6de8\u5316"],s,s),"purity",A.a(["pos","n.","chinese","\u7d14\u6f54"],s,s),"quake",A.a(["pos","v./n.","chinese","\u9707\u52d5"],s,s),"qualification",A.a(["pos","n.","chinese","\u8cc7\u683c"],s,s),"radiant",A.a(["pos","adj./n.","chinese","\u8f1d\u714c\u7684"],s,s),"radiate",A.a(["pos","v./adj.","chinese","\u767c\u6563"],s,s),"radioactive",A.a(["pos","adj.","chinese","\u653e\u5c04\u6027\u7684"],s,s),"radish",A.a(["pos","n.","chinese","\u863f\u8514"],s,s),"radius",A.a(["pos","n.","chinese","\u534a\u5f91"],s,s),"rap",A.a(["pos","n.","chinese","\u6572\u64ca"],s,s),"rash",A.a(["pos","n./adj.","chinese","\u75b9\u5b50"],s,s),"ratify",A.a(["pos","v.","chinese","\u6279\u51c6"],s,s),"realization",A.a(["pos","n.","chinese","\u5be6\u73fe"],s,s),"reap",A.a(["pos","v.","chinese","\u6536\u5272"],s,s),"reckless",A.a(["pos","adj.","chinese","\u9b6f\u83bd\u7684"],s,s),"reckon",A.a(["pos","v.","chinese","\u4f30\u8a08"],s,s),"reconcile",A.a(["pos","v.","chinese","\u8abf\u548c"],s,s),"recreational",A.a(["pos","adj.","chinese","\u5a1b\u6a02\u7684"],s,s),"redundancy",A.a(["pos","n.","chinese","\u5197\u9918"],s,s),"reef",A.a(["pos","n.","chinese","\u6697\u7901"],s,s),"referee",A.a(["pos","n./v.","chinese","\u88c1\u5224"],s,s),"referendum",A.a(["pos","n.","chinese","\u516c\u6c11\u6295\u7968"],s,s),"refine(ment)",A.a(["pos","v./(n.)","chinese","\u63d0\u7149"],s,s),"reflective",A.a(["pos","adj.","chinese","\u53cd\u5c04\u7684"],s,s),"refresh(ment)",A.a(["pos","v./(n.)","chinese","\u4f7f\u7cbe\u795e\u632f\u596e"],s,s),"refreshment(s)",A.a(["pos","n.","chinese","\u8336\u9ede"],s,s),"refute",A.a(["pos","v.","chinese","\u99c1\u65a5"],s,s),"rehabilitate",A.a(["pos","v.","chinese","\u5eb7\u5fa9"],s,s),"rehearse",A.a(["pos","v.","chinese","\u6392\u7df4"],s,s),"reign",A.a(["pos","n./v.","chinese","\u7d71\u6cbb"],s,s),"rejoice",A.a(["pos","v.","chinese","\u9ad8\u8208"],s,s),"relay",A.a(["pos","n./v.","chinese","\u8f49\u64ad"],s,s),"relentless",A.a(["pos","adj.","chinese","\u4e0d\u61c8\u7684"],s,s),"reliance",A.a(["pos","n.","chinese","\u4f9d\u8cf4"],s,s),"shabby",A.a(["pos","adj.","chinese","\u7834\u820a\u7684"],s,s),"sharpen",A.a(["pos","v.","chinese","\u78e8\u5c16"],s,s),"shaver",A.a(["pos","n.","chinese","\u522e\u9b0d\u5200"],s,s),"shortcoming",A.a(["pos","n.","chinese","\u7f3a\u9ede"],s,s),"shortsighted",A.a(["pos","adj.","chinese","\u76ee\u5149\u77ed\u6dfa\u7684"],s,s),"shred",A.a(["pos","n./v.","chinese","\u788e\u7247"],s,s),"shriek",A.a(["pos","n./v.","chinese","\u5c16\u53eb"],s,s),"shrub",A.a(["pos","n.","chinese","\u704c\u6728\u53e2"],s,s),"shuffle",A.a(["pos","v.","chinese","\u62d6\u6b65"],s,s),"shutter",A.a(["pos","n./v.","chinese","\u767e\u8449\u7a97"],s,s),"simplicity",A.a(["pos","n.","chinese","\u7c21\u55ae"],s,s),"simplify",A.a(["pos","v.","chinese","\u7c21\u5316"],s,s),"simultaneous",A.a(["pos","adj.","chinese","\u540c\u6642\u7684"],s,s),"skeptical",A.a(["pos","adj.","chinese","\u61f7\u7591\u7684"],s,s),"skim",A.a(["pos","v./n.","chinese","\u7565\u8b80"],s,s),"slang",A.a(["pos","n./v.","chinese","\u4fda\u8a9e"],s,s),"slash",A.a(["pos","v./n.","chinese","\u731b\u780d"],s,s),"slaughter",A.a(["pos","n./v.","chinese","\u5c60\u6bba"],s,s),"slay",A.a(["pos","v.","chinese","\u6bba\u5bb3"],s,s),"sloppy",A.a(["pos","adj.","chinese","\u908b\u9062\u7684"],s,s),"slum",A.a(["pos","n./v.","chinese","\u8ca7\u6c11\u7a9f"],s,s),"slump",A.a(["pos","n./v.","chinese","\u4e0b\u8dcc"],s,s),"sly",A.a(["pos","adj.","chinese","\u72e1\u733e\u7684"],s,s),"smuggle",A.a(["pos","v.","chinese","\u8d70\u79c1"],s,s),"sneaker(s)",A.a(["pos","n.","chinese","\u904b\u52d5\u978b"],s,s),"sneaky",A.a(["pos","adj.","chinese","\u9b3c\u9b3c\u795f\u795f\u7684"],s,s),"sneeze",A.a(["pos","n./v.","chinese","\u6253\u5674\u568f"],s,s),"snore",A.a(["pos","v./n.","chinese","\u6253\u9f3e"],s,s),"packet",A.a(["pos","n.","chinese","\u5c0f\u5305\u88f9"],s,s),"paddle",A.a(["pos","n./v.","chinese","\u69f3\uff1b\u5212\u8239"],s,s),"paperback",A.a(["pos","n.","chinese","\u5e73\u88dd\u66f8"],s,s),"paradox",A.a(["pos","n.","chinese","\u6096\u8ad6"],s,s),"paralyze",A.a(["pos","v.","chinese","\u4f7f\u7671\u7613"],s,s),"parliament",A.a(["pos","n.","chinese","\u8b70\u6703"],s,s),"pastime",A.a(["pos","n.","chinese","\u6d88\u9063"],s,s),"patriot",A.a(["pos","n.","chinese","\u611b\u570b\u8005"],s,s),"patriotic",A.a(["pos","adj.","chinese","\u611b\u570b\u7684"],s,s),"peacock",A.a(["pos","n.","chinese","\u5b54\u96c0"],s,s),"pebble",A.a(["pos","n.","chinese","\u9d5d\u5375\u77f3"],s,s),"peek",A.a(["pos","n./v.","chinese","\u5077\u770b"],s,s),"pending",A.a(["pos","adj.","chinese","\u672a\u5b9a\u7684"],s,s),"peninsula",A.a(["pos","n.","chinese","\u534a\u5cf6"],s,s),"perch",A.a(["pos","n./v.","chinese","\u68f2\u606f\uff1b\u9ad8\u4f4d"],s,s),"peril",A.a(["pos","n./v.","chinese","\u5371\u96aa"],s,s),"perish",A.a(["pos","v.","chinese","\u6bc0\u6ec5"],s,s),"permissible",A.a(["pos","adj.","chinese","\u5141\u8a31\u7684"],s,s),"persevere",A.a(["pos","v.","chinese","\u5805\u6301"],s,s),"persistence",A.a(["pos","n.","chinese","\u5805\u6301"],s,s),"persistent",A.a(["pos","adj.","chinese","\u5805\u6301\u4e0d\u61c8\u7684"],s,s),"petrol",A.a(["pos","n.","chinese","\u6c7d\u6cb9"],s,s),"petroleum",A.a(["pos","n.","chinese","\u77f3\u6cb9"],s,s),"pharmacist",A.a(["pos","n.","chinese","\u85e5\u5291\u5e2b"],s,s),"pharmacy",A.a(["pos","n.","chinese","\u85e5\u623f"],s,s),"pianist",A.a(["pos","n.","chinese","\u92fc\u7434\u5bb6"],s,s),"pickpocket",A.a(["pos","n.","chinese","\u6252\u624b"],s,s),"pilgrim",A.a(["pos","n.","chinese","\u671d\u8056\u8005"],s,s),"plantation",A.a(["pos","n.","chinese","\u8fb2\u5834"],s,s),"playwright",A.a(["pos","n.","chinese","\u5287\u4f5c\u5bb6"],s,s),"plow",A.a(["pos","n./v.","chinese","\u7281\uff1b\u8015\u5730"],s,s),"pneumonia",A.a(["pos","n.","chinese","\u80ba\u708e"],s,s),"polar",A.a(["pos","adj.","chinese","\u6975\u5730\u7684"],s,s),"ponder",A.a(["pos","v.","chinese","\u6c89\u601d"],s,s),"pony",A.a(["pos","n.","chinese","\u5c0f\u99ac"],s,s),"populate",A.a(["pos","v.","chinese","\u5c45\u4f4f\u65bc"],s,s),"porter",A.a(["pos","n.","chinese","\u642c\u904b\u5de5"],s,s),"posture",A.a(["pos","n./v.","chinese","\u59ff\u52e2\uff1b\u64fa\u59ff\u52e2"],s,s),"potent",A.a(["pos","adj.","chinese","\u6709\u6548\u7684"],s,s),"poultry",A.a(["pos","n.","chinese","\u5bb6\u79bd"],s,s),"preach",A.a(["pos","v.","chinese","\u50b3\u6559"],s,s),"precede",A.a(["pos","v.","chinese","\u5728...\u4e4b\u524d"],s,s),"precedent",A.a(["pos","n.","chinese","\u5148\u4f8b"],s,s),"precision",A.a(["pos","n.","chinese","\u7cbe\u78ba"],s,s),"predecessor",A.a(["pos","n.","chinese","\u524d\u4efb"],s,s),"prehistoric",A.a(["pos","adj.","chinese","\u53f2\u524d\u7684"],s,s),"premiere",A.a(["pos","n.","chinese","\u9996\u6620"],s,s),"preside",A.a(["pos","v.","chinese","\u4e3b\u6301"],s,s),"prestige",A.a(["pos","n.","chinese","\u5a01\u671b"],s,s),"preventive",A.a(["pos","adj./n.","chinese","\u9810\u9632\u7684"],s,s),"preview",A.a(["pos","n./v.","chinese","\u9810\u6f14"],s,s),"priceless",A.a(["pos","adj.","chinese","\u7121\u50f9\u7684"],s,s),"privatize",A.a(["pos","v.","chinese","\u79c1\u6709\u5316"],s,s),"probe",A.a(["pos","n.","chinese","\u63a2\u6e2c\u5668"],s,s),"procession",A.a(["pos","n.","chinese","\u884c\u5217"],s,s),"proficiency",A.a(["pos","n.","chinese","\u7cbe\u901a"],s,s),"prohibition",A.a(["pos","n.","chinese","\u7981\u6b62"],s,s),"propel",A.a(["pos","v.","chinese","\u63a8\u9032"],s,s),"prose",A.a(["pos","n.","chinese","\u6563\u6587"],s,s),"prosecute",A.a(["pos","v.","chinese","\u8d77\u8a34"],s,s),"prospective",A.a(["pos","adj.","chinese","\u9810\u671f\u7684"],s,s),"prototype",A.a(["pos","n.","chinese","\u539f\u578b"],s,s),"proverb",A.a(["pos","n.","chinese","\u8afa\u8a9e"],s,s),"provincial",A.a(["pos","adj./n.","chinese","\u7701\u7684"],s,s),"provisional",A.a(["pos","adj.","chinese","\u81e8\u6642\u7684"],s,s),"nostril",A.a(["pos","n.","chinese","\u9f3b\u5b54"],s,s),"notable",A.a(["pos","adj./n.","chinese","\u986f\u8457\u7684\uff1b\u540d\u4eba"],s,s),"notorious",A.a(["pos","adj.","chinese","\u81ed\u540d\u662d\u8457\u7684"],s,s),"nourish",A.a(["pos","v.","chinese","\u6ecb\u990a"],s,s),"nourishment",A.a(["pos","n.","chinese","\u71df\u990a"],s,s),"novice",A.a(["pos","n.","chinese","\u65b0\u624b"],s,s),"nucleus",A.a(["pos","n.","chinese","\u6838\u5fc3"],s,s),"nude",A.a(["pos","adj./n.","chinese","\u88f8\u9ad4\uff1b\u88f8\u9ad4\u756b"],s,s),"nurture",A.a(["pos","v./n.","chinese","\u990a\u80b2\uff1b\u57f9\u990a"],s,s),"oasis",A.a(["pos","n.","chinese","\u7da0\u6d32"],s,s),"oath",A.a(["pos","n.","chinese","\u8a93\u8a00"],s,s),"oatmeal",A.a(["pos","n.","chinese","\u71d5\u9ea5\u7247"],s,s),"oblige",A.a(["pos","v.","chinese","\u4f7f\u4e0d\u5f97\u4e0d"],s,s),"obsess",A.a(["pos","v.","chinese","\u8ff7\u4f4f"],s,s),"obstinate",A.a(["pos","adj.","chinese","\u56fa\u57f7\u7684"],s,s),"occurrence",A.a(["pos","n.","chinese","\u4e8b\u4ef6"],s,s),"octopus",A.a(["pos","n.","chinese","\u7ae0\u9b5a"],s,s),"odor",A.a(["pos","n.","chinese","\u6c23\u5473"],s,s),"offshore",A.a(["pos","adj.","chinese","\u6d77\u4e0a\u7684"],s,s),"offspring",A.a(["pos","n.","chinese","\u5f8c\u4ee3"],s,s),"operative",A.a(["pos","adj.","chinese","\u6709\u6548\u7684"],s,s),"oppress",A.a(["pos","v.","chinese","\u58d3\u8feb"],s,s),"oppression",A.a(["pos","n.","chinese","\u58d3\u8feb"],s,s),"ordeal",A.a(["pos","n.","chinese","\u56b4\u5cfb\u7684\u8003\u9a57"],s,s),"orderly",A.a(["pos","adj./n.","chinese","\u6574\u9f4a\u7684\uff1b\u52e4\u52c9\u7684\u4eba"],s,s),"organizer",A.a(["pos","n.","chinese","\u7d44\u7e54\u8005"],s,s),"orient",A.a(["pos","n./v.","chinese","\u6771\u65b9\uff1b\u4f7f\u9069\u61c9"],s,s),"oriental",A.a(["pos","adj./n.","chinese","\u6771\u65b9\u7684\uff1b\u6771\u65b9\u4eba"],s,s),"originate",A.a(["pos","v.","chinese","\u8d77\u6e90"],s,s),"ornament",A.a(["pos","n./v.","chinese","\u88dd\u98fe\u54c1\uff1b\u88dd\u98fe"],s,s),"orphanage",A.a(["pos","n.","chinese","\u5b64\u5152\u9662"],s,s),"orthodox",A.a(["pos","adj.","chinese","\u6b63\u7d71\u7684"],s,s),"ounce",A.a(["pos","n.","chinese","\u76ce\u53f8"],s,s),"outbreak",A.a(["pos","n.","chinese","\u7206\u767c"],s,s),"outgoing",A.a(["pos","adj.","chinese","\u5916\u5411\u7684"],s,s),"outing",A.a(["pos","n.","chinese","\u904a\u89bd"],s,s),"outlaw",A.a(["pos","n./v.","chinese","\u6b79\u5f92\uff1b\u5ba3\u5e03...\u70ba\u975e\u6cd5"],s,s),"outlook",A.a(["pos","n.","chinese","\u89c0\u9ede"],s,s),"outnumber",A.a(["pos","v.","chinese","\u6bd4...\u591a"],s,s),"outrage",A.a(["pos","n./v.","chinese","\u66b4\u884c\uff1b\u4f7f\u61a4\u6168"],s,s),"outrageous",A.a(["pos","adj.","chinese","\u4ee4\u4eba\u9707\u9a5a\u7684"],s,s),"pimple",A.a(["pos","n.","chinese","\u9752\u6625\u75d8"],s,s),"pinch",A.a(["pos","n./v.","chinese","\u634f\uff1b\u6390"],s,s),"plague",A.a(["pos","n.","chinese","\u761f\u75ab"],s,s),"outright",A.a(["pos","adj./adv.","chinese","\u5b8c\u5168\u7684\uff1b\u76f4\u7387\u5730"],s,s),"outset",A.a(["pos","n.","chinese","\u958b\u59cb"],s,s),"outskirts",A.a(["pos","n.","chinese","\u90ca\u5340"],s,s),"outward",A.a(["pos","adj.","chinese","\u5916\u5411\u7684"],s,s),"overdo",A.a(["pos","v.","chinese","\u904e\u5ea6\u505a"],s,s),"overflow",A.a(["pos","n./v.","chinese","\u6ea2\u51fa"],s,s),"overhear",A.a(["pos","v.","chinese","\u7121\u610f\u4e2d\u807d\u5230"],s,s),"overlap",A.a(["pos","n./v.","chinese","\u91cd\u758a"],s,s),"overwork",A.a(["pos","n./v.","chinese","\u904e\u52de"],s,s),"oyster",A.a(["pos","n.","chinese","\u7261\u8823"],s,s),"madam/ma\u2019am",A.a(["pos","n.","chinese","\u592b\u4eba"],s,s),"magnify",A.a(["pos","v.","chinese","\u653e\u5927"],s,s),"maiden",A.a(["pos","adj./n.","chinese","\u5c11\u5973\uff1b\u521d\u6b21\u7684"],s,s),"mainland",A.a(["pos","n.","chinese","\u5927\u9678"],s,s),"majestic",A.a(["pos","adj.","chinese","\u5b8f\u5049\u7684"],s,s),"majesty",A.a(["pos","n.","chinese","\u5a01\u56b4"],s,s),"manuscript",A.a(["pos","n.","chinese","\u624b\u7a3f"],s,s),"maple",A.a(["pos","n.","chinese","\u6953\u6a39"],s,s),"mar",A.a(["pos","v.","chinese","\u640d\u58de"],s,s),"marginal",A.a(["pos","adj.","chinese","\u908a\u7de3\u7684"],s,s),"martial",A.a(["pos","adj.","chinese","\u8ecd\u4e8b\u7684"],s,s),"marvel",A.a(["pos","n./v.","chinese","\u5947\u8e5f\uff1b\u611f\u5230\u9a5a\u8a1d"],s,s),"mastery",A.a(["pos","n.","chinese","\u7cbe\u901a"],s,s),"mediate",A.a(["pos","v.","chinese","\u8abf\u89e3"],s,s),"medieval",A.a(["pos","adj.","chinese","\u4e2d\u4e16\u7d00\u7684"],s,s),"meditate",A.a(["pos","v.","chinese","\u6c89\u601d"],s,s),"meditation",A.a(["pos","n.","chinese","\u51a5\u60f3"],s,s),"melancholy",A.a(["pos","n./adj.","chinese","\u6182\u9b31\uff1b\u6182\u9b31\u7684"],s,s),"mentality",A.a(["pos","n.","chinese","\u5fc3\u614b"],s,s),"merchandise",A.a(["pos","n./v.","chinese","\u5546\u54c1\uff1b\u8cb7\u8ce3"],s,s),"mermaid",A.a(["pos","n.","chinese","\u7f8e\u4eba\u9b5a"],s,s),"migrant",A.a(["pos","n./adj.","chinese","\u79fb\u6c11\uff1b\u9077\u79fb\u7684"],s,s),"mimic",A.a(["pos","v./n.","chinese","\u6a21\u4eff\uff1b\u6a21\u4eff\u8005"],s,s),"mingle",A.a(["pos","v.","chinese","\u6df7\u5408"],s,s),"miraculous",A.a(["pos","adj.","chinese","\u5947\u8de1\u7684"],s,s),"miscellaneous",A.a(["pos","adj.","chinese","\u5404\u7a2e\u5404\u6a23\u7684"],s,s),"mischievous",A.a(["pos","adj.","chinese","\u6dd8\u6c23\u7684"],s,s),"mistress",A.a(["pos","n.","chinese","\u60c5\u5a66"],s,s),"mobilize",A.a(["pos","v.","chinese","\u52d5\u54e1"],s,s),"modernization",A.a(["pos","n.","chinese","\u73fe\u4ee3\u5316"],s,s),"modernize",A.a(["pos","v.","chinese","\u4f7f\u73fe\u4ee3\u5316"],s,s),"momentum",A.a(["pos","n.","chinese","\u52d5\u529b"],s,s),"monarch",A.a(["pos","n.","chinese","\u541b\u4e3b"],s,s),"monetary",A.a(["pos","adj.","chinese","\u8ca8\u5e63\u7684"],s,s),"monotony",A.a(["pos","n.","chinese","\u55ae\u8abf"],s,s),"monstrous",A.a(["pos","adj.","chinese","\u5de8\u5927\u7684"],s,s),"moody",A.a(["pos","adj.","chinese","\u6613\u6012\u7684"],s,s),"morale",A.a(["pos","n.","chinese","\u58eb\u6c23"],s,s),"mortal",A.a(["pos","adj./n.","chinese","\u51e1\u4eba\u7684\uff1b\u4eba"],s,s),"motherhood",A.a(["pos","n.","chinese","\u6bcd\u6027"],s,s),"motto",A.a(["pos","n.","chinese","\u5ea7\u53f3\u9298"],s,s),"mound",A.a(["pos","n./v.","chinese","\u571f\u5806\uff1b\u5806\u6210\u5806"],s,s),"mourn",A.a(["pos","v.","chinese","\u54c0\u60bc"],s,s),"mournful",A.a(["pos","adj.","chinese","\u60b2\u50b7\u7684"],s,s),"mow",A.a(["pos","v.","chinese","\u5272\u8349"],s,s),"muse",A.a(["pos","n.","chinese","\u6c89\u601d"],s,s),"mustache",A.a(["pos","n.","chinese","\u9b0d\u5b50"],s,s),"mute",A.a(["pos","adj./v./n.","chinese","\u555e\u7684\uff1b\u4f7f\u6c89\u9ed8\uff1b\u555e\u97f3"],s,s),"nag",A.a(["pos","v./n.","chinese","\u5520\u53e8\uff1b\u8a13\u65a5"],s,s),"narrate",A.a(["pos","v.","chinese","\u8b1b\u8ff0"],s,s),"narrator",A.a(["pos","n.","chinese","\u6558\u8ff0\u8005"],s,s),"nationalism",A.a(["pos","n.","chinese","\u6c11\u65cf\u4e3b\u7fa9"],s,s),"navigate",A.a(["pos","v.","chinese","\u5c0e\u822a"],s,s),"navigation",A.a(["pos","n.","chinese","\u5c0e\u822a"],s,s),"nearsighted",A.a(["pos","adj.","chinese","\u8fd1\u8996\u7684"],s,s),"nickel",A.a(["pos","n./v.","chinese","\u93b3"],s,s),"invariably",A.a(["pos","adv.","chinese","\u7e3d\u662f"],s,s),"inventory",A.a(["pos","n./v.","chinese","\u5eab\u5b58\uff1b\u76e4\u9ede"],s,s),"ironic",A.a(["pos","adj.","chinese","\u8af7\u523a\u7684"],s,s),"irritable",A.a(["pos","adj.","chinese","\u6613\u6012\u7684"],s,s),"irritate",A.a(["pos","v.","chinese","\u4f7f\u60f1\u6012"],s,s),"isle",A.a(["pos","n.","chinese","\u5c0f\u5cf6"],s,s),"itch",A.a(["pos","n./v.","chinese","\u7662\uff1b\u767c\u7662"],s,s),"ivy",A.a(["pos","n.","chinese","\u5e38\u6625\u85e4"],s,s),"jade",A.a(["pos","n.","chinese","\u7389"],s,s),"janitor",A.a(["pos","n.","chinese","\u6e05\u6f54\u5de5"],s,s),"jasmine",A.a(["pos","n.","chinese","\u8309\u8389\u82b1"],s,s),"jingle",A.a(["pos","n./v.","chinese","\u53ee\u5679\u8072\uff1b\u4f7f\u53ee\u5679\u4f5c\u97ff"],s,s),"jockey",A.a(["pos","n./v.","chinese","\u9a0e\u5e2b\uff1b\u64cd\u7e31"],s,s),"jolly",A.a(["pos","adj./adv./v./n.","chinese","\u6109\u5feb\u7684\uff1b\u6109\u5feb\u5730\uff1b\u6b61\u6a02\uff1b\u6b61\u6a02"],s,s),"joyous",A.a(["pos","adj.","chinese","\u5feb\u6a02\u7684"],s,s),"junction",A.a(["pos","n.","chinese","\u4ea4\u53c9\u9ede"],s,s),"kin",A.a(["pos","n./adj.","chinese","\u89aa\u5c6c\uff1b\u540c\u985e\u7684"],s,s),"kindle",A.a(["pos","v.","chinese","\u9ede\u71c3"],s,s),"knowledgeable",A.a(["pos","adj.","chinese","\u535a\u5b78\u7684"],s,s),"lad",A.a(["pos","n.","chinese","\u5c11\u5e74"],s,s),"landlady",A.a(["pos","n.","chinese","\u5973\u623f\u6771"],s,s),"landslide",A.a(["pos","n.","chinese","\u5c71\u5d29"],s,s),"latitude",A.a(["pos","n.","chinese","\u7def\u5ea6"],s,s),"lavish",A.a(["pos","adj.","chinese","\u8c6a\u83ef\u7684"],s,s),"layman",A.a(["pos","n.","chinese","\u9580\u5916\u6f22"],s,s),"layout",A.a(["pos","n.","chinese","\u4f48\u5c40"],s,s),"lease",A.a(["pos","n.","chinese","\u79df\u7d04"],s,s),"legislator",A.a(["pos","n.","chinese","\u7acb\u6cd5\u8005"],s,s),"lengthy",A.a(["pos","adj.","chinese","\u5197\u9577\u7684"],s,s),"lesbian",A.a(["pos","adj.","chinese","\u5973\u540c\u6027\u6200\u7684"],s,s),"lessen",A.a(["pos","v.","chinese","\u6e1b\u5c11"],s,s),"lethal",A.a(["pos","adj.","chinese","\u81f4\u547d\u7684"],s,s),"liable",A.a(["pos","adj.","chinese","\u6709\u7fa9\u52d9\u7684"],s,s),"liberate",A.a(["pos","v.","chinese","\u89e3\u653e"],s,s),"liberation",A.a(["pos","n.","chinese","\u89e3\u653e"],s,s),"lieutenant",A.a(["pos","n.","chinese","\u4e2d\u5c09"],s,s),"lifelong",A.a(["pos","adj.","chinese","\u7d42\u8eab\u7684"],s,s),"lighten",A.a(["pos","v.","chinese","\u8b8a\u8f15"],s,s),"limp",A.a(["pos","n./v.","chinese","\u8ddb\u884c\uff1b\u8edf\u5f31"],s,s),"liner",A.a(["pos","n.","chinese","\u73ed\u6a5f"],s,s),"linger",A.a(["pos","v.","chinese","\u5f98\u5f8a"],s,s),"lining",A.a(["pos","n.","chinese","\u896f\u88e1"],s,s),"liter",A.a(["pos","n.","chinese","\u5347"],s,s),"literacy",A.a(["pos","n.","chinese","\u8b58\u5b57\u80fd\u529b"],s,s),"literal",A.a(["pos","adj.","chinese","\u5b57\u9762\u7684"],s,s),"literate",A.a(["pos","adj./n.","chinese","\u6709\u6587\u5316\u7684\uff1b\u8b58\u5b57\u7684\u4eba"],s,s),"livestock",A.a(["pos","n.","chinese","\u5bb6\u755c"],s,s),"lizard",A.a(["pos","n.","chinese","\u8725\u8734"],s,s),"locker",A.a(["pos","n.","chinese","\u5132\u7269\u6ac3"],s,s),"lodge",A.a(["pos","n./v.","chinese","\u5c0f\u5c4b\uff1b\u5bc4\u5bbf"],s,s),"lofty",A.a(["pos","adj.","chinese","\u9ad8\u8073\u7684"],s,s),"logo",A.a(["pos","n.","chinese","\u6a19\u8a8c"],s,s),"lonesome",A.a(["pos","adj.","chinese","\u5b64\u7368\u7684"],s,s),"longevity",A.a(["pos","n.","chinese","\u58fd\u547d"],s,s),"longitude",A.a(["pos","n.","chinese","\u7d93\u5ea6"],s,s),"lotion",A.a(["pos","n.","chinese","\u6d17\u5291"],s,s),"lottery",A.a(["pos","n.","chinese","\u62bd\u734e"],s,s),"lotus",A.a(["pos","n.","chinese","\u84ee\u82b1"],s,s),"loudspeaker",A.a(["pos","n.","chinese","\u5587\u53ed"],s,s),"lucrative",A.a(["pos","adj.","chinese","\u6709\u5229\u53ef\u5716\u7684"],s,s),"lullaby",A.a(["pos","n.","chinese","\u6416\u7c43\u66f2"],s,s),"lunar",A.a(["pos","adj.","chinese","\u6708\u7403\u7684"],s,s),"lure",A.a(["pos","n./v.","chinese","\u8a98\u60d1\uff1b\u8a98\u6355"],s,s),"lush",A.a(["pos","adj.","chinese","\u8302\u76db\u7684"],s,s),"hacker",A.a(["pos","n.","chinese","\u99ed\u5ba2"],s,s),"hail",A.a(["pos","n./v.","chinese","\u51b0\u96f9\uff1b\u6b61\u547c"],s,s),"hamper",A.a(["pos","v.","chinese","\u59a8\u7919"],s,s),"handicap",A.a(["pos","n./v.","chinese","\u6b98\u969c\uff1b\u4f7f\u6b98\u5ee2"],s,s),"handicraft",A.a(["pos","n.","chinese","\u624b\u5de5\u85dd\u54c1"],s,s),"harass",A.a(["pos","v./n.","chinese","\u9a37\u64fe\uff1b\u9a37\u64fe"],s,s),"harden",A.a(["pos","v.","chinese","\u8b8a\u786c"],s,s),"harmonica",A.a(["pos","n.","chinese","\u53e3\u7434"],s,s),"harness",A.a(["pos","n./v.","chinese","\u99ac\u5177\uff1b\u5229\u7528"],s,s),"haunt",A.a(["pos","v./n.","chinese","\u7e8f\u64fe\uff1b\u5e38\u53bb\u7684\u5730\u65b9"],s,s),"headphone(s)",A.a(["pos","n.","chinese","\u8033\u6a5f"],s,s),"healthful",A.a(["pos","adj.","chinese","\u6709\u76ca\u5065\u5eb7\u7684"],s,s),"hearty",A.a(["pos","adj.","chinese","\u8c50\u76db\u7684"],s,s),"hedge",A.a(["pos","n./v.","chinese","\u7c6c\u7b06\uff1b\u907f\u96aa\u624b\u6bb5"],s,s),"heighten",A.a(["pos","v.","chinese","\u589e\u52a0"],s,s),"hemisphere",A.a(["pos","n.","chinese","\u534a\u7403"],s,s),"heroic",A.a(["pos","adj./n.","chinese","\u82f1\u52c7\u7684\uff1b\u82f1\u96c4"],s,s),"heroin",A.a(["pos","n.","chinese","\u6d77\u6d1b\u56e0"],s,s),"heterosexual",A.a(["pos","adj./n.","chinese","\u7570\u6027\u6200\u7684\uff1b\u7570\u6027\u6200\u8005"],s,s),"hierarchy",A.a(["pos","n.","chinese","\u7b49\u7d1a\u5236\u5ea6"],s,s),"hijack",A.a(["pos","v./n.","chinese","\u52ab\u6301\uff1b\u52ab\u6301"],s,s),"hoarse",A.a(["pos","adj.","chinese","\u5636\u555e\u7684"],s,s),"homosexual",A.a(["pos","adj./n.","chinese","\u540c\u6027\u6200\u7684\uff1b\u540c\u6027\u6200\u8005"],s,s),"honorary",A.a(["pos","adj.","chinese","\u540d\u8b7d\u7684"],s,s),"hospitable",A.a(["pos","adj.","chinese","\u597d\u5ba2\u7684"],s,s),"hospitality",A.a(["pos","n.","chinese","\u597d\u5ba2"],s,s),"hospitalize",A.a(["pos","v.","chinese","\u4f4f\u9662\u6cbb\u7642"],s,s),"hostel",A.a(["pos","n.","chinese","\u65c5\u793e"],s,s),"hover",A.a(["pos","v./n.","chinese","\u76e4\u65cb\uff1b\u76e4\u65cb"],s,s),"humiliate",A.a(["pos","v.","chinese","\u7f9e\u8fb1"],s,s),"hunch",A.a(["pos","n./v.","chinese","\u76f4\u89ba\uff1b\u5f13\u8d77\u8eab\u5b50"],s,s),"hurdle",A.a(["pos","n./v.","chinese","\u6b04\u67b6\uff1b\u8de8\u904e"],s,s),"hybrid",A.a(["pos","adj./n.","chinese","\u6df7\u5408\u7684\uff1b\u6df7\u5408\u54c1\u7a2e"],s,s),"hygiene",A.a(["pos","n.","chinese","\u885b\u751f"],s,s),"hypocrite",A.a(["pos","n.","chinese","\u507d\u541b\u5b50"],s,s),"iceberg",A.a(["pos","n.","chinese","\u51b0\u5c71"],s,s),"illuminate",A.a(["pos","v.","chinese","\u7167\u660e"],s,s),"imminent",A.a(["pos","adj.","chinese","\u5373\u5c07\u767c\u751f\u7684"],s,s),"imperative",A.a(["pos","adj./n.","chinese","\u5fc5\u8981\u7684\uff1b\u5fc5\u8981\u6027"],s,s),"imperial",A.a(["pos","adj.","chinese","\u5e1d\u570b\u7684"],s,s),"implicit",A.a(["pos","adj.","chinese","\u542b\u84c4\u7684"],s,s),"imposing",A.a(["pos","adj.","chinese","\u58ef\u89c0\u7684"],s,s),"imprison",A.a(["pos","v./n.","chinese","\u76e3\u7981\uff1b\u76e3\u7981"],s,s),"incline",A.a(["pos","v./n.","chinese","\u50be\u659c\uff1b\u659c\u5761"],s,s),"inclusive",A.a(["pos","adj.","chinese","\u5305\u5bb9\u7684"],s,s),"flake",A.a(["pos","n./v.","chinese","\u8584\u7247\uff1b\u525d\u843d"],s,s),"flaw",A.a(["pos","n./v.","chinese","\u7f3a\u9ede\uff1b\u4f7f\u751f\u88c2\u7e2b"],s,s),"flourish",A.a(["pos","v./n.","chinese","\u7e41\u69ae\uff1b\u8208\u65fa"],s,s),"flunk",A.a(["pos","v./n.","chinese","\u4e0d\u53ca\u683c\uff1b\u4e0d\u53ca\u683c\u8005"],s,s),"foe",A.a(["pos","n.","chinese","\u6575\u4eba"],s,s),"folklore",A.a(["pos","n.","chinese","\u6c11\u9593\u50b3\u8aaa"],s,s),"formidable",A.a(["pos","adj.","chinese","\u4ee4\u4eba\u656c\u754f\u7684"],s,s),"formulate",A.a(["pos","v.","chinese","\u5236\u5b9a"],s,s),"forsake",A.a(["pos","v.","chinese","\u653e\u68c4"],s,s),"forthcoming",A.a(["pos","adj.","chinese","\u5373\u5c07\u5230\u4f86\u7684"],s,s),"fortify",A.a(["pos","v.","chinese","\u52a0\u5f37"],s,s),"fowl",A.a(["pos","n.","chinese","\u5bb6\u79bd"],s,s),"fracture",A.a(["pos","n./v.","chinese","\u9aa8\u6298\uff1b\u4f7f\u7834\u88c2"],s,s),"fragrance",A.a(["pos","n.","chinese","\u82b3\u9999"],s,s),"fragrant",A.a(["pos","adj.","chinese","\u82b3\u9999\u7684"],s,s),"frantic",A.a(["pos","adj.","chinese","\u760b\u72c2\u7684"],s,s),"freak",A.a(["pos","n./v.","chinese","\u602a\u7269\uff1b\u8b8a\u7570"],s,s),"freeway",A.a(["pos","n.","chinese","\u9ad8\u901f\u516c\u8def"],s,s),"friction",A.a(["pos","n.","chinese","\u6469\u64e6"],s,s),"fume",A.a(["pos","v./n.","chinese","\u5192\u7159\uff1b\u6012\u6c23"],s,s),"fury",A.a(["pos","n.","chinese","\u61a4\u6012"],s,s),"fuse",A.a(["pos","n./v.","chinese","\u4fdd\u96aa\u7d72\uff1b\u7194\u5316"],s,s),"fuss",A.a(["pos","n./v.","chinese","\u5927\u9a5a\u5c0f\u602a\uff1b\u5fd9\u4e82"],s,s),"gallop",A.a(["pos","n./v.","chinese","\u75be\u99b3\uff1b\u98db\u5954"],s,s),"gangster",A.a(["pos","n.","chinese","\u532a\u5f92"],s,s),"garment",A.a(["pos","n.","chinese","\u8863\u670d"],s,s),"gauge",A.a(["pos","n./v.","chinese","\u6a19\u6e96\u898f\u683c\uff1b\u6e2c\u91cf"],s,s),"gay",A.a(["pos","adj./n.","chinese","\u540c\u6027\u6200\u7684\uff1b\u540c\u6027\u6200\u8005"],s,s),"geographical",A.a(["pos","adj.","chinese","\u5730\u7406\u7684"],s,s),"geometry",A.a(["pos","n.","chinese","\u5e7e\u4f55"],s,s),"glacier",A.a(["pos","n.","chinese","\u51b0\u5ddd"],s,s),"glamorous",A.a(["pos","adj.","chinese","\u8ff7\u4eba\u7684"],s,s),"glamour",A.a(["pos","n.","chinese","\u9b45\u529b"],s,s),"gleam",A.a(["pos","n./v.","chinese","\u5fae\u5149\uff1b\u9583\u8000"],s,s),"glide",A.a(["pos","v./n.","chinese","\u6ed1\u7fd4\uff1b\u6ed1\u884c"],s,s),"glitter",A.a(["pos","n./v.","chinese","\u9583\u720d\uff1b\u9583\u4eae"],s,s),"gloom",A.a(["pos","n./v.","chinese","\u9670\u6697\uff1b\u4f7f\u6cae\u55aa"],s,s),"goalkeeper",A.a(["pos","n.","chinese","\u5b88\u9580\u54e1"],s,s),"goodwill",A.a(["pos","n.","chinese","\u53cb\u597d"],s,s),"gorilla",A.a(["pos","n.","chinese","\u5927\u7329\u7329"],s,s),"gospel",A.a(["pos","n.","chinese","\u798f\u97f3"],s,s),"grapefruit",A.a(["pos","n.","chinese","\u8461\u8404\u67da"],s,s),"graze",A.a(["pos","v.","chinese","\u5403\u8349"],s,s),"grease",A.a(["pos","n./v.","chinese","\u6cb9\u8102\uff1b\u7d66...\u52a0\u6cb9\u8102"],s,s),"groan",A.a(["pos","n./v.","chinese","\u547b\u541f\uff1b\u547b\u541f\u8072"],s,s),"growl",A.a(["pos","n./v.","chinese","\u5486\u54ee\uff1b\u5486\u54ee\u8072"],s,s),"grumble",A.a(["pos","v./n.","chinese","\u62b1\u6028\uff1b\u62b1\u6028\u8072"],s,s),"incur",A.a(["pos","v.","chinese","\u62db\u81f4"],s,s),"indifference",A.a(["pos","n.","chinese","\u6f20\u4e0d\u95dc\u5fc3"],s,s),"indignant",A.a(["pos","adj.","chinese","\u61a4\u6168\u7684"],s,s),"induce",A.a(["pos","v.","chinese","\u8a98\u5c0e"],s,s),"industrialize",A.a(["pos","v.","chinese","\u5de5\u696d\u5316"],s,s),"infectious",A.a(["pos","adj.","chinese","\u50b3\u67d3\u6027\u7684"],s,s),"infer",A.a(["pos","v.","chinese","\u63a8\u65b7"],s,s),"inflict",A.a(["pos","v.","chinese","\u4f7f\u906d\u53d7"],s,s),"inhabit",A.a(["pos","v.","chinese","\u5c45\u4f4f\u65bc"],s,s),"inhabitant",A.a(["pos","n.","chinese","\u5c45\u6c11"],s,s),"injustice",A.a(["pos","n.","chinese","\u4e0d\u516c\u6b63"],s,s),"inland",A.a(["pos","adj./adv./n.","chinese","\u5167\u9678\u7684\uff1b\u5411\u5167\u5730\uff1b\u5167\u9678"],s,s),"innumerable",A.a(["pos","adj.","chinese","\u7121\u6578\u7684"],s,s),"inquire",A.a(["pos","v.","chinese","\u8a62\u554f"],s,s),"insistence",A.a(["pos","n.","chinese","\u5805\u6301"],s,s),"instinctive",A.a(["pos","adj.","chinese","\u672c\u80fd\u7684"],s,s),"intake",A.a(["pos","n.","chinese","\u651d\u53d6\u91cf"],s,s),"intellect",A.a(["pos","n.","chinese","\u667a\u529b"],s,s),"interpreter",A.a(["pos","n.","chinese","\u53e3\u8b6f\u54e1"],s,s),"intersection",A.a(["pos","n.","chinese","\u4ea4\u53c9\u53e3"],s,s),"intervene",A.a(["pos","v.","chinese","\u5e72\u6d89"],s,s),"intimacy",A.a(["pos","n.","chinese","\u89aa\u5bc6"],s,s),"intimidate",A.a(["pos","v.","chinese","\u6050\u5687"],s,s),"intonation",A.a(["pos","n.","chinese","\u8a9e\u8abf"],s,s),"intrigue",A.a(["pos","n./v.","chinese","\u9670\u8b00\uff1b\u6fc0\u8d77...\u7684\u8208\u8da3"],s,s),"intrude",A.a(["pos","v.","chinese","\u4fb5\u5165"],s,s),"intruder",A.a(["pos","n.","chinese","\u4fb5\u5165\u8005"],s,s),"invaluable",A.a(["pos","adj.","chinese","\u7121\u50f9\u7684"],s,s),"eccentric",A.a(["pos","adj./n.","chinese","\u53e4\u602a\u7684\uff1b\u602a\u4eba"],s,s),"eclipse",A.a(["pos","n./v.","chinese","\u65e5\u8755\uff1b\u4f7f\u9eef\u7136\u5931\u8272"],s,s),"edible",A.a(["pos","adj.","chinese","\u53ef\u98df\u7528\u7684"],s,s),"editorial",A.a(["pos","adj./n.","chinese","\u793e\u8ad6\u7684\uff1b\u793e\u8ad6"],s,s),"electrician",A.a(["pos","n.","chinese","\u96fb\u5de5"],s,s),"elevate",A.a(["pos","v.","chinese","\u63d0\u5347"],s,s),"emigrant",A.a(["pos","n.","chinese","\u79fb\u6c11"],s,s),"emigrate",A.a(["pos","v.","chinese","\u79fb\u5c45"],s,s),"emigration",A.a(["pos","n.","chinese","\u79fb\u6c11"],s,s),"encyclopedia",A.a(["pos","n.","chinese","\u767e\u79d1\u5168\u66f8"],s,s),"endeavor",A.a(["pos","n./v.","chinese","\u52aa\u529b\uff1b\u52aa\u529b"],s,s),"endowment",A.a(["pos","n.","chinese","\u6350\u52a9"],s,s),"endurance",A.a(["pos","n.","chinese","\u8010\u529b"],s,s),"enhance",A.a(["pos","v.","chinese","\u589e\u5f37"],s,s),"enlighten",A.a(["pos","v.","chinese","\u555f\u767c"],s,s),"enrich",A.a(["pos","v.","chinese","\u8c50\u5bcc"],s,s),"enroll",A.a(["pos","v.","chinese","\u8a3b\u518a"],s,s),"equalize",A.a(["pos","v.","chinese","\u4f7f\u5e73\u7b49"],s,s),"equate",A.a(["pos","v.","chinese","\u7b49\u540c"],s,s),"escort",A.a(["pos","n./v.","chinese","\u8b77\u9001\uff1b\u8b77\u9001"],s,s),"esteem",A.a(["pos","n./v.","chinese","\u5c0a\u91cd\uff1b\u5c0a\u91cd"],s,s),"eternity",A.a(["pos","n.","chinese","\u6c38\u6046"],s,s),"evacuate",A.a(["pos","v.","chinese","\u758f\u6563"],s,s),"evergreen",A.a(["pos","adj./n.","chinese","\u5e38\u7da0\u7684\uff1b\u5e38\u9752\u6a39"],s,s),"evoke",A.a(["pos","v.","chinese","\u559a\u8d77"],s,s),"examinee",A.a(["pos","n.","chinese","\u61c9\u8a66\u8005"],s,s),"examiner",A.a(["pos","n.","chinese","\u8003\u5b98"],s,s),"excel",A.a(["pos","v.","chinese","\u64c5\u9577"],s,s),"excerpt",A.a(["pos","n./v.","chinese","\u6458\u9304\uff1b\u6458\u9304"],s,s),"excess",A.a(["pos","adj./n.","chinese","\u904e\u91cf\u7684\uff1b\u904e\u91cf"],s,s),"exclusion",A.a(["pos","n.","chinese","\u6392\u65a5"],s,s),"exempt",A.a(["pos","adj.","chinese","\u514d\u9664\u7684"],s,s),"exert",A.a(["pos","v.","chinese","\u65bd\u52a0"],s,s),"expenditure",A.a(["pos","n.","chinese","\u652f\u51fa"],s,s),"expiration",A.a(["pos","n.","chinese","\u671f\u6eff"],s,s),"expire",A.a(["pos","v.","chinese","\u671f\u6eff"],s,s),"extract",A.a(["pos","n./v.","chinese","\u63d0\u53d6\uff1b\u63d0\u53d6"],s,s),"extracurricular",A.a(["pos","adj.","chinese","\u8ab2\u5916\u7684"],s,s),"eyelash",A.a(["pos","n.","chinese","\u773c\u776b\u6bdb"],s,s),"eyelid",A.a(["pos","n.","chinese","\u773c\u77bc"],s,s),"eyesight",A.a(["pos","n.","chinese","\u8996\u529b"],s,s),"fable",A.a(["pos","n.","chinese","\u5bd3\u8a00"],s,s),"faction",A.a(["pos","n.","chinese","\u6d3e\u7cfb"],s,s),"Fahrenheit",A.a(["pos","n.","chinese","\u83ef\u6c0f"],s,s),"falter",A.a(["pos","v.","chinese","\u8e8a\u8e87"],s,s),"familiarity",A.a(["pos","n.","chinese","\u719f\u6089"],s,s),"fascination",A.a(["pos","n.","chinese","\u8457\u8ff7"],s,s),"feasible",A.a(["pos","adj.","chinese","\u53ef\u884c\u7684"],s,s),"feeble",A.a(["pos","adj.","chinese","\u865b\u5f31\u7684"],s,s),"feminine",A.a(["pos","adj./n.","chinese","\u5973\u6027\u7684\uff1b\u5973\u6027"],s,s),"fertility",A.a(["pos","n.","chinese","\u751f\u80b2\u80fd\u529b"],s,s),"fertilizer",A.a(["pos","n.","chinese","\u80a5\u6599"],s,s),"deplete",A.a(["pos","v.","chinese","\u8017\u76e1"],s,s),"deprive",A.a(["pos","v.","chinese","\u525d\u596a"],s,s),"descent",A.a(["pos","n.","chinese","\u4e0b\u964d\uff1b\u8840\u7d71"],s,s),"despise",A.a(["pos","v.","chinese","\u9119\u8996"],s,s),"destined",A.a(["pos","adj.","chinese","\u6ce8\u5b9a\u7684"],s,s),"detach",A.a(["pos","v.","chinese","\u5206\u96e2"],s,s),"detain",A.a(["pos","v.","chinese","\u62d8\u7559"],s,s),"detention",A.a(["pos","n.","chinese","\u62d8\u7559"],s,s),"deter",A.a(["pos","v.","chinese","\u963b\u6b62"],s,s),"detergent",A.a(["pos","n.","chinese","\u6e05\u6f54\u5291"],s,s),"devour",A.a(["pos","v.","chinese","\u541e\u566c"],s,s),"diabetes",A.a(["pos","n.","chinese","\u7cd6\u5c3f\u75c5"],s,s),"dictate",A.a(["pos","v.","chinese","\u53e3\u8ff0"],s,s),"dictation",A.a(["pos","n.","chinese","\u53e3\u8ff0"],s,s),"dictator",A.a(["pos","n.","chinese","\u7368\u88c1\u8005"],s,s),"dictatorship",A.a(["pos","n.","chinese","\u7368\u88c1\u653f\u6b0a"],s,s),"diesel",A.a(["pos","n.","chinese","\u67f4\u6cb9"],s,s),"differentiate",A.a(["pos","v.","chinese","\u5340\u5225"],s,s),"diplomacy",A.a(["pos","n.","chinese","\u5916\u4ea4"],s,s),"directive",A.a(["pos","n.","chinese","\u6307\u4ee4"],s,s),"disable",A.a(["pos","v.","chinese","\u4f7f\u6b98\u5ee2"],s,s),"disastrous",A.a(["pos","adj.","chinese","\u707d\u96e3\u6027\u7684"],s,s),"disbelief",A.a(["pos","n.","chinese","\u4e0d\u4fe1"],s,s),"discard",A.a(["pos","v./n.","chinese","\u4e1f\u68c4"],s,s),"discharge",A.a(["pos","n./v.","chinese","\u6392\u653e\uff1b\u91cb\u653e"],s,s),"disciple",A.a(["pos","n.","chinese","\u9580\u5f92"],s,s),"disciplinary",A.a(["pos","adj.","chinese","\u7d00\u5f8b\u7684"],s,s),"disclosure",A.a(["pos","n.","chinese","\u62ab\u9732"],s,s),"discomfort",A.a(["pos","n./v.","chinese","\u4e0d\u9069"],s,s),"discreet",A.a(["pos","adj.","chinese","\u8b39\u614e\u7684"],s,s),"disgrace",A.a(["pos","n./v.","chinese","\u6065\u8fb1\uff1b\u4f7f\u5931\u6069\u5931\u611b"],s,s),"dismay",A.a(["pos","n./v.","chinese","\u9a5a\u6115\uff1b\u4f7f\u9a5a\u6115"],s,s),"dispensable",A.a(["pos","adj.","chinese","\u53ef\u6709\u53ef\u7121\u7684"],s,s),"dispense",A.a(["pos","v.","chinese","\u5206\u767c"],s,s),"disposable",A.a(["pos","adj./n.","chinese","\u4e00\u6b21\u6027\u7684\uff1b\u53ef\u52d5\u7528\u7684"],s,s),"disposal",A.a(["pos","n.","chinese","\u8655\u7406"],s,s),"dispose",A.a(["pos","v.","chinese","\u8655\u7406"],s,s),"dissent",A.a(["pos","n.","chinese","\u7570\u8b70"],s,s),"distraction",A.a(["pos","n.","chinese","\u5206\u5fc3"],s,s),"distress",A.a(["pos","n./v.","chinese","\u75db\u82e6\uff1b\u4f7f\u75db\u82e6"],s,s),"disturbance",A.a(["pos","n.","chinese","\u5e72\u64fe"],s,s),"diversify",A.a(["pos","v.","chinese","\u4f7f\u591a\u6a23\u5316"],s,s),"diversion",A.a(["pos","n.","chinese","\u8f49\u79fb"],s,s),"divert",A.a(["pos","v.","chinese","\u8f49\u79fb"],s,s),"dividend",A.a(["pos","n.","chinese","\u7d05\u5229"],s,s),"doom",A.a(["pos","n./v.","chinese","\u5384\u904b\uff1b\u6ce8\u5b9a"],s,s),"dormitory",A.a(["pos","n.","chinese","\u5bbf\u820d"],s,s),"downward",A.a(["pos","adj.","chinese","\u5411\u4e0b\u7684"],s,s),"downward",A.a(["pos","adv.","chinese","\u5411\u4e0b"],s,s),"doze",A.a(["pos","v./n.","chinese","\u6253\u778c\u7761"],s,s),"drastic",A.a(["pos","adj.","chinese","\u6fc0\u70c8\u7684"],s,s),"draught",A.a(["pos","n.","chinese","\u6c23\u6d41"],s,s),"dresser",A.a(["pos","n.","chinese","\u68b3\u599d\u53f0"],s,s),"dressing",A.a(["pos","n.","chinese","\u8abf\u5473\u54c1"],s,s),"dual",A.a(["pos","adj.","chinese","\u96d9\u91cd\u7684"],s,s),"dubious",A.a(["pos","adj.","chinese","\u53ef\u7591\u7684"],s,s),"fianc\xe9",A.a(["pos","n.","chinese","\u672a\u5a5a\u592b"],s,s),"fiance",A.a(["pos","n.","chinese","\u672a\u5a5a\u59bb"],s,s),"fin",A.a(["pos","n.","chinese","\u9c2d"],s,s),"finite",A.a(["pos","adj.","chinese","\u6709\u9650\u7684"],s,s),"firecracker",A.a(["pos","n.","chinese","\u97ad\u70ae"],s,s),"fireproof",A.a(["pos","adj.","chinese","\u9632\u706b\u7684"],s,s),"fishery",A.a(["pos","n.","chinese","\u6f01\u5834"],s,s),"duration",A.a(["pos","n.","chinese","\u6301\u7e8c\u6642\u9593"],s,s),"dusk",A.a(["pos","n.","chinese","\u9ec3\u660f"],s,s),"dwarf",A.a(["pos","n.","chinese","\u4f8f\u5112","pos","v.","chinese","\u4f7f\u986f\u5f97\u77ee\u5c0f"],s,s),"dwell",A.a(["pos","v.","chinese","\u5c45\u4f4f"],s,s),"dwelling",A.a(["pos","n.","chinese","\u4f4f\u6240"],s,s),"convene",A.a(["pos","v.","chinese","\u53ec\u96c6"],s,s),"coral",A.a(["pos","n.","chinese","\u73ca\u745a","adj.","\u73ca\u745a\u7684"],s,s),"corpse",A.a(["pos","n.","chinese","\u5c4d\u9ad4"],s,s),"correspondence",A.a(["pos","n.","chinese","\u4fe1\u4ef6\u5f80\u4f86"],s,s),"cosmetic",A.a(["pos","adj.","chinese","\u5316\u599d\u54c1\u7684"],s,s),"cosmetics",A.a(["pos","n.","chinese","\u5316\u599d\u54c1"],s,s),"counterpart",A.a(["pos","n.","chinese","\u5c0d\u61c9\u7684\u4eba\u6216\u7269"],s,s),"coupon",A.a(["pos","n.","chinese","\u512a\u60e0\u5238"],s,s),"courtyard",A.a(["pos","n.","chinese","\u5ead\u9662"],s,s),"cowardly",A.a(["pos","adj.","chinese","\u61e6\u5f31\u7684"],s,s),"cozy",A.a(["pos","adj.","chinese","\u8212\u9069\u7684"],s,s),"crackdown",A.a(["pos","n.","chinese","\u93ae\u58d3"],s,s),"cracker",A.a(["pos","n.","chinese","\u9905\u4e7e"],s,s),"cram",A.a(["pos","v.","chinese","\u585e\u6eff"],s,s),"cramp",A.a(["pos","n.","chinese","\u62bd\u7b4b","v.","\u4f7f\u62bd\u7b4b"],s,s),"crater",A.a(["pos","n.","chinese","\u5f48\u5751","v.","\u5f62\u6210\u5f48\u5751"],s,s),"credible",A.a(["pos","adj.","chinese","\u53ef\u4fe1\u7684"],s,s),"crocodile",A.a(["pos","n.","chinese","\u9c77\u9b5a"],s,s),"crossing",A.a(["pos","n.","chinese","\u4ea4\u53c9\u53e3"],s,s),"crutch",A.a(["pos","n.","chinese","\u62d0\u6756"],s,s),"cub",A.a(["pos","n.","chinese","\u5e7c\u7378"],s,s),"cucumber",A.a(["pos","n.","chinese","\u9ec3\u74dc"],s,s),"cultivate",A.a(["pos","v.","chinese","\u8015\u4f5c"],s,s),"cumulative",A.a(["pos","adj.","chinese","\u7d2f\u7a4d\u7684"],s,s),"curb",A.a(["pos","n.","chinese","\u63a7\u5236","v.","\u63a7\u5236"],s,s),"curfew",A.a(["pos","n.","chinese","\u5bb5\u7981"],s,s),"curry",A.a(["pos","n.","chinese","\u5496\u54e9"],s,s),"customary",A.a(["pos","adj.","chinese","\u7fd2\u6163\u7684"],s,s),"cynical",A.a(["pos","adj.","chinese","\u61a4\u4e16\u5ac9\u4fd7\u7684"],s,s),"dazzle",A.a(["pos","v.","chinese","\u4f7f\u7729\u76ee","n.","\u8000\u773c\u7684\u5149"],s,s),"deafen",A.a(["pos","v.","chinese","\u4f7f\u807e"],s,s),"decisive",A.a(["pos","adj.","chinese","\u679c\u65b7\u7684"],s,s),"dedication",A.a(["pos","n.","chinese","\u5949\u737b"],s,s),"deduct",A.a(["pos","v.","chinese","\u6263\u9664"],s,s),"deem",A.a(["pos","v.","chinese","\u8a8d\u70ba"],s,s),"default",A.a(["pos","n.","chinese","\u9055\u7d04","v.","\u672a\u5c65\u884c"],s,s),"defect",A.a(["pos","n.","chinese","\u7f3a\u9677","v.","\u80cc\u53db"],s,s),"defiance",A.a(["pos","n.","chinese","\u6311\u6230"],s,s),"definitive",A.a(["pos","adj.","chinese","\u660e\u78ba\u7684"],s,s),"dental",A.a(["pos","adj.","chinese","\u7259\u9f52\u7684"],s,s),"clasp",A.a(["pos","v./n.","chinese","\u6263\u4f4f\u3001\u6263\u74b0"],s,s),"clearance",A.a(["pos","n.","chinese","\u6e05\u6383\u3001\u6e05\u7406\u3001\u51c6\u8a31"],s,s),"climax",A.a(["pos","n./v.","chinese","\u9ad8\u6f6e\u3001\u9054\u5230\u9802\u9ede"],s,s),"clockwise",A.a(["pos","adv./adj.","chinese","\u9806\u6642\u91dd\u7684"],s,s),"clone",A.a(["pos","n./v.","chinese","\u514b\u9686\u3001\u8907\u88fd"],s,s),"closure",A.a(["pos","n.","chinese","\u7d50\u675f\u3001\u95dc\u9589"],s,s),"coalition",A.a(["pos","n.","chinese","\u806f\u76df\u3001\u5408\u4f5c"],s,s),"coastline",A.a(["pos","n.","chinese","\u6d77\u5cb8\u7dda"],s,s),"collision",A.a(["pos","n.","chinese","\u78b0\u649e"],s,s),"colloquial",A.a(["pos","adj.","chinese","\u53e3\u8a9e\u7684"],s,s),"comet",A.a(["pos","n.","chinese","\u5f57\u661f"],s,s),"commonplace",A.a(["pos","adj./n.","chinese","\u5e73\u51e1\u7684\u3001\u8001\u751f\u5e38\u8ac7"],s,s),"commonwealth",A.a(["pos","n.","chinese","\u806f\u90a6\u3001\u5171\u548c\u570b"],s,s),"communicative",A.a(["pos","adj.","chinese","\u5065\u8ac7\u7684"],s,s),"comparative",A.a(["pos","adj.","chinese","\u6bd4\u8f03\u7684"],s,s),"compass",A.a(["pos","n./v.","chinese","\u6307\u5357\u91dd\u3001\u570d\u7e5e\u3001\u5305\u570d"],s,s),"compile",A.a(["pos","v.","chinese","\u7de8\u5236"],s,s),"complement",A.a(["pos","v./n.","chinese","\u88dc\u5145\u3001\u914d\u5408\u7269"],s,s),"complexion",A.a(["pos","n.","chinese","\u819a\u8272"],s,s),"comprehensive",A.a(["pos","adj.","chinese","\u5168\u9762\u7684"],s,s),"compute",A.a(["pos","v.","chinese","\u8a08\u7b97"],s,s),"computerize",A.a(["pos","v.","chinese","\u96fb\u8166\u5316"],s,s),"comrade",A.a(["pos","n.","chinese","\u540c\u5fd7\u3001\u5925\u4f34"],s,s),"concession",A.a(["pos","n.","chinese","\u8b93\u6b65"],s,s),"concise",A.a(["pos","adj.","chinese","\u7c21\u6f54\u7684"],s,s),"condense",A.a(["pos","v.","chinese","\u51dd\u7d50"],s,s),"confederation",A.a(["pos","n.","chinese","\u806f\u76df\u3001\u90a6\u806f"],s,s),"congressman",A.a(["pos","n.","chinese","\u570b\u6703\u8b70\u54e1"],s,s),"congresswoman",A.a(["pos","n.","chinese","\u5973\u570b\u6703\u8b70\u54e1"],s,s),"conquest",A.a(["pos","n.","chinese","\u5f81\u670d"],s,s),"conscientious",A.a(["pos","adj.","chinese","\u8a8d\u771f\u8ca0\u8cac\u7684"],s,s),"conserve",A.a(["pos","v./n.","chinese","\u4fdd\u8b77\u3001\u4fdd\u5b58"],s,s),"consolation",A.a(["pos","n.","chinese","\u6170\u85c9"],s,s),"console",A.a(["pos","n./v.","chinese","\u63a7\u5236\u81fa\u3001\u5b89\u6170"],s,s),"consonant",A.a(["pos","n.","chinese","\u5b50\u97f3"],s,s),"conspiracy",A.a(["pos","n.","chinese","\u9670\u8b00"],s,s),"contention",A.a(["pos","n.","chinese","\u722d\u8faf"],s,s),"contestant",A.a(["pos","n.","chinese","\u7af6\u722d\u8005"],s,s),"continuity",A.a(["pos","n.","chinese","\u9023\u7e8c\u6027"],s,s),"contradict",A.a(["pos","v.","chinese","\u53cd\u99c1"],s,s),"calligraphy",A.a(["pos","n.","chinese","\u66f8\u6cd5"],s,s),"cape",A.a(["pos","n.","chinese","\u62ab\u80a9\u3001\u6d77\u89d2"],s,s),"capsule",A.a(["pos","n.","chinese","\u81a0\u56ca"],s,s),"caption",A.a(["pos","n./v.","chinese","\u6a19\u984c\u3001\u52a0\u6a19\u984c"],s,s),"captive",A.a(["pos","adj./n.","chinese","\u88ab\u4fd8\u865c\u7684\u3001\u56da\u72af"],s,s),"captivity",A.a(["pos","n.","chinese","\u56da\u7981"],s,s),"cardboard",A.a(["pos","n.","chinese","\u7d19\u677f"],s,s),"cardinal",A.a(["pos","n./adj.","chinese","\u7d05\u8863\u4e3b\u6559\u3001\u57fa\u672c\u7684"],s,s),"carefree",A.a(["pos","adj.","chinese","\u7121\u6182\u7121\u616e\u7684"],s,s),"caretaker",A.a(["pos","n.","chinese","\u770b\u8b77\u4eba"],s,s),"carton",A.a(["pos","n.","chinese","\u7d19\u76d2"],s,s),"cashier",A.a(["pos","n.","chinese","\u51fa\u7d0d\u54e1"],s,s),"casualty",A.a(["pos","n.","chinese","\u50b7\u4ea1\u4eba\u54e1"],s,s),"catastrophe",A.a(["pos","n.","chinese","\u707d\u96e3"],s,s),"cater",A.a(["pos","v.","chinese","\u8fce\u5408"],s,s),"caterpillar",A.a(["pos","n.","chinese","\u6bdb\u87f2"],s,s),"cavity",A.a(["pos","n.","chinese","\u8154\u3001\u6d1e"],s,s),"celery",A.a(["pos","n.","chinese","\u82b9\u83dc"],s,s),"cellular",A.a(["pos","adj.","chinese","\u7d30\u80de\u7684"],s,s),"Celsius",A.a(["pos","n.","chinese","\u651d\u6c0f"],s,s),"cement",A.a(["pos","n./v.","chinese","\u6c34\u6ce5\u3001\u978f\u56fa"],s,s),"census",A.a(["pos","n.","chinese","\u4eba\u53e3\u666e\u67e5"],s,s),"ceramic",A.a(["pos","adj./n.","chinese","\u9676\u74f7\u7684"],s,s),"certify",A.a(["pos","v.","chinese","\u8b49\u660e"],s,s),"chairperson",A.a(["pos","n.","chinese","\u4e3b\u5e2d"],s,s),"champagne",A.a(["pos","n.","chinese","\u9999\u6ab3"],s,s),"chant",A.a(["pos","n./v.","chinese","\u6b4c\u5531\u3001\u541f\u8aa6"],s,s),"charitable",A.a(["pos","adj.","chinese","\u6148\u5584\u7684"],s,s),"checkup",A.a(["pos","n.","chinese","\u6aa2\u67e5"],s,s),"chemist",A.a(["pos","n.","chinese","\u5316\u5b78\u5bb6\u3001\u85e5\u5291\u5e2b"],s,s),"chestnut",A.a(["pos","n./adj.","chinese","\u6817\u5b50\u3001\u6817\u8272\u7684"],s,s),"chili",A.a(["pos","n.","chinese","\u8fa3\u6912"],s,s),"chimpanzee",A.a(["pos","n.","chinese","\u9ed1\u7329\u7329"],s,s),"chirp",A.a(["pos","n./v.","chinese","\u5541\u557e\u3001\u5541\u557e\u8072"],s,s),"cholesterol",A.a(["pos","n.","chinese","\u81bd\u56fa\u9187"],s,s),"cigar",A.a(["pos","n.","chinese","\u96ea\u8304"],s,s),"civilize",A.a(["pos","v.","chinese","\u4f7f\u6587\u660e"],s,s),"clam",A.a(["pos","n.","chinese","\u86e4\u870a"],s,s),"backbone",A.a(["pos","n.","chinese","\u810a\u690e\u3001\u652f\u67f1"],s,s),"badge",A.a(["pos","n.","chinese","\u5fbd\u7ae0"],s,s),"banquet",A.a(["pos","n./v.","chinese","\u5bb4\u6703"],s,s),"barbarian",A.a(["pos","adj./n.","chinese","\u91ce\u883b\u7684\u3001\u91ce\u883b\u4eba"],s,s),"bass",A.a(["pos","n./adj.","chinese","\u4f4e\u97f3\u3001\u4f4e\u97f3\u7684"],s,s),"batter",A.a(["pos","n./v.","chinese","\u6253\u64ca\u8005\u3001\u9023\u7e8c\u6253\u64ca"],s,s),"beautify",A.a(["pos","v.","chinese","\u7f8e\u5316"],s,s),"beep",A.a(["pos","n./v.","chinese","\u55f6\u55f6\u8072\u3001\u55f6\u55f6\u97ff"],s,s),"beforehand",A.a(["pos","adv.","chinese","\u4e8b\u5148"],s,s),"beverage",A.a(["pos","n.","chinese","\u98f2\u6599"],s,s),"bilateral",A.a(["pos","adj.","chinese","\u96d9\u908a\u7684"],s,s),"blaze",A.a(["pos","n./v.","chinese","\u706b\u7130\u3001\u71c3\u71d2"],s,s),"bleach",A.a(["pos","n./v.","chinese","\u6f02\u767d\u5291\u3001\u6f02\u767d"],s,s),"blond/blonde",A.a(["pos","n./adj.","chinese","\u91d1\u9aee\u4eba\u3001\u91d1\u8272\u7684"],s,s),"blot",A.a(["pos","v./n.","chinese","\u6c61\u6f2c\u3001\u62b9\u53bb"],s,s),"blunt",A.a(["pos","adj./v.","chinese","\u920d\u7684\u3001\u4f7f\u8b8a\u920d"],s,s),"bodily",A.a(["pos","adj./adv.","chinese","\u8eab\u9ad4\u7684\u3001\u89aa\u8eab\u5730"],s,s),"booklet",A.a(["pos","n.","chinese","\u5c0f\u518a\u5b50"],s,s),"bosom",A.a(["pos","n.","chinese","\u80f8\u3001\u80f8\u61f7"],s,s),"boulevard",A.a(["pos","n.","chinese","\u6797\u852d\u5927\u9053"],s,s),"boxing",A.a(["pos","n.","chinese","\u62f3\u64ca"],s,s),"boycott",A.a(["pos","n./v.","chinese","\u62b5\u5236"],s,s),"brace",A.a(["pos","n./v.","chinese","\u652f\u67b6\u3001\u652f\u6490"],s,s),"brassiere/bra",A.a(["pos","n.","chinese","\u80f8\u7f69"],s,s),"breadth",A.a(["pos","n.","chinese","\u5bec\u5ea6"],s,s),"breakdown",A.a(["pos","n.","chinese","\u6545\u969c\u3001\u5d29\u6f70"],s,s),"breakup",A.a(["pos","n.","chinese","\u5206\u88c2"],s,s),"bribe",A.a(["pos","n./v.","chinese","\u8cc4\u8cc2"],s,s),"brink",A.a(["pos","n.","chinese","\u908a\u7de3"],s,s),"broaden",A.a(["pos","v.","chinese","\u64f4\u5927"],s,s),"brochure",A.a(["pos","n.","chinese","\u5c0f\u518a\u5b50"],s,s),"broil",A.a(["pos","v.","chinese","\u70e4"],s,s),"brook",A.a(["pos","n.","chinese","\u5c0f\u6eaa"],s,s),"broth",A.a(["pos","n.","chinese","\u6e6f"],s,s),"brotherhood",A.a(["pos","n.","chinese","\u624b\u8db3\u60c5\u8abc"],s,s),"bulky",A.a(["pos","adj.","chinese","\u7b28\u91cd\u7684"],s,s),"bureaucrat",A.a(["pos","n.","chinese","\u5b98\u50da"],s,s),"bypass",A.a(["pos","n./v.","chinese","\u65c1\u8def\u3001\u7e5e\u9053"],s,s),"caffeine",A.a(["pos","n.","chinese","\u5496\u5561\u56e0"],s,s),"calculator",A.a(["pos","n.","chinese","\u8a08\u7b97\u5668"],s,s),"allege",A.a(["pos","v.","chinese","\u5ba3\u7a31"],s,s),"alligator",A.a(["pos","n.","chinese","\u9c77\u9b5a"],s,s),"altitude",A.a(["pos","n.","chinese","\u9ad8\u5ea6"],s,s),"aluminum",A.a(["pos","n.","chinese","\u92c1"],s,s),"ambiguity",A.a(["pos","n.","chinese","\u542b\u7cca"],s,s),"amid/amidst",A.a(["pos","prep.","chinese","\u5728...\u4e4b\u4e2d"],s,s),"amplify",A.a(["pos","v.","chinese","\u653e\u5927"],s,s),"analogy",A.a(["pos","n.","chinese","\u985e\u6bd4"],s,s),"analytical",A.a(["pos","adj.","chinese","\u5206\u6790\u7684"],s,s),"anchor",A.a(["pos","n./v.","chinese","\u9328\u3001\u56fa\u5b9a"],s,s),"animate",A.a(["pos","v./adj.","chinese","\u4f7f\u6709\u751f\u6c23\u3001\u6d3b\u6f51\u7684"],s,s),"annoyance",A.a(["pos","n.","chinese","\u7169\u60f1"],s,s),"anthem",A.a(["pos","n.","chinese","\u570b\u6b4c"],s,s),"antibiotic",A.a(["pos","n./adj.","chinese","\u6297\u751f\u7d20\u3001\u6297\u83cc\u7684"],s,s),"anticipation",A.a(["pos","n.","chinese","\u671f\u5f85"],s,s),"antonym",A.a(["pos","n.","chinese","\u53cd\u7fa9\u8a5e"],s,s),"applaud",A.a(["pos","v.","chinese","\u9f13\u638c"],s,s),"applicable",A.a(["pos","adj.","chinese","\u9069\u7528\u7684"],s,s),"apprentice",A.a(["pos","n.","chinese","\u5b78\u5f92"],s,s),"approximate",A.a(["pos","adj./v.","chinese","\u5927\u7d04\u7684\u3001\u63a5\u8fd1"],s,s),"archaeology",A.a(["pos","n.","chinese","\u8003\u53e4\u5b78"],s,s),"archive",A.a(["pos","n.","chinese","\u6a94\u6848\u9928"],s,s),"arithmetic",A.a(["pos","n./adj.","chinese","\u7b97\u8853\u3001\u7b97\u8853\u7684"],s,s),"ascend",A.a(["pos","v.","chinese","\u4e0a\u5347"],s,s),"aspire",A.a(["pos","v.","chinese","\u7acb\u5fd7"],s,s),"assassinate",A.a(["pos","v.","chinese","\u523a\u6bba"],s,s),"asthma",A.a(["pos","n.","chinese","\u54ee\u5598"],s,s),"astray",A.a(["pos","adv./adj.","chinese","\u8aa4\u5165\u6b67\u9014"],s,s),"astronaut",A.a(["pos","n.","chinese","\u5b87\u822a\u54e1"],s,s),"astronomer",A.a(["pos","n.","chinese","\u5929\u6587\u5b78\u5bb6"],s,s),"astronomy",A.a(["pos","n.","chinese","\u5929\u6587\u5b78"],s,s),"attain(ment)",A.a(["pos","v./(n.)","chinese","\u9054\u5230\u3001\u9054\u6210"],s,s),"attendant",A.a(["pos","n.","chinese","\u670d\u52d9\u54e1"],s,s),"audit",A.a(["pos","n.","chinese","\u5be9\u8a08"],s,s),"auditorium",A.a(["pos","n.","chinese","\u79ae\u5802"],s,s),"avert",A.a(["pos","v.","chinese","\u907f\u514d"],s,s),"aviation",A.a(["pos","n.","chinese","\u822a\u7a7a"],s,s),"awesome",A.a(["pos","adj.","chinese","\u4ee4\u4eba\u656c\u754f\u7684"],s,s),"awhile",A.a(["pos","adv.","chinese","\u4e00\u6703\u5152"],s,s),"bachelor",A.a(["pos","n.","chinese","\u55ae\u8eab\u6f22"],s,s),"worship",A.a(["pos","n./v.","chinese","\u5d07\u62dc\u3001\u656c\u62dc"],s,s),"worthwhile",A.a(["pos","adj.","chinese","\u503c\u5f97\u7684"],s,s),"worthy",A.a(["pos","adj.","chinese","\u503c\u5f97\u7684"],s,s),"yacht",A.a(["pos","n./v.","chinese","\u904a\u8247"],s,s),"yield",A.a(["pos","v./n.","chinese","\u7522\u751f\u3001\u5c48\u670d"],s,s),"abbreviate",A.a(["pos","v.","chinese","\u7e2e\u5beb"],s,s),"abide",A.a(["pos","v.","chinese","\u9075\u5b88\u3001\u5fcd\u53d7"],s,s),"aboriginal",A.a(["pos","adj./n.","chinese","\u571f\u8457\u7684\u3001\u539f\u4f4f\u6c11"],s,s),"abound",A.a(["pos","v.","chinese","\u5145\u6eff\u3001\u5927\u91cf\u5b58\u5728"],s,s),"abstraction",A.a(["pos","n.","chinese","\u62bd\u8c61\u6982\u5ff5"],s,s),"abundance",A.a(["pos","n.","chinese","\u8c50\u5bcc\u3001\u5145\u88d5"],s,s),"academy",A.a(["pos","n.","chinese","\u5b78\u9662"],s,s),"accessory",A.a(["pos","n./adj.","chinese","\u914d\u4ef6\u3001\u9644\u4ef6\uff1b\u9644\u5c6c\u7684"],s,s),"acclaim",A.a(["pos","n./v.","chinese","\u7a31\u8b9a\u3001\u8b9a\u63da"],s,s),"accordance",A.a(["pos","n.","chinese","\u4e00\u81f4\u3001\u7b26\u5408"],s,s),"accordingly",A.a(["pos","adv.","chinese","\u56e0\u6b64\u3001\u76f8\u61c9\u5730"],s,s),"accountable",A.a(["pos","adj.","chinese","\u8ca0\u8cac\u7684"],s,s),"accumulate",A.a(["pos","v.","chinese","\u7a4d\u7d2f\u3001\u7d2f\u7a4d"],s,s),"accumulation",A.a(["pos","n.","chinese","\u7a4d\u7d2f\u3001\u7d2f\u7a4d"],s,s),"accusation",A.a(["pos","n.","chinese","\u6307\u63a7\u3001\u63a7\u544a"],s,s),"accustom",A.a(["pos","v.","chinese","\u4f7f\u7fd2\u6163"],s,s),"acne",A.a(["pos","n.","chinese","\u9752\u6625\u75d8"],s,s),"acre",A.a(["pos","n.","chinese","\u82f1\u755d"],s,s),"adaptation",A.a(["pos","n.","chinese","\u9069\u61c9\u3001\u6539\u7de8"],s,s),"addiction",A.a(["pos","n.","chinese","\u4e0a\u766e\u3001\u6210\u766e"],s,s),"administer/administrate",A.a(["pos","v.","chinese","\u7ba1\u7406\u3001\u7d66\u4e88"],s,s),"admiral",A.a(["pos","n.","chinese","\u6d77\u8ecd\u4e0a\u5c07"],s,s),"adolescence",A.a(["pos","n.","chinese","\u9752\u6625\u671f"],s,s),"advisory",A.a(["pos","adj.","chinese","\u8aee\u8a62\u7684\u3001\u63d0\u4f9b\u54a8\u8a62\u7684"],s,s),"aesthetic",A.a(["pos","adj.","chinese","\u7f8e\u5b78\u7684"],s,s),"affectionate",A.a(["pos","adj.","chinese","\u6df1\u60c5\u7684\u3001\u5145\u6eff\u611b\u610f\u7684"],s,s),"affiliate",A.a(["pos","n.","chinese","\u5206\u652f\u6a5f\u69cb"],s,s),"affirm",A.a(["pos","v.","chinese","\u78ba\u8a8d\u3001\u80af\u5b9a"],s,s),"airtight",A.a(["pos","adj.","chinese","\u5bc6\u5c01\u7684"],s,s),"airway",A.a(["pos","n.","chinese","\u6c23\u9053"],s,s),"algebra",A.a(["pos","n.","chinese","\u4ee3\u6578"],s,s),"alienate",A.a(["pos","v.","chinese","\u758f\u9060\u3001\u4f7f\u758f\u96e2"],s,s),"align",A.a(["pos","v.","chinese","\u5c0d\u9f4a"],s,s),"vendor",A.a(["pos","n.","chinese","\u4f9b\u61c9\u5546\u3001\u8ce3\u65b9"],s,s),"venture",A.a(["pos","n./v.","chinese","\u5192\u96aa\u3001\u6295\u6a5f\uff1b\u5192\u96aa\u884c\u52d5"],s,s),"venue",A.a(["pos","n.","chinese","\u5834\u5730\u3001\u5730\u9ede"],s,s),"verbal",A.a(["pos","adj./n.","chinese","\u53e3\u982d\u7684\u3001\u52d5\u8a5e\u7684"],s,s),"verdict",A.a(["pos","n.","chinese","\u88c1\u6c7a\u3001\u5224\u6c7a"],s,s),"version",A.a(["pos","n.","chinese","\u7248\u672c\u3001\u8b6f\u672c"],s,s),"versus",A.a(["pos","prep.","chinese","\u5c0d\u3001\u8207...\u76f8\u5c0d"],s,s),"vertical",A.a(["pos","adj./n.","chinese","\u5782\u76f4\u7684\u3001\u8c4e\u76f4\u7684\uff1b\u5782\u76f4\u7dda"],s,s),"veteran",A.a(["pos","n.","chinese","\u8001\u5175\u3001\u8001\u624b"],s,s),"via",A.a(["pos","prep.","chinese","\u901a\u904e\u3001\u7d93\u7531"],s,s),"vble",A.a(["pos","adj.","chinese","\u53ef\u884c\u7684\u3001\u80fd\u6d3b\u4e0b\u53bb\u7684"],s,s),"vicious",A.a(["pos","adj.","chinese","\u90aa\u60e1\u7684\u3001\u60e1\u6bd2\u7684"],s,s),"viewer",A.a(["pos","n.","chinese","\u89c0\u773e\u3001\u89c0\u5bdf\u8005"],s,s),"viewpoint",A.a(["pos","n.","chinese","\u89c0\u9ede\u3001\u770b\u6cd5"],s,s),"vinegar",A.a(["pos","n.","chinese","\u918b"],s,s),"virtual",A.a(["pos","adj.","chinese","\u865b\u64ec\u7684\u3001\u5be6\u8cea\u4e0a\u7684"],s,s),"visa",A.a(["pos","n.","chinese","\u7c3d\u8b49"],s,s),"vocal",A.a(["pos","adj./n.","chinese","\u8072\u97f3\u7684\u3001\u6b4c\u5531\u7684\uff1b\u8072\u6a02\u5bb6"],s,s),"volcano",A.a(["pos","n.","chinese","\u706b\u5c71"],s,s),"vomit",A.a(["pos","n./v.","chinese","\u5614\u5410\u3001\u5641\u5fc3"],s,s),"voucher",A.a(["pos","n.","chinese","\u6298\u50f9\u5238\u3001\u4ee3\u91d1\u5238"],s,s),"vow",A.a(["pos","n./v.","chinese","\u8a93\u8a00\u3001\u7acb\u8a93"],s,s),"vulnerable",A.a(["pos","adj.","chinese","\u6613\u53d7\u50b7\u5bb3\u7684\u3001\u8106\u5f31\u7684"],s,s),"warehouse",A.a(["pos","n./v.","chinese","\u5009\u5eab\u3001\u8caf\u85cf\uff1b\u5132\u5b58"],s,s),"warrior",A.a(["pos","n.","chinese","\u6230\u58eb\u3001\u52c7\u58eb"],s,s),"wary",A.a(["pos","adj.","chinese","\u8b66\u60d5\u7684\u3001\u8b39\u614e\u7684"],s,s),"weird",A.a(["pos","adj.","chinese","\u5947\u602a\u7684\u3001\u602a\u7570\u7684"],s,s),"whatsoever",A.a(["pos","adj./pron.","chinese","\u4efb\u4f55\u7684\u3001\u6beb\u7121"],s,s),"wheelchair",A.a(["pos","n.","chinese","\u8f2a\u6905"],s,s),"whereabouts",A.a(["pos","n./adv.","chinese","\u4e0b\u843d\u3001\u884c\u8e64\uff1b\u5728\u4f55\u8655"],s,s),"whereas",A.a(["pos","conj.","chinese","\u7136\u800c\u3001\u9452\u65bc"],s,s),"whine",A.a(["pos","n./v.","chinese","\u7262\u9a37\u8072\u3001\u62b1\u6028\u8072\uff1b\u767c\u7262\u9a37"],s,s),"widespread",A.a(["pos","adj.","chinese","\u666e\u904d\u7684\u3001\u5ee3\u6cdb\u7684"],s,s),"wig",A.a(["pos","n.","chinese","\u5047\u9aee"],s,s),"wilderness",A.a(["pos","n.","chinese","\u8352\u91ce\u3001\u8352\u6f20"],s,s),"wildlife",A.a(["pos","n.","chinese","\u91ce\u751f\u52d5\u690d\u7269"],s,s),"windshield",A.a(["pos","n.","chinese","\u64cb\u98a8\u73bb\u7483"],s,s),"wither",A.a(["pos","v.","chinese","\u51cb\u8b1d\u3001\u67af\u840e"],s,s),"witty",A.a(["pos","adj.","chinese","\u6a5f\u667a\u7684\u3001\u8a7c\u8ae7\u98a8\u8da3\u7684"],s,s),"workshop",A.a(["pos","n.","chinese","\u7814\u8a0e\u6703\u3001\u5de5\u4f5c\u574a"],s,s),"tackle",A.a(["pos","v.","chinese","\u61c9\u5c0d"],s,s),"tactic(s)",A.a(["pos","n.","chinese","\u7b56\u7565"],s,s),"tangle",A.a(["pos","n./v.","chinese","\u6df7\u4e82"],s,s),"tempt",A.a(["pos","v.","chinese","\u8a98\u60d1"],s,s),"temptation",A.a(["pos","n.","chinese","\u8a98\u60d1"],s,s),"terminal",A.a(["pos","n./adj.","chinese","\u7d42\u7aef"],s,s),"terrify",A.a(["pos","v.","chinese","\u6050\u5687"],s,s),"testify",A.a(["pos","v.","chinese","\u4f5c\u8b49"],s,s),"texture",A.a(["pos","n./v.","chinese","\u8cea\u5730"],s,s),"theft",A.a(["pos","n.","chinese","\u5077\u7aca"],s,s),"theology",A.a(["pos","n.","chinese","\u795e\u5b78"],s,s),"theoretical",A.a(["pos","adj.","chinese","\u7406\u8ad6\u7684"],s,s),"therapist",A.a(["pos","n.","chinese","\u6cbb\u7642\u5e2b"],s,s),"therapy",A.a(["pos","n.","chinese","\u6cbb\u7642"],s,s),"thereby",A.a(["pos","adv.","chinese","\u56e0\u6b64"],s,s),"thesis",A.a(["pos","n.","chinese","\u8ad6\u6587"],s,s),"thigh",A.a(["pos","n.","chinese","\u5927\u817f"],s,s),"threshold",A.a(["pos","n.","chinese","\u95be\u503c"],s,s),"thrill",A.a(["pos","n./v.","chinese","\u8208\u596e"],s,s),"thriller",A.a(["pos","n.","chinese","\u9a5a\u609a\u7247"],s,s),"thrive",A.a(["pos","v.","chinese","\u8208\u65fa"],s,s),"throne",A.a(["pos","n.","chinese","\u738b\u5ea7"],s,s),"thrust",A.a(["pos","v./n.","chinese","\u63a8\u9032"],s,s),"tick",A.a(["pos","n./v.","chinese","\u6253\u52fe"],s,s),"tile",A.a(["pos","n./v.","chinese","\u74f7\u78da"],s,s),"tin",A.a(["pos","n./v.","chinese","\u932b"],s,s),"toll",A.a(["pos","n./v.","chinese","\u901a\u884c\u8cbb"],s,s),"torch",A.a(["pos","n./v.","chinese","\u706b\u70ac"],s,s),"torment",A.a(["pos","n./v.","chinese","\u6298\u78e8"],s,s),"tournament",A.a(["pos","n.","chinese","\u9326\u6a19\u8cfd"],s,s),"toxic",A.a(["pos","adj.","chinese","\u6709\u6bd2\u7684"],s,s),"trait",A.a(["pos","n.","chinese","\u7279\u5fb5"],s,s),"traitor",A.a(["pos","n.","chinese","\u53db\u5f92"],s,s),"transaction",A.a(["pos","n.","chinese","\u4ea4\u6613"],s,s),"transformation",A.a(["pos","n.","chinese","\u8f49\u8b8a"],s,s),"transit",A.a(["pos","n./v.","chinese","\u904e\u6e21"],s,s),"transition",A.a(["pos","n.","chinese","\u8f49\u8b8a"],s,s),"transmission",A.a(["pos","n.","chinese","\u50b3\u8f38"],s,s),"transparent",A.a(["pos","adj.","chinese","\u900f\u660e\u7684"],s,s),"trauma",A.a(["pos","n.","chinese","\u5275\u50b7"],s,s),"treaty",A.a(["pos","n.","chinese","\u689d\u7d04"],s,s),"tribute",A.a(["pos","n.","chinese","\u8ca2\u54c1"],s,s),"trigger",A.a(["pos","n./v.","chinese","\u89f8\u767c"],s,s),"trim",A.a(["pos","v./n./adj.","chinese","\u4fee\u526a"],s,s),"triple",A.a(["pos","adj./v./n.","chinese","\u4e09\u500d"],s,s),"trivial",A.a(["pos","adj.","chinese","\u7410\u788e\u7684"],s,s),"trophy",A.a(["pos","n.","chinese","\u734e\u676f"],s,s),"tuition",A.a(["pos","n.","chinese","\u5b78\u8cbb"],s,s),"tumor",A.a(["pos","n.","chinese","\u816b\u7624"],s,s),"tuna",A.a(["pos","n.","chinese","\u91d1\u69cd\u9b5a"],s,s),"ultimate",A.a(["pos","adj./n.","chinese","\u6700\u7d42\u7684"],s,s),"uncover",A.a(["pos","v.","chinese","\u63ed\u9732"],s,s),"undergo",A.a(["pos","v.","chinese","\u7d93\u6b77"],s,s),"undergraduate",A.a(["pos","n.","chinese","\u672c\u79d1\u751f"],s,s),"underline",A.a(["pos","v./n.","chinese","\u5f37\u8abf"],s,s),"undermine",A.a(["pos","v.","chinese","\u524a\u5f31"],s,s),"undertake",A.a(["pos","v.","chinese","\u627f\u64d4"],s,s),"undo",A.a(["pos","v.","chinese","\u53d6\u6d88"],s,s),"undoubtedly",A.a(["pos","adv.","chinese","\u7121\u7591\u5730"],s,s),"unemployment",A.a(["pos","n.","chinese","\u5931\u696d"],s,s),"unfold",A.a(["pos","v.","chinese","\u5c55\u958b"],s,s),"unlock",A.a(["pos","v.","chinese","\u89e3\u9396"],s,s),"unprecedented",A.a(["pos","adj.","chinese","\u524d\u6240\u672a\u6709\u7684"],s,s),"update",A.a(["pos","n./v.","chinese","\u66f4\u65b0"],s,s),"upgrade",A.a(["pos","v./n.","chinese","\u5347\u7d1a"],s,s),"utility",A.a(["pos","n.","chinese","\u6548\u7528"],s,s),"utilize",A.a(["pos","v.","chinese","\u5229\u7528"],s,s),"vacuum",A.a(["pos","n./v.","chinese","\u771f\u7a7a"],s,s),"vague",A.a(["pos","adj.","chinese","\u6a21\u7cca\u7684"],s,s),"valid",A.a(["pos","adj.","chinese","\u6709\u6548\u7684"],s,s),"variable",A.a(["pos","n./adj.","chinese","\u8b8a\u91cf"],s,s),"variation",A.a(["pos","n.","chinese","\u8b8a\u5316"],s,s),"vein",A.a(["pos","n.","chinese","\u975c\u8108"],s,s),"suspend",A.a(["pos","v.","chinese","\u66ab\u505c"],s,s),"sustain",A.a(["pos","v.","chinese","\u7dad\u6301"],s,s),"sustainable",A.a(["pos","adj.","chinese","\u53ef\u6301\u7e8c\u7684"],s,s),"swap",A.a(["pos","v./n.","chinese","\u4ea4\u63db"],s,s),"symbolic",A.a(["pos","adj.","chinese","\u8c61\u5fb5\u6027\u7684"],s,s),"symptom",A.a(["pos","n.","chinese","\u75c7\u72c0"],s,s),"syndrome",A.a(["pos","n.","chinese","\u7d9c\u5408\u5fb5"],s,s),"spectacular",A.a(["pos","adj./n.","chinese","\u58ef\u89c0\u7684"],s,s),"spectator",A.a(["pos","n.","chinese","\u89c0\u773e"],s,s),"spectrum",A.a(["pos","n.","chinese","\u5149\u8b5c"],s,s),"speculate",A.a(["pos","v.","chinese","\u63a8\u6e2c"],s,s),"sphere",A.a(["pos","n.","chinese","\u7403\u9ad4"],s,s),"spicy",A.a(["pos","adj.","chinese","\u8fa3\u7684"],s,s),"spine",A.a(["pos","n.","chinese","\u810a\u67f1"],s,s),"sponge",A.a(["pos","n./v.","chinese","\u6d77\u7dbf"],s,s),"sponsor",A.a(["pos","n./v.","chinese","\u8d0a\u52a9\u8005"],s,s),"sponsorship",A.a(["pos","n.","chinese","\u8d0a\u52a9"],s,s),"spouse",A.a(["pos","n.","chinese","\u914d\u5076"],s,s),"squad",A.a(["pos","n.","chinese","\u5c0f\u968a"],s,s),"squash",A.a(["pos","n./v.","chinese","\u58d3\u788e"],s,s),"squat",A.a(["pos","adj./n./v.","chinese","\u8e72\u59ff\u7684"],s,s),"stability",A.a(["pos","n.","chinese","\u7a69\u5b9a\u6027"],s,s),"stack",A.a(["pos","n./v.","chinese","\u5806\u758a"],s,s),"stain",A.a(["pos","n./v.","chinese","\u6c61\u6f2c"],s,s),"stake",A.a(["pos","n./v.","chinese","\u8ced\u6ce8"],s,s),"stall",A.a(["pos","n./v.","chinese","\u6524\u4f4d"],s,s),"stance",A.a(["pos","n.","chinese","\u7acb\u5834"],s,s),"startle",A.a(["pos","v.","chinese","\u9a5a\u5687"],s,s),"statistical",A.a(["pos","adj.","chinese","\u7d71\u8a08\u7684"],s,s),"steer",A.a(["pos","v./n.","chinese","\u5f15\u5c0e"],s,s),"stereotype",A.a(["pos","n./v.","chinese","\u523b\u677f\u5370\u8c61"],s,s),"stew",A.a(["pos","n./v.","chinese","\u71c9\u83dc"],s,s),"stimulate",A.a(["pos","v.","chinese","\u523a\u6fc0"],s,s),"stimulus",A.a(["pos","n.","chinese","\u523a\u6fc0"],s,s),"stink",A.a(["pos","n./v.","chinese","\u81ed\u5473"],s,s),"stock",A.a(["pos","n.","chinese","\u80a1\u7968"],s,s),"storage",A.a(["pos","n.","chinese","\u5b58\u5132"],s,s),"straighten",A.a(["pos","v.","chinese","\u62c9\u76f4"],s,s),"straightforward",A.a(["pos","adj.","chinese","\u76f4\u63a5\u7684"],s,s),"strain",A.a(["pos","n./v.","chinese","\u58d3\u529b"],s,s),"strand",A.a(["pos","v./n.","chinese","\u7e69"],s,s),"strap",A.a(["pos","n./v.","chinese","\u5e36"],s,s),"strategic",A.a(["pos","adj.","chinese","\u6230\u7565\u7684"],s,s),"striking",A.a(["pos","adj.","chinese","\u986f\u8457\u7684"],s,s),"structural",A.a(["pos","adj.","chinese","\u7d50\u69cb\u7684"],s,s),"stumble",A.a(["pos","v./n.","chinese","\u7d46\u5012"],s,s),"sturdy",A.a(["pos","adj.","chinese","\u5805\u56fa\u7684"],s,s),"submit",A.a(["pos","v.","chinese","\u63d0\u4ea4"],s,s),"subsequent",A.a(["pos","adj.","chinese","\u96a8\u5f8c\u7684"],s,s),"subsidy",A.a(["pos","n.","chinese","\u88dc\u8cbc"],s,s),"substantial",A.a(["pos","adj.","chinese","\u5be6\u8cea\u7684"],s,s),"substitute",A.a(["pos","n./v.","chinese","\u66ff\u4ee3\u54c1"],s,s),"subtle",A.a(["pos","adj.","chinese","\u5fae\u5999\u7684"],s,s),"suburban",A.a(["pos","adj.","chinese","\u90ca\u5340\u7684"],s,s),"successor",A.a(["pos","n.","chinese","\u7e7c\u4efb\u8005"],s,s),"suite",A.a(["pos","n.","chinese","\u5957\u623f"],s,s),"superb",A.a(["pos","adj.","chinese","\u6975\u597d\u7684"],s,s),"superstition",A.a(["pos","n.","chinese","\u8ff7\u4fe1"],s,s),"supervise",A.a(["pos","v.","chinese","\u76e3\u7763"],s,s),"supervision",A.a(["pos","n.","chinese","\u76e3\u7763"],s,s),"supervisor",A.a(["pos","n.","chinese","\u4e3b\u7ba1"],s,s),"supposedly",A.a(["pos","adv.","chinese","\u64da\u8aaa"],s,s),"supreme",A.a(["pos","adj.","chinese","\u81f3\u9ad8\u7684"],s,s),"surplus",A.a(["pos","n./adj.","chinese","\u5269\u9918\u7684"],s,s),"surveillance",A.a(["pos","n.","chinese","\u76e3\u8996"],s,s),"scheme",A.a(["pos","n./v.","chinese","\u8a08\u756b"],s,s),"scope",A.a(["pos","n.","chinese","\u7bc4\u570d"],s,s),"scramble",A.a(["pos","v./n.","chinese","\u722d\u596a"],s,s),"scrap",A.a(["pos","n./v.","chinese","\u788e\u7247"],s,s),"script",A.a(["pos","n./v.","chinese","\u5287\u672c"],s,s),"sector",A.a(["pos","n.","chinese","\u90e8\u9580"],s,s),"segment",A.a(["pos","n./v.","chinese","\u90e8\u5206"],s,s),"seminar",A.a(["pos","n.","chinese","\u7814\u8a0e\u6703"],s,s),"senator",A.a(["pos","n.","chinese","\u53c3\u8b70\u54e1"],s,s),"sensation",A.a(["pos","n.","chinese","\u611f\u89ba"],s,s),"sensitivity",A.a(["pos","n.","chinese","\u654f\u611f\u6027"],s,s),"sensor",A.a(["pos","n.","chinese","\u611f\u6e2c\u5668"],s,s),"sentiment",A.a(["pos","n.","chinese","\u60c5\u611f"],s,s),"sentimental",A.a(["pos","adj.","chinese","\u591a\u6101\u5584\u611f\u7684"],s,s),"sequence",A.a(["pos","n./v.","chinese","\u5e8f\u5217"],s,s),"series",A.a(["pos","n.","chinese","\u7cfb\u5217"],s,s),"server",A.a(["pos","n.","chinese","\u4f3a\u670d\u5668"],s,s),"session",A.a(["pos","n.","chinese","\u6703\u8b70"],s,s),"setting",A.a(["pos","n.","chinese","\u8a2d\u5b9a"],s,s),"shareholder",A.a(["pos","n.","chinese","\u80a1\u6771"],s,s),"shatter",A.a(["pos","v.","chinese","\u6253\u788e"],s,s),"shed",A.a(["pos","v./n.","chinese","\u812b\u843d"],s,s),"sheer",A.a(["pos","adj./adv.","chinese","\u7d14\u7cb9\u7684"],s,s),"sheriff",A.a(["pos","n.","chinese","\u90e1\u9577"],s,s),"shield",A.a(["pos","n./v.","chinese","\u76fe"],s,s),"shiver",A.a(["pos","n./v.","chinese","\u986b\u6296"],s,s),"shortage",A.a(["pos","n.","chinese","\u77ed\u7f3a"],s,s),"shove",A.a(["pos","v./n.","chinese","\u63a8\u64e0"],s,s),"shrug",A.a(["pos","n./v.","chinese","\u8073\u80a9"],s,s),"shuttle",A.a(["pos","n./v.","chinese","\u7a7f\u68ad"],s,s),"sibling",A.a(["pos","n.","chinese","\u5144\u5f1f\u59d0\u59b9"],s,s),"siege",A.a(["pos","n.","chinese","\u570d\u653b"],s,s),"skeleton",A.a(["pos","n.","chinese","\u9aa8\u67b6"],s,s),"skull",A.a(["pos","n.","chinese","\u982d\u9871"],s,s),"slam",A.a(["pos","n./v.","chinese","\u731b\u649e"],s,s),"slap",A.a(["pos","n./v./adv.","chinese","\u62cd\u6253"],s,s),"slavery",A.a(["pos","n.","chinese","\u5974\u96b8\u5236\u5ea6"],s,s),"slot",A.a(["pos","n./v.","chinese","\u69fd"],s,s),"smash",A.a(["pos","v./n.","chinese","\u7838\u788e"],s,s),"smog",A.a(["pos","n.","chinese","\u7159\u9727"],s,s),"snatch",A.a(["pos","v./n.","chinese","\u6436\u596a"],s,s),"sneak",A.a(["pos","v./n.","chinese","\u6f5b\u884c"],s,s),"sniff",A.a(["pos","v./n.","chinese","\u55c5"],s,s),"soak",A.a(["pos","v./n.","chinese","\u6d78\u6ce1"],s,s),"soar",A.a(["pos","v.","chinese","\u98db\u7fd4"],s,s),"sob",A.a(["pos","n./v.","chinese","\u555c\u6ce3"],s,s),"sober",A.a(["pos","adj./v.","chinese","\u51b7\u975c\u7684"],s,s),"soften",A.a(["pos","v.","chinese","\u8edf\u5316"],s,s),"sole",A.a(["pos","adj./n./v.","chinese","\u552f\u4e00\u7684"],s,s),"solo",A.a(["pos","n./adv./adj.","chinese","\u7368\u594f"],s,s),"sophisticated",A.a(["pos","adj.","chinese","\u8907\u96dc\u7684"],s,s),"sophomore",A.a(["pos","n.","chinese","\u5927\u4e8c\u5b78\u751f"],s,s),"souvenir",A.a(["pos","n.","chinese","\u7d00\u5ff5\u54c1"],s,s),"sovereignty",A.a(["pos","n.","chinese","\u4e3b\u6b0a"],s,s),"sow",A.a(["pos","v.","chinese","\u64ad\u7a2e"],s,s),"spacious",A.a(["pos","adj.","chinese","\u5bec\u655e\u7684"],s,s),"sparkle",A.a(["pos","v./n.","chinese","\u9583\u8000"],s,s),"specialist",A.a(["pos","n.","chinese","\u5c08\u5bb6"],s,s),"specialize",A.a(["pos","v.","chinese","\u5c08\u653b"],s,s),"specialty",A.a(["pos","n.","chinese","\u5c08\u696d"],s,s),"specify",A.a(["pos","v.","chinese","\u5177\u9ad4\u8aaa\u660e"],s,s),"specimen",A.a(["pos","n.","chinese","\u6a23\u672c"],s,s),"rear",A.a(["pos","adj./n.","chinese","\u5f8c\u9762\u7684"],s,s),"reassure",A.a(["pos","v.","chinese","\u4f7f\u5b89\u5fc3"],s,s),"rebellion",A.a(["pos","n.","chinese","\u53db\u4e82"],s,s),"recession",A.a(["pos","n.","chinese","\u7d93\u6fdf\u8870\u9000"],s,s),"recipient",A.a(["pos","n./adj.","chinese","\u63a5\u53d7\u8005"],s,s),"recite",A.a(["pos","v.","chinese","\u80cc\u8aa6"],s,s),"recommend",A.a(["pos","v.","chinese","\u63a8\u85a6"],s,s),"recommendation",A.a(["pos","n.","chinese","\u63a8\u85a6"],s,s),"recruit",A.a(["pos","v./n.","chinese","\u62db\u52df"],s,s),"refuge",A.a(["pos","n.","chinese","\u907f\u96e3\u6240"],s,s),"regardless",A.a(["pos","adj./adv.","chinese","\u4e0d\u7ba1"],s,s),"regime",A.a(["pos","n.","chinese","\u653f\u6b0a"],s,s),"rehearsal",A.a(["pos","n.","chinese","\u6392\u7df4"],s,s),"reinforce",A.a(["pos","v.","chinese","\u52a0\u5f37"],s,s),"reminder",A.a(["pos","n.","chinese","\u63d0\u9192"],s,s),"removal",A.a(["pos","n.","chinese","\u79fb\u9664"],s,s),"render",A.a(["pos","v.","chinese","\u5448\u73fe"],s,s),"rental",A.a(["pos","n.","chinese","\u79df\u91d1"],s,s),"repay",A.a(["pos","v.","chinese","\u511f\u9084"],s,s),"republican",A.a(["pos","n./adj.","chinese","\u5171\u548c\u9ee8\u7684"],s,s),"resemblance",A.a(["pos","n.","chinese","\u76f8\u4f3c"],s,s),"reservoir",A.a(["pos","n.","chinese","\u6c34\u5eab"],s,s),"residence",A.a(["pos","n.","chinese","\u4f4f\u6240"],s,s),"resident",A.a(["pos","n./adj.","chinese","\u5c45\u6c11"],s,s),"residential",A.a(["pos","adj.","chinese","\u4f4f\u5b85\u7684"],s,s),"resort",A.a(["pos","n./v.","chinese","\u5ea6\u5047\u52dd\u5730"],s,s),"respondent",A.a(["pos","n.","chinese","\u56de\u7b54\u8005"],s,s),"resume",A.a(["pos","v./n.","chinese","\u7c21\u6b77"],s,s),"retail",A.a(["pos","n./adj./adv./v.","chinese","\u96f6\u552e"],s,s),"revenue",A.a(["pos","n.","chinese","\u6536\u5165"],s,s),"reverse",A.a(["pos","v./adj./n.","chinese","\u76f8\u53cd"],s,s),"rhetoric",A.a(["pos","n.","chinese","\u4fee\u8fad"],s,s),"rib",A.a(["pos","n./v.","chinese","\u808b\u9aa8"],s,s),"ridge",A.a(["pos","n./v.","chinese","\u5c71\u810a"],s,s),"ridiculous",A.a(["pos","adj.","chinese","\u8352\u8b2c\u7684"],s,s),"rifle",A.a(["pos","n./v.","chinese","\u6b65\u69cd"],s,s),"rigid",A.a(["pos","adj.","chinese","\u50f5\u786c\u7684"],s,s),"rim",A.a(["pos","n./v.","chinese","\u908a\u7de3"],s,s),"riot",A.a(["pos","n./v.","chinese","\u9a37\u4e82"],s,s),"rip",A.a(["pos","v./n.","chinese","\u6495\u88c2"],s,s),"risky",A.a(["pos","adj.","chinese","\u5192\u96aa\u7684"],s,s),"ritual",A.a(["pos","n./adj.","chinese","\u5100\u5f0f"],s,s),"rival",A.a(["pos","adj./n./v.","chinese","\u7af6\u722d\u5c0d\u624b"],s,s),"rod",A.a(["pos","n.","chinese","\u68d2"],s,s),"sacred",A.a(["pos","adj.","chinese","\u795e\u8056\u7684"],s,s),"saddle",A.a(["pos","n./v.","chinese","\u978d"],s,s),"saint",A.a(["pos","n./v.","chinese","\u8056\u4eba"],s,s),"salmon",A.a(["pos","n./adj.","chinese","\u9bad\u9b5a"],s,s),"salon",A.a(["pos","n.","chinese","\u6c99\u9f8d"],s,s),"sandal",A.a(["pos","n.","chinese","\u6dbc\u978b"],s,s),"scan",A.a(["pos","n./v.","chinese","\u6383\u63cf"],s,s),"scandal",A.a(["pos","n.","chinese","\u919c\u805e"],s,s),"scar",A.a(["pos","n./v.","chinese","\u75a4\u75d5"],s,s),"scenario",A.a(["pos","n.","chinese","\u60c5\u666f"],s,s),"scent",A.a(["pos","n./v.","chinese","\u6c23\u5473"],s,s),"plunge",A.a(["pos","n./v.","chinese","\u66b4\u8dcc"],s,s),"plural",A.a(["pos","adj./n.","chinese","\u8907\u6578\u7684"],s,s),"poetic",A.a(["pos","adj.","chinese","\u8a69\u7684"],s,s),"poke",A.a(["pos","v./n.","chinese","\u6233"],s,s),"porch",A.a(["pos","n.","chinese","\u9580\u5eca"],s,s),"portfolio",A.a(["pos","n.","chinese","\u6295\u8cc7\u7d44\u5408"],s,s),"practitioner",A.a(["pos","n.","chinese","\u5f9e\u696d\u8005"],s,s),"precaution",A.a(["pos","n.","chinese","\u9810\u9632\u63aa\u65bd"],s,s),"predator",A.a(["pos","n.","chinese","\u63a0\u98df\u8005"],s,s),"preference",A.a(["pos","n.","chinese","\u504f\u597d"],s,s),"prejudice",A.a(["pos","n./v.","chinese","\u504f\u898b"],s,s),"preliminary",A.a(["pos","adj./n.","chinese","\u521d\u6b65\u7684"],s,s),"premature",A.a(["pos","adj.","chinese","\u904e\u65e9\u7684"],s,s),"premier",A.a(["pos","adj./n.","chinese","\u9996\u76f8"],s,s),"premise",A.a(["pos","n.","chinese","\u524d\u63d0"],s,s),"premium",A.a(["pos","n.","chinese","\u6ea2\u50f9"],s,s),"prescribe",A.a(["pos","v.","chinese","\u958b\u8655\u65b9"],s,s),"prescription",A.a(["pos","n.","chinese","\u8655\u65b9"],s,s),"presidency",A.a(["pos","n.","chinese","\u7e3d\u7d71\u8077\u4f4d"],s,s),"presidential",A.a(["pos","adj.","chinese","\u7e3d\u7d71\u7684"],s,s),"presumably",A.a(["pos","adv.","chinese","\u5927\u6982"],s,s),"presume",A.a(["pos","v.","chinese","\u5047\u8a2d"],s,s),"prevail",A.a(["pos","v.","chinese","\u76db\u884c"],s,s),"prey",A.a(["pos","n./v.","chinese","\u7375\u7269"],s,s),"prior",A.a(["pos","adj./adv./n.","chinese","\u4e4b\u524d\u7684"],s,s),"proclaim",A.a(["pos","v.","chinese","\u5ba3\u5e03"],s,s),"productivity",A.a(["pos","n.","chinese","\u751f\u7522\u529b"],s,s),"profile",A.a(["pos","n./v.","chinese","\u7c21\u4ecb"],s,s),"profound",A.a(["pos","adj.","chinese","\u6df1\u523b\u7684"],s,s),"progressive",A.a(["pos","adj./n.","chinese","\u9032\u6b65\u7684"],s,s),"prohibit",A.a(["pos","v.","chinese","\u7981\u6b62"],s,s),"projection",A.a(["pos","n.","chinese","\u9810\u6e2c"],s,s),"prolong",A.a(["pos","v.","chinese","\u5ef6\u9577"],s,s),"prone",A.a(["pos","adj.","chinese","\u6613\u65bc"],s,s),"propaganda",A.a(["pos","n.","chinese","\u5ba3\u50b3"],s,s),"prophet",A.a(["pos","n.","chinese","\u5148\u77e5"],s,s),"proportion",A.a(["pos","n./v.","chinese","\u6bd4\u4f8b"],s,s),"prosecution",A.a(["pos","n.","chinese","\u6aa2\u5bdf\u5b98"],s,s),"prospect",A.a(["pos","n./v.","chinese","\u524d\u666f"],s,s),"province",A.a(["pos","n.","chinese","\u7701\u4efd"],s,s),"provision",A.a(["pos","n.","chinese","\u689d\u6b3e"],s,s),"provoke",A.a(["pos","v.","chinese","\u6311\u91c1"],s,s),"pulse",A.a(["pos","n./v.","chinese","\u8108\u640f"],s,s),"purchase",A.a(["pos","n./v.","chinese","\u8cfc\u8cb7"],s,s),"pyramid",A.a(["pos","n.","chinese","\u91d1\u5b57\u5854"],s,s),"qualify",A.a(["pos","v.","chinese","\u6709\u8cc7\u683c"],s,s),"quest",A.a(["pos","n.","chinese","\u5c0b\u627e"],s,s),"questionnaire",A.a(["pos","n.","chinese","\u554f\u5377\u8abf\u67e5"],s,s),"quiver",A.a(["pos","n./v.","chinese","\u986b\u6296"],s,s),"quota",A.a(["pos","n.","chinese","\u914d\u984d"],s,s),"racism",A.a(["pos","n.","chinese","\u7a2e\u65cf\u4e3b\u7fa9"],s,s),"rack",A.a(["pos","n./v.","chinese","\u67b6"],s,s),"radiation",A.a(["pos","n.","chinese","\u8f3b\u5c04"],s,s),"radical",A.a(["pos","adj./n.","chinese","\u6fc0\u9032\u7684"],s,s),"ragged",A.a(["pos","adj.","chinese","\u7834\u721b\u7684"],s,s),"raid",A.a(["pos","n./v.","chinese","\u7a81\u8972"],s,s),"rail",A.a(["pos","n.","chinese","\u9435\u8def"],s,s),"rally",A.a(["pos","n./v.","chinese","\u96c6\u6703"],s,s),"ranch",A.a(["pos","n./v.","chinese","\u7267\u5834"],s,s),"random",A.a(["pos","adj.","chinese","\u96a8\u6a5f\u7684"],s,s),"ratio",A.a(["pos","n.","chinese","\u6bd4\u7387"],s,s),"rational",A.a(["pos","adj.","chinese","\u7406\u6027\u7684"],s,s),"rattle",A.a(["pos","v./n.","chinese","\u767c\u51fa\u560e\u5431\u8072"],s,s),"realism",A.a(["pos","n.","chinese","\u73fe\u5be6\u4e3b\u7fa9"],s,s),"realm",A.a(["pos","n.","chinese","\u9818\u57df"],s,s),"olive",A.a(["pos","adj./n.","chinese","\u6a44\u6b16\u8272\u7684"],s,s),"operational",A.a(["pos","adj.","chinese","\u904b\u71df\u7684"],s,s),"opponent",A.a(["pos","n.","chinese","\u5c0d\u624b"],s,s),"opposition",A.a(["pos","n.","chinese","\u53cd\u5c0d"],s,s),"opt",A.a(["pos","v.","chinese","\u9078\u64c7"],s,s),"optimism",A.a(["pos","n.","chinese","\u6a02\u89c0\u4e3b\u7fa9"],s,s),"optional",A.a(["pos","adj.","chinese","\u53ef\u9078\u7684"],s,s),"orchard",A.a(["pos","n.","chinese","\u679c\u5712"],s,s),"organism",A.a(["pos","n.","chinese","\u6709\u6a5f\u9ad4"],s,s),"originality",A.a(["pos","n.","chinese","\u7368\u5275\u6027"],s,s),"outfit",A.a(["pos","n./v.","chinese","\u88dd\u5099"],s,s),"outlet",A.a(["pos","n.","chinese","\u51fa\u53e3"],s,s),"output",A.a(["pos","n./v.","chinese","\u7522\u91cf"],s,s),"outsider",A.a(["pos","n.","chinese","\u5c40\u5916\u4eba"],s,s),"overall",A.a(["pos","adj./adv./n.","chinese","\u6574\u9ad4\u7684"],s,s),"overhead",A.a(["pos","adv./adj./n.","chinese","\u982d\u4e0a\u7684"],s,s),"oversee",A.a(["pos","v.","chinese","\u76e3\u7763"],s,s),"overtake",A.a(["pos","v.","chinese","\u8d85\u904e"],s,s),"overturn",A.a(["pos","v./n.","chinese","\u7ffb\u8f49"],s,s),"overwhelm",A.a(["pos","v.","chinese","\u58d3\u5012"],s,s),"parallel",A.a(["pos","adj./n./v.","chinese","\u5e73\u884c\u7684"],s,s),"participant",A.a(["pos","n.","chinese","\u53c3\u8207\u8005"],s,s),"particle",A.a(["pos","n.","chinese","\u7c92\u5b50"],s,s),"partly",A.a(["pos","adv.","chinese","\u90e8\u5206\u5730"],s,s),"passionate",A.a(["pos","adj.","chinese","\u5145\u6eff\u6fc0\u60c5\u7684"],s,s),"pastry",A.a(["pos","n.","chinese","\u7cd5\u9ede"],s,s),"patch",A.a(["pos","n./v.","chinese","\u88dc\u4e01"],s,s),"patent",A.a(["pos","n./adj./v.","chinese","\u5c08\u5229"],s,s),"pathetic",A.a(["pos","adj.","chinese","\u53ef\u60b2\u7684"],s,s),"patrol",A.a(["pos","n./v.","chinese","\u5de1\u908f"],s,s),"patron",A.a(["pos","n.","chinese","\u8d0a\u52a9\u4eba"],s,s),"peasant",A.a(["pos","n.","chinese","\u8fb2\u6c11"],s,s),"pedal",A.a(["pos","n./v.","chinese","\u8e0f\u677f"],s,s),"pedestrian",A.a(["pos","n./adj.","chinese","\u884c\u4eba"],s,s),"penetrate",A.a(["pos","v.","chinese","\u7a7f\u900f"],s,s),"pension",A.a(["pos","n./v.","chinese","\u990a\u8001\u91d1"],s,s),"perceive",A.a(["pos","v.","chinese","\u5bdf\u89ba"],s,s),"perception",A.a(["pos","n.","chinese","\u611f\u77e5"],s,s),"performer",A.a(["pos","n.","chinese","\u8868\u6f14\u8005"],s,s),"persist",A.a(["pos","v.","chinese","\u5805\u6301"],s,s),"personnel",A.a(["pos","n.","chinese","\u4eba\u54e1"],s,s),"perspective",A.a(["pos","n./adj.","chinese","\u89c0\u9ede"],s,s),"pessimism",A.a(["pos","n.","chinese","\u60b2\u89c0\u4e3b\u7fa9"],s,s),"petition",A.a(["pos","n.","chinese","\u8acb\u9858\u66f8"],s,s),"petty",A.a(["pos","adj.","chinese","\u7410\u788e\u7684"],s,s),"phase",A.a(["pos","n./v.","chinese","\u968e\u6bb5"],s,s),"photographic",A.a(["pos","adj.","chinese","\u651d\u5f71\u7684"],s,s),"pickup",A.a(["pos","n.","chinese","\u62fe\u8d77"],s,s),"pier",A.a(["pos","n.","chinese","\u78bc\u982d"],s,s),"pillar",A.a(["pos","n.","chinese","\u67f1\u5b50"],s,s),"pipeline",A.a(["pos","n.","chinese","\u7ba1\u9053"],s,s),"pirate",A.a(["pos","n./v.","chinese","\u6d77\u76dc"],s,s),"pitcher",A.a(["pos","n.","chinese","\u6295\u624b"],s,s),"placement",A.a(["pos","n.","chinese","\u653e\u7f6e"],s,s),"plea",A.a(["pos","n.","chinese","\u61c7\u6c42"],s,s),"plead",A.a(["pos","v.","chinese","\u61c7\u6c42"],s,s),"pledge",A.a(["pos","n./v.","chinese","\u8a93\u8a00"],s,s),"mammal",A.a(["pos","n.","chinese","\u54fa\u4e73\u52d5\u7269"],s,s),"mandate",A.a(["pos","n.","chinese","\u547d\u4ee4"],s,s),"manifest",A.a(["pos","v./adj.","chinese","\u986f\u793a"],s,s),"manipulate",A.a(["pos","v.","chinese","\u64cd\u7e31"],s,s),"mansion",A.a(["pos","n.","chinese","\u5927\u5ec8"],s,s),"marine",A.a(["pos","adj./n.","chinese","\u6d77\u6d0b\u7684"],s,s),"masculine",A.a(["pos","adj./n.","chinese","\u7537\u6027\u7684"],s,s),"massage",A.a(["pos","n./v.","chinese","\u6309\u6469"],s,s),"massive",A.a(["pos","adj.","chinese","\u5de8\u5927\u7684"],s,s),"masterpiece",A.a(["pos","n.","chinese","\u5091\u4f5c"],s,s),"mattress",A.a(["pos","n.","chinese","\u5e8a\u588a"],s,s),"meantime",A.a(["pos","n./adv.","chinese","\u540c\u6642"],s,s),"mechanism",A.a(["pos","n.","chinese","\u6a5f\u5236"],s,s),"medication",A.a(["pos","n.","chinese","\u85e5\u7269"],s,s),"mentor",A.a(["pos","n.","chinese","\u5c0e\u5e2b"],s,s),"merge",A.a(["pos","v.","chinese","\u5408\u4f75"],s,s),"metaphor",A.a(["pos","n.","chinese","\u96b1\u55bb"],s,s),"metropolitan",A.a(["pos","adj./n.","chinese","\u5927\u90fd\u6703\u7684"],s,s),"midst",A.a(["pos","n./prep.","chinese","\u4e2d\u9593"],s,s),"migration",A.a(["pos","n.","chinese","\u9077\u5f99"],s,s),"milestone",A.a(["pos","n.","chinese","\u91cc\u7a0b\u7891"],s,s),"miniature",A.a(["pos","adj./n.","chinese","\u5c0f\u578b\u7684"],s,s),"minimal",A.a(["pos","adj.","chinese","\u6700\u5c0f\u7684"],s,s),"minimize",A.a(["pos","v.","chinese","\u6700\u5c0f\u5316"],s,s),"mint",A.a(["pos","n.","chinese","\u8584\u8377"],s,s),"missionary",A.a(["pos","n./adj.","chinese","\u50b3\u6559\u58eb"],s,s),"moan",A.a(["pos","n./v.","chinese","\u547b\u541f"],s,s),"mock",A.a(["pos","adj./v./n.","chinese","\u5632\u7b11"],s,s),"mode",A.a(["pos","n.","chinese","\u6a21\u5f0f"],s,s),"modify",A.a(["pos","v.","chinese","\u4fee\u6539"],s,s),"molecule",A.a(["pos","n.","chinese","\u5206\u5b50"],s,s),"monopoly",A.a(["pos","n.","chinese","\u58df\u65b7"],s,s),"morality",A.a(["pos","n.","chinese","\u9053\u5fb7"],s,s),"mortality",A.a(["pos","n.","chinese","\u6b7b\u4ea1\u7387"],s,s),"mortgage",A.a(["pos","n.","chinese","\u62b5\u62bc\u8cb8\u6b3e"],s,s),"motive",A.a(["pos","n.","chinese","\u52d5\u6a5f"],s,s),"mount",A.a(["pos","n./v.","chinese","\u5c71"],s,s),"mumble",A.a(["pos","v./n.","chinese","\u5495\u5695"],s,s),"municipal",A.a(["pos","adj.","chinese","\u5e02\u653f\u7684"],s,s),"muscular",A.a(["pos","adj.","chinese","\u808c\u8089\u767c\u9054\u7684"],s,s),"mustard",A.a(["pos","n.","chinese","\u82a5\u672b"],s,s),"myth",A.a(["pos","n.","chinese","\u795e\u8a71"],s,s),"naive",A.a(["pos","adj.","chinese","\u5929\u771f\u7684"],s,s),"narrative",A.a(["pos","n./adj.","chinese","\u6558\u8ff0"],s,s),"nasty",A.a(["pos","adj.","chinese","\u60e1\u5fc3\u7684"],s,s),"negotiation",A.a(["pos","n.","chinese","\u8ac7\u5224"],s,s),"neutral",A.a(["pos","adj./n.","chinese","\u4e2d\u7acb\u7684"],s,s),"nominate",A.a(["pos","v.","chinese","\u63d0\u540d"],s,s),"nomination",A.a(["pos","n.","chinese","\u63d0\u540d"],s,s),"nominee",A.a(["pos","n.","chinese","\u88ab\u63d0\u540d\u8005"],s,s),"nonprofit",A.a(["pos","adj.","chinese","\u975e\u71df\u5229\u7684"],s,s),"norm",A.a(["pos","n.","chinese","\u6a19\u6e96"],s,s),"noticeable",A.a(["pos","adj.","chinese","\u986f\u8457\u7684"],s,s),"notify",A.a(["pos","v.","chinese","\u901a\u77e5"],s,s),"notion",A.a(["pos","n.","chinese","\u6982\u5ff5"],s,s),"nowhere",A.a(["pos","adv./pron.","chinese","\u4efb\u4f55\u5730\u65b9\u90fd\u4e0d"],s,s),"nutrient",A.a(["pos","n./adj.","chinese","\u71df\u990a\u7269\u8cea"],s,s),"nutrition",A.a(["pos","n.","chinese","\u71df\u990a"],s,s),"obligation",A.a(["pos","n.","chinese","\u7fa9\u52d9"],s,s),"obscure",A.a(["pos","adj./v.","chinese","\u6a21\u7cca\u7684"],s,s),"observer",A.a(["pos","n.","chinese","\u89c0\u5bdf\u8005"],s,s),"odds",A.a(["pos","n.","chinese","\u6a5f\u6703"],s,s),"indispensable",A.a(["pos","adj.","chinese","\u4e0d\u53ef\u6216\u7f3a\u7684"],s,s),"indulge",A.a(["pos","v.","chinese","\u653e\u7e31"],s,s),"inevitable",A.a(["pos","adj.","chinese","\u4e0d\u53ef\u907f\u514d\u7684"],s,s),"infect",A.a(["pos","v.","chinese","\u611f\u67d3"],s,s),"infinite",A.a(["pos","adj.","chinese","\u7121\u9650\u7684"],s,s),"infrastructure",A.a(["pos","n.","chinese","\u57fa\u790e\u8a2d\u65bd"],s,s),"inherent",A.a(["pos","adj.","chinese","\u56fa\u6709\u7684"],s,s),"inherit",A.a(["pos","v.","chinese","\u7e7c\u627f"],s,s),"initiate",A.a(["pos","v./adj./n.","chinese","\u958b\u59cb"],s,s),"initiative",A.a(["pos","n./adj.","chinese","\u5021\u8b70"],s,s),"inject",A.a(["pos","v.","chinese","\u6ce8\u5c04"],s,s),"injection",A.a(["pos","n.","chinese","\u6ce8\u5c04"],s,s),"inning",A.a(["pos","n.","chinese","\u5c40"],s,s),"innovation",A.a(["pos","n.","chinese","\u5275\u65b0"],s,s),"innovative",A.a(["pos","adj.","chinese","\u5275\u65b0\u7684"],s,s),"inquiry",A.a(["pos","n.","chinese","\u8a62\u554f"],s,s),"insane",A.a(["pos","adj.","chinese","\u760b\u72c2\u7684"],s,s),"insight",A.a(["pos","n.","chinese","\u898b\u89e3"],s,s),"installation",A.a(["pos","n.","chinese","\u5b89\u88dd"],s,s),"institute",A.a(["pos","n./v.","chinese","\u5b78\u9662"],s,s),"institution",A.a(["pos","n.","chinese","\u6a5f\u69cb"],s,s),"intact",A.a(["pos","adj.","chinese","\u5b8c\u6574\u7684"],s,s),"integrate",A.a(["pos","v.","chinese","\u6574\u5408"],s,s),"integration",A.a(["pos","n.","chinese","\u6574\u5408"],s,s),"integrity",A.a(["pos","n.","chinese","\u5b8c\u6574\u6027"],s,s),"intensify",A.a(["pos","v.","chinese","\u52a0\u5287"],s,s),"intent",A.a(["pos","n./adj.","chinese","\u610f\u5716"],s,s),"interference",A.a(["pos","n.","chinese","\u5e72\u64fe"],s,s),"interior",A.a(["pos","adj./n.","chinese","\u5167\u90e8\u7684"],s,s),"interpretation",A.a(["pos","n.","chinese","\u89e3\u91cb"],s,s),"interval",A.a(["pos","n.","chinese","\u9593\u9694"],s,s),"intervention",A.a(["pos","n.","chinese","\u5e72\u9810"],s,s),"investigator",A.a(["pos","n.","chinese","\u8abf\u67e5\u4eba\u54e1"],s,s),"irony",A.a(["pos","n.","chinese","\u8af7\u523a"],s,s),"journalism",A.a(["pos","n.","chinese","\u65b0\u805e\u696d"],s,s),"journalist",A.a(["pos","n.","chinese","\u8a18\u8005"],s,s),"judicial",A.a(["pos","adj.","chinese","\u53f8\u6cd5\u7684"],s,s),"jug",A.a(["pos","n./v.","chinese","\u7f50\u5b50"],s,s),"jury",A.a(["pos","n.","chinese","\u966a\u5be9\u5718"],s,s),"justify",A.a(["pos","v.","chinese","\u8b49\u660e\u6b63\u78ba"],s,s),"juvenile",A.a(["pos","adj./n.","chinese","\u9752\u5c11\u5e74\u7684"],s,s),"kidnap",A.a(["pos","v.","chinese","\u7d81\u67b6"],s,s),"landlord",A.a(["pos","n.","chinese","\u623f\u6771"],s,s),"laser",A.a(["pos","n.","chinese","\u6fc0\u5149"],s,s),"lawmaker",A.a(["pos","n.","chinese","\u7acb\u6cd5\u8005"],s,s),"lawsuit",A.a(["pos","n.","chinese","\u8a34\u8a1f"],s,s),"layer",A.a(["pos","n./v.","chinese","\u5c64"],s,s),"league",A.a(["pos","n./v.","chinese","\u806f\u76df"],s,s),"legacy",A.a(["pos","n.","chinese","\u907a\u7522"],s,s),"legendary",A.a(["pos","adj.","chinese","\u50b3\u5947\u7684"],s,s),"legislation",A.a(["pos","n.","chinese","\u7acb\u6cd5"],s,s),"legislative",A.a(["pos","adj.","chinese","\u7acb\u6cd5\u7684"],s,s),"legitimate",A.a(["pos","adj./v.","chinese","\u5408\u6cd5\u7684"],s,s),"lest",A.a(["pos","conj.","chinese","\u552f\u6050"],s,s),"liability",A.a(["pos","n.","chinese","\u8ca0\u50b5"],s,s),"likelihood",A.a(["pos","n.","chinese","\u53ef\u80fd\u6027"],s,s),"likewise",A.a(["pos","adv.","chinese","\u540c\u6a23\u5730"],s,s),"loop",A.a(["pos","n.","chinese","\u5faa\u74b0"],s,s),"lounge",A.a(["pos","n./v.","chinese","\u4f11\u606f\u5ba4"],s,s),"lump",A.a(["pos","n./v.","chinese","\u816b\u584a"],s,s),"mainstream",A.a(["pos","n.","chinese","\u4e3b\u6d41"],s,s),"maintenance",A.a(["pos","n.","chinese","\u7dad\u8b77"],s,s),"offering",A.a(["pos","n.","chinese","\u63d0\u4f9b"],s,s),"franchise",A.a(["pos","n.","chinese","\u7279\u8a31\u7d93\u71df\u6b0a"],s,s),"fraud",A.a(["pos","n.","chinese","\u8a50\u9a19"],s,s),"freight",A.a(["pos","n./v.","chinese","\u8ca8\u7269"],s,s),"frontier",A.a(["pos","n.","chinese","\u908a\u5883"],s,s),"galaxy",A.a(["pos","n.","chinese","\u661f\u7cfb"],s,s),"gasp",A.a(["pos","n./v.","chinese","\u5598\u6c23"],s,s),"gathering",A.a(["pos","n.","chinese","\u805a\u6703"],s,s),"generate",A.a(["pos","v.","chinese","\u7522\u751f"],s,s),"generator",A.a(["pos","n.","chinese","\u767c\u96fb\u6a5f"],s,s),"genetic",A.a(["pos","adj.","chinese","\u57fa\u56e0\u7684"],s,s),"genetics",A.a(["pos","n.","chinese","\u57fa\u56e0\u5b78"],s,s),"genre",A.a(["pos","n.","chinese","\u985e\u578b"],s,s),"glare",A.a(["pos","n./v.","chinese","\u7729\u5149"],s,s),"gloomy",A.a(["pos","adj.","chinese","\u9670\u6697\u7684"],s,s),"gorgeous",A.a(["pos","adj.","chinese","\u83ef\u9e97\u7684"],s,s),"grant",A.a(["pos","n./v.","chinese","\u88dc\u52a9"],s,s),"graphic",A.a(["pos","adj./n.","chinese","\u5716\u5f62\u7684"],s,s),"gravity",A.a(["pos","n.","chinese","\u91cd\u529b"],s,s),"greed",A.a(["pos","n.","chinese","\u8caa\u5a6a"],s,s),"grieve",A.a(["pos","v.","chinese","\u60b2\u50b7"],s,s),"grill",A.a(["pos","n./v.","chinese","\u70e4\u67b6"],s,s),"grim",A.a(["pos","adj.","chinese","\u56b4\u9177\u7684"],s,s),"grip",A.a(["pos","n./v.","chinese","\u7dca\u63e1"],s,s),"gross",A.a(["pos","adj./v./n.","chinese","\u7e3d\u7684"],s,s),"guideline",A.a(["pos","n.","chinese","\u6307\u5c0e\u65b9\u91dd"],s,s),"gut",A.a(["pos","n./v.","chinese","\u8178\u9053"],s,s),"habitat",A.a(["pos","n.","chinese","\u68f2\u606f\u5730"],s,s),"haul",A.a(["pos","v./n.","chinese","\u62c9"],s,s),"hazard",A.a(["pos","n./v.","chinese","\u5371\u96aa"],s,s),"heir",A.a(["pos","n.","chinese","\u7e7c\u627f\u4eba"],s,s),"hence",A.a(["pos","adv.","chinese","\u56e0\u6b64"],s,s),"herb",A.a(["pos","n.","chinese","\u8349\u672c\u690d\u7269"],s,s),"heritage",A.a(["pos","n.","chinese","\u907a\u7522"],s,s),"highlight",A.a(["pos","v./n.","chinese","\u7a81\u986f"],s,s),"hockey",A.a(["pos","n.","chinese","\u66f2\u68cd\u7403"],s,s),"honorable",A.a(["pos","adj.","chinese","\u53ef\u656c\u7684"],s,s),"horizontal",A.a(["pos","adj./n.","chinese","\u6c34\u5e73\u7684"],s,s),"hormone",A.a(["pos","n.","chinese","\u6fc0\u7d20"],s,s),"hostage",A.a(["pos","n.","chinese","\u4eba\u8cea"],s,s),"hostile",A.a(["pos","adj.","chinese","\u6575\u5c0d\u7684"],s,s),"hostility",A.a(["pos","n.","chinese","\u6575\u610f"],s,s),"housing",A.a(["pos","n.","chinese","\u4f4f\u623f"],s,s),"howl",A.a(["pos","n./v.","chinese","\u568e\u53eb"],s,s),"hypothesis",A.a(["pos","n.","chinese","\u5047\u8a2d"],s,s),"icon",A.a(["pos","n.","chinese","\u5716\u6a19"],s,s),"ideology",A.a(["pos","n.","chinese","\u610f\u8b58\u5f62\u614b"],s,s),"idiot",A.a(["pos","n.","chinese","\u767d\u7661"],s,s),"illusion",A.a(["pos","n.","chinese","\u5e7b\u89ba"],s,s),"immense",A.a(["pos","adj.","chinese","\u5de8\u5927\u7684"],s,s),"immune",A.a(["pos","adj.","chinese","\u514d\u75ab\u7684"],s,s),"implement",A.a(["pos","v./n.","chinese","\u5be6\u65bd"],s,s),"implication",A.a(["pos","n.","chinese","\u542b\u7fa9"],s,s),"impulse",A.a(["pos","n.","chinese","\u885d\u52d5"],s,s),"incentive",A.a(["pos","n./adj.","chinese","\u6fc0\u52f5"],s,s),"incorporate",A.a(["pos","v.","chinese","\u5408\u4f75"],s,s),"index",A.a(["pos","n./v.","chinese","\u7d22\u5f15"],s,s),"indifferent",A.a(["pos","adj.","chinese","\u51b7\u6f20\u7684"],s,s),"indigenous",A.a(["pos","adj.","chinese","\u672c\u5730\u7684"],s,s),"envious",A.a(["pos","adj.","chinese","\u7fa8\u6155\u7684"],s,s),"envision",A.a(["pos","v.","chinese","\u5c55\u671b"],s,s),"epidemic",A.a(["pos","n./adj.","chinese","\u6d41\u884c\u75c5"],s,s),"episode",A.a(["pos","n.","chinese","\u63d2\u66f2"],s,s),"equation",A.a(["pos","n.","chinese","\u65b9\u7a0b\u5f0f"],s,s),"equity",A.a(["pos","n.","chinese","\u516c\u5e73"],s,s),"equivalent",A.a(["pos","n./adj.","chinese","\u7b49\u540c\u7684"],s,s),"erect",A.a(["pos","v./adj.","chinese","\u8c4e\u7acb"],s,s),"errand",A.a(["pos","n.","chinese","\u5dee\u4e8b"],s,s),"erupt",A.a(["pos","v.","chinese","\u7206\u767c"],s,s),"escalator",A.a(["pos","n.","chinese","\u81ea\u52d5\u6276\u68af"],s,s),"essence",A.a(["pos","n.","chinese","\u672c\u8cea"],s,s),"estate",A.a(["pos","n.","chinese","\u8ca1\u7522"],s,s),"eternal",A.a(["pos","adj.","chinese","\u6c38\u6046\u7684"],s,s),"ethic(s)",A.a(["pos","n.","chinese","\u9053\u5fb7"],s,s),"ethical",A.a(["pos","adj.","chinese","\u9053\u5fb7\u7684"],s,s),"evolution",A.a(["pos","n.","chinese","\u6f14\u5316"],s,s),"evolve",A.a(["pos","v.","chinese","\u9032\u5316"],s,s),"exaggeration",A.a(["pos","n.","chinese","\u8a87\u5f35"],s,s),"exceed",A.a(["pos","v.","chinese","\u8d85\u904e"],s,s),"exceptional",A.a(["pos","adj.","chinese","\u512a\u79c0\u7684"],s,s),"excessive",A.a(["pos","adj.","chinese","\u904e\u5ea6\u7684"],s,s),"exclaim",A.a(["pos","v.","chinese","\u9a5a\u53eb"],s,s),"exclude",A.a(["pos","v.","chinese","\u6392\u9664"],s,s),"exclusive",A.a(["pos","adj.","chinese","\u7368\u5bb6\u7684"],s,s),"execute",A.a(["pos","v.","chinese","\u57f7\u884c"],s,s),"execution",A.a(["pos","n.","chinese","\u57f7\u884c"],s,s),"executive",A.a(["pos","n./adj.","chinese","\u9ad8\u7d1a\u7ba1\u7406\u4eba\u54e1"],s,s),"exile",A.a(["pos","n./v.","chinese","\u6d41\u653e"],s,s),"exotic",A.a(["pos","adj./n.","chinese","\u7570\u570b\u7684"],s,s),"expedition",A.a(["pos","n.","chinese","\u9060\u5f81"],s,s),"expertise",A.a(["pos","n.","chinese","\u5c08\u696d\u77e5\u8b58"],s,s),"explicit",A.a(["pos","adj.","chinese","\u660e\u78ba\u7684"],s,s),"exploit",A.a(["pos","v./n.","chinese","\u5229\u7528"],s,s),"exploration",A.a(["pos","n.","chinese","\u63a2\u7d22"],s,s),"extension",A.a(["pos","n.","chinese","\u5ef6\u4f38"],s,s),"extensive",A.a(["pos","adj.","chinese","\u5ee3\u6cdb\u7684"],s,s),"exterior",A.a(["pos","n./adj.","chinese","\u5916\u90e8\u7684"],s,s),"external",A.a(["pos","adj./n.","chinese","\u5916\u90e8\u7684"],s,s),"extinct",A.a(["pos","adj.","chinese","\u6ec5\u7d55\u7684"],s,s),"extraordinary",A.a(["pos","adj.","chinese","\u975e\u51e1\u7684"],s,s),"fabric",A.a(["pos","n.","chinese","\u5e03\u6599"],s,s),"fabulous",A.a(["pos","adj.","chinese","\u6975\u597d\u7684"],s,s),"facilitate",A.a(["pos","v.","chinese","\u4fc3\u9032"],s,s),"faculty",A.a(["pos","n.","chinese","\u80fd\u529b"],s,s),"fascinate",A.a(["pos","v.","chinese","\u8ff7\u4f4f"],s,s),"fatigue",A.a(["pos","n./v.","chinese","\u75b2\u52de"],s,s),"federal",A.a(["pos","adj.","chinese","\u806f\u90a6\u7684"],s,s),"fiber",A.a(["pos","n.","chinese","\u7e96\u7dad"],s,s),"filter",A.a(["pos","n./v.","chinese","\u904e\u6ffe"],s,s),"fiscal",A.a(["pos","adj.","chinese","\u8ca1\u653f\u7684"],s,s),"fleet",A.a(["pos","n.","chinese","\u8266\u968a"],s,s),"flexibility",A.a(["pos","n.","chinese","\u9748\u6d3b\u6027"],s,s),"flip",A.a(["pos","v./n.","chinese","\u7ffb\u8f49"],s,s),"fluency",A.a(["pos","n.","chinese","\u6d41\u66a2\u6027"],s,s),"fluid",A.a(["pos","n./adj.","chinese","\u6d41\u9ad4"],s,s),"forge",A.a(["pos","v.","chinese","\u935b\u9020"],s,s),"format",A.a(["pos","n./v.","chinese","\u683c\u5f0f"],s,s),"forum",A.a(["pos","n.","chinese","\u8ad6\u58c7"],s,s),"foster",A.a(["pos","adj./v.","chinese","\u57f9\u990a"],s,s),"foul",A.a(["pos","adj./n./v./adv.","chinese","\u72af\u898f"],s,s),"fraction",A.a(["pos","n.","chinese","\u5206\u6578"],s,s),"fragment",A.a(["pos","n./v.","chinese","\u788e\u7247"],s,s),"framework",A.a(["pos","n.","chinese","\u6846\u67b6"],s,s),"descriptive",A.a(["pos","adj.","chinese","\u63cf\u8ff0\u6027\u7684"],s,s),"despair",A.a(["pos","n./v.","chinese","\u7d55\u671b"],s,s),"destination",A.a(["pos","n.","chinese","\u76ee\u7684\u5730"],s,s),"destiny",A.a(["pos","n.","chinese","\u547d\u904b"],s,s),"destructive",A.a(["pos","adj.","chinese","\u7834\u58de\u6027\u7684"],s,s),"devotion",A.a(["pos","n.","chinese","\u5949\u737b"],s,s),"diagnose",A.a(["pos","v.","chinese","\u8a3a\u65b7"],s,s),"diagnosis",A.a(["pos","n.","chinese","\u8a3a\u65b7"],s,s),"dialect",A.a(["pos","n.","chinese","\u65b9\u8a00"],s,s),"diameter",A.a(["pos","n.","chinese","\u76f4\u5f91"],s,s),"diaper",A.a(["pos","n.","chinese","\u5c3f\u5e03"],s,s),"digestion",A.a(["pos","n.","chinese","\u6d88\u5316"],s,s),"dilemma",A.a(["pos","n.","chinese","\u56f0\u5883"],s,s),"dimension",A.a(["pos","n.","chinese","\u5c3a\u5bf8"],s,s),"diminish",A.a(["pos","v.","chinese","\u6e1b\u5c11"],s,s),"diplomatic",A.a(["pos","adj.","chinese","\u5916\u4ea4\u7684"],s,s),"directory",A.a(["pos","n.","chinese","\u76ee\u9304"],s,s),"disapprove",A.a(["pos","v.","chinese","\u4e0d\u8d0a\u6210"],s,s),"disclose",A.a(["pos","v.","chinese","\u63ed\u9732"],s,s),"disconnect",A.a(["pos","v.","chinese","\u65b7\u958b\u9023\u63a5"],s,s),"discourse",A.a(["pos","n.","chinese","\u8ad6\u8ff0"],s,s),"discriminate",A.a(["pos","v.","chinese","\u6b67\u8996"],s,s),"discrimination",A.a(["pos","n.","chinese","\u6b67\u8996"],s,s),"disrupt",A.a(["pos","v.","chinese","\u5e72\u64fe"],s,s),"dissolve",A.a(["pos","v.","chinese","\u6eb6\u89e3"],s,s),"distinction",A.a(["pos","n.","chinese","\u5340\u5225"],s,s),"distinctive",A.a(["pos","adj.","chinese","\u7368\u7279\u7684"],s,s),"distract",A.a(["pos","v.","chinese","\u4f7f\u5206\u5fc3"],s,s),"doctrine",A.a(["pos","n.","chinese","\u6559\u7fa9"],s,s),"document",A.a(["pos","n./v.","chinese","\u6587\u4ef6"],s,s),"documentary",A.a(["pos","n./adj.","chinese","\u7d00\u9304\u7247"],s,s),"domain",A.a(["pos","n.","chinese","\u9818\u57df"],s,s),"dome",A.a(["pos","n./v.","chinese","\u5713\u9802"],s,s),"donate",A.a(["pos","v.","chinese","\u6350\u8d08"],s,s),"donation",A.a(["pos","n.","chinese","\u6350\u8d08"],s,s),"donor",A.a(["pos","n.","chinese","\u6350\u8d08\u8005"],s,s),"doorway",A.a(["pos","n.","chinese","\u9580\u53e3"],s,s),"dough",A.a(["pos","n.","chinese","\u751f\u9eb5\u5718"],s,s),"dreadful",A.a(["pos","adj.","chinese","\u53ef\u6015\u7684"],s,s),"driveway",A.a(["pos","n.","chinese","\u8eca\u9053"],s,s),"drought",A.a(["pos","n.","chinese","\u4e7e\u65f1"],s,s),"ecological",A.a(["pos","adj.","chinese","\u751f\u614b\u7684"],s,s),"ecology",A.a(["pos","n.","chinese","\u751f\u614b\u5b78"],s,s),"ecosystem",A.a(["pos","n.","chinese","\u751f\u614b\u7cfb\u7d71"],s,s),"ego",A.a(["pos","n.","chinese","\u81ea\u6211"],s,s),"elaborate",A.a(["pos","adj./v.","chinese","\u7cbe\u5fc3\u88fd\u4f5c\u7684"],s,s),"eligible",A.a(["pos","adj.","chinese","\u6709\u8cc7\u683c\u7684"],s,s),"eloquent",A.a(["pos","adj.","chinese","\u96c4\u8faf\u7684"],s,s),"embrace",A.a(["pos","v./n.","chinese","\u64c1\u62b1"],s,s),"emission",A.a(["pos","n.","chinese","\u6392\u653e"],s,s),"endorse(ment)",A.a(["pos","v./(n.)","chinese","\u8a8d\u53ef"],s,s),"enterprise",A.a(["pos","n.","chinese","\u4f01\u696d"],s,s),"enthusiastic",A.a(["pos","adj.","chinese","\u71b1\u60c5\u7684"],s,s),"entitle",A.a(["pos","v.","chinese","\u8ce6\u4e88"],s,s),"entity",A.a(["pos","n.","chinese","\u5be6\u9ad4"],s,s),"entrepreneur",A.a(["pos","n.","chinese","\u4f01\u696d\u5bb6"],s,s),"capability",A.a(["pos","n.","chinese","\u80fd\u529b"],s,s),"abnormal",A.a(["pos","adj.","chinese","\u7570\u5e38\u7684"],s,s),"abolish",A.a(["pos","v.","chinese","\u5ee2\u9664"],s,s),"abortion",A.a(["pos","n.","chinese","\u6d41\u7522"],s,s),"abrupt",A.a(["pos","adj.","chinese","\u7a81\u7136\u7684"],s,s),"absurd",A.a(["pos","adj.","chinese","\u8352\u8b2c\u7684"],s,s),"abundant",A.a(["pos","adj.","chinese","\u8c50\u5bcc\u7684"],s,s),"abuse",A.a(["pos","n./v.","chinese","\u6feb\u7528"],s,s),"accelerate",A.a(["pos","v.","chinese","\u52a0\u901f"],s,s),"accessible",A.a(["pos","adj.","chinese","\u53ef\u5b58\u53d6\u7684"],s,s),"accommodate",A.a(["pos","v.","chinese","\u5bb9\u7d0d"],s,s),"accommodation",A.a(["pos","n.","chinese","\u4f4f\u5bbf"],s,s),"accord",A.a(["pos","n./v.","chinese","\u4e00\u81f4"],s,s),"accounting",A.a(["pos","n.","chinese","\u6703\u8a08"],s,s),"acknowledge(ment)",A.a(["pos","v./(n.)","chinese","\u627f\u8a8d"],s,s),"acquaint",A.a(["pos","v.","chinese","\u719f\u6089"],s,s),"acquisition",A.a(["pos","n.","chinese","\u6536\u8cfc"],s,s),"activist",A.a(["pos","n.","chinese","\u6d3b\u52d5\u5bb6"],s,s),"acute",A.a(["pos","adj.","chinese","\u6025\u6027\u7684"],s,s),"administration",A.a(["pos","n.","chinese","\u7ba1\u7406"],s,s),"administrative",A.a(["pos","adj.","chinese","\u884c\u653f\u7684"],s,s),"administrator",A.a(["pos","n.","chinese","\u7ba1\u7406\u54e1"],s,s),"adolescent",A.a(["pos","adj./n.","chinese","\u9752\u5c11\u5e74\u7684"],s,s),"adore",A.a(["pos","v.","chinese","\u5d07\u62dc"],s,s),"adverse",A.a(["pos","adj.","chinese","\u4e0d\u5229\u7684"],s,s),"advocate",A.a(["pos","n./v.","chinese","\u5021\u5c0e\u8005"],s,s),"affection",A.a(["pos","n.","chinese","\u559c\u611b"],s,s),"agenda",A.a(["pos","n.","chinese","\u8b70\u7a0b"],s,s),"aggression",A.a(["pos","n.","chinese","\u4fb5\u7565"],s,s),"agony",A.a(["pos","n.","chinese","\u75db\u82e6"],s,s),"agricultural",A.a(["pos","adj.","chinese","\u8fb2\u696d\u7684"],s,s),"aisle",A.a(["pos","n.","chinese","\u8d70\u9053"],s,s),"alcoholic",A.a(["pos","adj./n.","chinese","\u542b\u9152\u7cbe\u7684"],s,s),"alien",A.a(["pos","adj./n.","chinese","\u5916\u661f\u7684"],s,s),"allergic",A.a(["pos","adj.","chinese","\u904e\u654f\u7684"],s,s),"allergy",A.a(["pos","n.","chinese","\u904e\u654f"],s,s),"alliance",A.a(["pos","n.","chinese","\u806f\u76df"],s,s),"allocate",A.a(["pos","v.","chinese","\u5206\u914d"],s,s),"depress",A.a(["pos","v.","chinese","\u4f7f\u6cae\u55aa"],s,s),"deputy",A.a(["pos","n.","chinese","\u526f\u624b"],s,s),"derive",A.a(["pos","v.","chinese","\u884d\u751f"],s,s),"descend",A.a(["pos","v.","chinese","\u4e0b\u964d"],s,s),"ally",A.a(["pos","n./v.","chinese","\u76df\u53cb"],s,s),"alongside",A.a(["pos","prep./adv.","chinese","\u5728\u65c1\u908a"],s,s),"alter",A.a(["pos","v.","chinese","\u6539\u8b8a"],s,s),"alternate",A.a(["pos","adj./v./n.","chinese","\u4ea4\u66ff\u7684"],s,s),"amend",A.a(["pos","v.","chinese","\u4fee\u6539"],s,s),"ample",A.a(["pos","adj.","chinese","\u5145\u8db3\u7684"],s,s),"analyst",A.a(["pos","n.","chinese","\u5206\u6790\u5e2b"],s,s),"anonymous",A.a(["pos","adj.","chinese","\u533f\u540d\u7684"],s,s),"anticipate",A.a(["pos","v.","chinese","\u9810\u671f"],s,s),"antique",A.a(["pos","adj./n.","chinese","\u53e4\u8463"],s,s),"applause",A.a(["pos","n.","chinese","\u638c\u8072"],s,s),"appliance",A.a(["pos","n.","chinese","\u5bb6\u96fb"],s,s),"apt",A.a(["pos","adj.","chinese","\u9069\u7576\u7684"],s,s),"architect",A.a(["pos","n.","chinese","\u5efa\u7bc9\u5e2b"],s,s),"architecture",A.a(["pos","n.","chinese","\u5efa\u7bc9"],s,s),"arena",A.a(["pos","n.","chinese","\u7af6\u6280\u5834"],s,s),"arouse",A.a(["pos","v.","chinese","\u559a\u8d77"],s,s),"array",A.a(["pos","n.","chinese","\u9663\u5217"],s,s),"arrogant",A.a(["pos","adj.","chinese","\u50b2\u6162\u7684"],s,s),"articulate",A.a(["pos","v./adj.","chinese","\u8868\u9054\u6e05\u695a"],s,s),"ass",A.a(["pos","n.","chinese","\u9a62"],s,s),"assault",A.a(["pos","n./v.","chinese","\u8972\u64ca"],s,s),"assert",A.a(["pos","v.","chinese","\u65b7\u8a00"],s,s),"assess(ment)",A.a(["pos","v./(n.)","chinese","\u8a55\u4f30"],s,s),"asset",A.a(["pos","n.","chinese","\u8cc7\u7522"],s,s),"assumption",A.a(["pos","n.","chinese","\u5047\u8a2d"],s,s),"astonish(ment)",A.a(["pos","v./(n.)","chinese","\u4f7f\u9a5a\u8a1d"],s,s),"athletics",A.a(["pos","n.","chinese","\u904b\u52d5"],s,s),"attendance",A.a(["pos","n.","chinese","\u51fa\u5e2d"],s,s),"attic",A.a(["pos","n.","chinese","\u95a3\u6a13"],s,s),"attorney",A.a(["pos","n.","chinese","\u5f8b\u5e2b"],s,s),"attribute",A.a(["pos","v.","chinese","\u6b78\u56e0\u65bc"],s,s),"auction",A.a(["pos","n./v.","chinese","\u62cd\u8ce3"],s,s),"authorize",A.a(["pos","v.","chinese","\u6388\u6b0a"],s,s),"autonomy",A.a(["pos","n.","chinese","\u81ea\u6cbb"],s,s),"awe",A.a(["pos","n./v.","chinese","\u656c\u754f"],s,s),"backyard",A.a(["pos","n.","chinese","\u5f8c\u9662"],s,s),"ballot",A.a(["pos","n./v.","chinese","\u9078\u7968"],s,s),"ban",A.a(["pos","n./v.","chinese","\u7981\u6b62"],s,s),"banner",A.a(["pos","n.","chinese","\u6a6b\u5e45"],s,s),"contractor",A.a(["pos","n.","chinese","\u627f\u5305\u5546"],s,s),"contradiction",A.a(["pos","n.","chinese","\u77db\u76fe"],s,s),"controversial",A.a(["pos","adj.","chinese","\u6709\u722d\u8b70\u7684"],s,s),"controversy",A.a(["pos","n.","chinese","\u722d\u8b70"],s,s),"conversion",A.a(["pos","n.","chinese","\u8f49\u63db"],s,s),"convert",A.a(["pos","v.","chinese","\u8f49\u63db"],s,s),"convict",A.a(["pos","v./n.","chinese","\u5b9a\u7f6a"],s,s),"conviction",A.a(["pos","n.","chinese","\u4fe1\u5ff5"],s,s),"coordinate",A.a(["pos","v./n./adj.","chinese","\u5354\u8abf"],s,s),"copyright",A.a(["pos","n./v.","chinese","\u7248\u6b0a"],s,s),"core",A.a(["pos","n.","chinese","\u6838\u5fc3"],s,s),"corporate",A.a(["pos","adj.","chinese","\u516c\u53f8\u7684"],s,s),"corporation",A.a(["pos","n.","chinese","\u516c\u53f8"],s,s),"correlation",A.a(["pos","n.","chinese","\u76f8\u95dc"],s,s),"correspondent",A.a(["pos","n.","chinese","\u8a18\u8005"],s,s),"corridor",A.a(["pos","n.","chinese","\u8d70\u5eca"],s,s),"corrupt",A.a(["pos","adj./v.","chinese","\u8150\u6557\u7684"],s,s),"corruption",A.a(["pos","n.","chinese","\u8150\u6557"],s,s),"counsel",A.a(["pos","n./v.","chinese","\u5fe0\u544a"],s,s),"counselor",A.a(["pos","n.","chinese","\u9867\u554f"],s,s),"courteous",A.a(["pos","adj.","chinese","\u6709\u79ae\u8c8c\u7684"],s,s),"coverage",A.a(["pos","n.","chinese","\u8986\u84cb\u7bc4\u570d"],s,s),"credibility",A.a(["pos","n.","chinese","\u53ef\u4fe1\u5ea6"],s,s),"creek",A.a(["pos","n.","chinese","\u5c0f\u6eaa"],s,s),"cripple",A.a(["pos","v./n.","chinese","\u6b98\u5ee2"],s,s),"criterion/criteria",A.a(["pos","n.","chinese","\u6a19\u6e96"],s,s),"crucial",A.a(["pos","adj.","chinese","\u95dc\u9375\u7684"],s,s),"crude",A.a(["pos","adj.","chinese","\u7c97\u7cd9\u7684"],s,s),"cruise",A.a(["pos","n./v.","chinese","\u5de1\u822a"],s,s),"crystal",A.a(["pos","n./adj.","chinese","\u6c34\u6676"],s,s),"cuisine",A.a(["pos","n.","chinese","\u70f9\u98ea"],s,s),"currency",A.a(["pos","n.","chinese","\u8ca8\u5e63"],s,s),"curriculum",A.a(["pos","n.","chinese","\u8ab2\u7a0b"],s,s),"custody",A.a(["pos","n.","chinese","\u76e3\u8b77"],s,s),"customs",A.a(["pos","n.","chinese","\u6d77\u95dc"],s,s),"deadly",A.a(["pos","adj./adv.","chinese","\u81f4\u547d\u7684"],s,s),"debris",A.a(["pos","n.","chinese","\u6b98\u9ab8"],s,s),"debut",A.a(["pos","n.","chinese","\u9996\u6b21\u9732\u9762"],s,s),"decay",A.a(["pos","n./v.","chinese","\u8150\u721b"],s,s),"deceive",A.a(["pos","v.","chinese","\u6b3a\u9a19"],s,s),"decent",A.a(["pos","adj.","chinese","\u5f97\u9ad4\u7684"],s,s),"declaration",A.a(["pos","n.","chinese","\u5ba3\u8a00"],s,s),"decline",A.a(["pos","n./v.","chinese","\u4e0b\u964d"],s,s),"dedicate",A.a(["pos","v.","chinese","\u5949\u737b"],s,s),"defendant",A.a(["pos","n.","chinese","\u88ab\u544a"],s,s),"deficit",A.a(["pos","n.","chinese","\u8d64\u5b57"],s,s),"defy",A.a(["pos","v.","chinese","\u8511\u8996"],s,s),"delegate",A.a(["pos","n./v.","chinese","\u4ee3\u8868"],s,s),"delegation",A.a(["pos","n.","chinese","\u4ee3\u8868\u5718"],s,s),"combat",A.a(["pos","n./v.","chinese","\u6230\u9b25"],s,s),"comedian",A.a(["pos","n.","chinese","\u559c\u5287\u6f14\u54e1"],s,s),"commentary",A.a(["pos","n.","chinese","\u8a55\u8ad6"],s,s),"commentator",A.a(["pos","n.","chinese","\u8a55\u8ad6\u54e1"],s,s),"commission",A.a(["pos","n./v.","chinese","\u59d4\u54e1\u6703"],s,s),"commitment",A.a(["pos","n.","chinese","\u627f\u8afe"],s,s),"commodity",A.a(["pos","n.","chinese","\u5546\u54c1"],s,s),"communism",A.a(["pos","n.","chinese","\u5171\u7522\u4e3b\u7fa9"],s,s),"communist",A.a(["pos","adj./n.","chinese","\u5171\u7522\u4e3b\u7fa9\u8005"],s,s),"commute",A.a(["pos","v.","chinese","\u901a\u52e4"],s,s),"commuter",A.a(["pos","n.","chinese","\u901a\u52e4\u8005"],s,s),"compact",A.a(["pos","adj./n./v.","chinese","\u7dca\u6e4a\u7684"],s,s),"comparable",A.a(["pos","adj.","chinese","\u53ef\u6bd4\u8f03\u7684"],s,s),"compassion",A.a(["pos","n.","chinese","\u540c\u60c5\u5fc3"],s,s),"compassionate",A.a(["pos","adj.","chinese","\u6709\u540c\u60c5\u5fc3\u7684"],s,s),"compatible",A.a(["pos","adj.","chinese","\u517c\u5bb9\u7684"],s,s),"compel",A.a(["pos","v.","chinese","\u8feb\u4f7f"],s,s),"compensate",A.a(["pos","v.","chinese","\u88dc\u511f"],s,s),"compensation",A.a(["pos","n.","chinese","\u88dc\u511f"],s,s),"competence",A.a(["pos","n.","chinese","\u80fd\u529b"],s,s),"competent",A.a(["pos","adj.","chinese","\u80fd\u5e79\u7684"],s,s),"complexity",A.a(["pos","n.","chinese","\u8907\u96dc\u6027"],s,s),"compliance",A.a(["pos","n.","chinese","\u9075\u5f9e"],s,s),"complication",A.a(["pos","n.","chinese","\u8907\u96dc\u5316"],s,s),"compliment",A.a(["pos","n./v.","chinese","\u7a31\u8d0a"],s,s),"comply",A.a(["pos","v.","chinese","\u9075\u5b88"],s,s),"component",A.a(["pos","n./adj.","chinese","\u7d44\u6210\u90e8\u5206"],s,s),"compound",A.a(["pos","n./v./adj.","chinese","\u5316\u5408\u7269"],s,s),"comprehend",A.a(["pos","v.","chinese","\u7406\u89e3"],s,s),"comprehension",A.a(["pos","n.","chinese","\u7406\u89e3"],s,s),"comprise",A.a(["pos","v.","chinese","\u5305\u62ec"],s,s),"compromise",A.a(["pos","n./v.","chinese","\u59a5\u5354"],s,s),"compulsory",A.a(["pos","adj.","chinese","\u5f37\u5236\u6027\u7684"],s,s),"conceal",A.a(["pos","v.","chinese","\u96b1\u85cf"],s,s),"concede",A.a(["pos","v.","chinese","\u627f\u8a8d"],s,s),"conceive",A.a(["pos","v.","chinese","\u69cb\u60f3"],s,s),"conception",A.a(["pos","n.","chinese","\u6982\u5ff5"],s,s),"condemn",A.a(["pos","v.","chinese","\u8b74\u8cac"],s,s),"conduct",A.a(["pos","v./n.","chinese","\u884c\u70ba"],s,s),"confession",A.a(["pos","n.","chinese","\u5fcf\u6094"],s,s),"confidential",A.a(["pos","adj.","chinese","\u6a5f\u5bc6\u7684"],s,s),"confine",A.a(["pos","v.","chinese","\u9650\u5236"],s,s),"conform",A.a(["pos","v.","chinese","\u9075\u5b88"],s,s),"confront",A.a(["pos","v.","chinese","\u9762\u5c0d"],s,s),"confrontation",A.a(["pos","n.","chinese","\u5c0d\u6297"],s,s),"consecutive",A.a(["pos","adj.","chinese","\u9023\u7e8c\u7684"],s,s),"consensus",A.a(["pos","n.","chinese","\u5171\u8b58"],s,s),"consent",A.a(["pos","n./v.","chinese","\u540c\u610f"],s,s),"conservation",A.a(["pos","n.","chinese","\u4fdd\u8b77"],s,s),"considerate",A.a(["pos","adj.","chinese","\u9ad4\u8cbc\u7684"],s,s),"deliberate",A.a(["pos","adj./v.","chinese","\u6df1\u601d\u719f\u616e\u7684"],s,s),"democrat",A.a(["pos","n.","chinese","\u6c11\u4e3b\u9ee8\u4eba"],s,s),"denial",A.a(["pos","n.","chinese","\u5426\u8a8d"],s,s),"density",A.a(["pos","n.","chinese","\u5bc6\u5ea6"],s,s),"depict",A.a(["pos","v.","chinese","\u63cf\u7e6a"],s,s),"deploy",A.a(["pos","v.","chinese","\u90e8\u7f72"],s,s),"carbon",A.a(["pos","n.","chinese","\u78b3"],s,s),"carnival",A.a(["pos","n.","chinese","\u72c2\u6b61\u7bc0"],s,s),"casino",A.a(["pos","n.","chinese","\u8ced\u5834"],s,s),"cathedral",A.a(["pos","n.","chinese","\u5927\u6559\u5802"],s,s),"caution",A.a(["pos","n./v.","chinese","\u8b39\u614e"],s,s),"cautious",A.a(["pos","adj.","chinese","\u5c0f\u5fc3\u7684"],s,s),"celebrity",A.a(["pos","n.","chinese","\u540d\u4eba"],s,s),"cemetery",A.a(["pos","n.","chinese","\u5893\u5730"],s,s),"ceremony",A.a(["pos","n.","chinese","\u5100\u5f0f"],s,s),"certainty",A.a(["pos","n.","chinese","\u78ba\u5b9a"],s,s),"certificate",A.a(["pos","n./v.","chinese","\u8b49\u66f8"],s,s),"chaos",A.a(["pos","n.","chinese","\u6df7\u4e82"],s,s),"chapel",A.a(["pos","n.","chinese","\u5c0f\u6559\u5802"],s,s),"characterize",A.a(["pos","v.","chinese","\u63cf\u7e6a...\u7684\u7279\u5fb5"],s,s),"chef",A.a(["pos","n.","chinese","\u5eda\u5e2b"],s,s),"choir",A.a(["pos","n.","chinese","\u5408\u5531\u5718"],s,s),"chord",A.a(["pos","n.","chinese","\u548c\u5f26"],s,s),"chore",A.a(["pos","n.","chinese","\u96dc\u52d9"],s,s),"chronic",A.a(["pos","adj.","chinese","\u6162\u6027\u7684"],s,s),"chubby",A.a(["pos","adj.","chinese","\u5713\u6efe\u6efe\u7684"],s,s),"chunk",A.a(["pos","n.","chinese","\u539a\u584a"],s,s),"circuit",A.a(["pos","n.","chinese","\u96fb\u8def"],s,s),"cite",A.a(["pos","v.","chinese","\u5f15\u7528"],s,s),"citizenship",A.a(["pos","n.","chinese","\u516c\u6c11\u8eab\u4efd"],s,s),"civic",A.a(["pos","adj.","chinese","\u5e02\u6c11\u7684"],s,s),"clarity",A.a(["pos","n.","chinese","\u6e05\u6670"],s,s),"clause",A.a(["pos","n.","chinese","\u689d\u6b3e"],s,s),"cling",A.a(["pos","v.","chinese","\u7dca\u6293"],s,s),"clinical",A.a(["pos","adj.","chinese","\u81e8\u5e8a\u7684"],s,s),"cluster",A.a(["pos","n./v.","chinese","\u7fa4\u96c6"],s,s),"cocaine",A.a(["pos","n.","chinese","\u53ef\u5361\u56e0"],s,s),"coffin",A.a(["pos","n.","chinese","\u68fa\u6750"],s,s),"cognitive",A.a(["pos","adj.","chinese","\u8a8d\u77e5\u7684"],s,s),"coherent",A.a(["pos","adj.","chinese","\u9023\u8cab\u7684"],s,s),"coincidence",A.a(["pos","n.","chinese","\u5de7\u5408"],s,s),"collaboration",A.a(["pos","n.","chinese","\u5408\u4f5c"],s,s),"collective",A.a(["pos","adj./n.","chinese","\u96c6\u9ad4\u7684"],s,s),"collector",A.a(["pos","n.","chinese","\u6536\u85cf\u5bb6"],s,s),"colonial",A.a(["pos","adj./n.","chinese","\u6b96\u6c11\u5730\u7684"],s,s),"columnist",A.a(["pos","n.","chinese","\u5c08\u6b04\u4f5c\u5bb6"],s,s),"constitutional",A.a(["pos","adj./n.","chinese","\u61b2\u6cd5\u7684"],s,s),"constraint",A.a(["pos","n.","chinese","\u7d04\u675f"],s,s),"consultation",A.a(["pos","n.","chinese","\u8aee\u8a62"],s,s),"consumption",A.a(["pos","n.","chinese","\u6d88\u8cbb"],s,s),"contagious",A.a(["pos","adj.","chinese","\u50b3\u67d3\u6027\u7684"],s,s),"contaminate",A.a(["pos","v.","chinese","\u6c61\u67d3"],s,s),"contemplate",A.a(["pos","v.","chinese","\u601d\u8003"],s,s),"contemporary",A.a(["pos","adj./n.","chinese","\u7576\u4ee3\u7684"],s,s),"contempt",A.a(["pos","n.","chinese","\u8511\u8996"],s,s),"contend",A.a(["pos","v.","chinese","\u7af6\u722d"],s,s),"continental",A.a(["pos","adj.","chinese","\u5927\u9678\u7684"],s,s),"barren",A.a(["pos","adj.","chinese","\u8ca7\u7620\u7684"],s,s),"batch",A.a(["pos","n.","chinese","\u4e00\u6279"],s,s),"behalf",A.a(["pos","n.","chinese","\u4ee3\u8868"],s,s),"belongings",A.a(["pos","n.","chinese","\u8ca1\u7522"],s,s),"beloved",A.a(["pos","adj./n.","chinese","\u646f\u611b\u7684"],s,s),"beneficial",A.a(["pos","adj.","chinese","\u6709\u76ca\u7684"],s,s),"betray",A.a(["pos","v.","chinese","\u80cc\u53db"],s,s),"beware",A.a(["pos","v.","chinese","\u7576\u5fc3"],s,s),"bias",A.a(["pos","n./v.","chinese","\u504f\u898b"],s,s),"bid",A.a(["pos","n./v.","chinese","\u51fa\u50f9"],s,s),"biological",A.a(["pos","adj.","chinese","\u751f\u7269\u7684"],s,s),"bizarre",A.a(["pos","adj.","chinese","\u5947\u7570\u7684"],s,s),"blast",A.a(["pos","n./v.","chinese","\u7206\u70b8"],s,s),"blur",A.a(["pos","n./v.","chinese","\u6a21\u7cca"],s,s),"blush",A.a(["pos","n./v.","chinese","\u81c9\u7d05"],s,s),"bodyguard",A.a(["pos","n.","chinese","\u4fdd\u93e2"],s,s),"bolt",A.a(["pos","n./v.","chinese","\u87ba\u6813"],s,s),"bonus",A.a(["pos","n.","chinese","\u734e\u91d1"],s,s),"boom",A.a(["pos","n./v.","chinese","\u7e41\u69ae"],s,s),"boost",A.a(["pos","v./n.","chinese","\u63d0\u5347"],s,s),"booth",A.a(["pos","n.","chinese","\u5c55\u81fa"],s,s),"boredom",A.a(["pos","n.","chinese","\u7121\u804a"],s,s),"bound",A.a(["pos","v./n.","chinese","\u8df3\u8e8d"],s,s),"boundary",A.a(["pos","n.","chinese","\u908a\u754c"],s,s),"boxer",A.a(["pos","n.","chinese","\u62f3\u64ca\u624b"],s,s),"breakthrough",A.a(["pos","n.","chinese","\u7a81\u7834"],s,s),"briefcase",A.a(["pos","n.","chinese","\u516c\u6587\u5305"],s,s),"bronze",A.a(["pos","n./adj.","chinese","\u9752\u9285"],s,s),"browse",A.a(["pos","v./n.","chinese","\u700f\u89bd"],s,s),"bruise",A.a(["pos","n./v.","chinese","\u64e6\u50b7"],s,s),"bulk",A.a(["pos","n.","chinese","\u5927\u6279"],s,s),"bully",A.a(["pos","n./v.","chinese","\u60e1\u9738"],s,s),"bureau",A.a(["pos","n.","chinese","\u5c40"],s,s),"bureaucracy",A.a(["pos","n.","chinese","\u5b98\u50da\u4e3b\u7fa9"],s,s),"burial",A.a(["pos","n.","chinese","\u57cb\u846c"],s,s),"butcher",A.a(["pos","n./v.","chinese","\u5c60\u592b"],s,s),"calcium",A.a(["pos","n.","chinese","\u9223"],s,s),"canal",A.a(["pos","n.","chinese","\u904b\u6cb3"],s,s),"canvas",A.a(["pos","n./v.","chinese","\u5e06\u5e03"],s,s)],s,r)
-return new A.Pj(q,A.B(s,r),A.B(s,r),new A.eA(B.aY,$.as()),B.k)}}
+return new A.Pj(q,A.C(s,r),A.C(s,r),new A.eA(B.aY,$.as()),B.k)}}
 A.Pj.prototype={
 aq(){this.aJ()
 this.ez()},
@@ -83187,40 +83189,40 @@ r.a=a
 a=r.a=B.c.hi(a)
 if(s.ay.aj(0,a)&&a===s.d){s.H(new A.agk(r,s))
 s.d3()}},
-L(a){var s,r,q,p=this,o=null,n=A.iR(B.e7,A.C("RCc\u80cc\u55ae\u5b57",o,o,o,o,o,o)),m=A.bC(a,o,t.w).w,l=A.C("[\u5927\u8003\u4e2d\u5fc3 - \u7b2c\u4e94\u3001\u516d\u7d1a]",o,o,o,A.ad(o,o,o,o,o,o,o,o,o,o,o,12,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),o,o),k=A.C("\u586b\u7a7a",o,o,o,A.ad(o,o,o,o,o,o,o,o,o,o,o,10,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),o,o),j=A.dv(0),i=p.Q?B.E:o
+L(a){var s,r,q,p=this,o=null,n=A.iR(B.e7,A.A("RCc\u80cc\u55ae\u5b57",o,o,o,o,o,o)),m=A.bC(a,o,t.w).w,l=A.A("[\u5927\u8003\u4e2d\u5fc3 - \u7b2c\u4e94\u3001\u516d\u7d1a]",o,o,o,A.ad(o,o,o,o,o,o,o,o,o,o,o,12,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),o,o),k=A.A("\u586b\u7a7a",o,o,o,A.ad(o,o,o,o,o,o,o,o,o,o,o,10,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),o,o),j=A.dv(0),i=p.Q?B.E:o
 j=A.ap(k,new A.ag1(p),A.br(o,o,i,o,o,o,o,o,o,o,o,new A.E(0,30),o,o,new A.bp(j,B.l),o,o,o,o))
-i=A.C("\u5b78\u7fd2",o,o,o,A.ad(o,o,o,o,o,o,o,o,o,o,o,10,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),o,o)
+i=A.A("\u5b78\u7fd2",o,o,o,A.ad(o,o,o,o,o,o,o,o,o,o,o,10,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),o,o)
 k=A.dv(0)
 s=p.as?B.E:o
 k=A.ap(i,new A.ag2(p),A.br(o,o,s,o,o,o,o,o,o,o,o,new A.E(10,30),o,o,new A.bp(k,B.l),o,o,o,o))
-s=A.C("\u6e2c\u9a57",o,o,o,A.ad(o,o,o,o,o,o,o,o,o,o,o,10,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),o,o)
+s=A.A("\u6e2c\u9a57",o,o,o,A.ad(o,o,o,o,o,o,o,o,o,o,o,10,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),o,o)
 i=A.dv(0)
 r=p.at?B.E:o
 q=t.p
-i=A.c([A.bF(A.c([l,A.bF(A.c([j,k,A.ap(s,new A.ag3(p),A.br(o,o,r,o,o,o,o,o,o,o,o,new A.E(10,30),o,o,new A.bp(i,B.l),o,o,o,o))],q),B.t,B.y,B.p,o)],q),B.t,B.d1,B.p,o),A.b1(o,10,o),A.bF(A.c([A.ap(A.C(" Home ",o,o,o,A.ad(o,o,o,o,o,o,o,o,o,o,o,10,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),o,o),new A.agc(a),A.br(o,o,o,o,o,o,o,o,o,o,o,new A.E(30,30),o,o,new A.bp(A.dv(3),B.l),o,o,o,o))],q),B.t,B.d1,B.p,o),A.b1(o,10,o)],q)
-if(p.at){l=A.c([A.il(A.bF(A.c([A.C("\u8a5e\u6027: ",o,o,o,A.ad(o,o,B.h,o,o,o,o,o,o,o,o,15,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),B.C,o),A.C(" "+p.f,o,o,o,A.ad(o,o,B.h,o,o,o,o,o,o,o,o,25,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),B.C,o),A.C(" , \u4e2d\u6587: ",o,o,o,A.ad(o,o,B.h,o,o,o,o,o,o,o,o,15,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),B.C,o),A.C(p.r+"  ",o,o,o,A.ad(o,o,B.h,o,o,o,o,o,o,o,o,25,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),B.C,o),A.ap(A.e_(B.b_,o),new A.agd(p),A.br(o,o,o,o,o,o,o,o,o,o,o,new A.E(70,30),o,o,o,o,o,o,o))],q),B.aZ,B.al,B.p,B.m),B.ai),A.b1(o,10,o),A.ap(A.C("ANS",o,o,o,A.ad(o,o,o,o,o,o,o,o,o,o,o,10,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),o,o),new A.age(p),A.br(o,o,o,o,o,o,o,o,o,o,o,new A.E(70,30),o,o,o,o,o,o,o)),A.b1(o,10,o)],q)
+i=A.c([A.bF(A.c([l,A.bF(A.c([j,k,A.ap(s,new A.ag3(p),A.br(o,o,r,o,o,o,o,o,o,o,o,new A.E(10,30),o,o,new A.bp(i,B.l),o,o,o,o))],q),B.t,B.y,B.p,o)],q),B.t,B.d1,B.p,o),A.b1(o,10,o),A.bF(A.c([A.ap(A.A(" Home ",o,o,o,A.ad(o,o,o,o,o,o,o,o,o,o,o,10,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),o,o),new A.agc(a),A.br(o,o,o,o,o,o,o,o,o,o,o,new A.E(30,30),o,o,new A.bp(A.dv(3),B.l),o,o,o,o))],q),B.t,B.d1,B.p,o),A.b1(o,10,o)],q)
+if(p.at){l=A.c([A.il(A.bF(A.c([A.A("\u8a5e\u6027: ",o,o,o,A.ad(o,o,B.h,o,o,o,o,o,o,o,o,15,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),B.C,o),A.A(" "+p.f,o,o,o,A.ad(o,o,B.h,o,o,o,o,o,o,o,o,25,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),B.C,o),A.A(" , \u4e2d\u6587: ",o,o,o,A.ad(o,o,B.h,o,o,o,o,o,o,o,o,15,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),B.C,o),A.A(p.r+"  ",o,o,o,A.ad(o,o,B.h,o,o,o,o,o,o,o,o,25,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),B.C,o),A.ap(A.e_(B.b_,o),new A.agd(p),A.br(o,o,o,o,o,o,o,o,o,o,o,new A.E(70,30),o,o,o,o,o,o,o))],q),B.aZ,B.al,B.p,B.m),B.ai),A.b1(o,10,o),A.ap(A.A("ANS",o,o,o,A.ad(o,o,o,o,o,o,o,o,o,o,o,10,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),o,o),new A.age(p),A.br(o,o,o,o,o,o,o,o,o,o,o,new A.E(70,30),o,o,o,o,o,o,o)),A.b1(o,10,o)],q)
 k=p.e
-if(k.length!==0)l.push(A.C(k,o,o,o,A.ad(o,o,B.h,o,o,o,o,o,o,o,o,20,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),B.C,o))
+if(k.length!==0)l.push(A.A(k,o,o,o,A.ad(o,o,B.h,o,o,o,o,o,o,o,o,20,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),B.C,o))
 else{k=p.y
-if(k.length!==0)l.push(A.C(" "+k+" "+B.c.ab("_",p.d.length-2)+" "+p.z,o,o,o,A.ad(o,o,B.h,o,o,o,o,o,o,o,o,20,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),B.C,o))}l.push(A.hF(p.CW,A.fP(o,new A.fi(4,B.c1,B.dv),o,o,o,o,o,o,!0,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,A.ad(o,o,o,o,o,o,o,o,o,o,o,12,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),"Enter text here...",o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o),o,!1,new A.agf(p),new A.agg(p)))
-l.push(A.C("",o,o,o,o,o,o))
-l.push(A.bF(A.c([A.fL(A.ap(A.C("\u78ba\u8a8d",o,o,o,o,o,o),new A.agh(p),o))],q),B.t,B.y,B.p,o))
-i.push(A.bV(l,B.t,B.al,B.p,o))}if(p.as){l=A.c([A.bF(A.c([A.C(p.d+"  ",o,o,o,A.ad(o,o,B.h,o,o,o,o,o,o,o,o,25,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),B.C,o),A.ap(A.e_(B.b_,o),new A.agi(p),A.br(o,o,o,o,o,o,o,o,o,o,o,new A.E(70,30),o,o,o,o,o,o,o))],q),B.aZ,B.al,B.p,B.m),A.b1(o,10,o),A.ap(A.C("Translation",o,o,o,A.ad(o,o,o,o,o,o,o,o,o,o,o,10,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),o,o),new A.agj(p),A.br(o,o,o,o,o,o,o,o,o,o,o,new A.E(70,30),o,o,o,o,o,o,o)),A.b1(o,10,o)],q)
-if(p.x===1)l.push(A.bV(A.c([A.C(p.r,o,o,o,A.ad(o,o,B.h,o,o,o,o,o,o,o,o,20,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),B.C,o),A.C(p.f,o,o,o,A.ad(o,o,B.h,o,o,o,o,o,o,o,o,20,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),B.C,o)],q),B.t,B.y,B.p,o))
+if(k.length!==0)l.push(A.A(" "+k+" "+B.c.ab("_",p.d.length-2)+" "+p.z,o,o,o,A.ad(o,o,B.h,o,o,o,o,o,o,o,o,20,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),B.C,o))}l.push(A.hF(p.CW,A.fP(o,new A.fi(4,B.c1,B.dv),o,o,o,o,o,o,!0,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,A.ad(o,o,o,o,o,o,o,o,o,o,o,12,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),"Enter text here...",o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o),o,!1,new A.agf(p),new A.agg(p)))
+l.push(A.A("",o,o,o,o,o,o))
+l.push(A.bF(A.c([A.fL(A.ap(A.A("\u78ba\u8a8d",o,o,o,o,o,o),new A.agh(p),o))],q),B.t,B.y,B.p,o))
+i.push(A.bV(l,B.t,B.al,B.p,o))}if(p.as){l=A.c([A.bF(A.c([A.A(p.d+"  ",o,o,o,A.ad(o,o,B.h,o,o,o,o,o,o,o,o,25,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),B.C,o),A.ap(A.e_(B.b_,o),new A.agi(p),A.br(o,o,o,o,o,o,o,o,o,o,o,new A.E(70,30),o,o,o,o,o,o,o))],q),B.aZ,B.al,B.p,B.m),A.b1(o,10,o),A.ap(A.A("Translation",o,o,o,A.ad(o,o,o,o,o,o,o,o,o,o,o,10,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),o,o),new A.agj(p),A.br(o,o,o,o,o,o,o,o,o,o,o,new A.E(70,30),o,o,o,o,o,o,o)),A.b1(o,10,o)],q)
+if(p.x===1)l.push(A.bV(A.c([A.A(p.r,o,o,o,A.ad(o,o,B.h,o,o,o,o,o,o,o,o,20,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),B.C,o),A.A(p.f,o,o,o,A.ad(o,o,B.h,o,o,o,o,o,o,o,o,20,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),B.C,o)],q),B.t,B.y,B.p,o))
 l.push(A.b1(o,30,o))
-l.push(A.bF(A.c([A.fL(A.ap(A.C("learned",o,o,o,o,o,o),new A.ag4(p),o))],q),B.t,B.y,B.p,o))
-i.push(A.bV(l,B.t,B.al,B.p,o))}if(p.Q){l=A.c([A.bF(A.c([A.C("sentence\u65bd\u5de5\u4e2d...  ",o,o,o,A.ad(o,o,B.h,o,o,o,o,o,o,o,o,25,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),B.C,o),A.ap(A.e_(B.b_,o),new A.ag5(p),A.br(o,o,o,o,o,o,o,o,o,o,o,new A.E(70,30),o,o,o,o,o,o,o))],q),B.aZ,B.al,B.p,B.m),A.b1(o,10,o),A.ap(A.C("ANS",o,o,o,A.ad(o,o,o,o,o,o,o,o,o,o,o,10,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),o,o),new A.ag6(p),A.br(o,o,o,o,o,o,o,o,o,o,o,new A.E(70,30),o,o,o,o,o,o,o)),A.b1(o,10,o)],q)
-if(p.x===1)l.push(A.bV(A.c([A.C("transentence",o,o,o,A.ad(o,o,B.h,o,o,o,o,o,o,o,o,20,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),B.C,o),A.C("\u65bd\u5de5\u4e2d",o,o,o,A.ad(o,o,B.h,o,o,o,o,o,o,o,o,20,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),B.C,o)],q),B.t,B.y,B.p,o))
+l.push(A.bF(A.c([A.fL(A.ap(A.A("learned",o,o,o,o,o,o),new A.ag4(p),o))],q),B.t,B.y,B.p,o))
+i.push(A.bV(l,B.t,B.al,B.p,o))}if(p.Q){l=A.c([A.bF(A.c([A.A("sentence\u65bd\u5de5\u4e2d...  ",o,o,o,A.ad(o,o,B.h,o,o,o,o,o,o,o,o,25,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),B.C,o),A.ap(A.e_(B.b_,o),new A.ag5(p),A.br(o,o,o,o,o,o,o,o,o,o,o,new A.E(70,30),o,o,o,o,o,o,o))],q),B.aZ,B.al,B.p,B.m),A.b1(o,10,o),A.ap(A.A("ANS",o,o,o,A.ad(o,o,o,o,o,o,o,o,o,o,o,10,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),o,o),new A.ag6(p),A.br(o,o,o,o,o,o,o,o,o,o,o,new A.E(70,30),o,o,o,o,o,o,o)),A.b1(o,10,o)],q)
+if(p.x===1)l.push(A.bV(A.c([A.A("transentence",o,o,o,A.ad(o,o,B.h,o,o,o,o,o,o,o,o,20,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),B.C,o),A.A("\u65bd\u5de5\u4e2d",o,o,o,A.ad(o,o,B.h,o,o,o,o,o,o,o,o,20,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),B.C,o)],q),B.t,B.y,B.p,o))
 l.push(A.b1(o,30,o))
-l.push(A.bF(A.c([A.fL(A.ap(A.C("learned",o,o,o,o,o,o),new A.ag7(p),o))],q),B.t,B.y,B.p,o))
+l.push(A.bF(A.c([A.fL(A.ap(A.A("learned",o,o,o,o,o,o),new A.ag7(p),o))],q),B.t,B.y,B.p,o))
 i.push(A.bV(l,B.t,B.al,B.p,o))}i.push(A.b1(o,5,o))
-i.push(A.ap(A.C("skip",o,o,o,o,o,o),new A.ag8(p),o))
-i.push(A.C("",o,o,o,o,o,o))
-if(J.e8(p.ch))i.push(A.ap(A.C("\u67e5\u770b\u5df2\u5b78\u6703\u7684\u55ae\u5b57",o,o,o,o,o,o),new A.ag9(p,a),o))
+i.push(A.ap(A.A("skip",o,o,o,o,o,o),new A.ag8(p),o))
+i.push(A.A("",o,o,o,o,o,o))
+if(J.e8(p.ch))i.push(A.ap(A.A("\u67e5\u770b\u5df2\u5b78\u6703\u7684\u55ae\u5b57",o,o,o,o,o,o),new A.ag9(p,a),o))
 i.push(A.b1(o,5,o))
-if(p.ay.a!==0)i.push(A.ap(A.C("\u67e5\u770b\u5269\u9918\u55ae\u5b57",o,o,o,o,o,o),new A.aga(p,a),o))
-i.push(A.C("",o,o,o,o,o,o))
-i.push(A.ap(A.C("\u91cd\u7f6e",o,o,o,o,o,o),new A.agb(p,a),o))
+if(p.ay.a!==0)i.push(A.ap(A.A("\u67e5\u770b\u5269\u9918\u55ae\u5b57",o,o,o,o,o,o),new A.aga(p,a),o))
+i.push(A.A("",o,o,o,o,o,o))
+i.push(A.ap(A.A("\u91cd\u7f6e",o,o,o,o,o,o),new A.agb(p,a),o))
 return A.ih(n,A.dY(o,A.il(new A.dX(new A.au(0,1/0,m.a.b,1/0),A.bV(i,B.c4,B.y,B.p,o),o),B.aj),B.v,B.d2,o,o,o,B.f2,o))}}
 A.agm.prototype={
 $0(){var s=this.a,r=A.c5(J.aR(this.b.a,"learnedDatabase"))
@@ -83429,8 +83431,8 @@ A.agb.prototype={
 $0(){A.hQ(new A.afQ(this.a),this.b,t.z)},
 $S:0}
 A.afQ.prototype={
-$1(a){var s=null,r=A.C("\u78ba\u8a8d\u91cd\u7f6e",s,s,s,s,s,s),q=A.C("\u78ba\u8a8d\u5f8c\u5c07\u5fa9\u539f\u6240\u6709\u5df2\u5b78\u6703\u55ae\u5b57",s,s,s,s,s,s)
-return A.hc(A.c([A.dn(A.C("\u53d6\u6d88",s,s,s,s,s,s),new A.afM(a),s),A.ap(A.C("\u78ba\u8a8d",s,s,s,s,s,s),new A.afN(this.a,a),s)],t.p),q,r)},
+$1(a){var s=null,r=A.A("\u78ba\u8a8d\u91cd\u7f6e",s,s,s,s,s,s),q=A.A("\u78ba\u8a8d\u5f8c\u5c07\u5fa9\u539f\u6240\u6709\u5df2\u5b78\u6703\u55ae\u5b57",s,s,s,s,s,s)
+return A.hc(A.c([A.dn(A.A("\u53d6\u6d88",s,s,s,s,s,s),new A.afM(a),s),A.ap(A.A("\u78ba\u8a8d",s,s,s,s,s,s),new A.afN(this.a,a),s)],t.p),q,r)},
 $S:17}
 A.afM.prototype={
 $0(){A.c3(this.a,!1).fL(null)},
@@ -83443,13 +83445,13 @@ $S:0}
 A.afJ.prototype={
 $0(){var s=this.a,r=t.N,q=t.z
 s.ay=A.fU(s.ax,r,q)
-s.ch=A.B(r,q)
+s.ch=A.C(r,q)
 s.bi()
 s.d3()},
 $S:0}
 A.nt.prototype={
 ai(){var s=t.N,r=t.z,q=A.a(["absence",A.a(["pos","n.","chinese","\u7f3a\u5e2d"],s,s),"absent",A.a(["pos","adj./v.","chinese","\u7f3a\u5e2d"],s,s),"accept",A.a(["pos","v.","chinese","\u63a5\u53d7"],s,s),"accident",A.a(["pos","n.","chinese","\u4e8b\u6545"],s,s),"account",A.a(["pos","n./v.","chinese","\u5e33\u6236"],s,s),"active",A.a(["pos","adj.","chinese","\u6d3b\u8e8d\u7684"],s,s),"activity",A.a(["pos","n.","chinese","\u6d3b\u52d5"],s,s),"actual",A.a(["pos","adj.","chinese","\u5be6\u969b\u7684"],s,s),"addition",A.a(["pos","n.","chinese","\u52a0\u6cd5"],s,s),"address",A.a(["pos","v./n.","chinese","\u5730\u5740"],s,s),"admit",A.a(["pos","v.","chinese","\u627f\u8a8d"],s,s),"adult",A.a(["pos","n./adj.","chinese","\u6210\u4eba"],s,s),"advance",A.a(["pos","n./v.","chinese","\u63d0\u524d"],s,s),"advice",A.a(["pos","n.","chinese","\u5fe0\u544a"],s,s),"affair",A.a(["pos","n.","chinese","\u4e8b\u52d9"],s,s),"affect",A.a(["pos","v.","chinese","\u5f71\u97ff"],s,s),"against",A.a(["pos","prep.","chinese","\u53cd\u5c0d\u6e96\u5099"],s,s),"ahead",A.a(["pos","adv.","chinese","\u9818\u5148"],s,s),"aid",A.a(["pos","n./v.","chinese","\u63f4\u52a9"],s,s),"aim",A.a(["pos","n./v.","chinese","\u76ee\u6a19"],s,s),"aircraft",A.a(["pos","n.","chinese","\u98db\u6a5f"],s,s),"alarm",A.a(["pos","n./v.","chinese","\u8b66\u5831"],s,s),"album",A.a(["pos","n.","chinese","\u5c08\u8f2f"],s,s),"alike",A.a(["pos","adv./adj.","chinese","\u76f8\u4f3c\u7684"],s,s),"alive",A.a(["pos","adj.","chinese","\u6d3b\u8457\u7684"],s,s),"alone",A.a(["pos","adv./adj.","chinese","\u55ae\u7368"],s,s),"aloud",A.a(["pos","adv.","chinese","\u5927\u8072\u5730"],s,s),"altogether",A.a(["pos","adv.","chinese","\u5b8c\u5168\u526f\u8a5e"],s,s),"among",A.a(["pos","prep.","chinese","\u5176\u4e2d\u6e96\u5099"],s,s),"amount",A.a(["pos","n./v.","chinese","\u91d1\u984d"],s,s),"ancient",A.a(["pos","adj.","chinese","\u53e4\u4ee3\u7684"],s,s),"anger",A.a(["pos","n.","chinese","\u61a4\u6012"],s,s),"angle",A.a(["pos","n.","chinese","\u89d2\u5ea6"],s,s),"ankle",A.a(["pos","n.","chinese","\u8e1d\u95dc\u7bc0"],s,s),"anytime",A.a(["pos","adv.","chinese","\u96a8\u6642"],s,s),"anyway",A.a(["pos","adv.","chinese","\u4e0d\u7ba1\u600e\u6a23"],s,s),"anywhere/anyplace",A.a(["pos","adv.","chinese","\u4efb\u4f55\u5730\u65b9/\u4efb\u4f55\u5730\u65b9"],s,s),"ape",A.a(["pos","n.","chinese","\u4e00\u652f\u92fc\u7b46\u3002"],s,s),"appearance",A.a(["pos","n.","chinese","\u5916\u89c0"],s,s),"appetite",A.a(["pos","n.","chinese","\u98df\u617e"],s,s),"apply",A.a(["pos","v.","chinese","\u61c9\u7528"],s,s),"appreciate",A.a(["pos","v.","chinese","\u6b23\u8cde"],s,s),"approach",A.a(["pos","n./v.","chinese","\u65b9\u6cd5"],s,s),"argue(argument)",A.a(["pos","v./(n.)","chinese","\u722d\u8ad6\uff08\u8ad6\u8b49"],s,s),"army",A.a(["pos","n.","chinese","\u8ecd\u968a"],s,s),"arrange(ment)",A.a(["pos","v./(n.)","chinese","\u5b89\u6392\uff08\u5b89\u6392\uff09"],s,s),"arrival",A.a(["pos","n.","chinese","\u5230\u9054"],s,s),"arrow",A.a(["pos","n.","chinese","\u7bad\u982d"],s,s),"article",A.a(["pos","n.","chinese","\u6587\u7ae0"],s,s),"artist",A.a(["pos","n.","chinese","\u85dd\u8853\u5bb6"],s,s),"asleep",A.a(["pos","adj.","chinese","\u7761\u8457\u4e86"],s,s),"attempt",A.a(["pos","n./v.","chinese","\u5617\u8a66"],s,s),"attend",A.a(["pos","v.","chinese","\u53c3\u52a0"],s,s),"attention",A.a(["pos","n.","chinese","\u6ce8\u610f"],s,s),"author",A.a(["pos","n./v.","chinese","\u4f5c\u8005"],s,s),"available",A.a(["pos","adj.","chinese","\u53ef\u7528\u7684"],s,s),"average",A.a(["pos","adj./n./v.","chinese","\u5e73\u5747"],s,s),"avoid",A.a(["pos","v.","chinese","\u907f\u514d"],s,s),"backpack",A.a(["pos","n./v.","chinese","\u80cc\u5305"],s,s),"backward",A.a(["pos","adj.","chinese","\u5411\u5f8c\u7684"],s,s),"backward/backwards",A.a(["pos","adv.","chinese","\u5411\u5f8c/\u5411\u5f8c"],s,s),"badminton",A.a(["pos","n.","chinese","\u7fbd\u6bdb\u7403"],s,s),"bake",A.a(["pos","v.","chinese","\u8c9d\u514b"],s,s),"bakery",A.a(["pos","n.","chinese","\u9eb5\u5305\u5e97"],s,s),"balance",A.a(["pos","n./v.","chinese","\u9918\u984d"],s,s),"balcony",A.a(["pos","n.","chinese","\u967d\u53f0"],s,s),"balloon",A.a(["pos","n.","chinese","\u6c23\u7403"],s,s),"bar",A.a(["pos","n./v.","chinese","\u9152\u5427"],s,s),"barbecue",A.a(["pos","n./v.","chinese","\u70e4\u8089"],s,s),"barber",A.a(["pos","n.","chinese","\u7406\u9aee\u5e2b"],s,s),"bark",A.a(["pos","n./v.","chinese","\u6a39\u76ae"],s,s),"base",A.a(["pos","n./v.","chinese","\u57fa\u790e"],s,s),"basic",A.a(["pos","adj.","chinese","\u57fa\u672c"],s,s),"basics",A.a(["pos","n.","chinese","\u57fa\u790e\u77e5\u8b58"],s,s),"basis",A.a(["pos","n.","chinese","\u57fa\u790e"],s,s),"bathe",A.a(["pos","v.","chinese","\u5df4\u65af\u8a34"],s,s),"battle",A.a(["pos","n./v.","chinese","\u6230\u9b25"],s,s),"beard",A.a(["pos","n.","chinese","\u9b0d\u5b50"],s,s),"beat",A.a(["pos","v./n.","chinese","\u64ca\u6557"],s,s),"beauty",A.a(["pos","n.","chinese","\u7f8e\u4eba"],s,s),"beer",A.a(["pos","n.","chinese","\u5564\u9152"],s,s),"beg",A.a(["pos","v.","chinese","\u8c9d\u683c"],s,s),"beginner",A.a(["pos","n.","chinese","\u521d\u5b78\u8005"],s,s),"behave",A.a(["pos","v.","chinese","\u884c\u70ba\u8209\u6b62"],s,s),"being",A.a(["pos","n.","chinese","\u662f"],s,s),"belief",A.a(["pos","n.","chinese","\u4fe1\u5ff5"],s,s),"bend",A.a(["pos","v./n.","chinese","\u5f4e\u66f2"],s,s),"better",A.a(["pos","adj./adv./n./v.","chinese","\u66f4\u597d\u7684"],s,s),"beyond",A.a(["pos","prep./adv.","chinese","\u8d85\u8d8a\u6e96\u5099/\u9ad8\u7d1a"],s,s),"bill",A.a(["pos","n./v.","chinese","\u6bd4\u723e"],s,s),"billion",A.a(["pos","n.","chinese","\u5341\u5104"],s,s),"birth",A.a(["pos","n.","chinese","\u51fa\u751f"],s,s),"biscuit",A.a(["pos","n.","chinese","\u9905\u4e7e"],s,s),"bit",A.a(["pos","n.","chinese","\u4f4d\u5143"],s,s),"blackboard",A.a(["pos","n.","chinese","\u9ed1\u677f"],s,s),"blame",A.a(["pos","v./n.","chinese","\u8cac\u5099"],s,s),"blank",A.a(["pos","adj./n.","chinese","\u7a7a\u767d"],s,s),"blanket",A.a(["pos","n./v.","chinese","\u6bef\u5b50"],s,s),"blood",A.a(["pos","n.","chinese","\u8840"],s,s),"board",A.a(["pos","n./v.","chinese","\u8463\u4e8b\u6703"],s,s),"boil",A.a(["pos","n./v.","chinese","\u6cb8\u9a30"],s,s),"bone",A.a(["pos","n.","chinese","\u9aa8\u982d"],s,s),"bookstore",A.a(["pos","n.","chinese","\u66f8\u5e97"],s,s),"border",A.a(["pos","n./v.","chinese","\u908a\u754c"],s,s),"bother",A.a(["pos","v./n.","chinese","\u6253\u64fe"],s,s),"brain",A.a(["pos","n.","chinese","\u5927\u8166"],s,s),"branch",A.a(["pos","n./v.","chinese","\u5206\u652f"],s,s),"brand",A.a(["pos","n.","chinese","\u54c1\u724c"],s,s),"brief",A.a(["pos","adj./n./v.","chinese","\u7c21\u77ed\u7684"],s,s),"brilliant",A.a(["pos","adj.","chinese","\u8f1d\u714c\u7684"],s,s),"broad",A.a(["pos","adj.","chinese","\u5ee3\u6cdb\u7684"],s,s),"brush",A.a(["pos","n./v.","chinese","\u5237\u5b50"],s,s),"building",A.a(["pos","n.","chinese","\u5efa\u7bc9\u7269"],s,s),"bun",A.a(["pos","n.","chinese","\u5305\u5b50"],s,s),"burden",A.a(["pos","n./v.","chinese","\u8ca0\u64d4"],s,s),"burn",A.a(["pos","v./n.","chinese","\u71d2\u50b7"],s,s),"burst",A.a(["pos","n./v.","chinese","\u7206\u88c2"],s,s),"businessman",A.a(["pos","n.","chinese","\u5546\u4eba"],s,s),"cabbage",A.a(["pos","n.","chinese","\u6372\u5fc3\u83dc"],s,s),"caf\xe9/cafe",A.a(["pos","n.","chinese","\u5496\u5561\u9928/\u5496\u5561\u9928"],s,s),"cage",A.a(["pos","n./v.","chinese","\u7c60\u5b50"],s,s),"calendar",A.a(["pos","n.","chinese","\u65e5\u66c6"],s,s),"calm",A.a(["pos","v./adj./n","chinese","\u5e73\u975c"],s,s),"camel",A.a(["pos","n.","chinese","\u99f1\u99dd"],s,s),"cancel",A.a(["pos","v.","chinese","\u53d6\u6d88"],s,s),"cancer",A.a(["pos","n.","chinese","\u764c\u75c7"],s,s),"candle",A.a(["pos","n.","chinese","\u881f\u71ed"],s,s),"capital",A.a(["pos","n./adj.","chinese","\u8cc7\u672c"],s,s),"cartoon",A.a(["pos","n./v.","chinese","\u5361\u901a"],s,s),"cash",A.a(["pos","n./v.","chinese","\u73fe\u91d1"],s,s),"castle",A.a(["pos","n.","chinese","\u57ce\u5821"],s,s),"cause",A.a(["pos","n./v.","chinese","\u539f\u56e0"],s,s),"ceiling",A.a(["pos","n.","chinese","\u5929\u82b1\u677f"],s,s),"cell",A.a(["pos","n.","chinese","\u7d30\u80de"],s,s),"centimeter",A.a(["pos","n.","chinese","\u516c\u5206"],s,s),"central",A.a(["pos","adj.","chinese","\u4e2d\u592e"],s,s),"century",A.a(["pos","n.","chinese","\u4e16\u7d00"],s,s),"cereal",A.a(["pos","n.","chinese","\u7a40\u7269"],s,s),"chain",A.a(["pos","n./v.","chinese","\u93c8\u689d"],s,s),"chalk",A.a(["pos","n./v.","chinese","\u7c89\u7b46"],s,s),"challenge",A.a(["pos","n./v.","chinese","\u6311\u6230"],s,s),"channel",A.a(["pos","n./v.","chinese","\u983b\u9053"],s,s),"chapter",A.a(["pos","n.","chinese","\u7b2cn\u7ae0"],s,s),"character",A.a(["pos","n.","chinese","\u5b57\u5143"],s,s),"charge",A.a(["pos","n./v.","chinese","\u96fb\u8377"],s,s),"chart",A.a(["pos","n.","chinese","\u5716\u8868"],s,s),"chase",A.a(["pos","n./v.","chinese","\u8521\u65af"],s,s),"cheat",A.a(["pos","v./n.","chinese","\u4f5c\u5f0a"],s,s),"cheer",A.a(["pos","v./n.","chinese","\u6b61\u547c"],s,s),"chemical",A.a(["pos","adj./n.","chinese","\u5316\u5b78"],s,s),"chess",A.a(["pos","n.","chinese","\u897f\u6d0b\u68cb"],s,s),"chief",A.a(["pos","adj./n.","chinese","\u4e3b\u8981"],s,s),"childhood",A.a(["pos","n.","chinese","\u7ae5\u5e74"],s,s),"childish",A.a(["pos","adj.","chinese","\u5e7c\u7a1a\u7684"],s,s),"china",A.a(["pos","n.","chinese","\u4e2d\u570b"],s,s),"chopstick(s)",A.a(["pos","n.","chinese","\u7b77\u5b50"],s,s),"claim",A.a(["pos","n./v.","chinese","\u7d22\u8ce0"],s,s),"clap",A.a(["pos","v./n.","chinese","\u62cd\u624b"],s,s),"classic",A.a(["pos","adj./n.","chinese","\u7d93\u5178"],s,s),"classical",A.a(["pos","adj.","chinese","\u53e4\u5178\u7684"],s,s),"classmate",A.a(["pos","n.","chinese","\u540c\u5b78"],s,s),"clever",A.a(["pos","adj.","chinese","\u8070\u660e\u7684"],s,s),"click",A.a(["pos","v./n.","chinese","\u6309\u4e00\u4e0b"],s,s),"climate",A.a(["pos","n.","chinese","\u6c23\u5019"],s,s),"cloth",A.a(["pos","n.","chinese","\u5e03"],s,s),"clothing",A.a(["pos","n.","chinese","\u8863\u670d"],s,s),"cloudy",A.a(["pos","adj.","chinese","\u591a\u96f2\u7684"],s,s),"coal",A.a(["pos","n.","chinese","\u7164"],s,s),"coast",A.a(["pos","n.","chinese","\u6d77\u5cb8"],s,s),"cockroach/roach",A.a(["pos","n.","chinese","\u87d1\u8782/\u87d1\u8782"],s,s),"cocoa",A.a(["pos","n.","chinese","\u53ef\u53ef"],s,s),"coin",A.a(["pos","n./v.","chinese","\u786c\u5e63"],s,s),"cola/Coke",A.a(["pos","n.","chinese","\u53ef\u6a02/\u53ef\u6a02"],s,s),"college",A.a(["pos","n.","chinese","\u5b78\u9662"],s,s),"comb",A.a(["pos","n./v.","chinese","\u68b3\u5b50"],s,s),"combine",A.a(["pos","v.","chinese","\u5408\u4f75"],s,s),"comic(s)",A.a(["pos","adj./n.","chinese","\u6f2b\u756b"],s,s),"command",A.a(["pos","n./v.","chinese","\u547d\u4ee4"],s,s),"commercial",A.a(["pos","adj./n.","chinese","\u5546\u696d"],s,s),"company",A.a(["pos","n.","chinese","\u516c\u53f8"],s,s),"compare",A.a(["pos","v.","chinese","\u6bd4\u8f03"],s,s),"complete",A.a(["pos","adj./v.","chinese","\u5b8c\u6574"],s,s),"complex",A.a(["pos","adj./n.","chinese","\u8907\u96dc\u7684"],s,s),"concern",A.a(["pos","n./v.","chinese","\u95dc\u6ce8"],s,s),"conclude",A.a(["pos","v.","chinese","\u7d50\u8ad6"],s,s),"condition",A.a(["pos","n./v.","chinese","\u689d\u4ef6"],s,s),"confident",A.a(["pos","adj.","chinese","\u81ea\u4fe1\u7684"],s,s),"conflict",A.a(["pos","n./v.","chinese","\u885d\u7a81"],s,s),"congratulation(s)",A.a(["pos","n.","chinese","\u606d\u559c"],s,s),"connection",A.a(["pos","n.","chinese","\u9023\u63a5"],s,s),"consider",A.a(["pos","v.","chinese","\u8003\u616e"],s,s),"consideration",A.a(["pos","n.","chinese","\u8003\u616e\u56e0\u7d20"],s,s),"contact",A.a(["pos","n./v.","chinese","\u806f\u7d61\u65b9\u5f0f"],s,s),"contain",A.a(["pos","v.","chinese","\u5305\u542b"],s,s),"continue",A.a(["pos","v.","chinese","\u7e7c\u7e8c"],s,s),"contract",A.a(["pos","n./v.","chinese","\u5408\u7d04"],s,s),"control",A.a(["pos","n./v.","chinese","\u63a7\u5236"],s,s),"conversation",A.a(["pos","n.","chinese","\u8ac7\u8a71"],s,s),"corn",A.a(["pos","n.","chinese","\u7389\u7c73"],s,s),"countryside",A.a(["pos","n.","chinese","\u9109\u6751"],s,s),"couple",A.a(["pos","n./v.","chinese","\u60c5\u4fb6"],s,s),"courage",A.a(["pos","n.","chinese","\u52c7\u6c23"],s,s),"court",A.a(["pos","n.","chinese","\u6cd5\u5ead"],s,s),"cowboy",A.a(["pos","n.","chinese","\u725b\u4ed4"],s,s),"crayon",A.a(["pos","n.","chinese","\u881f\u7b46"],s,s),"cream",A.a(["pos","n./adj.","chinese","\u5976\u6cb9"],s,s),"create",A.a(["pos","v.","chinese","\u5275\u5efa"],s,s),"crime",A.a(["pos","n.","chinese","\u72af\u7f6a"],s,s),"crisis",A.a(["pos","n.","chinese","\u5371\u6a5f"],s,s),"crow",A.a(["pos","n.","chinese","\u738b\u51a0"],s,s),"crowd",A.a(["pos","n./v.","chinese","\u4eba\u7fa4"],s,s),"cultural",A.a(["pos","adj.","chinese","\u6587\u5316"],s,s),"culture",A.a(["pos","n.","chinese","\u6587\u5316"],s,s),"cure",A.a(["pos","n./v.","chinese","\u6cbb\u7652"],s,s),"curious",A.a(["pos","adj.","chinese","\u597d\u5947\u7684"],s,s),"current",A.a(["pos","adj./n.","chinese","\u76ee\u524d\u7684"],s,s),"curtain",A.a(["pos","n./v.","chinese","\u7a97\u7c3e"],s,s),"custom",A.a(["pos","n.","chinese","\u5b9a\u5236"],s,s),"customer",A.a(["pos","n.","chinese","\u9867\u5ba2"],s,s),"cycle",A.a(["pos","n./v.","chinese","\u5faa\u74b0"],s,s),"daily",A.a(["pos","adj./adv./n.","chinese","\u6bcf\u65e5"],s,s),"damage",A.a(["pos","n./v.","chinese","\u640d\u58de"],s,s),"dancer",A.a(["pos","n.","chinese","\u821e\u8005"],s,s),"danger",A.a(["pos","n.","chinese","\u5371\u96aa"],s,s),"data",A.a(["pos","n.","chinese","\u6578\u64da"],s,s),"deaf",A.a(["pos","adj.","chinese","\u807e\u5b50"],s,s),"debate",A.a(["pos","n./v.","chinese","\u8faf\u8ad6"],s,s),"debt",A.a(["pos","n.","chinese","\u50b5\u52d9"],s,s),"decision",A.a(["pos","n.","chinese","\u6c7a\u5b9a"],s,s),"deer",A.a(["pos","n.","chinese","\u9e7f"],s,s),"degree",A.a(["pos","n.","chinese","\u5ea6\u6578"],s,s),"delay",A.a(["pos","n./v.","chinese","\u5ef6\u9072"],s,s),"delicious",A.a(["pos","adj.","chinese","\u7f8e\u5473\u7684"],s,s),"deliver",A.a(["pos","v.","chinese","\u4ea4\u4ed8"],s,s),"delivery",A.a(["pos","n.","chinese","\u4ea4\u4ed8"],s,s),"dentist",A.a(["pos","n.","chinese","\u7259\u91ab"],s,s),"deny",A.a(["pos","v.","chinese","\u5426\u8a8d"],s,s),"department",A.a(["pos","n.","chinese","\u90e8\u9580"],s,s),"depend",A.a(["pos","v.","chinese","\u4f9d\u8cf4"],s,s),"depth",A.a(["pos","n.","chinese","\u6df1\u5ea6"],s,s),"describe",A.a(["pos","v.","chinese","\u63cf\u8ff0"],s,s),"description",A.a(["pos","n.","chinese","\u63cf\u8ff0"],s,s),"desert",A.a(["pos","n./v.","chinese","\u6c99\u6f20"],s,s),"design",A.a(["pos","n./v.","chinese","\u8a2d\u8a08"],s,s),"detail",A.a(["pos","n./v.","chinese","\u7d30\u7bc0"],s,s),"develop(ment)",A.a(["pos","v./(n.)","chinese","\u767c\u5c55\uff08\u767c\u5c55\uff09"],s,s),"dial",A.a(["pos","n./v.","chinese","\u64a5\u865f"],s,s),"dialogue",A.a(["pos","n.","chinese","\u5c0d\u8a71"],s,s),"diamond",A.a(["pos","n.","chinese","\u947d\u77f3"],s,s),"diary",A.a(["pos","n.","chinese","\u65e5\u8a18"],s,s),"diet",A.a(["pos","n./v.","chinese","\u98f2\u98df"],s,s),"difference",A.a(["pos","n.","chinese","\u5dee\u7570"],s,s),"difficulty",A.a(["pos","n.","chinese","\u56f0\u96e3"],s,s),"direct",A.a(["pos","adj./v./adv.","chinese","\u76f4\u63a5"],s,s),"direction",A.a(["pos","n.","chinese","\u65b9\u5411"],s,s),"director",A.a(["pos","n.","chinese","\u5c0e\u6f14"],s,s),"disagree(ment)",A.a(["pos","v./(n.)","chinese","\u4e0d\u540c\u610f"],s,s),"disappear",A.a(["pos","v.","chinese","\u6d88\u5931"],s,s),"discover",A.a(["pos","v.","chinese","\u767c\u73fe"],s,s),"discovery",A.a(["pos","n.","chinese","\u767c\u73fe"],s,s),"discuss",A.a(["pos","v.","chinese","\u8a0e\u8ad6"],s,s),"discussion",A.a(["pos","n.","chinese","\u8a0e\u8ad6"],s,s),"disease",A.a(["pos","n.","chinese","\u75be\u75c5"],s,s),"display",A.a(["pos","n./v.","chinese","\u986f\u793a"],s,s),"distance",A.a(["pos","n.","chinese","\u8ddd\u96e2"],s,s),"distant",A.a(["pos","adj.","chinese","\u9059\u9060\u7684"],s,s),"divide",A.a(["pos","v./n.","chinese","\u9664"],s,s),"division",A.a(["pos","n.","chinese","\u90e8\u9580"],s,s),"domestic",A.a(["pos","adj.","chinese","\u570b\u5167"],s,s),"dot",A.a(["pos","n./v.","chinese","\u9ede"],s,s),"double",A.a(["pos","adj./v./n./adv.","chinese","\u96d9\u91cd"],s,s),"doubt",A.a(["pos","n./v.","chinese","\u61f7\u7591"],s,s),"dove",A.a(["pos","n.","chinese","\u9d3f\u5b50"],s,s),"download",A.a(["pos","v.","chinese","\u4e0b\u8f09"],s,s),"downstairs",A.a(["pos","adv./n./adj.","chinese","\u6a13\u4e0b"],s,s),"dragon",A.a(["pos","n.","chinese","\u9f8d"],s,s),"drama",A.a(["pos","n.","chinese","\u6232\u5287"],s,s),"drawer",A.a(["pos","n.","chinese","\u62bd\u5c5c"],s,s),"drawing",A.a(["pos","n.","chinese","\u7e6a\u5716"],s,s),"drug",A.a(["pos","n./v.","chinese","\u85e5\u7269"],s,s),"dryer",A.a(["pos","n.","chinese","\u70d8\u4e7e\u6a5f"],s,s),"due",A.a(["pos","adj./adv./n.","chinese","\u5230\u671f"],s,s),"dull",A.a(["pos","adj./v.","chinese","\u6c89\u60b6\u7684"],s,s),"duty",A.a(["pos","n.","chinese","\u7fa9\u52d9"],s,s),"eagle",A.a(["pos","n.","chinese","\u9df9"],s,s),"earn",A.a(["pos","v.","chinese","\u8cfa"],s,s),"earring(s)",A.a(["pos","n.","chinese","\u8033\u74b0"],s,s),"earthquake",A.a(["pos","n.","chinese","\u5730\u9707"],s,s),"ease",A.a(["pos","n./v.","chinese","\u8f15\u9b06"],s,s),"eastern",A.a(["pos","adj.","chinese","\u6771\u90e8"],s,s),"edge",A.a(["pos","n./v.","chinese","\u908a\u7de3"],s,s),"edition",A.a(["pos","n.","chinese","\u7248\u672c"],s,s),"education",A.a(["pos","n.","chinese","\u6559\u80b2"],s,s),"effect",A.a(["pos","n./v.","chinese","\u6548\u679c"],s,s),"effective",A.a(["pos","adj.","chinese","\u6709\u6548\u7684"],s,s),"effort",A.a(["pos","n.","chinese","\u52aa\u529b"],s,s),"elder",A.a(["pos","n./adj.","chinese","\u9577\u8001"],s,s),"electric",A.a(["pos","adj.","chinese","\u96fb\u52d5"],s,s),"electrical",A.a(["pos","adj.","chinese","\u96fb\u6c23"],s,s),"emotion",A.a(["pos","n.","chinese","\u60c5\u611f"],s,s),"emphasize",A.a(["pos","v.","chinese","\u5f37\u8abf"],s,s),"employ(ment)",A.a(["pos","v./(n.)","chinese","\u50f1\u7528"],s,s),"employee",A.a(["pos","n.","chinese","\u50f1\u54e1"],s,s),"employer",A.a(["pos","n.","chinese","\u96c7\u4e3b"],s,s),"empty",A.a(["pos","adj./v.","chinese","\u7a7a\u7684"],s,s),"encourage(ment)",A.a(["pos","v./(n.)","chinese","\u9f13\u52f5"],s,s),"ending",A.a(["pos","n.","chinese","\u7d50\u5c3e"],s,s),"enemy",A.a(["pos","n.","chinese","\u6575\u4eba"],s,s),"energy",A.a(["pos","n.","chinese","\u80fd\u91cf"],s,s),"engine",A.a(["pos","n.","chinese","\u5f15\u64ce"],s,s),"entire",A.a(["pos","adj.","chinese","\u6574\u500b"],s,s),"entrance",A.a(["pos","n.","chinese","\u5165\u53e3"],s,s),"environment",A.a(["pos","n.","chinese","\u74b0\u5883"],s,s),"environmental",A.a(["pos","adj.","chinese","\u74b0\u5883\u7684"],s,s),"equal",A.a(["pos","adj./v./n.","chinese","\u76f8\u7b49"],s,s),"escape",A.a(["pos","v./n.","chinese","\u9003\u9038"],s,s),"especially",A.a(["pos","adv.","chinese","\u5c24\u5176"],s,s),"essay",A.a(["pos","n.","chinese","\u8ad6\u6587"],s,s),"eve",A.a(["pos","n.","chinese","\u524d\u5915"],s,s),"event",A.a(["pos","n.","chinese","\u4e8b\u4ef6"],s,s),"evil",A.a(["pos","n./adj.","chinese","\u90aa\u60e1"],s,s),"exact",A.a(["pos","adj.","chinese","\u7cbe\u78ba\u7684"],s,s),"examination/exam",A.a(["pos","n.","chinese","\u8003\u8a66"],s,s),"examine",A.a(["pos","v.","chinese","\u6aa2\u67e5"],s,s),"excite(ment)",A.a(["pos","v./(n.)","chinese","\u6fc0\u767c"],s,s),"excuse",A.a(["pos","v./n.","chinese","\u85c9\u53e3"],s,s),"exist",A.a(["pos","v.","chinese","\u5b58\u5728"],s,s),"existence",A.a(["pos","n.","chinese","\u5b58\u5728"],s,s),"exit",A.a(["pos","n./v.","chinese","\u9000\u51fa"],s,s),"expense",A.a(["pos","n.","chinese","\u958b\u652f"],s,s),"expert",A.a(["pos","n./adj.","chinese","\u5c08\u5bb6"],s,s),"express",A.a(["pos","v./adj./adv./n.","chinese","\u8868\u9054"],s,s),"expression",A.a(["pos","n.","chinese","\u8868\u9054\u5f0f"],s,s),"extra",A.a(["pos","adj./adv./n.","chinese","\u984d\u5916"],s,s),"eyebrow/brow",A.a(["pos","n.","chinese","\u7709\u6bdb"],s,s),"factor",A.a(["pos","n.","chinese","\u56e0\u7d20"],s,s),"failure",A.a(["pos","n.","chinese","\u5931\u6557"],s,s),"fair",A.a(["pos","adj./n./adv.","chinese","\u516c\u5e73"],s,s),"false",A.a(["pos","adj.","chinese","\u5047\u7684"],s,s),"fashion",A.a(["pos","n./v.","chinese","\u6642\u5c1a"],s,s),"fate",A.a(["pos","n.","chinese","\u547d\u904b"],s,s),"fault",A.a(["pos","n./v.","chinese","\u6545\u969c"],s,s),"favor",A.a(["pos","n./v.","chinese","\u8d0a\u6210"],s,s),"favorite",A.a(["pos","adj./n.","chinese","\u6700\u559c\u6b61"],s,s),"fear",A.a(["pos","n./v.","chinese","\u6050\u61fc"],s,s),"feature",A.a(["pos","n./v.","chinese","\u7279\u5fb5"],s,s),"fee",A.a(["pos","n.","chinese","\u8cbb\u7528"],s,s),"feeling",A.a(["pos","n.","chinese","\u611f\u89ba"],s,s),"fellow",A.a(["pos","n.","chinese","\u540c\u80de"],s,s),"female",A.a(["pos","adj./n.","chinese","\u5973\u6027"],s,s),"fever",A.a(["pos","n.","chinese","\u767c\u71d2"],s,s),"field",A.a(["pos","n.","chinese","\u5834"],s,s),"figure",A.a(["pos","n./v.","chinese","\u5716"],s,s),"final",A.a(["pos","adj./n.","chinese","\u6700\u5f8c\u7684"],s,s),"fireman/firewoman",A.a(["pos","n.","chinese","\u6d88\u9632\u54e1"],s,s),"firm",A.a(["pos","n./adj./v./adv.","chinese","\u516c\u53f8"],s,s),"fisherman",A.a(["pos","n.","chinese","\u6f01\u592b"],s,s),"fit",A.a(["pos","v./adj./n./adv.","chinese","\u9069\u5408"],s,s),"fix",A.a(["pos","v./n.","chinese","\u4fee\u5fa9"],s,s),"flag",A.a(["pos","n.","chinese","\u65d7\u5e5f"],s,s),"flat",A.a(["pos","adj./adv./n.","chinese","\u6241\u5e73"],s,s),"flight",A.a(["pos","n.","chinese","\u822a\u73ed"],s,s),"flow",A.a(["pos","n./v.","chinese","\u6d41\u91cf"],s,s),"flu",A.a(["pos","n.","chinese","\u6d41\u611f"],s,s),"focus",A.a(["pos","n./v.","chinese","\u7126\u9ede"],s,s),"fog",A.a(["pos","n./v.","chinese","\u9727"],s,s),"folk",A.a(["pos","n.","chinese","\u6c11\u9593"],s,s),"following",A.a(["pos","adj./prep./n.","chinese","\u4ee5\u4e0b"],s,s),"foolish",A.a(["pos","adj.","chinese","\u611a\u8822\u7684"],s,s),"football",A.a(["pos","n.","chinese","\u8db3\u7403"],s,s),"force",A.a(["pos","n./v.","chinese","\u529b"],s,s),"forest",A.a(["pos","n.","chinese","\u68ee\u6797"],s,s),"forgive",A.a(["pos","v.","chinese","\u539f\u8ad2"],s,s),"form",A.a(["pos","n./v.","chinese","\u8868\u683c"],s,s),"formal",A.a(["pos","adj.","chinese","\u6b63\u5f0f\u7684"],s,s),"former",A.a(["pos","adj.","chinese","\u4ee5\u524d\u7684"],s,s),"forth",A.a(["pos","adv.","chinese","\u7b2c\u56db"],s,s),"forward",A.a(["pos","adj./n./v.","chinese","\u5411\u524d"],s,s),"forward/forwards",A.a(["pos","adv.","chinese","\u5411\u524d"],s,s),"found",A.a(["pos","v.","chinese","\u767c\u73fe"],s,s),"fox",A.a(["pos","n.","chinese","\u72d0\u72f8"],s,s),"freedom",A.a(["pos","n.","chinese","\u81ea\u7531"],s,s),"friendship",A.a(["pos","n.","chinese","\u53cb\u8abc"],s,s),"fries",A.a(["pos","n.","chinese","\u85af\u689d"],s,s),"fry",A.a(["pos","v./n.","chinese","\u70b8"],s,s),"function",A.a(["pos","n./v.","chinese","\u51fd\u6578"],s,s),"furniture",A.a(["pos","n.","chinese","\u5bb6\u5177"],s,s),"further",A.a(["pos","adv./adj./v.","chinese","\u9032\u4e00\u6b65"],s,s),"gain",A.a(["pos","v./n.","chinese","\u589e\u76ca"],s,s),"garbage",A.a(["pos","n.","chinese","\u5783\u573e"],s,s),"gardener",A.a(["pos","n.","chinese","\u5712\u4e01"],s,s),"garlic",A.a(["pos","n.","chinese","\u5927\u849c"],s,s),"gather",A.a(["pos","v.","chinese","\u805a\u96c6"],s,s),"general",A.a(["pos","adj./n.","chinese","\u6177\u6168\u7684"],s,s),"generous",A.a(["pos","adj.","chinese","\u6eab\u67d4\u7684"],s,s),"gentle",A.a(["pos","adj.","chinese","\u6eab\u67d4"],s,s),"gentleman",A.a(["pos","n.","chinese","\u7d33\u58eb"],s,s),"giraffe",A.a(["pos","n.","chinese","\u9577\u9838\u9e7f"],s,s),"glue",A.a(["pos","n./v.","chinese","\u81a0\u6c34"],s,s),"goal",A.a(["pos","n.","chinese","\u76ee\u6a19"],s,s),"goat",A.a(["pos","n.","chinese","\u5c71\u7f8a"],s,s),"gold",A.a(["pos","n./adj.","chinese","\u9ec3\u91d1"],s,s),"golden",A.a(["pos","adj.","chinese","\u91d1\u8272"],s,s),"goose",A.a(["pos","n.","chinese","\u9d5d"],s,s),"govern",A.a(["pos","v.","chinese","\u6cbb\u7406"],s,s),"government",A.a(["pos","n.","chinese","\u653f\u5e9c"],s,s),"gradual",A.a(["pos","adj.","chinese","\u9010\u6f38"],s,s),"grain",A.a(["pos","n.","chinese","\u7a40\u7269"],s,s),"gram",A.a(["pos","n.","chinese","\u514b"],s,s),"grand",A.a(["pos","adj.","chinese","\u5b8f\u5049\u7684"],s,s),"grape",A.a(["pos","n.","chinese","\u8461\u8404"],s,s),"greet",A.a(["pos","v.","chinese","\u554f\u5019"],s,s),"growth",A.a(["pos","n.","chinese","\u6210\u9577"],s,s),"guard",A.a(["pos","n./v.","chinese","\u8b66\u885b"],s,s),"guava",A.a(["pos","n.","chinese","\u82ad\u6a02"],s,s),"guest",A.a(["pos","n.","chinese","\u5ba2\u4eba"],s,s),"guide",A.a(["pos","n./v.","chinese","\u6307\u5357"],s,s),"gun",A.a(["pos","n./v.","chinese","\u69cd"],s,s),"gymnasium/gym",A.a(["pos","n.","chinese","\u9ad4\u80b2\u9928"],s,s),"haircut",A.a(["pos","n.","chinese","\u7406\u9aee"],s,s),"hall",A.a(["pos","n.","chinese","\u5927\u5ef3"],s,s),"hamburger/burger",A.a(["pos","n.","chinese","\u6f22\u5821"],s,s),"handle",A.a(["pos","v./n.","chinese","\u53e5\u67c4"],s,s),"handsome",A.a(["pos","adj.","chinese","\u82f1\u4fca\u7684"],s,s),"hardly",A.a(["pos","adv.","chinese","\u5e7e\u4e4e\u6c92\u6709"],s,s),"heaven",A.a(["pos","n.","chinese","\u5929\u5802"],s,s),"hero/heroine",A.a(["pos","n.","chinese","\u82f1\u96c4"],s,s),"highly",A.a(["pos","adv.","chinese","\u9ad8\u5ea6"],s,s),"highway",A.a(["pos","n.","chinese","\u516c\u8def"],s,s),"hike",A.a(["pos","n./v.","chinese","\u9060\u8db3"],s,s),"hip",A.a(["pos","n.","chinese","\u9ad6\u95dc\u7bc0"],s,s),"hippopotamus/hippo",A.a(["pos","n.","chinese","\u6cb3\u99ac"],s,s),"historical",A.a(["pos","adj.","chinese","\u6b77\u53f2\u7684"],s,s),"hole",A.a(["pos","n.","chinese","\u6d1e"],s,s),"hop",A.a(["pos","v./n.","chinese","\u8df3"],s,s),"host/hostess",A.a(["pos","n.","chinese","\u7537\u4e3b\u4eba"],s,s),"huge",A.a(["pos","adj.","chinese","\u5de8\u5927\u7684"],s,s),"human",A.a(["pos","adj./n.","chinese","\u4eba\u985e"],s,s),"humble",A.a(["pos","adj.","chinese","\u8b19\u865b\u7684"],s,s),"hunt",A.a(["pos","v./n.","chinese","\u4ea8\u7279"],s,s),"hunter",A.a(["pos","n.","chinese","\u7375\u4eba"],s,s),"hurry",A.a(["pos","v./n.","chinese","\u5feb\u9ede"],s,s),"ideal",A.a(["pos","adj./n.","chinese","\u7406\u60f3\u7684"],s,s),"identity",A.a(["pos","n.","chinese","\u8eab\u4efd"],s,s),"ignore",A.a(["pos","v.","chinese","\u5ffd\u7565"],s,s),"ill",A.a(["pos","adj./adv./n.","chinese","\u75c5\u614b"],s,s),"image",A.a(["pos","n.","chinese","\u5716\u50cf"],s,s),"imagine",A.a(["pos","v.","chinese","\u60f3\u50cf"],s,s),"importance",A.a(["pos","n.","chinese","\u91cd\u8981\u6027"],s,s),"impressive",A.a(["pos","adj.","chinese","\u4ee4\u4eba\u5370\u8c61\u6df1\u523b"],s,s),"improve(ment)",A.a(["pos","v./(n.)","chinese","\u6539\u9032"],s,s),"include",A.a(["pos","v.","chinese","\u5305\u62ec"],s,s),"income",A.a(["pos","n.","chinese","\u6536\u5165"],s,s),"increase",A.a(["pos","v./n.","chinese","\u589e\u52a0"],s,s),"indeed",A.a(["pos","adv.","chinese","\u78ba\u5be6"],s,s),"independence",A.a(["pos","n.","chinese","\u7368\u7acb\u6027"],s,s),"independent",A.a(["pos","adj.","chinese","\u7368\u7acb"],s,s),"indicate",A.a(["pos","v.","chinese","\u6307\u793a"],s,s),"individual",A.a(["pos","adj./n.","chinese","\u500b\u4eba"],s,s),"industry",A.a(["pos","n.","chinese","\u5de5\u696d"],s,s),"influence",A.a(["pos","n./v.","chinese","\u5f71\u97ff"],s,s),"ink",A.a(["pos","n./v.","chinese","\u58a8\u6c34"],s,s),"insist",A.a(["pos","v.","chinese","\u5805\u6301"],s,s),"instance",A.a(["pos","n.","chinese","\u5be6\u4f8b"],s,s),"instant",A.a(["pos","adj./n.","chinese","\u5373\u6642"],s,s),"instead",A.a(["pos","adv.","chinese","\u76f8\u53cd"],s,s),"instruction",A.a(["pos","n.","chinese","\u6307\u4ee4"],s,s),"instrument",A.a(["pos","n.","chinese","\u5100\u5668"],s,s),"internal",A.a(["pos","adj.","chinese","\u5167\u90e8"],s,s),"international",A.a(["pos","adj.","chinese","\u570b\u969b"],s,s),"Internet/internet",A.a(["pos","n.","chinese","\u4e92\u806f\u7db2"],s,s),"introduce",A.a(["pos","v.","chinese","\u4ecb\u7d39"],s,s),"introduction",A.a(["pos","n.","chinese","\u5f15\u8a00"],s,s),"iron",A.a(["pos","n./v./adj.","chinese","\u9435"],s,s),"jam",A.a(["pos","n./v.","chinese","\u679c\u91ac"],s,s),"jog",A.a(["pos","v./n.","chinese","\u6162\u8dd1"],s,s),"joint",A.a(["pos","adj./n.","chinese","\u806f\u5408"],s,s),"journal",A.a(["pos","n.","chinese","\u671f\u520a"],s,s),"judge",A.a(["pos","n./v.","chinese","\u6cd5\u5b98"],s,s),"judgment/judgement",A.a(["pos","n.","chinese","\u5224\u65b7"],s,s),"justice",A.a(["pos","n.","chinese","\u6b63\u7fa9"],s,s),"keeper",A.a(["pos","n.","chinese","\u5b88\u9580\u54e1"],s,s),"ketchup",A.a(["pos","n.","chinese","\u756a\u8304\u91ac"],s,s),"kilogram",A.a(["pos","n.","chinese","\u516c\u65a4"],s,s),"lack",A.a(["pos","n./v.","chinese","\u7f3a\u4e4f"],s,s),"lady",A.a(["pos","n.","chinese","\u592b\u4eba"],s,s),"ladybug",A.a(["pos","n.","chinese","\u74e2\u87f2"],s,s),"lamb",A.a(["pos","n./v.","chinese","\u7f94\u7f8a"],s,s),"lane",A.a(["pos","n.","chinese","\u8eca\u9053"],s,s),"lantern",A.a(["pos","n.","chinese","\u71c8\u7c60"],s,s),"lap",A.a(["pos","n.","chinese","\u5708"],s,s),"latest",A.a(["pos","adj.","chinese","\u6700\u65b0\u7684"],s,s),"latter",A.a(["pos","adj.","chinese","\u5f8c\u8005"],s,s),"law",A.a(["pos","n.","chinese","\u8349\u5730"],s,s),"lay",A.a(["pos","v.","chinese","\u840a\u6cb3\u8c37"],s,s),"leadership",A.a(["pos","n.","chinese","\u9818\u5c0e\u529b"],s,s),"leaf",A.a(["pos","n.","chinese","\u8449"],s,s),"legal",A.a(["pos","adj.","chinese","\u6cd5\u5f8b"],s,s),"lend",A.a(["pos","v.","chinese","\u502b\u7279"],s,s),"length",A.a(["pos","n.","chinese","\u9577\u5ea6"],s,s),"lens",A.a(["pos","n.","chinese","\u900f\u93e1"],s,s),"liberal",A.a(["pos","adj.","chinese","\u81ea\u7531\u6d3e"],s,s),"lid",A.a(["pos","n.","chinese","\u84cb\u5b50"],s,s),"lift",A.a(["pos","v./n.","chinese","\u96fb\u68af"],s,s),"likely",A.a(["pos","adj./adv.","chinese","\u53ef\u80fd"],s,s),"limit",A.a(["pos","n./v.","chinese","\u9650\u5236"],s,s),"link",A.a(["pos","n./v.","chinese","\u9023\u7d50"],s,s),"liquid",A.a(["pos","n.","chinese","\u6db2\u9ad4"],s,s),"listener",A.a(["pos","n.","chinese","\u807d\u773e"],s,s),"liver",A.a(["pos","n.","chinese","\u809d\u81df"],s,s),"load",A.a(["pos","n./v.","chinese","\u8ca0\u8f09"],s,s),"local",A.a(["pos","adj./n.","chinese","\u672c\u5730"],s,s),"lone",A.a(["pos","adj.","chinese","\u5b64\u7368"],s,s),"loss",A.a(["pos","n.","chinese","\u640d\u5931"],s,s),"lower",A.a(["pos","v.","chinese","\u4e0b\u6cb3\u8c37"],s,s),"luck",A.a(["pos","n.","chinese","\u904b\u6c23"],s,s),"magazine",A.a(["pos","n.","chinese","\u96dc\u8a8c"],s,s),"maintain",A.a(["pos","v.","chinese","\u7dad\u6301"],s,s),"major",A.a(["pos","adj./n./v.","chinese","\u4e3b\u8981"],s,s),"male",A.a(["pos","adj./n.","chinese","\u7537\u6027"],s,s),"manage(ment)",A.a(["pos","v./(n.)","chinese","\u7ba1\u7406"],s,s),"manager",A.a(["pos","n.","chinese","\u7d93\u7406"],s,s),"mango",A.a(["pos","n.","chinese","\u8292\u679c"],s,s),"manner",A.a(["pos","n.","chinese","\u65b9\u5f0f"],s,s),"marriage",A.a(["pos","n.","chinese","\u5a5a\u59fb"],s,s),"marry",A.a(["pos","v.","chinese","\u7d50\u5a5a"],s,s),"mask",A.a(["pos","n./v.","chinese","\u9762\u5177"],s,s),"mass",A.a(["pos","n.","chinese","\u8cea\u91cf"],s,s),"master",A.a(["pos","n./v.","chinese","\u5927\u5e2b"],s,s),"mat",A.a(["pos","n.","chinese","\u588a\u5b50"],s,s),"match",A.a(["pos","n.","chinese","\u5339\u914d"],s,s),"mate",A.a(["pos","n./v.","chinese","\u4f34\u4fb6"],s,s),"material",A.a(["pos","n.","chinese","\u6750\u6599"],s,s),"mature",A.a(["pos","adj.","chinese","\u6210\u719f"],s,s),"meaning",A.a(["pos","n.","chinese","\u610f\u601d"],s,s),"means",A.a(["pos","n.","chinese","\u63aa\u65bd"],s,s),"measure(ment)",A.a(["pos","v./(n.)","chinese","\u6e2c\u91cf"],s,s),"medical",A.a(["pos","adj.","chinese","\u91ab\u5b78"],s,s),"melody",A.a(["pos","n.","chinese","\u65cb\u5f8b"],s,s),"membership",A.a(["pos","n.","chinese","\u6703\u54e1\u8cc7\u683c"],s,s),"memory",A.a(["pos","n.","chinese","\u8a18\u61b6"],s,s),"mention",A.a(["pos","v./n.","chinese","\u63d0\u53ca"],s,s),"message",A.a(["pos","n.","chinese","\u8a0a\u606f"],s,s),"metal",A.a(["pos","n./adj.","chinese","\u91d1\u5c6c"],s,s),"meter",A.a(["pos","n.","chinese","\u7c73"],s,s),"method",A.a(["pos","n.","chinese","\u65b9\u6cd5"],s,s),"midnight",A.a(["pos","n.","chinese","\u5348\u591c"],s,s),"mile",A.a(["pos","n.","chinese","\u82f1\u91cc"],s,s),"military",A.a(["pos","adj./n.","chinese","\u8ecd\u4e8b"],s,s),"minor",A.a(["pos","adj./n.","chinese","\u5c0f\u8abf"],s,s),"minority",A.a(["pos","n.","chinese","\u5c11\u6578\u6c11\u65cf"],s,s),"mirror",A.a(["pos","n./v.","chinese","\u93e1\u5b50"],s,s),"mix",A.a(["pos","n./v.","chinese","\u6df7\u5408"],s,s),"mixture",A.a(["pos","n.","chinese","\u6df7\u5408\u7269"],s,s),"model",A.a(["pos","n./v.","chinese","\u578b\u865f"],s,s),"mood",A.a(["pos","n.","chinese","\u60c5\u7dd2"],s,s),"mop",A.a(["pos","n./v.","chinese","\u62d6\u628a"],s,s),"motion",A.a(["pos","n.","chinese","\u904b\u52d5"],s,s),"motorcycle",A.a(["pos","n.","chinese","\u6469\u6258\u8eca"],s,s),"mug",A.a(["pos","n.","chinese","\u676f\u5b50"],s,s),"musical",A.a(["pos","adj./n.","chinese","\u97f3\u6a02"],s,s),"musician",A.a(["pos","n.","chinese","\u97f3\u6a02\u5bb6"],s,s),"nail",A.a(["pos","n.","chinese","\u91d8\u5b50"],s,s),"narrow",A.a(["pos","adj./v.","chinese","\u72f9\u7a84"],s,s),"nation",A.a(["pos","n.","chinese","\u6c11\u65cf"],s,s),"natural",A.a(["pos","adj.","chinese","\u81ea\u7136"],s,s),"naughty",A.a(["pos","adj.","chinese","\u9811\u76ae"],s,s),"nearby",A.a(["pos","adj./adv.","chinese","\u9644\u8fd1"],s,s),"nearly",A.a(["pos","adv.","chinese","\u5e7e\u4e4e"],s,s),"necessary",A.a(["pos","adj.","chinese","\u5fc5\u8981"],s,s),"necklace",A.a(["pos","n.","chinese","\u9805\u934a"],s,s),"needle",A.a(["pos","n.","chinese","\u91dd"],s,s),"negative",A.a(["pos","adj./n.","chinese","\u5426\u5b9a"],s,s),"neighbor",A.a(["pos","n.","chinese","\u9130\u5c45"],s,s),"neither",A.a(["pos","adj./adv./pron./conj.","chinese","\u65e2\u4e0d\u662f"],s,s),"nephew",A.a(["pos","n.","chinese","\u4f84\u5b50"],s,s),"nerve",A.a(["pos","n.","chinese","\u795e\u7d93"],s,s),"nervous",A.a(["pos","adj.","chinese","\u7dca\u5f35\u7684"],s,s),"network",A.a(["pos","n./v.","chinese","\u7db2\u8def"],s,s),"niece",A.a(["pos","n.","chinese","\u59ea\u5973"],s,s),"nod",A.a(["pos","n./v.","chinese","\u9ede\u982d"],s,s),"none",A.a(["pos","pron./adv.","chinese","\u7121"],s,s),"noodle",A.a(["pos","n.","chinese","\u9eb5\u689d"],s,s),"nor",A.a(["pos","conj.","chinese","\u4e5f\u4e0d"],s,s),"northern",A.a(["pos","adj.","chinese","\u5317\u65b9"],s,s),"notebook",A.a(["pos","n.","chinese","\u7b46\u8a18\u672c"],s,s),"novel",A.a(["pos","n./adj.","chinese","\u5c0f\u8aaa"],s,s),"nut",A.a(["pos","n.","chinese","\u5805\u679c"],s,s),"obey",A.a(["pos","v.","chinese","\u670d\u5f9e"],s,s),"object",A.a(["pos","n./v.","chinese","\u5c0d\u8c61"],s,s),"obvious",A.a(["pos","adj.","chinese","\u660e\u986f\u7684"],s,s),"occur",A.a(["pos","v.","chinese","\u767c\u751f"],s,s),"ocean",A.a(["pos","n.","chinese","\u6d77\u6d0b"],s,s),"offer",A.a(["pos","v./n.","chinese","\u5831\u50f9"],s,s),"official",A.a(["pos","adj./n.","chinese","\u5b98\u65b9"],s,s),"operate",A.a(["pos","v.","chinese","\u64cd\u4f5c"],s,s),"operator",A.a(["pos","n.","chinese","\u904b\u7b97\u7b26"],s,s),"opinion",A.a(["pos","n.","chinese","\u610f\u898b"],s,s),"ordinary",A.a(["pos","adj.","chinese","\u666e\u901a\u7684"],s,s),"organ",A.a(["pos","n.","chinese","\u5668\u5b98"],s,s),"organization",A.a(["pos","n.","chinese","\u7d44\u7e54"],s,s),"origin",A.a(["pos","n.","chinese","\u8d77\u6e90"],s,s),"owner",A.a(["pos","n.","chinese","\u6240\u6709\u8005"],s,s),"pain",A.a(["pos","n./v.","chinese","\u75bc\u75db"],s,s),"painful",A.a(["pos","adj.","chinese","\u75db\u82e6\u7684"],s,s),"painting",A.a(["pos","n.","chinese","\u7e6a\u756b"],s,s),"pajamas",A.a(["pos","n.","chinese","\u7761\u8863"],s,s),"pale",A.a(["pos","adj.","chinese","\u84bc\u767d\u7684"],s,s),"pan",A.a(["pos","n.","chinese","\u6f58"],s,s),"panda",A.a(["pos","n.","chinese","\u8c93\u718a"],s,s),"papaya",A.a(["pos","n.","chinese","\u6728\u74dc"],s,s),"pardon",A.a(["pos","n./v.","chinese","\u8d66\u514d"],s,s),"participate",A.a(["pos","v.","chinese","\u53c3\u8207"],s,s),"particular",A.a(["pos","adj.","chinese","\u7279\u5225\u7684"],s,s),"partner",A.a(["pos","n.","chinese","\u5925\u4f34"],s,s),"password",A.a(["pos","n.","chinese","\u5bc6\u78bc"],s,s),"paste",A.a(["pos","n./v.","chinese","\u8cbc\u4e0a"],s,s),"path",A.a(["pos","n.","chinese","\u8def\u5f91"],s,s),"patient",A.a(["pos","n./adj.","chinese","\u75c5\u4eba"],s,s),"pattern",A.a(["pos","n./v.","chinese","\u6a21\u5f0f"],s,s),"peace",A.a(["pos","n.","chinese","\u548c\u5e73"],s,s),"peaceful",A.a(["pos","adj.","chinese","\u548c\u5e73"],s,s),"peach",A.a(["pos","n.","chinese","\u6843\u5b50"],s,s),"peak",A.a(["pos","n./v.","chinese","\u5cf0\u503c"],s,s),"pear",A.a(["pos","n.","chinese","\u68a8\u5b50"],s,s),"per",A.a(["pos","prep.","chinese","\u6bcf\u6b21\u6e96\u5099\u3002"],s,s),"perfect",A.a(["pos","adj./v./n.","chinese","\u5b8c\u7f8e"],s,s),"period",A.a(["pos","n.","chinese","\u6642\u671f"],s,s),"personal",A.a(["pos","adj.","chinese","\u500b\u4eba"],s,s),"personality",A.a(["pos","n.","chinese","\u500b\u6027"],s,s),"phrase",A.a(["pos","n./v.","chinese","\u7247\u8a9e"],s,s),"pillow",A.a(["pos","n.","chinese","\u6795\u982d"],s,s),"pizza",A.a(["pos","n.","chinese","\u62ab\u85a9"],s,s),"plain",A.a(["pos","adj./n.","chinese","\u666e\u901a"],s,s),"platform",A.a(["pos","n.","chinese","\u5e73\u53f0"],s,s),"playground",A.a(["pos","n.","chinese","\u64cd\u5834"],s,s),"pleasant",A.a(["pos","adj.","chinese","\u4ee4\u4eba\u6109\u5feb\u7684"],s,s),"plus",A.a(["pos","prep./n./adj.","chinese","\u52a0\u4e0a\u6e96\u5099"],s,s),"poem",A.a(["pos","n.","chinese","\u8a69"],s,s),"poet",A.a(["pos","n.","chinese","\u8a69\u4eba"],s,s),"poetry",A.a(["pos","n.","chinese","\u8a69\u6b4c"],s,s),"poison",A.a(["pos","n./v.","chinese","\u6bd2\u85e5"],s,s),"policeman/cop",A.a(["pos","n.","chinese","\u8b66\u5bdf/\u8b66\u5bdf"],s,s),"policy",A.a(["pos","n.","chinese","\u653f\u7b56"],s,s),"pop",A.a(["pos","n./adj.","chinese","\u6d41\u884c\u97f3\u6a02"],s,s),"population",A.a(["pos","n.","chinese","\u4eba\u53e3"],s,s),"pork",A.a(["pos","n.","chinese","\u8c6c\u8089"],s,s),"port",A.a(["pos","n.","chinese","\u6e2f\u53e3"],s,s),"pose",A.a(["pos","v./n.","chinese","\u59ff\u52e2"],s,s),"position",A.a(["pos","n./v.","chinese","\u4f4d\u7f6e"],s,s),"positive",A.a(["pos","adj./n.","chinese","\u6b63\u9762\u7684"],s,s),"possibility",A.a(["pos","n.","chinese","\u53ef\u80fd\u6027"],s,s),"post",A.a(["pos","n./v./adv.","chinese","\u8cbc\u6587"],s,s),"postcard",A.a(["pos","n.","chinese","\u660e\u4fe1\u7247"],s,s),"pound",A.a(["pos","n.","chinese","\u82f1\u938a"],s,s),"powerful",A.a(["pos","adj.","chinese","\u5f37\u5927\u7684"],s,s),"praise",A.a(["pos","n./v.","chinese","\u8b9a\u7f8e"],s,s),"pray",A.a(["pos","v.","chinese","\u7948\u79b1"],s,s),"prayer",A.a(["pos","n.","chinese","\u7948\u79b1"],s,s),"prefer",A.a(["pos","v.","chinese","\u66f4\u559c\u6b61"],s,s),"president",A.a(["pos","n.","chinese","\u7e3d\u7d71"],s,s),"press",A.a(["pos","n./v.","chinese","\u6309"],s,s),"pressure",A.a(["pos","n./v.","chinese","\u58d3\u529b"],s,s),"pride",A.a(["pos","n./v.","chinese","\u9a55\u50b2"],s,s),"priest",A.a(["pos","n.","chinese","\u7267\u5e2b"],s,s),"primary",A.a(["pos","adj.","chinese","\u4e3b\u8981"],s,s),"prince/princess",A.a(["pos","n.","chinese","\u738b\u5b50/\u516c\u4e3b"],s,s),"principal",A.a(["pos","adj./n.","chinese","\u4e3b\u8981"],s,s),"principle",A.a(["pos","n.","chinese","\u539f\u5247"],s,s),"print",A.a(["pos","n./v.","chinese","\u5217\u5370"],s,s),"printer",A.a(["pos","n.","chinese","\u5370\u8868\u6a5f"],s,s),"prison",A.a(["pos","n.","chinese","\u76e3\u7344"],s,s),"prisoner",A.a(["pos","n.","chinese","\u56da\u72af"],s,s),"private",A.a(["pos","adj.","chinese","\u79c1\u4eba\u7684"],s,s),"prize",A.a(["pos","n./v.","chinese","\u734e\u54c1"],s,s),"produce",A.a(["pos","v./n.","chinese","\u7522\u751f"],s,s),"production",A.a(["pos","n.","chinese","\u751f\u7522"],s,s),"progress",A.a(["pos","n./v.","chinese","\u9032\u5c55"],s,s),"project",A.a(["pos","n.","chinese","\u9805\u76ee"],s,s),"promise",A.a(["pos","n./v.","chinese","\u627f\u8afe"],s,s),"proper",A.a(["pos","adj.","chinese","\u6b63\u78ba\u7684"],s,s),"propose",A.a(["pos","v.","chinese","\u63d0\u8b70"],s,s),"protect",A.a(["pos","v.","chinese","\u4fdd\u8b77"],s,s),"protective",A.a(["pos","adj.","chinese","\u4fdd\u8b77\u6027"],s,s),"prove",A.a(["pos","v.","chinese","\u8b49\u660e"],s,s),"provide",A.a(["pos","v.","chinese","\u63d0\u4f9b"],s,s),"pudding",A.a(["pos","n.","chinese","\u5e03\u4e01"],s,s),"pumpkin",A.a(["pos","n.","chinese","\u5357\u74dc"],s,s),"punish(ment)",A.a(["pos","v./(n.)","chinese","\u61f2\u7f70"],s,s),"pupil",A.a(["pos","n.","chinese","\u77b3\u5b54"],s,s),"puppy",A.a(["pos","n.","chinese","\u5c0f\u72d7"],s,s),"purple",A.a(["pos","adj./n.","chinese","\u7d2b\u8272"],s,s),"purpose",A.a(["pos","n.","chinese","\u76ee\u7684"],s,s),"puzzle",A.a(["pos","n./v.","chinese","\u8b0e\u984c"],s,s),"quality",A.a(["pos","n.","chinese","\u8cea\u91cf"],s,s),"quantity",A.a(["pos","n.","chinese","\u6578\u91cf"],s,s),"quiz",A.a(["pos","n.","chinese","\u6e2c\u9a57"],s,s),"railroad/railway",A.a(["pos","n.","chinese","\u9435\u8def/\u9435\u8def"],s,s),"raincoat",A.a(["pos","n.","chinese","\u96e8\u8863"],s,s),"range",A.a(["pos","n./v.","chinese","\u7bc4\u570d"],s,s),"rapid",A.a(["pos","adj.","chinese","\u5feb\u901f\u7684"],s,s),"rare",A.a(["pos","adj.","chinese","\u7f55\u898b\u7684"],s,s),"rat",A.a(["pos","n.","chinese","\u8001\u9f20"],s,s),"rather",A.a(["pos","adv.","chinese","\u76f8\u53cd"],s,s),"reality",A.a(["pos","n.","chinese","\u73fe\u5be6"],s,s),"realize",A.a(["pos","v.","chinese","\u610f\u8b58\u5230"],s,s),"receive",A.a(["pos","v.","chinese","\u63a5\u6536"],s,s),"recent",A.a(["pos","adj.","chinese","\u6700\u8fd1\u7684"],s,s),"record",A.a(["pos","n./v.","chinese","\u8a18\u9304"],s,s),"recover",A.a(["pos","v.","chinese","\u6062\u5fa9"],s,s),"refrigerator/fridge",A.a(["pos","n.","chinese","\u51b0\u7bb1/\u96fb\u51b0\u7bb1"],s,s),"refuse",A.a(["pos","v.","chinese","\u62d2\u7d55"],s,s),"regard",A.a(["pos","n./v.","chinese","\u8003\u616e"],s,s),"region",A.a(["pos","n.","chinese","\u5340\u57df"],s,s),"regular",A.a(["pos","adj./n.","chinese","\u5e38\u898f"],s,s),"reject",A.a(["pos","v.","chinese","\u62d2\u7d55"],s,s),"relate",A.a(["pos","v.","chinese","\u95dc\u806f"],s,s),"relation",A.a(["pos","n.","chinese","\u95dc\u4fc2"],s,s),"relationship",A.a(["pos","n.","chinese","\u95dc\u4fc2"],s,s),"religion",A.a(["pos","n.","chinese","\u5b97\u6559"],s,s),"remove",A.a(["pos","v.","chinese","\u522a\u9664"],s,s),"rent",A.a(["pos","n./v.","chinese","\u79df\u91d1"],s,s),"repair",A.a(["pos","n./v.","chinese","\u4fee\u7406"],s,s),"reply",A.a(["pos","n./v.","chinese","\u56de\u8986"],s,s),"require(ment)",A.a(["pos","v./(n.)","chinese","\u8981\u6c42"],s,s),"respect",A.a(["pos","n./v.","chinese","\u5c0a\u91cd"],s,s),"respond",A.a(["pos","v.","chinese","\u56de\u61c9"],s,s),"responsible",A.a(["pos","adj.","chinese","\u6709\u8cac\u4efb\u7684"],s,s),"restroom",A.a(["pos","n.","chinese","\u5ec1\u6240"],s,s),"result",A.a(["pos","n./v.","chinese","\u7d50\u679c"],s,s),"return",A.a(["pos","v./n.","chinese","\u8fd4\u56de"],s,s),"review",A.a(["pos","n./v.","chinese","\u5be9\u67e5"],s,s),"riches",A.a(["pos","n.","chinese","\u8ca1\u5bcc"],s,s),"rocky",A.a(["pos","adj.","chinese","\u5ca9\u77f3"],s,s),"role",A.a(["pos","n.","chinese","\u89d2\u8272"],s,s),"roof",A.a(["pos","n./v.","chinese","\u5c4b\u9802"],s,s),"rooster",A.a(["pos","n.","chinese","\u516c\u96de"],s,s),"royal",A.a(["pos","adj.","chinese","\u7687\u5bb6"],s,s),"rub",A.a(["pos","v./n.","chinese","\u64e6"],s,s),"rubber",A.a(["pos","n.","chinese","\u6a61\u81a0"],s,s),"rude",A.a(["pos","adj.","chinese","\u7c97\u9b6f\u7684"],s,s),"runner",A.a(["pos","n.","chinese","\u8cfd\u8dd1\u8005"],s,s),"safety",A.a(["pos","n.","chinese","\u5b89\u5168"],s,s),"sail",A.a(["pos","v./n.","chinese","\u822a\u884c"],s,s),"sailor",A.a(["pos","n.","chinese","\u6c34\u624b"],s,s),"salesperson/salesman/saleswoman",A.a(["pos","n.","chinese","\u696d\u52d9\u54e1/\u696d\u52d9\u54e1/\u5973\u552e\u8ca8\u54e1"],s,s),"salty",A.a(["pos","adj.","chinese","\u9e79\u7684"],s,s),"sample",A.a(["pos","n./v.","chinese","\u6a23\u672c"],s,s),"sand",A.a(["pos","n./v.","chinese","\u6c99"],s,s),"sandwich",A.a(["pos","n./v.","chinese","\u4e09\u660e\u6cbb"],s,s),"satisfy",A.a(["pos","v.","chinese","\u6eff\u8db3"],s,s),"saw",A.a(["pos","v./n.","chinese","\u770b\u5230"],s,s),"scare",A.a(["pos","v./n.","chinese","\u5687\u552c"],s,s),"scared",A.a(["pos","adj.","chinese","\u5bb3\u6015"],s,s),"scene",A.a(["pos","n.","chinese","\u5834\u666f"],s,s),"schedule",A.a(["pos","n./v.","chinese","\u6642\u9593\u8868"],s,s),"scooter",A.a(["pos","n.","chinese","\u8e0f\u677f\u8eca"],s,s),"score",A.a(["pos","n./v.","chinese","\u5f97\u5206"],s,s),"screen",A.a(["pos","n.","chinese","\u87a2\u5e55"],s,s),"seafood",A.a(["pos","n.","chinese","\u6d77\u9bae"],s,s),"search",A.a(["pos","n./v.","chinese","\u641c\u5c0b"],s,s),"secondary",A.a(["pos","adj.","chinese","\u4e8c\u7d1a\u5f62\u5bb9\u8a5e"],s,s),"secret",A.a(["pos","adj./n.","chinese","\u79d8\u5bc6"],s,s),"section",A.a(["pos","n.","chinese","\u7bc0"],s,s),"seek",A.a(["pos","v.","chinese","\u5c0b\u627e"],s,s),"seem",A.a(["pos","v.","chinese","\u4f3c\u4e4e"],s,s),"seesaw",A.a(["pos","n.","chinese","\u8e7a\u8e7a\u677f"],s,s),"seldom",A.a(["pos","adv.","chinese","\u5f88\u5c11"],s,s),"select",A.a(["pos","v./adj.","chinese","\u9078\u64c7"],s,s),"selection",A.a(["pos","n.","chinese","\u9078\u64c7"],s,s),"self",A.a(["pos","n.","chinese","\u81ea\u6211"],s,s),"selfish",A.a(["pos","adj.","chinese","\u81ea\u79c1"],s,s),"sense",A.a(["pos","n./v.","chinese","\u611f\u89ba"],s,s),"sensitive",A.a(["pos","adj.","chinese","\u654f\u611f\u7684"],s,s),"separate",A.a(["pos","adj./v.","chinese","\u55ae\u7368\u7684"],s,s),"servant",A.a(["pos","n.","chinese","\u50d5\u4eba"],s,s),"serve",A.a(["pos","v.","chinese","\u670d\u52d9"],s,s),"settle(ment)",A.a(["pos","v./(n.)","chinese","\u89e3\u6c7a\uff08\u89e3\u6c7a\uff09"],s,s),"sex",A.a(["pos","n.","chinese","\u6027\u5225"],s,s),"shame",A.a(["pos","n./v.","chinese","\u7f9e\u6065"],s,s),"shark",A.a(["pos","n.","chinese","\u9bca\u9b5a"],s,s),"sheet",A.a(["pos","n.","chinese","\u7247\u6750"],s,s),"shelf",A.a(["pos","n.","chinese","\u8ca8\u67b6"],s,s),"shell",A.a(["pos","n.","chinese","\u6bbc"],s,s),"shine",A.a(["pos","v./n.","chinese","\u9583\u8000"],s,s),"shock",A.a(["pos","n./v.","chinese","\u4f11\u514b"],s,s),"shoot",A.a(["pos","v./n.","chinese","\u5c04\u64ca"],s,s),"shopkeeper",A.a(["pos","n.","chinese","\u5e97\u4e3b"],s,s),"shore",A.a(["pos","n.","chinese","\u5cb8\u908a"],s,s),"shot",A.a(["pos","n.","chinese","\u5c04\u64ca"],s,s),"shut",A.a(["pos","v./adj.","chinese","\u95dc\u9589"],s,s),"shy",A.a(["pos","adj.","chinese","\u5bb3\u7f9e\u7684"],s,s),"sidewalk",A.a(["pos","n.","chinese","\u4eba\u884c\u9053"],s,s),"silence",A.a(["pos","n./v.","chinese","\u6c89\u9ed8"],s,s),"silent",A.a(["pos","adj.","chinese","\u6c89\u9ed8\u7684"],s,s),"silly",A.a(["pos","adj.","chinese","\u611a\u8822\u7684"],s,s),"silver",A.a(["pos","n./adj.","chinese","\u9280"],s,s),"similar",A.a(["pos","adj.","chinese","\u985e\u4f3c\u7684"],s,s),"simply",A.a(["pos","adv.","chinese","\u53ea\u662f"],s,s),"single",A.a(["pos","adj./n./v.","chinese","\u55ae\u4e00"],s,s),"skill",A.a(["pos","n.","chinese","\u6280\u80fd"],s,s),"skilled",A.a(["pos","adj.","chinese","\u719f\u7df4\u7684"],s,s),"skin",A.a(["pos","n.","chinese","\u76ae\u819a"],s,s),"sleepy",A.a(["pos","adj.","chinese","\u660f\u660f\u6b32\u7761"],s,s),"slide",A.a(["pos","n./v.","chinese","\u5e7b\u71c8\u7247"],s,s),"slip",A.a(["pos","v./n.","chinese","\u6ed1\u5012"],s,s),"slipper(s)",A.a(["pos","n.","chinese","\u62d6\u978b"],s,s),"smooth",A.a(["pos","adj./v.","chinese","\u5e73\u6ed1"],s,s),"snack",A.a(["pos","n./v.","chinese","\u5c0f\u5403"],s,s),"snail",A.a(["pos","n.","chinese","\u8778\u725b"],s,s),"snowy",A.a(["pos","adj.","chinese","\u4e0b\u96ea\u7684"],s,s),"soap",A.a(["pos","n./v.","chinese","\u80a5\u7682"],s,s),"soccer",A.a(["pos","n.","chinese","\u8db3\u7403"],s,s),"social",A.a(["pos","adj.","chinese","\u793e\u6703"],s,s),"society",A.a(["pos","n.","chinese","\u793e\u6703"],s,s),"sock(s)",A.a(["pos","n.","chinese","\u896a\u5b50"],s,s),"soda",A.a(["pos","n.","chinese","\u8607\u6253\u6c34"],s,s),"soft",A.a(["pos","adj.","chinese","\u8edf\u7684"],s,s),"soil",A.a(["pos","n.","chinese","\u571f\u58e4"],s,s),"solution",A.a(["pos","n.","chinese","\u89e3\u6c7a\u65b9\u6848"],s,s),"solve",A.a(["pos","v.","chinese","\u89e3\u6c7a"],s,s),"somewhat",A.a(["pos","adv.","chinese","\u6709\u9ede"],s,s),"sort",A.a(["pos","n./v.","chinese","\u6392\u5e8f"],s,s),"soul",A.a(["pos","n.","chinese","\u9748\u9b42"],s,s),"sour",A.a(["pos","adj./n./v.","chinese","\u9178\u5473"],s,s),"source",A.a(["pos","n.","chinese","\u4f86\u6e90"],s,s),"southern",A.a(["pos","adj.","chinese","\u5357\u90e8"],s,s),"soybean",A.a(["pos","n.","chinese","\u5927\u8c46"],s,s),"speaker",A.a(["pos","n.","chinese","\u63da\u8072\u5668"],s,s),"speech",A.a(["pos","n.","chinese","\u6f14\u8b1b"],s,s),"speed",A.a(["pos","n./v.","chinese","\u901f\u5ea6"],s,s),"spelling",A.a(["pos","n.","chinese","\u62fc\u5b57"],s,s),"spider",A.a(["pos","n.","chinese","\u8718\u86db"],s,s),"spirit",A.a(["pos","n.","chinese","\u7cbe\u795e"],s,s),"spoon",A.a(["pos","n.","chinese","\u6e6f\u5319"],s,s),"sport",A.a(["pos","n./v.","chinese","\u904b\u52d5"],s,s),"spot",A.a(["pos","n./v.","chinese","\u73fe\u8ca8"],s,s),"spread",A.a(["pos","v./n.","chinese","\u50b3\u64ad"],s,s),"stage",A.a(["pos","n./v.","chinese","\u968e\u6bb5"],s,s),"stamp",A.a(["pos","n./v.","chinese","\u90f5\u7968"],s,s),"standard",A.a(["pos","adj./n.","chinese","\u6a19\u6e96"],s,s),"state(ment)",A.a(["pos","v./(n.)","chinese","\u9673\u8ff0"],s,s),"steak",A.a(["pos","n.","chinese","\u725b\u6392"],s,s),"steel",A.a(["pos","n./v.","chinese","\u92fc"],s,s),"step",A.a(["pos","n./v.","chinese","\u6b65\u9a5f"],s,s),"stick",A.a(["pos","v./n.","chinese","\u5805\u6301"],s,s),"stomachache",A.a(["pos","n.","chinese","\u80c3\u75db"],s,s),"stone",A.a(["pos","n./v.","chinese","\u65af\u901a"],s,s),"storm",A.a(["pos","n./v.","chinese","\u98a8\u66b4"],s,s),"stranger",A.a(["pos","n.","chinese","\u964c\u751f\u4eba"],s,s),"strawberry",A.a(["pos","n.","chinese","\u8349\u8393"],s,s),"stream",A.a(["pos","n./v.","chinese","\u6d41"],s,s),"stress",A.a(["pos","n./v.","chinese","\u61c9\u529b"],s,s),"stretch",A.a(["pos","n./v.","chinese","\u62c9\u4f38"],s,s),"strict",A.a(["pos","adj.","chinese","\u56b4\u683c\u7684"],s,s),"strike",A.a(["pos","n./v.","chinese","\u7f77\u5de5"],s,s),"struggle",A.a(["pos","n./v.","chinese","\u9b25\u722d"],s,s),"style",A.a(["pos","n./v.","chinese","\u98a8\u683c"],s,s),"subway/underground/metro",A.a(["pos","n.","chinese","\u5730\u9435/\u5730\u4e0b/\u5730\u9435"],s,s),"succeed",A.a(["pos","v.","chinese","\u6210\u529f"],s,s),"success",A.a(["pos","n.","chinese","\u6210\u529f"],s,s),"such",A.a(["pos","adj./pron.","chinese","\u9019\u6a23\u7684"],s,s),"sudden",A.a(["pos","adj./n.","chinese","\u7a81\u7136\u7684"],s,s),"suggest",A.a(["pos","v.","chinese","\u5efa\u8b70"],s,s),"suit",A.a(["pos","n./v.","chinese","\u897f\u88dd"],s,s),"suitable",A.a(["pos","adj.","chinese","\u5408\u9069\u7684"],s,s),"super",A.a(["pos","adj./adv.","chinese","\u8d85\u7d1a"],s,s),"supper",A.a(["pos","n.","chinese","\u665a\u9910"],s,s),"supply",A.a(["pos","n./v.","chinese","\u4f9b\u61c9"],s,s),"support",A.a(["pos","n./v.","chinese","\u652f\u63f4"],s,s),"suppose",A.a(["pos","v.","chinese","\u5047\u8a2d"],s,s),"surf",A.a(["pos","v.","chinese","\u885d\u6d6a\u6cb3\u8c37"],s,s),"surface",A.a(["pos","n./v.","chinese","\u8868\u9762"],s,s),"survival",A.a(["pos","n.","chinese","\u751f\u5b58"],s,s),"survive",A.a(["pos","v.","chinese","\u751f\u5b58"],s,s),"swallow",A.a(["pos","v./n.","chinese","\u541e\u4e0b"],s,s),"sweater",A.a(["pos","n.","chinese","\u6bdb\u8863"],s,s),"sweep",A.a(["pos","v.","chinese","\u65af\u5a01\u592b\u6cb3\u8c37"],s,s),"swim",A.a(["pos","v./n.","chinese","\u6e38\u6cf3"],s,s),"swimsuit",A.a(["pos","n.","chinese","\u6cf3\u88dd"],s,s),"swing",A.a(["pos","n./v.","chinese","\u6416\u64fa"],s,s),"switch",A.a(["pos","n./v.","chinese","\u958b\u95dc"],s,s),"symbol",A.a(["pos","n.","chinese","\u7b26\u865f"],s,s),"system",A.a(["pos","n.","chinese","\u7cfb\u7d71"],s,s),"tale",A.a(["pos","n.","chinese","\u6545\u4e8b"],s,s),"target",A.a(["pos","n./v.","chinese","\u76ee\u6a19"],s,s),"task",A.a(["pos","n./v.","chinese","\u4efb\u52d9"],s,s),"tax",A.a(["pos","n./v.","chinese","\u7a05\u865f"],s,s),"teapot",A.a(["pos","n.","chinese","\u8336\u58fa"],s,s),"tear",A.a(["pos","n./v.","chinese","\u6495\u88c2"],s,s),"technology",A.a(["pos","n.","chinese","\u6280\u8853"],s,s),"teens",A.a(["pos","n.","chinese","\u9752\u5c11\u5e74"],s,s),"temperature",A.a(["pos","n.","chinese","\u6eab\u5ea6"],s,s),"term",A.a(["pos","n./v.","chinese","\u8853\u8a9e"],s,s),"terrorism",A.a(["pos","n.","chinese","\u6050\u6016\u4e3b\u7fa9"],s,s),"terrorist",A.a(["pos","adj.","chinese","\u6050\u6016\u5206\u5b50"],s,s),"text",A.a(["pos","n.","chinese","\u6587\u672c"],s,s),"textbook",A.a(["pos","n.","chinese","\u6559\u79d1\u66f8"],s,s),"therefore",A.a(["pos","adv.","chinese","\u56e0\u6b64"],s,s),"thief",A.a(["pos","n.","chinese","\u5c0f\u5077"],s,s),"thirsty",A.a(["pos","adj.","chinese","\u53e3\u6e34"],s,s),"thought",A.a(["pos","n.","chinese","\u601d\u60f3"],s,s),"throughout",A.a(["pos","prep./adv.","chinese","\u6574\u500b\u6e96\u5099/\u9032\u968e\u968e\u6bb5"],s,s),"thunder",A.a(["pos","n./v.","chinese","\u96f7\u9706"],s,s),"thus",A.a(["pos","adv.","chinese","\u56e0\u6b64"],s,s),"till",A.a(["pos","conj./prep.","chinese","\u76f4\u5230\u9023\u63a5/\u6e96\u5099"],s,s),"tiny",A.a(["pos","adj.","chinese","\u5fae\u5c0f\u7684"],s,s),"tire",A.a(["pos","v./n.","chinese","\u8f2a\u80ce"],s,s),"tissue",A.a(["pos","n.","chinese","\u7d44\u7e54"],s,s),"title",A.a(["pos","n./v.","chinese","\u6a19\u984c"],s,s),"toast",A.a(["pos","n./v.","chinese","\u5410\u53f8"],s,s),"tofu",A.a(["pos","n.","chinese","\u8c46\u8150"],s,s),"tone",A.a(["pos","n.","chinese","\u97f3\u8abf"],s,s),"tongue",A.a(["pos","n.","chinese","\u820c\u982d"],s,s),"toothache",A.a(["pos","n.","chinese","\u7259\u75db"],s,s),"toothbrush",A.a(["pos","n.","chinese","\u7259\u5237"],s,s),"tour",A.a(["pos","n./v.","chinese","\u904a\u89bd"],s,s),"toward/towards",A.a(["pos","prep.","chinese","\u8d70\u5411/\u8d70\u5411\u6e96\u5099"],s,s),"track",A.a(["pos","n./v.","chinese","\u66f2\u76ee"],s,s),"trade",A.a(["pos","n./v.","chinese","\u8cbf\u6613"],s,s),"tradition",A.a(["pos","n.","chinese","\u50b3\u7d71"],s,s),"traditional",A.a(["pos","adj.","chinese","\u50b3\u7d71\u7684"],s,s),"trap",A.a(["pos","n./v.","chinese","\u9677\u9631"],s,s),"trash",A.a(["pos","n./v.","chinese","\u5783\u573e"],s,s),"travel",A.a(["pos","n./v.","chinese","\u65c5\u884c"],s,s),"treasure",A.a(["pos","n./v.","chinese","\u5bf6\u85cf"],s,s),"trial",A.a(["pos","n.","chinese","\u5be9\u5224"],s,s),"triangle",A.a(["pos","n.","chinese","\u4e09\u89d2\u5f62"],s,s),"trick",A.a(["pos","n./v.","chinese","\u6280\u5de7"],s,s),"true",A.a(["pos","adj./adv./v.","chinese","\u771f\u5be6\u7684"],s,s),"trust",A.a(["pos","v./n.","chinese","\u4fe1\u4efb"],s,s),"truth",A.a(["pos","n.","chinese","\u771f\u7406"],s,s),"tube",A.a(["pos","n.","chinese","\u7ba1\u5b50"],s,s),"turtle",A.a(["pos","n.","chinese","\u70cf\u9f9c"],s,s),"typhoon",A.a(["pos","n.","chinese","\u98b1\u98a8"],s,s),"typical",A.a(["pos","adj.","chinese","\u5178\u578b\u7684"],s,s),"ugly",A.a(["pos","adj.","chinese","\u919c\u964b\u7684"],s,s),"umbrella",A.a(["pos","n.","chinese","\u5098"],s,s),"unit",A.a(["pos","n.","chinese","\u55ae\u4f4d"],s,s),"universe",A.a(["pos","n.","chinese","\u5b87\u5b99"],s,s),"university",A.a(["pos","n.","chinese","\u5927\u5b78"],s,s),"unless",A.a(["pos","conj.","chinese","\u9664\u975e"],s,s),"upload",A.a(["pos","v.","chinese","\u4e0a\u50b3"],s,s),"upon",A.a(["pos","prep.","chinese","\u6e96\u5099\u6642"],s,s),"upper",A.a(["pos","adj.","chinese","\u4e0a"],s,s),"upset",A.a(["pos","adj./v./n.","chinese","\u5fc3\u7169\u610f\u4e82"],s,s),"upstairs",A.a(["pos","adv./adj./n.","chinese","\u6a13\u4e0a"],s,s),"used",A.a(["pos","adj.","chinese","\u4f7f\u7528\u7684"],s,s),"user",A.a(["pos","n.","chinese","\u7528\u6236"],s,s),"usual",A.a(["pos","adj.","chinese","\u5e73\u5e38\u7684"],s,s),"vacation",A.a(["pos","n./v.","chinese","\u5047\u671f"],s,s),"valley",A.a(["pos","n.","chinese","\u5c71\u8c37"],s,s),"valuable",A.a(["pos","adj.","chinese","\u6709\u50f9\u503c\u7684"],s,s),"value",A.a(["pos","n./v.","chinese","\u6578\u503c"],s,s),"victory",A.a(["pos","n.","chinese","\u52dd\u5229"],s,s),"view",A.a(["pos","n./v.","chinese","\u67e5\u770b"],s,s),"village",A.a(["pos","n.","chinese","\u6751\u838a"],s,s),"vote",A.a(["pos","n./v.","chinese","\u6295\u7968"],s,s),"waist",A.a(["pos","n.","chinese","\u8170\u570d"],s,s),"waiter/waitress",A.a(["pos","n.","chinese","\u670d\u52d9\u751f/\u5973\u670d\u52d9\u54e1"],s,s),"wallet",A.a(["pos","n.","chinese","\u9322\u5305"],s,s),"war",A.a(["pos","n.","chinese","\u6230\u722d"],s,s),"wash",A.a(["pos","v./n.","chinese","\u6d17"],s,s),"waste",A.a(["pos","n./v.","chinese","\u5ee2\u7269"],s,s),"watermelon",A.a(["pos","n.","chinese","\u897f\u74dc"],s,s),"wealth",A.a(["pos","n.","chinese","\u8ca1\u5bcc"],s,s),"wedding",A.a(["pos","n.","chinese","\u5a5a\u79ae"],s,s),"weekday",A.a(["pos","n.","chinese","\u5de5\u4f5c\u65e5"],s,s),"weigh",A.a(["pos","v.","chinese","\u7a31\u91cf"],s,s),"weight",A.a(["pos","n.","chinese","\u91cd\u91cf"],s,s),"western",A.a(["pos","adj./n.","chinese","\u897f\u65b9"],s,s),"whale",A.a(["pos","n.","chinese","\u9be8\u9b5a"],s,s),"whatever",A.a(["pos","adj./pron.","chinese","\u4e0d\u7ba1\u4ec0\u9ebc"],s,s),"wheel",A.a(["pos","n.","chinese","\u8f2a\u5b50"],s,s),"whenever",A.a(["pos","conj./adv.","chinese","\u6bcf\u7576"],s,s),"wherever",A.a(["pos","adv./conj.","chinese","\u7121\u8ad6\u4f55\u8655"],s,s),"whisper",A.a(["pos","n./v.","chinese","\u8033\u8a9e"],s,s),"whoever",A.a(["pos","pron.","chinese","\u7121\u8ad6\u8ab0"],s,s),"whole",A.a(["pos","adj./n.","chinese","\u6574\u500b"],s,s),"whom",A.a(["pos","pron.","chinese","\u8ab0"],s,s),"width",A.a(["pos","n.","chinese","\u5bec\u5ea6"],s,s),"wild",A.a(["pos","adj./adv./n.","chinese","\u91ce"],s,s),"willing",A.a(["pos","adj.","chinese","\u9858\u610f"],s,s),"windy",A.a(["pos","adj.","chinese","\u6709\u98a8\u7684"],s,s),"wine",A.a(["pos","n.","chinese","\u9152"],s,s),"wing",A.a(["pos","n.","chinese","\u7ffc"],s,s),"wire",A.a(["pos","n.","chinese","\u96fb\u7dda"],s,s),"within",A.a(["pos","prep./adv.","chinese","\u5728\u6e96\u5099/\u9032\u968e\u7bc4\u570d\u5167"],s,s),"wolf",A.a(["pos","n.","chinese","\u72fc"],s,s),"wonder",A.a(["pos","v./n.","chinese","\u5947\u8e5f."],s,s),"wood(s)",A.a(["pos","n.","chinese","\u6728\u6750"],s,s),"wooden",A.a(["pos","adj.","chinese","\u6728\u7684"],s,s),"wool",A.a(["pos","n.","chinese","\u7f8a\u6bdb"],s,s),"workbook",A.a(["pos","n.","chinese","\u4f5c\u696d\u672c"],s,s),"worm",A.a(["pos","n./v.","chinese","\u8815\u87f2"],s,s),"worse",A.a(["pos","adj./adv./n.","chinese","\u66f4\u7cdf\u7cd5"],s,s),"worst",A.a(["pos","adj./adv./n.","chinese","\u6700\u7cdf\u7cd5\u7684"],s,s),"worth",A.a(["pos","adj./n.","chinese","\u50f9\u503c"],s,s),"wound",A.a(["pos","n./v.","chinese","\u50b7\u53e3"],s,s),"yam",A.a(["pos","n.","chinese","\u5c71\u85e5"],s,s),"youth",A.a(["pos","n.","chinese","\u9752\u5e74"],s,s),"zebra",A.a(["pos","n.","chinese","\u6591\u99ac"],s,s),"aboard",A.a(["pos","prep./adv.","chinese","\u8239\u4e0a"],s,s),"acceptable",A.a(["pos","adj.","chinese","\u53ef\u4ee5\u63a5\u53d7"],s,s),"accident",A.a(["pos","n.","chinese","\u610f\u5916\u4e8b\u6545"],s,s),"account",A.a(["pos","n.","chinese","\u5e33\u6236"],s,s),"accurate",A.a(["pos","adj.","chinese","\u6e96\u78ba\u7684"],s,s),"ache",A.a(["pos","n./v.","chinese","\u75bc\u75db"],s,s),"achieve(ment)",A.a(["pos","v./(n.)","chinese","\u6210\u5c31\uff09"],s,s),"additional",A.a(["pos","adj.","chinese","\u984d\u5916\u7684"],s,s),"admire",A.a(["pos","v.","chinese","\u6b3d\u4f69"],s,s),"advanced",A.a(["pos","adj.","chinese","\u5148\u9032\u7684"],s,s),"advantage",A.a(["pos","n.","chinese","\u512a\u52e2"],s,s),"adventure",A.a(["pos","n.","chinese","\u5192\u96aa"],s,s),"advertise(ment)/ad",A.a(["pos","v./(n.)","chinese","\u5ee3\u544a\uff08\u5ee3\u544a\uff09/\u5ee3\u544a"],s,s),"advise",A.a(["pos","v.","chinese","\u5efa\u8b70"],s,s),"adviser/advisor",A.a(["pos","n.","chinese","\u9867\u554f/\u9867\u554f"],s,s),"afford",A.a(["pos","v.","chinese","\u8cb7\u5f97\u8d77"],s,s),"afterward/afterwards",A.a(["pos","adv.","chinese","\u4e4b\u5f8c/\u4e4b\u5f8c"],s,s),"agriculture",A.a(["pos","n.","chinese","\u8fb2\u696d"],s,s),"airline",A.a(["pos","n.","chinese","\u822a\u7a7a"],s,s),"alley",A.a(["pos","n.","chinese","\u80e1\u540c"],s,s),"almond",A.a(["pos","n.","chinese","\u674f\u4ec1"],s,s),"alphabet",A.a(["pos","n.","chinese","\u5b57\u6bcd"],s,s),"amaze(ment)",A.a(["pos","v./(n.)","chinese","\u9a5a\u6115\uff09"],s,s),"ambassador",A.a(["pos","n.","chinese","\u5927\u4f7f"],s,s),"ambition",A.a(["pos","n.","chinese","\u5fd7\u5411"],s,s),"ambulance",A.a(["pos","n.","chinese","\u6551\u8b77\u8eca"],s,s),"angel",A.a(["pos","n.","chinese","\u5929\u4f7f"],s,s),"announce(ment)",A.a(["pos","v./(n.)","chinese","\u516c\u544a\uff09"],s,s),"anxious",A.a(["pos","adj.","chinese","\u7126\u616e\u7684"],s,s),"anyhow",A.a(["pos","adv.","chinese","\u7121\u8ad6\u5982\u4f55"],s,s),"apart",A.a(["pos","adv.","chinese","\u5206\u958b"],s,s),"apologize",A.a(["pos","v.","chinese","\u9053\u6b49"],s,s),"appeal",A.a(["pos","n./v.","chinese","\u4e0a\u8a34"],s,s),"approve",A.a(["pos","v.","chinese","\u6838\u51c6"],s,s),"apron",A.a(["pos","n.","chinese","\u570d\u88d9"],s,s),"armed",A.a(["pos","adj.","chinese","\u6b66\u88dd\u7684"],s,s),"arrest",A.a(["pos","n./v.","chinese","\u902e\u6355"],s,s),"ash",A.a(["pos","n.","chinese","\u7070"],s,s),"aside",A.a(["pos","adv.","chinese","\u5728\u65c1\u908a"],s,s),"assist",A.a(["pos","v.","chinese","\u5354\u52a9"],s,s),"assistant",A.a(["pos","n.","chinese","\u52a9\u7406"],s,s),"assume",A.a(["pos","v.","chinese","\u8a8d\u70ba"],s,s),"athlete",A.a(["pos","n.","chinese","\u904b\u52d5\u54e1"],s,s),"attitude",A.a(["pos","n.","chinese","\u614b\u5ea6"],s,s),"attract",A.a(["pos","v.","chinese","\u5438\u5f15"],s,s),"attractive",A.a(["pos","adj.","chinese","\u5438\u5f15\u4eba\u7684"],s,s),"audience",A.a(["pos","n.","chinese","\u89c0\u773e"],s,s),"automatic",A.a(["pos","adj.","chinese","\u81ea\u52d5\u7684"],s,s),"automobile/auto",A.a(["pos","n.","chinese","\u6c7d\u8eca/\u6c7d\u8eca"],s,s),"avenue",A.a(["pos","n.","chinese","\u5927\u8857"],s,s),"awake",A.a(["pos","adj./v.","chinese","\u7526\u9192"],s,s),"awaken",A.a(["pos","v.","chinese","\u559a\u9192"],s,s),"award",A.a(["pos","n./v.","chinese","\u734e"],s,s),"aware",A.a(["pos","adj.","chinese","\u610f\u8b58\u5230\u7684"],s,s),"awful",A.a(["pos","adj.","chinese","\u53ef\u6015"],s,s),"awkward",A.a(["pos","adj.","chinese","\u5c37\u5c2c\u7684"],s,s),"background",A.a(["pos","n.","chinese","\u80cc\u666f"],s,s),"bacon",A.a(["pos","n.","chinese","\u57f9\u6839"],s,s),"bacteria",A.a(["pos","n.","chinese","\u7d30\u83cc"],s,s),"badly",A.a(["pos","adv.","chinese","\u56b4\u91cd\u5730"],s,s),"baggage",A.a(["pos","n.","chinese","\u884c\u674e"],s,s),"bait",A.a(["pos","n./v.","chinese","\u990c"],s,s),"bamboo",A.a(["pos","n.","chinese","\u7af9\u5b50"],s,s),"bang",A.a(["pos","n./v./adv.","chinese","\u7830"],s,s),"banker",A.a(["pos","n.","chinese","\u9280\u884c\u5bb6"],s,s),"bare",A.a(["pos","adj./v.","chinese","\u88f8"],s,s),"barely",A.a(["pos","adv.","chinese","\u50c5\u50c5"],s,s),"barn",A.a(["pos","n.","chinese","\u7a40\u5009"],s,s),"barrel",A.a(["pos","n.","chinese","\u6876"],s,s),"basement",A.a(["pos","n.","chinese","\u5730\u4e0b\u5ba4"],s,s),"bay",A.a(["pos","n.","chinese","\u7063"],s,s),"bead",A.a(["pos","n.","chinese","\u73e0"],s,s),"beam",A.a(["pos","n./v.","chinese","\u5149\u675f"],s,s),"beast",A.a(["pos","n.","chinese","\u7378"],s,s),"beetle",A.a(["pos","n.","chinese","\u7532\u87f2"],s,s),"beneath",A.a(["pos","prep.","chinese","\u4e0b\u9762"],s,s),"benefit",A.a(["pos","n./v.","chinese","\u76ca\u8655"],s,s),"berry",A.a(["pos","n.","chinese","\u8393\u679c"],s,s),"besides",A.a(["pos","adv./prep.","chinese","\u9664\u4e86"],s,s),"bet",A.a(["pos","v./n.","chinese","\u8ced\u6ce8"],s,s),"bind",A.a(["pos","v.","chinese","\u7d81\u5b9a"],s,s),"bitter",A.a(["pos","adj.","chinese","\u82e6\u7684"],s,s),"bleed",A.a(["pos","v.","chinese","\u6d41\u8840"],s,s),"bless",A.a(["pos","v.","chinese","\u4fdd\u4f51"],s,s),"bloody",A.a(["pos","adj.","chinese","\u8840\u8165"],s,s),"blouse",A.a(["pos","n.","chinese","\u5973\u5f0f\u896f\u886b"],s,s),"bold",A.a(["pos","adj.","chinese","\u5927\u81bd\u7684"],s,s),"bomb",A.a(["pos","n./v.","chinese","\u70b8\u5f48"],s,s),"bookcase",A.a(["pos","n.","chinese","\u66f8\u6ac3"],s,s),"boot",A.a(["pos","n./v.","chinese","\u555f\u52d5"],s,s),"bore",A.a(["pos","v./n.","chinese","\u947d\u5b54"],s,s),"bowling",A.a(["pos","n.","chinese","\u4fdd\u9f61\u7403"],s,s),"brake",A.a(["pos","n./v.","chinese","\u715e\u8eca"],s,s),"brass",A.a(["pos","n./adj.","chinese","\u9ec3\u9285"],s,s),"bravery",A.a(["pos","n.","chinese","\u52c7\u6562"],s,s),"breast",A.a(["pos","n.","chinese","\u80f8\u90e8"],s,s),"breath",A.a(["pos","n.","chinese","\u547c\u5438"],s,s),"breathe",A.a(["pos","v.","chinese","\u547c\u5438"],s,s),"breeze",A.a(["pos","n./v.","chinese","\u5fae\u98a8"],s,s),"brick",A.a(["pos","n.","chinese","\u78da"],s,s),"bride",A.a(["pos","n.","chinese","\u65b0\u5a18"],s,s),"broadcast",A.a(["pos","n./v.","chinese","pod\u9001"],s,s),"brunch",A.a(["pos","n.","chinese","\u65e9\u5348\u9910"],s,s),"bubble",A.a(["pos","n./v.","chinese","\u6c23\u6ce1"],s,s),"bucket",A.a(["pos","n.","chinese","\u6876"],s,s),"bud",A.a(["pos","n./v.","chinese","\u82bd"],s,s),"budget",A.a(["pos","n./v.","chinese","\u9810\u7b97"],s,s),"buffalo",A.a(["pos","n.","chinese","\u6c34\u725b"],s,s),"buffet",A.a(["pos","n.","chinese","\u81ea\u52a9\u9910"],s,s),"bulb",A.a(["pos","n.","chinese","\u96fb\u71c8\u6ce1"],s,s),"bull",A.a(["pos","n.","chinese","\u516c\u725b"],s,s),"bullet",A.a(["pos","n.","chinese","\u5b50\u5f48"],s,s),"bump",A.a(["pos","n./v.","chinese","\u649e"],s,s),"bunch",A.a(["pos","n.","chinese","\u675f"],s,s),"bundle",A.a(["pos","n.","chinese","\u6346"],s,s),"bury",A.a(["pos","v.","chinese","\u57cb\u846c"],s,s),"bush",A.a(["pos","n.","chinese","\u896f\u5957"],s,s),"buzz",A.a(["pos","n./v.","chinese","\u55e1\u55e1\u8072"],s,s),"cabin",A.a(["pos","n.","chinese","\u8259"],s,s),"cable",A.a(["pos","n./v.","chinese","\u96fb\u7e9c"],s,s),"cafeteria",A.a(["pos","n.","chinese","\u81ea\u52a9\u9910\u5ef3"],s,s),"campus",A.a(["pos","n.","chinese","\u6821\u5712"],s,s),"canyon",A.a(["pos","n.","chinese","\u5cfd\u8c37"],s,s),"capable",A.a(["pos","adj.","chinese","\u6709\u80fd\u529b\u7684"],s,s),"captain",A.a(["pos","n.","chinese","\u968a\u9577"],s,s),"capture",A.a(["pos","v./n.","chinese","\u6355\u7372"],s,s),"career",A.a(["pos","n.","chinese","\u8077\u696d"],s,s),"carpenter",A.a(["pos","n.","chinese","\u6728\u5320"],s,s),"carpet",A.a(["pos","n./v.","chinese","\u5730\u6bef"],s,s),"carriage",A.a(["pos","n.","chinese","\u904b\u8f38"],s,s),"cart",A.a(["pos","n./v.","chinese","\u5927\u8eca"],s,s),"cast",A.a(["pos","v./n.","chinese","\u6295\u64f2"],s,s),"casual",A.a(["pos","adj.","chinese","\u96a8\u610f\u7684"],s,s),"cattle",A.a(["pos","n.","chinese","\u725b"],s,s),"cave",A.a(["pos","n./v.","chinese","\u6d1e\u7a74"],s,s),"champion",A.a(["pos","n.","chinese","\u51a0\u8ecd"],s,s),"charm",A.a(["pos","n./v.","chinese","\u9b45\u529b"],s,s),"chat",A.a(["pos","n./v.","chinese","\u804a\u5929"],s,s),"cheek",A.a(["pos","n.","chinese","\u81c9\u9830"],s,s),"cheerful",A.a(["pos","adj.","chinese","\u5feb\u6a02"],s,s),"cherry",A.a(["pos","n./adj.","chinese","\u6afb\u6843"],s,s),"chest",A.a(["pos","n.","chinese","\u80f8\u90e8"],s,s),"chill",A.a(["pos","n./v./adj.","chinese","\u5bd2\u610f"],s,s),"chilly",A.a(["pos","adj.","chinese","\u5bd2\u51b7"],s,s),"chimney",A.a(["pos","n.","chinese","\u7159\u56ea"],s,s),"chin",A.a(["pos","n.","chinese","\u4e0b\u5df4"],s,s),"chip",A.a(["pos","n./v.","chinese","\u6676\u7247"],s,s),"chop",A.a(["pos","n./v.","chinese","\u5288"],s,s),"cigarette",A.a(["pos","n.","chinese","\u9999\u83f8"],s,s),"cinema",A.a(["pos","n.","chinese","\u96fb\u5f71"],s,s),"circus",A.a(["pos","n.","chinese","\u99ac\u6232\u5718"],s,s),"citizen",A.a(["pos","n.","chinese","\u570b\u6c11"],s,s),"civil",A.a(["pos","adj.","chinese","\u6c11\u4e8b"],s,s),"clay",A.a(["pos","n.","chinese","\u9ecf\u571f"],s,s),"cleaner",A.a(["pos","n.","chinese","\u6e05\u6f54\u5de5"],s,s),"client",A.a(["pos","n.","chinese","\u5ba2\u6236"],s,s),"clinic",A.a(["pos","n.","chinese","\u8a3a\u6240"],s,s),"clip",A.a(["pos","n./v.","chinese","\u593e\u5b50"],s,s),"closet",A.a(["pos","n.","chinese","\u8863\u6ae5"],s,s),"clothe",A.a(["pos","v.","chinese","\u8863\u670d"],s,s),"clown",A.a(["pos","n./v.","chinese","\u5c0f\u4e11"],s,s),"clue",A.a(["pos","n.","chinese","\u7dda\u7d22"],s,s),"coach",A.a(["pos","n./v.","chinese","\u6559\u7df4"],s,s),"cock",A.a(["pos","n.","chinese","\u516c\u96de"],s,s),"cocktail",A.a(["pos","n.","chinese","\u96de\u5c3e\u9152"],s,s),"coconut",A.a(["pos","n.","chinese","\u6930\u5b50"],s,s),"collar",A.a(["pos","n.","chinese","\u8863\u9818"],s,s),"collection",A.a(["pos","n.","chinese","\u6536\u85cf"],s,s),"colony",A.a(["pos","n.","chinese","\u6b96\u6c11\u5730"],s,s),"colorful",A.a(["pos","adj.","chinese","\u8c50\u5bcc\u591a\u5f69\u7684"],s,s),"column",A.a(["pos","n.","chinese","\u67f1\u5b50"],s,s),"comfort",A.a(["pos","n./v.","chinese","\u8212\u9069"],s,s),"comma",A.a(["pos","n.","chinese","\u9017\u865f"],s,s),"committee",A.a(["pos","n.","chinese","\u59d4\u54e1\u6703"],s,s),"communicate",A.a(["pos","v.","chinese","\u4ea4\u6d41"],s,s),"comparison",A.a(["pos","n.","chinese","\u6bd4\u8f03"],s,s),"compete",A.a(["pos","v.","chinese","\u7af6\u722d"],s,s),"complain",A.a(["pos","v.","chinese","\u62b1\u6028"],s,s),"complaint",A.a(["pos","n.","chinese","\u62b1\u6028"],s,s),"concert",A.a(["pos","n.","chinese","\u97f3\u6a02\u6703"],s,s),"conclusion",A.a(["pos","n.","chinese","\u7d50\u8ad6"],s,s),"cone",A.a(["pos","n.","chinese","\u9310\u9ad4"],s,s),"confirm",A.a(["pos","v.","chinese","\u78ba\u8a8d"],s,s),"confuse",A.a(["pos","v.","chinese","\u8ff7\u60d1"],s,s),"connect",A.a(["pos","v.","chinese","\u9023\u63a5"],s,s),"conscious",A.a(["pos","adj.","chinese","\u6709\u610f\u8b58\u7684"],s,s),"considerable",A.a(["pos","adj.","chinese","\u5927\u91cf"],s,s),"constant",A.a(["pos","adj./n.","chinese","\u6301\u7e8c\u7684"],s,s),"continent",A.a(["pos","n.","chinese","\u5927\u9678"],s,s),"controller",A.a(["pos","n.","chinese","\u63a7\u5236\u5668"],s,s),"cooker",A.a(["pos","n.","chinese","\u708a\u5177"],s,s),"costly",A.a(["pos","adj.","chinese","\u6602\u8cb4"],s,s),"cotton",A.a(["pos","n.","chinese","\u68c9\u5e03"],s,s),"cough",A.a(["pos","n./v.","chinese","\u54b3\u55fd"],s,s),"countable",A.a(["pos","adj.","chinese","\u53ef\u6578\u7684"],s,s),"county",A.a(["pos","n.","chinese","\u7e23"],s,s),"crab",A.a(["pos","n.","chinese","\u8783\u87f9"],s,s),"cradle",A.a(["pos","n./v.","chinese","\u6416\u7c43"],s,s),"crane",A.a(["pos","n./v.","chinese","\u8d77\u91cd\u6a5f"],s,s),"crash",A.a(["pos","n./v.","chinese","\u78b0\u649e"],s,s),"crawl",A.a(["pos","v./n.","chinese","\u722c\u884c"],s,s),"creative",A.a(["pos","adj.","chinese","\u6709\u5275\u9020\u529b\u7684"],s,s),"creator",A.a(["pos","n.","chinese","\u5275\u9020\u8005"],s,s),"creature",A.a(["pos","n.","chinese","\u751f\u7269"],s,s),"credit",A.a(["pos","n./v.","chinese","\u4fe1\u7528"],s,s),"crew",A.a(["pos","n.","chinese","\u5168\u9ad4\u4eba\u54e1"],s,s),"cricket",A.a(["pos","n.","chinese","\u87cb\u87c0"],s,s),"criminal",A.a(["pos","adj./n.","chinese","\u5211\u4e8b"],s,s),"crispy",A.a(["pos","adj.","chinese","\u9165\u8106\u7684"],s,s),"crop",A.a(["pos","n./v.","chinese","\u838a\u7a3c"],s,s),"crown",A.a(["pos","n./v.","chinese","\u738b\u51a0"],s,s),"cruel",A.a(["pos","adj.","chinese","\u6b98\u5fcd\u7684"],s,s),"cupboard",A.a(["pos","n.","chinese","\u6ae5\u6ac3"],s,s),"dairy",A.a(["pos","n.","chinese","\u4e73\u88fd\u54c1"],s,s),"dam",A.a(["pos","n./v.","chinese","\u58e9"],s,s),"dare",A.a(["pos","aux./v.","chinese","\u6562"],s,s),"darling",A.a(["pos","n./adj.","chinese","\u89aa\u611b\u7684"],s,s),"dash",A.a(["pos","n./v.","chinese","\u77ed\u8dd1"],s,s),"database",A.a(["pos","n.","chinese","\u8cc7\u6599\u5eab"],s,s),"dawn",A.a(["pos","n./v.","chinese","\u9ece\u660e"],s,s),"dealer",A.a(["pos","n.","chinese","\u7d93\u92b7\u5546"],s,s),"decade",A.a(["pos","n.","chinese","\u5341\u5e74"],s,s),"deck",A.a(["pos","n.","chinese","\u7532\u677f"],s,s),"decorate",A.a(["pos","v.","chinese","\u88dd\u98fe"],s,s),"decrease",A.a(["pos","v./n.","chinese","\u6e1b\u5c11"],s,s),"deed",A.a(["pos","n.","chinese","\u5951\u64da"],s,s),"deepen",A.a(["pos","v.","chinese","\u6df1\u5316"],s,s),"definition",A.a(["pos","n.","chinese","\u5b9a\u7fa9"],s,s),"democracy",A.a(["pos","n.","chinese","\u6c11\u4e3b"],s,s),"democratic",A.a(["pos","adj.","chinese","\u6c11\u4e3b\u7684"],s,s),"deposit",A.a(["pos","n./v.","chinese","\u8a02\u91d1"],s,s),"designer",A.a(["pos","n.","chinese","\u8a2d\u8a08\u5e2b"],s,s),"desirable",A.a(["pos","adj.","chinese","\u7406\u60f3\u7684"],s,s),"desire",A.a(["pos","n./v.","chinese","\u617e\u671b"],s,s),"dessert",A.a(["pos","n.","chinese","\u751c\u9ede"],s,s),"destroy",A.a(["pos","v.","chinese","\u7834\u58de"],s,s),"detect",A.a(["pos","v.","chinese","\u63a2\u6e2c"],s,s),"determine",A.a(["pos","v.","chinese","\u6c7a\u5b9a"],s,s),"devil",A.a(["pos","n.","chinese","\u9b54\u9b3c"],s,s),"dim",A.a(["pos","adj./v.","chinese","\u6697\u6de1"],s,s),"dime",A.a(["pos","n.","chinese","\u5341\u5206\u9322"],s,s),"dine",A.a(["pos","v.","chinese","\u5403\u98ef"],s,s),"dinosaur",A.a(["pos","n.","chinese","\u6050\u9f8d"],s,s),"dip",A.a(["pos","v./n.","chinese","\u6cbe"],s,s),"dirt",A.a(["pos","n.","chinese","\u6c61\u57a2"],s,s),"discount",A.a(["pos","n./v.","chinese","\u6298\u6263"],s,s),"dishonest",A.a(["pos","adj.","chinese","\u4e0d\u8aa0\u5be6"],s,s),"disk/disc",A.a(["pos","n.","chinese","\u78c1\u789f/\u78c1\u789f"],s,s),"dislike",A.a(["pos","v./n.","chinese","\u4e0d\u559c\u6b61"],s,s),"ditch",A.a(["pos","n./v.","chinese","\u6e9d"],s,s),"dive",A.a(["pos","n./v.","chinese","\u6f5b\u6c34"],s,s),"dizzy",A.a(["pos","adj.","chinese","\u6688\u7729\u7684"],s,s),"dock",A.a(["pos","n./v.","chinese","\u78bc\u982d"],s,s),"dolphin",A.a(["pos","n.","chinese","\u6d77\u8c5a"],s,s),"donkey",A.a(["pos","n.","chinese","\u9a62"],s,s),"dose",A.a(["pos","n./v.","chinese","\u5291\u91cf"],s,s),"doubtful",A.a(["pos","adj.","chinese","\u7591"],s,s),"doughnut",A.a(["pos","n.","chinese","\u6cb9\u70b8\u5708\u9905"],s,s),"downtown",A.a(["pos","adj./adv./n.","chinese","\u5e02\u4e2d\u5fc3"],s,s),"drag",A.a(["pos","v./n.","chinese","\u62d6"],s,s),"dragonfly",A.a(["pos","n.","chinese","\u873b\u8713"],s,s),"drain",A.a(["pos","v./n.","chinese","\u6d41\u8d70"],s,s),"dramatic",A.a(["pos","adj.","chinese","\u6232\u5287\u6027"],s,s),"drip",A.a(["pos","n./v.","chinese","\u6ef4"],s,s),"drown",A.a(["pos","v.","chinese","\u6df9"],s,s),"drugstore",A.a(["pos","n.","chinese","\u85e5\u5c40"],s,s),"drunk",A.a(["pos","adj./n.","chinese","\u9189"],s,s),"dumb",A.a(["pos","adj.","chinese","\u555e\u7684"],s,s),"dump",A.a(["pos","v./n.","chinese","\u50be\u5012"],s,s),"dumpling",A.a(["pos","n.","chinese","\u9903\u5b50"],s,s),"dust",A.a(["pos","n./v.","chinese","\u7070\u5875"],s,s),"eager",A.a(["pos","adj.","chinese","\u6e34\u671b\u7684"],s,s),"echo",A.a(["pos","n./v.","chinese","\u8ff4\u97f3"],s,s),"edit",A.a(["pos","v.","chinese","\u7de8\u8f2f"],s,s),"editor",A.a(["pos","n.","chinese","\u7de8\u8f2f"],s,s),"educate",A.a(["pos","v.","chinese","\u6559\u80b2"],s,s),"educational",A.a(["pos","adj.","chinese","\u6559\u80b2\u6027\u7684"],s,s),"efficient",A.a(["pos","adj.","chinese","\u9ad8\u6548\u7387\u7684"],s,s),"elbow",A.a(["pos","n./v.","chinese","\u5f4e\u982d"],s,s),"elderly",A.a(["pos","adj.","chinese","\u8001\u5e74"],s,s),"elect",A.a(["pos","v./adj.","chinese","\u9078"],s,s),"election",A.a(["pos","n.","chinese","\u9078\u8209"],s,s),"electricity",A.a(["pos","n.","chinese","\u96fb"],s,s),"electronic",A.a(["pos","adj.","chinese","\u96fb\u5b50\u7684"],s,s),"element",A.a(["pos","n.","chinese","\u5143\u7d20"],s,s),"elevator",A.a(["pos","n.","chinese","\u96fb\u68af"],s,s),"emergency",A.a(["pos","n.","chinese","\u7dca\u6025\u72c0\u6cc1"],s,s),"emotional",A.a(["pos","adj.","chinese","\u60c5\u7dd2\u5316\u7684"],s,s),"emperor",A.a(["pos","n.","chinese","\u7687\u5e1d"],s,s),"enable",A.a(["pos","v.","chinese","\u4f7f\u80fd\u5920"],s,s),"energetic",A.a(["pos","adj.","chinese","\u7cbe\u529b\u5145\u6c9b"],s,s),"engage(ment)",A.a(["pos","v./(n.)","chinese","\u8a02\u5a5a\uff09"],s,s),"enjoyable",A.a(["pos","adj.","chinese","\u4ee4\u4eba\u6109\u5feb\u7684"],s,s),"entry",A.a(["pos","n.","chinese","\u5165\u53e3"],s,s),"envy",A.a(["pos","n./v.","chinese","\u5ac9\u5992"],s,s),"erase",A.a(["pos","v.","chinese","\u64e6\u9664"],s,s),"excellence",A.a(["pos","n.","chinese","\u5353\u8d8a"],s,s),"exchange",A.a(["pos","n./v.","chinese","\u4ea4\u63db"],s,s),"exhibition",A.a(["pos","n.","chinese","\u5c55\u89bd"],s,s),"expectation",A.a(["pos","n.","chinese","\u671f\u5f85"],s,s),"experiment",A.a(["pos","n./v.","chinese","\u5be6\u9a57"],s,s),"explode",A.a(["pos","v.","chinese","\u9739\u9742"],s,s),"explore",A.a(["pos","v.","chinese","\u63a2\u7d22"],s,s),"export",A.a(["pos","n./v.","chinese","\u51fa\u53e3"],s,s),"expressive",A.a(["pos","adj.","chinese","\u5bcc\u6709\u8868\u73fe\u529b\u7684"],s,s),"extreme",A.a(["pos","adj./n.","chinese","\u6975\u7aef"],s,s),"fade",A.a(["pos","v.","chinese","\u892a\u8272"],s,s),"faint",A.a(["pos","adj./v./n.","chinese","\u982d\u6688\u7684"],s,s),"fairly",A.a(["pos","adv.","chinese","\u76f8\u7576"],s,s),"fairy",A.a(["pos","n./adj.","chinese","\u4ed9\u5973"],s,s),"faith",A.a(["pos","n.","chinese","\u4fe1\u4ef0"],s,s),"fake",A.a(["pos","adj./v./n.","chinese","\u507d\u9020\u7684"],s,s),"familiar",A.a(["pos","adj.","chinese","\u719f\u6089\u7684"],s,s),"fancy",A.a(["pos","adj./n./v.","chinese","\u60f3\u8981"],s,s),"fare",A.a(["pos","n.","chinese","\u7968\u50f9"],s,s),"farther",A.a(["pos","adv./adj.","chinese","\u66f4\u9060"],s,s),"fashionable",A.a(["pos","adj.","chinese","\u6642\u9ae6"],s,s),"faucet",A.a(["pos","n.","chinese","\u9f8d\u982d"],s,s),"fearful",A.a(["pos","adj.","chinese","\u53ef\u6015"],s,s),"feather",A.a(["pos","n.","chinese","\u7fbd\u6bdb"],s,s),"fence",A.a(["pos","n.","chinese","\u67f5\u6b04"],s,s),"fighter",A.a(["pos","n.","chinese","\u6230\u9b25\u6a5f"],s,s),"firework",A.a(["pos","n.","chinese","\u7130\u706b"],s,s),"fist",A.a(["pos","n./v.","chinese","\u62f3\u982d"],s,s),"flame",A.a(["pos","n./v.","chinese","\u706b\u7130"],s,s),"flash",A.a(["pos","n./v.","chinese","\u9583\u5149"],s,s),"flashlight",A.a(["pos","n.","chinese","\u624b\u96fb\u7b52"],s,s),"flavor",A.a(["pos","n./v.","chinese","\u5473\u9053"],s,s),"flesh",A.a(["pos","n.","chinese","\u8089"],s,s),"float",A.a(["pos","v./n.","chinese","\u6f02\u6d6e"],s,s),"flock",A.a(["pos","n./v.","chinese","\u7fa4"],s,s),"flood",A.a(["pos","n./v.","chinese","\u6d2a\u6c34"],s,s),"flour",A.a(["pos","n.","chinese","\u9eb5\u7c89"],s,s),"flute",A.a(["pos","n.","chinese","\u9577\u7b1b"],s,s),"foggy",A.a(["pos","adj.","chinese","\u6709\u9727"],s,s),"fold",A.a(["pos","v./n.","chinese","\u6298\u758a"],s,s),"follower",A.a(["pos","n.","chinese","\u8ffd\u96a8\u8005"],s,s),"fond",A.a(["pos","adj.","chinese","\u559c\u6b61"],s,s),"forever",A.a(["pos","adv.","chinese","\u6c38\u9060"],s,s),"fortune",A.a(["pos","n.","chinese","\u8ca1\u5bcc"],s,s),"fountain",A.a(["pos","n.","chinese","\u5674\u6cc9"],s,s),"frank",A.a(["pos","adj.","chinese","\u5766\u767d"],s,s),"freeze",A.a(["pos","v./n.","chinese","\u51cd\u7d50"],s,s),"freezer",A.a(["pos","n.","chinese","\u51b0\u7bb1"],s,s),"frequent",A.a(["pos","adj./v.","chinese","\u5e38"],s,s),"fright",A.a(["pos","n.","chinese","\u9a5a\u5687"],s,s),"frighten",A.a(["pos","v.","chinese","\u5687\u552c"],s,s),"fuel",A.a(["pos","n./v.","chinese","\u71c3\u6599"],s,s),"fund",A.a(["pos","n./v.","chinese","\u57fa\u91d1"],s,s),"fur",A.a(["pos","n.","chinese","\u76ae\u8349"],s,s),"gallon",A.a(["pos","n.","chinese","\u52a0\u4f96"],s,s),"gamble",A.a(["pos","n./v.","chinese","\u8ced"],s,s),"gang",A.a(["pos","n./v.","chinese","\u5e6b\u6d3e"],s,s),"gap",A.a(["pos","n.","chinese","\u5dee\u8ddd"],s,s),"garage",A.a(["pos","n.","chinese","\u8eca\u5eab"],s,s),"gasoline/gas",A.a(["pos","n.","chinese","\u6c7d\u6cb9/\u5929\u7136\u6c23"],s,s),"geography",A.a(["pos","n.","chinese","\u5730\u7406"],s,s),"gesture",A.a(["pos","n./v.","chinese","\u624b\u52e2"],s,s),"glance",A.a(["pos","n./v.","chinese","\u4e00\u773c"],s,s),"global",A.a(["pos","adj.","chinese","\u5168\u7403\u7684"],s,s),"glory",A.a(["pos","n.","chinese","\u69ae\u8000"],s,s),"glow",A.a(["pos","n./v.","chinese","\u8f1d\u5149"],s,s),"golf",A.a(["pos","n./v.","chinese","\u9ad8\u723e\u592b\u7403"],s,s),"gossip",A.a(["pos","n./v.","chinese","\u516b\u5366"],s,s),"governor",A.a(["pos","n.","chinese","\u5dde\u9577"],s,s),"grab",A.a(["pos","v./n.","chinese","\u6293\u4f4f"],s,s),"graduate",A.a(["pos","n./v.","chinese","\u7562\u696d"],s,s),"grasp",A.a(["pos","v./n.","chinese","\u6293\u7262"],s,s),"grasshopper",A.a(["pos","n.","chinese","\u86b1\u8722"],s,s),"grassy",A.a(["pos","adj.","chinese","\u9577\u6eff\u9752\u8349\u7684"],s,s),"greedy",A.a(["pos","adj.","chinese","\u8caa\u5a6a\u7684"],s,s),"greenhouse",A.a(["pos","n.","chinese","\u6eab\u5ba4"],s,s),"grin",A.a(["pos","n./v.","chinese","\u54a7\u5634\u7b11"],s,s),"grocery",A.a(["pos","n.","chinese","\u96dc\u8ca8\u5e97"],s,s),"guidance",A.a(["pos","n.","chinese","\u6307\u5c0e"],s,s),"gum",A.a(["pos","n.","chinese","\u81a0"],s,s),"hairdresser",A.a(["pos","n.","chinese","\u7406\u9aee\u5e2b"],s,s),"hallway",A.a(["pos","n.","chinese","\u9580\u5ef3"],s,s),"hammer",A.a(["pos","n./v.","chinese","\u9318\u5b50"],s,s),"handful",A.a(["pos","n.","chinese","\u5c11\u6578"],s,s),"handkerchief",A.a(["pos","n.","chinese","\u624b\u5e15"],s,s),"handy",A.a(["pos","adj.","chinese","\u4fbf\u5229"],s,s),"hanger",A.a(["pos","n.","chinese","\u8863\u67b6"],s,s),"harbor",A.a(["pos","n./v.","chinese","\u6e2f\u53e3"],s,s),"harm",A.a(["pos","n./v.","chinese","\u50b7\u5bb3"],s,s),"harmful",A.a(["pos","adj.","chinese","\u6709\u5bb3"],s,s),"harvest",A.a(["pos","n./v.","chinese","\u6536\u6210"],s,s),"hasty",A.a(["pos","adj.","chinese","\u5009\u4fc3\u7684"],s,s),"hatch",A.a(["pos","n./v.","chinese","\u5b75"],s,s),"hateful",A.a(["pos","adj.","chinese","\u53ef\u60e1"],s,s),"hay",A.a(["pos","n.","chinese","\u4e7e\u8349"],s,s),"headline",A.a(["pos","n./v.","chinese","\u6a19\u984c"],s,s),"headquarters",A.a(["pos","n.","chinese","\u7e3d\u90e8"],s,s),"heal",A.a(["pos","v.","chinese","\u7652\u5408"],s,s),"heap",A.a(["pos","n./v.","chinese","\u5806\u758a"],s,s),"heater",A.a(["pos","n.","chinese","\u52a0\u71b1\u5668"],s,s),"heel",A.a(["pos","n./v.","chinese","\u8173\u8ddf"],s,s),"hell",A.a(["pos","n.","chinese","\u5730\u7344"],s,s),"helmet",A.a(["pos","n.","chinese","\u982d\u76d4"],s,s),"hesitate",A.a(["pos","v.","chinese","\u7336\u8c6b"],s,s),"hint",A.a(["pos","n./v.","chinese","\u6697\u793a"],s,s),"hire",A.a(["pos","v./n.","chinese","\u8058\u8acb"],s,s),"historian",A.a(["pos","n.","chinese","\u6b77\u53f2\u5b78\u5bb6"],s,s),"historic",A.a(["pos","adj.","chinese","\u6b77\u53f2\u6027"],s,s),"holder",A.a(["pos","n.","chinese","\u6301\u6709\u8005"],s,s),"hollow",A.a(["pos","adj./n./v.","chinese","\u7a7a\u6d1e\u7684"],s,s),"holy",A.a(["pos","adj.","chinese","\u8056"],s,s),"homesick",A.a(["pos","adj.","chinese","\u60f3\u5bb6"],s,s),"hometown",A.a(["pos","n.","chinese","\u5bb6\u9109"],s,s),"honesty",A.a(["pos","n.","chinese","\u8aa0\u5be6"],s,s),"honor",A.a(["pos","n./v.","chinese","\u69ae\u8b7d"],s,s),"hopeful",A.a(["pos","adj.","chinese","\u5145\u6eff\u5e0c\u671b\u7684"],s,s),"horn",A.a(["pos","n.","chinese","\u5587\u53ed"],s,s),"horrible",A.a(["pos","adj.","chinese","\u53ef\u6015"],s,s),"horror",A.a(["pos","n.","chinese","\u6050\u6016"],s,s),"hourly",A.a(["pos","adj./adv.","chinese","\u6bcf\u5c0f\u6642"],s,s),"housekeeper",A.a(["pos","n.","chinese","\u7ba1\u5bb6"],s,s),"hug",A.a(["pos","n./v.","chinese","\u64c1\u62b1"],s,s),"hum",A.a(["pos","v.","chinese","\u54fc"],s,s),"humid",A.a(["pos","adj.","chinese","\u6fd5"],s,s),"humor",A.a(["pos","n.","chinese","\u5e7d\u9ed8"],s,s),"humorous",A.a(["pos","adj.","chinese","\u5e7d\u9ed8"],s,s),"hunger",A.a(["pos","n.","chinese","\u98e2\u9913"],s,s),"hut",A.a(["pos","n.","chinese","\u5c0f\u5c4b"],s,s),"icy",A.a(["pos","adj.","chinese","\u51b0\u51b7\u7684"],s,s),"imagination",A.a(["pos","n.","chinese","\u60f3\u50cf\u529b"],s,s),"immediate",A.a(["pos","adj.","chinese","\u5373\u6642"],s,s),"import",A.a(["pos","n./v.","chinese","\u9032\u53e3"],s,s),"impress",A.a(["pos","v.","chinese","\u7559\u4e0b\u6df1\u523b\u5370\u8c61"],s,s),"indoor",A.a(["pos","adj.","chinese","\u5ba4\u5167\u7684"],s,s),"indoors",A.a(["pos","adv.","chinese","\u5728\u5ba4\u5167"],s,s),"industrial",A.a(["pos","adj.","chinese","\u5de5\u696d\u7684"],s,s),"inferior",A.a(["pos","adj./n.","chinese","\u4e0b"],s,s),"inform",A.a(["pos","v.","chinese","\u901a\u77e5"],s,s),"information",A.a(["pos","n.","chinese","\u8cc7\u8a0a"],s,s),"injury",A.a(["pos","n.","chinese","\u53d7\u50b7"],s,s),"inn",A.a(["pos","n.","chinese","\u5ba2\u68e7"],s,s),"inner",A.a(["pos","adj.","chinese","\u5167"],s,s),"innocent",A.a(["pos","adj.","chinese","\u6e05\u767d\u7684"],s,s),"inspect",A.a(["pos","v.","chinese","\u6aa2\u67e5"],s,s),"inspector",A.a(["pos","n.","chinese","\u6aa2\u9a57\u54e1"],s,s),"intelligent",A.a(["pos","adj.","chinese","\u8070\u660e\u7684"],s,s),"interrupt",A.a(["pos","v.","chinese","\u6253\u65b7"],s,s),"invent",A.a(["pos","v.","chinese","\u767c\u660e"],s,s),"inventor",A.a(["pos","n.","chinese","\u767c\u660e\u8005"],s,s),"investigate",A.a(["pos","v.","chinese","\u8abf\u67e5"],s,s),"invitation",A.a(["pos","n.","chinese","\u9080\u8acb\u51fd"],s,s),"ivory",A.a(["pos","n./adj.","chinese","\u8c61\u7259"],s,s),"jail",A.a(["pos","n./v.","chinese","\u76e3\u7344"],s,s),"jar",A.a(["pos","n.","chinese","\u7f50"],s,s),"jaw",A.a(["pos","n.","chinese","\u984e"],s,s),"jazz",A.a(["pos","n.","chinese","\u7235\u58eb\u6a02"],s,s),"jealous",A.a(["pos","adj.","chinese","\u5ac9\u5992\u7684"],s,s),"jeep",A.a(["pos","n.","chinese","\u5409\u666e\u8eca"],s,s),"jelly",A.a(["pos","n.","chinese","\u679c\u51cd"],s,s),"jet",A.a(["pos","n./v.","chinese","\u5674\u5c04"],s,s),"jewel",A.a(["pos","n.","chinese","\u5bf6\u77f3"],s,s),"jewelry",A.a(["pos","n.","chinese","\u73e0\u5bf6"],s,s),"journey",A.a(["pos","n./v.","chinese","\u65c5\u884c"],s,s),"joyful",A.a(["pos","adj.","chinese","\u5feb\u6a02"],s,s),"juicy",A.a(["pos","adj.","chinese","\u591a\u6c41\u7684"],s,s),"jungle",A.a(["pos","n.","chinese","\u53e2\u6797"],s,s),"junior",A.a(["pos","adj./n.","chinese","\u521d\u7d1a"],s,s),"junk",A.a(["pos","n./v.","chinese","\u5783\u573e"],s,s),"kangaroo",A.a(["pos","n.","chinese","\u888b\u9f20"],s,s),"keyboard",A.a(["pos","n.","chinese","\u9375\u76e4"],s,s),"kidney",A.a(["pos","n.","chinese","\u814e"],s,s),"kilometer",A.a(["pos","n.","chinese","\u516c\u91cc"],s,s),"kindergarten",A.a(["pos","n.","chinese","\u5e7c\u7a1a\u5712"],s,s),"kingdom",A.a(["pos","n.","chinese","\u738b\u570b"],s,s),"kit",A.a(["pos","n.","chinese","\u6210\u5957\u5de5\u5177"],s,s),"knight",A.a(["pos","n.","chinese","\u9a0e\u58eb"],s,s),"knit",A.a(["pos","v./n.","chinese","\u91dd\u7e54"],s,s),"knot",A.a(["pos","n./v.","chinese","\u7d50"],s,s),"koala",A.a(["pos","n.","chinese","\u7121\u5c3e\u718a"],s,s),"label",A.a(["pos","n./v.","chinese","\u6a19\u7c64"],s,s),"lace",A.a(["pos","n./v.","chinese","\u857e\u7d72"],s,s),"ladder",A.a(["pos","n.","chinese","\u68af\u5b50"],s,s),"lately",A.a(["pos","adv.","chinese","\u6700\u8fd1"],s,s),"laughter",A.a(["pos","n.","chinese","\u7b11\u8072"],s,s),"laundry",A.a(["pos","n.","chinese","\u6d17\u8863\u5e97"],s,s),"lawn",A.a(["pos","n.","chinese","\u8349\u5730"],s,s),"leak",A.a(["pos","n./v.","chinese","\u6d29\u6f0f"],s,s),"leap",A.a(["pos","n./v.","chinese","\u98db\u8e8d"],s,s),"learning",A.a(["pos","n.","chinese","\u5b78\u7fd2"],s,s),"leather",A.a(["pos","n.","chinese","\u76ae\u9769"],s,s),"leisure",A.a(["pos","n.","chinese","\u9592\u6687"],s,s),"lemonade",A.a(["pos","n.","chinese","\u6ab8\u6aac\u6c34"],s,s),"leopard",A.a(["pos","n.","chinese","\u8c79"],s,s),"lettuce",A.a(["pos","n.","chinese","\u8435\u82e3"],s,s),"liberty",A.a(["pos","n.","chinese","\u81ea\u7531"],s,s),"lick",A.a(["pos","v./n.","chinese","\u8214"],s,s),"lifetime",A.a(["pos","n.","chinese","\u58fd\u547d"],s,s),"lighthouse",A.a(["pos","n.","chinese","\u71c8\u5854"],s,s),"lightning",A.a(["pos","n.","chinese","\u9583\u96fb"],s,s),"lily",A.a(["pos","n.","chinese","\u767e\u5408"],s,s),"limb",A.a(["pos","n.","chinese","\u80a2\u9ad4"],s,s),"litter",A.a(["pos","n./v.","chinese","\u5783\u573e"],s,s),"lively",A.a(["pos","adj.","chinese","\u6d3b\u6f51"],s,s),"loaf",A.a(["pos","n.","chinese","\u9eb5\u5305"],s,s),"lobby",A.a(["pos","n.","chinese","\u5927\u5802"],s,s),"locate",A.a(["pos","v.","chinese","\u5b9a\u4f4d"],s,s),"location",A.a(["pos","n.","chinese","\u5730\u9ede"],s,s),"lock",A.a(["pos","n./v.","chinese","\u9396"],s,s),"log",A.a(["pos","n./v.","chinese","\u7d00\u9304"],s,s),"lollipop",A.a(["pos","n.","chinese","\u68d2\u7cd6"],s,s),"loose",A.a(["pos","adj.","chinese","\u9b06\u52d5\u7684"],s,s),"lord",A.a(["pos","n.","chinese","\u4e3b"],s,s),"loser",A.a(["pos","n.","chinese","\u5931\u6557\u8005"],s,s),"lover",A.a(["pos","n.","chinese","\u60c5\u4eba"],s,s),"luggage",A.a(["pos","n.","chinese","\u884c\u674e"],s,s),"lung",A.a(["pos","n.","chinese","\u80ba"],s,s),"magical",A.a(["pos","adj.","chinese","\u795e\u5947"],s,s),"magician",A.a(["pos","n.","chinese","\u9b54\u8853\u5e2b"],s,s),"magnet",A.a(["pos","n.","chinese","\u78c1\u9435"],s,s),"maid",A.a(["pos","n.","chinese","\u5973\u50ad"],s,s),"majority",A.a(["pos","n.","chinese","\u591a\u6578"],s,s),"mall",A.a(["pos","n.","chinese","\u8cfc\u7269\u4e2d\u5fc3"],s,s),"mankind/humankind",A.a(["pos","n.","chinese","\u4eba\u985e/\u4eba\u985e"],s,s),"marble",A.a(["pos","n.","chinese","\u5927\u7406\u77f3"],s,s),"march",A.a(["pos","n./v.","chinese","\u884c\u9032"],s,s),"marker",A.a(["pos","n.","chinese","\u6a19\u8a18"],s,s),"marvelous",A.a(["pos","adj.","chinese","\u5947\u5999"],s,s),"mathematical",A.a(["pos","adj.","chinese","\u6578\u5b78\u7684"],s,s),"mayor",A.a(["pos","n.","chinese","\u5e02\u9577"],s,s),"meadow",A.a(["pos","n.","chinese","\u8349\u5730"],s,s),"napkin",A.a(["pos","n.","chinese","\u9910\u5dfe"],s,s),"meaningful",A.a(["pos","adj.","chinese","\u6709\u610f\u7fa9\u7684"],s,s),"meanwhile",A.a(["pos","n./adv.","chinese","\u540c\u6642"],s,s),"medal",A.a(["pos","n.","chinese","\u52f3\u7ae0"],s,s),"medium/media",A.a(["pos","n.","chinese","\u5a92\u9ad4/\u5a92\u9ad4"],s,s),"melon",A.a(["pos","n.","chinese","\u74dc"],s,s),"melt",A.a(["pos","v.","chinese","\u878d\u5316"],s,s),"mend",A.a(["pos","v.","chinese","\u4fee\u88dc"],s,s),"mental",A.a(["pos","adj.","chinese","\u7cbe\u795e\u7684"],s,s),"merry",A.a(["pos","adj.","chinese","\u5feb\u6a02\u7684"],s,s),"mess",A.a(["pos","n./v.","chinese","\u6df7\u4e82"],s,s),"microphone/mike",A.a(["pos","n.","chinese","\u9ea5\u514b\u98a8/\u9ea5\u514b\u98a8"],s,s),"microwave",A.a(["pos","n./v.","chinese","\u5fae\u6ce2"],s,s),"mighty",A.a(["pos","adj.","chinese","\u5f37\u5927\u7684"],s,s),"minus",A.a(["pos","prep./n./adj.","chinese","\u6e1b"],s,s),"miracle",A.a(["pos","n.","chinese","\u5947\u8e5f"],s,s),"misery",A.a(["pos","n.","chinese","\u82e6\u96e3"],s,s),"missile",A.a(["pos","n.","chinese","\u98db\u5f48"],s,s),"missing",A.a(["pos","adj.","chinese","\u907a\u5931\u7684"],s,s),"mission",A.a(["pos","n.","chinese","\u4f7f\u547d"],s,s),"mist",A.a(["pos","n./v.","chinese","\u8584\u9727"],s,s),"mob",A.a(["pos","n./v.","chinese","\u66b4\u6c11"],s,s),"mobile",A.a(["pos","adj.","chinese","\u79fb\u52d5\u7684"],s,s),"moist",A.a(["pos","adj.","chinese","\u6fd5"],s,s),"moisture",A.a(["pos","n.","chinese","\u6c34\u5206"],s,s),"monk",A.a(["pos","n.","chinese","\u50e7\u4fb6"],s,s),"monster",A.a(["pos","n.","chinese","\u602a\u7269"],s,s),"monthly",A.a(["pos","adj./adv./n.","chinese","\u6bcf\u6708"],s,s),"moral",A.a(["pos","adj./n.","chinese","\u9053\u5fb7"],s,s),"mosquito",A.a(["pos","n.","chinese","\u868a\u5b50"],s,s),"mostly",A.a(["pos","adv.","chinese","\u5927\u591a"],s,s),"motel",A.a(["pos","n.","chinese","\u6c7d\u8eca\u65c5\u9928"],s,s),"moth",A.a(["pos","n.","chinese","\u86fe"],s,s),"motor",A.a(["pos","n.","chinese","\u5f15\u64ce"],s,s),"multiply",A.a(["pos","v.","chinese","\u4e58"],s,s),"murder",A.a(["pos","n./v.","chinese","\u8b00\u6bba"],s,s),"muscle",A.a(["pos","n.","chinese","\u808c\u8089"],s,s),"mushroom",A.a(["pos","n./v.","chinese","\u83c7"],s,s),"mystery",A.a(["pos","n.","chinese","\u795e\u79d8"],s,s),"naked",A.a(["pos","adj.","chinese","\u88f8"],s,s),"nap",A.a(["pos","n./v.","chinese","\u5c0f\u61a9"],s,s),"native",A.a(["pos","adj./n.","chinese","\u672c\u570b\u7684"],s,s),"navy",A.a(["pos","n.","chinese","\u6d77\u8ecd"],s,s),"neat",A.a(["pos","adj.","chinese","\u6574\u6f54\u7684"],s,s),"necessity",A.a(["pos","n.","chinese","\u5fc5\u8981\u6027"],s,s),"necktie",A.a(["pos","n.","chinese","\u9818\u5e36"],s,s),"neighborhood",A.a(["pos","n.","chinese","\u9130\u88e1"],s,s),"nest",A.a(["pos","n./v.","chinese","\u5de2"],s,s),"nickname",A.a(["pos","n./v.","chinese","\u66b1\u7a31"],s,s),"normal",A.a(["pos","adj.","chinese","\u666e\u901a\u7684"],s,s),"novelist",A.a(["pos","n.","chinese","\u5c0f\u8aaa\u5bb6"],s,s),"nun",A.a(["pos","n.","chinese","\u5c3c\u59d1"],s,s),"oak",A.a(["pos","n.","chinese","\u6a61\u6728"],s,s),"observe",A.a(["pos","v.","chinese","\u89c0\u5bdf"],s,s),"occasion",A.a(["pos","n.","chinese","\u5834\u5408"],s,s),"odd",A.a(["pos","adj.","chinese","\u5947\u602a\u7684"],s,s),"omit",A.a(["pos","v.","chinese","\u5ffd\u7565"],s,s),"ongoing",A.a(["pos","adj.","chinese","\u6b63\u5728\u9032\u884c\u7684"],s,s),"onion",A.a(["pos","n.","chinese","\u6d0b\u8525"],s,s),"onto",A.a(["pos","prep.","chinese","\u5230"],s,s),"operation",A.a(["pos","n.","chinese","\u624b\u8853"],s,s),"opportunity",A.a(["pos","n.","chinese","\u6a5f\u6703"],s,s),"opposite",A.a(["pos","adj./n./prep./adv.","chinese","\u5c0d\u9762\u7684"],s,s),"optimistic",A.a(["pos","adj.","chinese","\u6a02\u89c0\u7684"],s,s),"oral",A.a(["pos","adj./n.","chinese","\u53e3\u670d"],s,s),"organic",A.a(["pos","adj.","chinese","\u6709\u6a5f\u7684"],s,s),"organize",A.a(["pos","v.","chinese","\u7d44\u7e54"],s,s),"original",A.a(["pos","adj./n.","chinese","\u539f\u4f86\u7684"],s,s),"outdoor",A.a(["pos","adj.","chinese","\u6236\u5916\u7684"],s,s),"outdoors",A.a(["pos","adv.","chinese","\u6236\u5916"],s,s),"outer",A.a(["pos","adj.","chinese","\u5916"],s,s),"outline",A.a(["pos","n./v.","chinese","\u5927\u7db1"],s,s),"oven",A.a(["pos","n.","chinese","\u70e4\u7bb1"],s,s),"overseas",A.a(["pos","adv./adj.","chinese","\u6d77\u5916"],s,s),"owe",A.a(["pos","v.","chinese","\u6b20"],s,s),"owl",A.a(["pos","n.","chinese","\u8c93\u982d\u9df9"],s,s),"ownership",A.a(["pos","n.","chinese","\u6240\u6709\u6b0a"],s,s),"ox",A.a(["pos","n.","chinese","\u725b"],s,s),"pad",A.a(["pos","n./v.","chinese","\u8edf\u588a"],s,s),"painter",A.a(["pos","n.","chinese","\u756b\u5bb6"],s,s),"pal",A.a(["pos","n.","chinese","\u670b\u53cb"],s,s),"palace",A.a(["pos","n.","chinese","\u5bae"],s,s),"palm",A.a(["pos","n.","chinese","\u68d5\u6ada"],s,s),"pancake",A.a(["pos","n.","chinese","\u9905\u5b50"],s,s),"panic",A.a(["pos","n./v.","chinese","\u6050\u614c"],s,s),"parade",A.a(["pos","n./v.","chinese","\u904a\u884c"],s,s),"paradise",A.a(["pos","n.","chinese","\u5929\u5802"],s,s),"parcel",A.a(["pos","n./v.","chinese","\u5305\u88f9"],s,s),"parrot",A.a(["pos","n./v.","chinese","\u9e1a\u9d61"],s,s),"passage",A.a(["pos","n.","chinese","\u983b\u9053"],s,s),"passenger",A.a(["pos","n.","chinese","\u4e58\u5ba2"],s,s),"passion",A.a(["pos","n.","chinese","\u71b1\u60c5"],s,s),"passport",A.a(["pos","n.","chinese","\u8b77\u7167"],s,s),"pat",A.a(["pos","v./n.","chinese","\u62cd"],s,s),"patience",A.a(["pos","n.","chinese","\u8010\u5fc3"],s,s),"pause",A.a(["pos","n./v.","chinese","\u66ab\u505c"],s,s),"pave(ment)",A.a(["pos","v./(n.)","chinese","\u8def\u9762"],s,s),"pea",A.a(["pos","n.","chinese","\u8c4c\u8c46"],s,s),"peanut",A.a(["pos","n.","chinese","\u82b1\u751f"],s,s),"pearl",A.a(["pos","n.","chinese","\u73cd\u73e0"],s,s),"peel",A.a(["pos","v./n.","chinese","\u525d"],s,s),"penguin",A.a(["pos","n.","chinese","\u4f01\u9d5d"],s,s),"penny",A.a(["pos","n.","chinese","\u4e00\u5206\u9322"],s,s),"pepper",A.a(["pos","n.","chinese","\u80e1\u6912"],s,s),"perform",A.a(["pos","v.","chinese","\u57f7\u884c"],s,s),"performance",A.a(["pos","n.","chinese","\u8868\u73fe"],s,s),"permission",A.a(["pos","n.","chinese","\u5141\u8a31"],s,s),"permit",A.a(["pos","v./n.","chinese","\u5141\u8a31"],s,s),"persuade",A.a(["pos","v.","chinese","\u8aaa\u670d"],s,s),"photographer",A.a(["pos","n.","chinese","\u651d\u5f71\u5e2b"],s,s),"pigeon",A.a(["pos","n.","chinese","\u9d3f\u5b50"],s,s),"pile",A.a(["pos","n./v.","chinese","\u6a01"],s,s),"pill",A.a(["pos","n.","chinese","\u4e38"],s,s),"pilot",A.a(["pos","n./v.","chinese","\u98db\u884c\u54e1"],s,s),"pine",A.a(["pos","n.","chinese","\u677e\u6a39"],s,s),"pineapple",A.a(["pos","n.","chinese","\u9cf3\u68a8"],s,s),"pint",A.a(["pos","n.","chinese","\u54c1\u812b"],s,s),"pit",A.a(["pos","n.","chinese","\u5751"],s,s),"pitch",A.a(["pos","n./v.","chinese","\u701d\u9752"],s,s),"pity",A.a(["pos","n./v.","chinese","\u907a\u61be"],s,s),"plastic",A.a(["pos","n./adj.","chinese","\u5851\u81a0"],s,s),"playful",A.a(["pos","adj.","chinese","\u4fcf\u76ae\u7684"],s,s),"plenty",A.a(["pos","pron./n./adv.","chinese","\u8db3\u5920"],s,s),"plug",A.a(["pos","n./v.","chinese","\u63d2\u982d"],s,s),"pole",A.a(["pos","n.","chinese","\u6975"],s,s),"political",A.a(["pos","adj.","chinese","\u653f\u6cbb\u7684"],s,s),"politician",A.a(["pos","n.","chinese","\u653f\u6cbb\u5bb6"],s,s),"politics",A.a(["pos","n.","chinese","\u653f\u6cbb"],s,s),"poll",A.a(["pos","n./v.","chinese","\u8f2a\u8a62"],s,s),"pollute",A.a(["pos","v.","chinese","\u6c61\u67d3"],s,s),"pollution",A.a(["pos","n.","chinese","\u6c61\u67d3"],s,s),"porcelain",A.a(["pos","n.","chinese","\u74f7"],s,s),"portion",A.a(["pos","n./v.","chinese","\u90e8\u5206"],s,s),"portrait",A.a(["pos","n.","chinese","\u8096\u50cf"],s,s),"poster",A.a(["pos","n.","chinese","\u6d77\u5831"],s,s),"postpone(ment)",A.a(["pos","v./(n.)","chinese","\u5ef6\u5f8c\uff08\u5ef6\u671f\uff09"],s,s),"pottery",A.a(["pos","n.","chinese","\u9676\u5668"],s,s),"pour",A.a(["pos","v.","chinese","\u5012"],s,s),"poverty",A.a(["pos","n.","chinese","\u8ca7\u7aae"],s,s),"powder",A.a(["pos","n./v.","chinese","\u7c89\u672b"],s,s),"practical",A.a(["pos","adj.","chinese","\u5be6\u969b\u7684"],s,s),"precious",A.a(["pos","adj.","chinese","\u5bf6\u8cb4\u7684"],s,s),"preparation",A.a(["pos","n.","chinese","\u6e96\u5099"],s,s),"presence",A.a(["pos","n.","chinese","\u5728\u5834"],s,s),"pretend",A.a(["pos","v.","chinese","\u5047\u88dd"],s,s),"prevent",A.a(["pos","v.","chinese","\u9632\u6b62"],s,s),"previous",A.a(["pos","adj.","chinese","\u4ee5\u524d\u7684"],s,s),"probable",A.a(["pos","adj.","chinese","\u53ef\u80fd"],s,s),"process",A.a(["pos","n./v.","chinese","\u904e\u7a0b"],s,s),"producer",A.a(["pos","n.","chinese","\u88fd\u7247\u4eba"],s,s),"product",A.a(["pos","n.","chinese","\u7522\u54c1"],s,s),"professor",A.a(["pos","n.","chinese","\u6559\u6388"],s,s),"profit",A.a(["pos","n./v.","chinese","\u5229\u6f64"],s,s),"promote",A.a(["pos","v.","chinese","\u63a8\u52d5"],s,s),"pronounce",A.a(["pos","v.","chinese","\u767c\u97f3"],s,s),"proof",A.a(["pos","n.","chinese","\u8b49\u660e"],s,s),"property",A.a(["pos","n.","chinese","\u8ca1\u7522"],s,s),"protection",A.a(["pos","n.","chinese","\u4fdd\u8b77"],s,s),"pub",A.a(["pos","n.","chinese","\u9152\u5427"],s,s),"pump",A.a(["pos","n./v.","chinese","\u6cf5\u6d66"],s,s),"punch",A.a(["pos","n./v.","chinese","\u6c96\u5e8a"],s,s),"puppet",A.a(["pos","n.","chinese","\u6728\u5076"],s,s),"pure",A.a(["pos","adj.","chinese","\u7d14\u7684"],s,s),"purse",A.a(["pos","n.","chinese","\u9322\u5305"],s,s),"queer",A.a(["pos","adj.","chinese","\u9177\u5152"],s,s),"quit",A.a(["pos","v.","chinese","\u8fad\u8077"],s,s),"quote",A.a(["pos","v./n.","chinese","\u5f15\u7528"],s,s),"racial",A.a(["pos","adj.","chinese","\u7a2e\u65cf"],s,s),"rag",A.a(["pos","n.","chinese","\u62b9\u5e03"],s,s),"rank",A.a(["pos","n./v.","chinese","\u79e9"],s,s),"rate",A.a(["pos","n./v.","chinese","\u901f\u5ea6"],s,s),"raw",A.a(["pos","adj.","chinese","\u751f\u7684"],s,s),"ray",A.a(["pos","n.","chinese","\u5c04\u7dda"],s,s),"razor",A.a(["pos","n.","chinese","\u522e\u9b0d\u5200"],s,s),"react",A.a(["pos","v.","chinese","\u53cd\u61c9"],s,s),"reaction",A.a(["pos","n.","chinese","\u53cd\u61c9"],s,s),"reasonable",A.a(["pos","adj.","chinese","\u5408\u7406\u7684"],s,s),"receipt",A.a(["pos","n.","chinese","\u6536\u64da"],s,s),"receiver",A.a(["pos","n.","chinese","\u63a5\u6536\u8005"],s,s),"recognize",A.a(["pos","v.","chinese","\u8a8d\u51fa"],s,s),"recorder",A.a(["pos","n.","chinese","\u9304\u97f3\u6a5f"],s,s),"rectangle",A.a(["pos","n.","chinese","\u9577\u65b9\u5f62"],s,s),"reduce",A.a(["pos","v.","chinese","\u6e1b\u5c11"],s,s),"regional",A.a(["pos","adj.","chinese","\u5340\u57df\u6027\u7684"],s,s),"regret",A.a(["pos","v./n.","chinese","\u5f8c\u6094"],s,s),"relax",A.a(["pos","v.","chinese","\u653e\u9b06"],s,s),"release",A.a(["pos","n./v.","chinese","\u767c\u5e03"],s,s),"reliable",A.a(["pos","adj.","chinese","\u53ef\u9760\u7684"],s,s),"relief",A.a(["pos","n.","chinese","\u5bec\u6170"],s,s),"religious",A.a(["pos","adj.","chinese","\u5b97\u6559\u7684"],s,s),"rely",A.a(["pos","v.","chinese","\u4f9d\u9760"],s,s),"remain",A.a(["pos","v.","chinese","\u4fdd\u6301"],s,s),"remind",A.a(["pos","v.","chinese","\u63d0\u9192"],s,s),"remote",A.a(["pos","adj.","chinese","\u504f\u50fb\u7684"],s,s),"replace(ment)",A.a(["pos","v./(n.)","chinese","\u66ff\u4ee3\u54c1\uff09"],s,s),"represent",A.a(["pos","v.","chinese","\u4ee3\u8868"],s,s),"representative",A.a(["pos","adj./n.","chinese","\u4ee3\u8868"],s,s),"republic",A.a(["pos","n.","chinese","\u5171\u548c\u570b"],s,s),"request",A.a(["pos","n./v.","chinese","\u8981\u6c42"],s,s),"reserve",A.a(["pos","n./v.","chinese","\u9810\u8a02"],s,s),"resist",A.a(["pos","v.","chinese","\u62b5\u6297"],s,s),"resource",A.a(["pos","n.","chinese","\u8cc7\u6e90"],s,s),"response",A.a(["pos","n.","chinese","\u56de\u8986"],s,s),"responsibility",A.a(["pos","n.","chinese","\u8cac\u4efb"],s,s),"restrict",A.a(["pos","v.","chinese","\u9650\u5236"],s,s),"reveal",A.a(["pos","v.","chinese","\u63ed\u793a"],s,s),"ribbon",A.a(["pos","n.","chinese","\u7d72\u5e36"],s,s),"rid",A.a(["pos","adj./v.","chinese","\u64fa\u812b"],s,s),"ripe",A.a(["pos","adj.","chinese","\u6210\u719f"],s,s),"risk",A.a(["pos","n./v.","chinese","\u98a8\u96aa"],s,s),"roar",A.a(["pos","n./v.","chinese","\u543c"],s,s),"roast",A.a(["pos","adj./n./v.","chinese","\u70e4"],s,s),"rob",A.a(["pos","v.","chinese","\u6436"],s,s),"robbery",A.a(["pos","n.","chinese","\u6436\u52ab"],s,s),"robe",A.a(["pos","n.","chinese","\u9577\u888d"],s,s),"rocket",A.a(["pos","n.","chinese","\u706b\u7bad"],s,s),"romantic",A.a(["pos","adj./n.","chinese","\u6d6a\u6f2b\u7684"],s,s),"rot",A.a(["pos","v./n.","chinese","\u8150\u721b"],s,s),"rotten",A.a(["pos","adj.","chinese","\u721b"],s,s),"rough",A.a(["pos","adj./adv./n.","chinese","\u7c97\u7cd9\u7684"],s,s),"roughly",A.a(["pos","adv.","chinese","\u5927\u81f4"],s,s),"routine",A.a(["pos","n./adj.","chinese","\u5e38\u898f"],s,s),"rug",A.a(["pos","n.","chinese","\u5c0f\u5730\u6bef"],s,s),"rumor",A.a(["pos","n./v.","chinese","\u8b20\u8a00"],s,s),"rush",A.a(["pos","n./v.","chinese","\u5306\u5fd9"],s,s),"rust",A.a(["pos","n./v.","chinese","\u93fd"],s,s),"sack",A.a(["pos","n.","chinese","\u89e3\u50f1"],s,s),"sake",A.a(["pos","n.","chinese","\u6e05\u9152"],s,s),"salary",A.a(["pos","n.","chinese","\u85aa\u6c34"],s,s),"satisfactory",A.a(["pos","adj.","chinese","\u6eff\u610f\u7684"],s,s),"sauce",A.a(["pos","n.","chinese","\u91ac"],s,s),"saucer",A.a(["pos","n.","chinese","\u789f\u5b50"],s,s),"sausage",A.a(["pos","n.","chinese","\u9999\u8178"],s,s),"saving(s)",A.a(["pos","n.","chinese","\u7bc0\u7701"],s,s),"scale(s)",A.a(["pos","n.","chinese","\u79e4\uff09"],s,s),"scarce",A.a(["pos","adj.","chinese","\u7a00\u7f3a"],s,s),"scarf",A.a(["pos","n.","chinese","\u570d\u5dfe"],s,s),"scary",A.a(["pos","adj.","chinese","\u53ef\u6015\u7684"],s,s),"scatter",A.a(["pos","v./n.","chinese","\u5206\u6563"],s,s),"scholar",A.a(["pos","n.","chinese","\u5b78\u8005"],s,s),"scholarship",A.a(["pos","n.","chinese","\u734e\u5b78\u91d1"],s,s),"scientific",A.a(["pos","adj.","chinese","\u79d1\u5b78\u7684"],s,s),"scientist",A.a(["pos","n.","chinese","\u79d1\u5b78\u5bb6"],s,s),"scissors",A.a(["pos","n.","chinese","\u526a\u5200"],s,s),"scout",A.a(["pos","n./v.","chinese","\u5075\u5bdf"],s,s),"scream",A.a(["pos","v./n.","chinese","\u5c16\u53eb"],s,s),"screw",A.a(["pos","v./n.","chinese","\u64f0\u7dca"],s,s),"scrub",A.a(["pos","n./v.","chinese","\u64e6\u6d17"],s,s),"seal",A.a(["pos","n./v.","chinese","\u6d77\u8c79"],s,s),"security",A.a(["pos","n.","chinese","\u5b89\u5168"],s,s),"semester",A.a(["pos","n.","chinese","\u5b78\u671f"],s,s),"senior",A.a(["pos","adj./n.","chinese","\u9032\u968e\u7684"],s,s),"sensible",A.a(["pos","adj.","chinese","\u660e\u667a\u7684"],s,s),"separation",A.a(["pos","n.","chinese","\u5206\u96e2"],s,s),"sexual",A.a(["pos","adj.","chinese","\u6027\u7684"],s,s),"sexy",A.a(["pos","adj.","chinese","\u6027\u611f\u7684"],s,s),"shadow",A.a(["pos","n./v.","chinese","\u9670\u5f71"],s,s),"shallow",A.a(["pos","adj.","chinese","\u6dfa\u7684"],s,s),"shampoo",A.a(["pos","n./v.","chinese","\u6d17\u9aee\u7cbe"],s,s),"shepherd",A.a(["pos","n.","chinese","\u7267\u7f8a\u4eba"],s,s),"shiny",A.a(["pos","adj.","chinese","\u9583\u4eae\u7684"],s,s),"shorten",A.a(["pos","v.","chinese","\u7e2e\u77ed"],s,s),"shortly",A.a(["pos","adv.","chinese","\u4e0d\u4e45"],s,s),"shovel",A.a(["pos","n./v.","chinese","\u93df"],s,s),"shrimp",A.a(["pos","n.","chinese","\u8766"],s,s),"shrink",A.a(["pos","v.","chinese","\u6536\u7e2e"],s,s),"sigh",A.a(["pos","n./v.","chinese","\u5606"],s,s),"signal",A.a(["pos","n./v.","chinese","\u8a0a\u865f"],s,s),"significant",A.a(["pos","adj.","chinese","\u91cd\u8981\u7684"],s,s),"silk",A.a(["pos","n.","chinese","\u7d72\u7da2"],s,s),"similarity",A.a(["pos","n.","chinese","\u76f8\u4f3c"],s,s),"sin",A.a(["pos","n./v.","chinese","\u7f6a"],s,s),"sincere",A.a(["pos","adj.","chinese","\u771f\u8aa0"],s,s),"sink",A.a(["pos","n./v.","chinese","\u4e0b\u6c89"],s,s),"sip",A.a(["pos","v./n.","chinese","\u555c"],s,s),"situation",A.a(["pos","n.","chinese","\u60c5\u6cc1"],s,s),"skate",A.a(["pos","v./n.","chinese","\u6ed1\u51b0"],s,s),"ski",A.a(["pos","n./v.","chinese","\u6ed1\u96ea"],s,s),"skillful",A.a(["pos","adj.","chinese","\u719f\u7df4"],s,s),"skinny",A.a(["pos","adj.","chinese","\u7626\u9aa8\u5d99\u5ccb\u7684"],s,s),"skip",A.a(["pos","v./n.","chinese","\u8df3\u904e"],s,s),"slave",A.a(["pos","n./v.","chinese","\u5974\u96b8"],s,s),"sleeve",A.a(["pos","n.","chinese","\u8896\u5b50"],s,s),"slender",A.a(["pos","adj.","chinese","\u7d30\u9577\u7684"],s,s),"slice",A.a(["pos","n./v.","chinese","\u7247"],s,s),"slippery",A.a(["pos","adj.","chinese","\u6ed1"],s,s),"slope",A.a(["pos","n.","chinese","\u5761"],s,s),"snap",A.a(["pos","v./n.","chinese","\u6298\u65b7"],s,s),"solid",A.a(["pos","adj.","chinese","\u5805\u786c\u7684"],s,s),"someday",A.a(["pos","adv.","chinese","\u6709\u4e00\u5929"],s,s),"somehow",A.a(["pos","adv.","chinese","\u4e0d\u77e5\u4f55\u6545"],s,s),"sometime",A.a(["pos","adv.","chinese","\u67d0\u500b\u6642\u5019"],s,s),"sorrow",A.a(["pos","n.","chinese","\u60b2\u54c0"],s,s),"spaghetti",A.a(["pos","n.","chinese","\u7fa9\u5927\u5229\u7d30\u9eb5\u689d"],s,s),"specific",A.a(["pos","adj.","chinese","\u5177\u9ad4\u7684"],s,s),"spice",A.a(["pos","n./v.","chinese","\u9999\u6599"],s,s),"spill",A.a(["pos","v./n.","chinese","\u7051"],s,s),"spin",A.a(["pos","n./v.","chinese","\u65cb\u8f49"],s,s),"spinach",A.a(["pos","n.","chinese","\u83e0\u83dc"],s,s),"spit",A.a(["pos","v./n.","chinese","\u5410"],s,s),"spite",A.a(["pos","n.","chinese","\u60e1\u610f"],s,s),"splash",A.a(["pos","n./v.","chinese","\u6ffa"],s,s),"spoil",A.a(["pos","v.","chinese","\u7834\u58de"],s,s),"spray",A.a(["pos","n./v.","chinese","\u5674"],s,s),"spy",A.a(["pos","n./v.","chinese","\u9593\u8adc"],s,s),"squeeze",A.a(["pos","v./n.","chinese","\u64e0"],s,s),"squirrel",A.a(["pos","n.","chinese","\u677e\u9f20"],s,s),"stable",A.a(["pos","adj.","chinese","\u7a69\u5b9a\u7684"],s,s),"stadium",A.a(["pos","n.","chinese","\u9ad4\u80b2\u5834"],s,s),"staff",A.a(["pos","n./v.","chinese","\u8077\u54e1"],s,s),"stale",A.a(["pos","adj.","chinese","\u9673\u820a"],s,s),"stare",A.a(["pos","v./n.","chinese","\u76ef"],s,s),"starve",A.a(["pos","v.","chinese","\u9913\u6b7b"],s,s),"statue",A.a(["pos","n.","chinese","\u96d5\u50cf"],s,s),"steady",A.a(["pos","adj./v./adv./n.","chinese","\u7a69\u5b9a\u7684"],s,s),"steal",A.a(["pos","v.","chinese","\u5077"],s,s),"steam",A.a(["pos","n./v.","chinese","\u84b8\u6c23"],s,s),"steep",A.a(["pos","adj.","chinese","\u9661"],s,s),"sticky",A.a(["pos","adj.","chinese","\u9ecf"],s,s),"stiff",A.a(["pos","adj.","chinese","\u50f5\u786c\u7684"],s,s),"sting",A.a(["pos","n./v.","chinese","\u523a"],s,s),"stir",A.a(["pos","v./n.","chinese","\u652a\u62cc"],s,s),"stitch",A.a(["pos","n./v.","chinese","\u7e2b"],s,s),"stomach",A.a(["pos","n.","chinese","\u80c3"],s,s),"stool",A.a(["pos","n.","chinese","\u51f3\u5b50"],s,s),"stormy",A.a(["pos","adj.","chinese","\u66b4\u98a8\u96e8\u7684"],s,s),"stove",A.a(["pos","n.","chinese","\u706b\u7210"],s,s),"strategy",A.a(["pos","n.","chinese","\u7b56\u7565"],s,s),"straw",A.a(["pos","n.","chinese","\u7a3b\u8349"],s,s),"strength",A.a(["pos","n.","chinese","\u529b\u91cf"],s,s),"strip",A.a(["pos","n./v.","chinese","\u689d"],s,s),"structure",A.a(["pos","n.","chinese","\u7d50\u69cb"],s,s),"stubborn",A.a(["pos","adj.","chinese","\u56fa\u57f7\u7684"],s,s),"studio",A.a(["pos","n.","chinese","\u5de5\u4f5c\u5ba4"],s,s),"stuff",A.a(["pos","n./v.","chinese","\u6771\u897f"],s,s),"substance",A.a(["pos","n.","chinese","\u7269\u8cea"],s,s),"subtract",A.a(["pos","v.","chinese","\u6e1b\u53bb"],s,s),"suburb",A.a(["pos","n.","chinese","\u5e02\u90ca"],s,s),"suck",A.a(["pos","v./n.","chinese","\u5438"],s,s),"suffer",A.a(["pos","v.","chinese","\u906d\u53d7"],s,s),"sufficient",A.a(["pos","adj.","chinese","\u5145\u8db3\u7684"],s,s),"suicide",A.a(["pos","n.","chinese","\u81ea\u6bba"],s,s),"sum",A.a(["pos","n./v.","chinese","\u548c"],s,s),"summary",A.a(["pos","n.","chinese","\u6982\u62ec"],s,s),"summit",A.a(["pos","n.","chinese","\u9996\u8166"],s,s),"superior",A.a(["pos","adj./n.","chinese","\u512a\u8d8a\u7684"],s,s),"surround",A.a(["pos","v.","chinese","\u74b0\u7e5e"],s,s),"survey",A.a(["pos","n./v.","chinese","\u6c11\u8abf"],s,s),"survivor",A.a(["pos","n.","chinese","\u5016\u5b58\u8005"],s,s),"suspect",A.a(["pos","v./n./adj.","chinese","\u61f7\u7591"],s,s),"suspicion",A.a(["pos","n.","chinese","\u61f7\u7591"],s,s),"swan",A.a(["pos","n.","chinese","\u5929\u9d5d"],s,s),"swear",A.a(["pos","v.","chinese","\u767c\u8a93"],s,s),"sweat",A.a(["pos","n./v.","chinese","\u6c57"],s,s),"swell",A.a(["pos","v./n.","chinese","\u8139"],s,s),"swift",A.a(["pos","adj.","chinese","\u8fc5\u901f"],s,s),"sword",A.a(["pos","n.","chinese","\u528d"],s,s),"tablet",A.a(["pos","n.","chinese","\u85e5\u7247"],s,s),"tag",A.a(["pos","n./v.","chinese","\u6a19\u7c64"],s,s),"tailor",A.a(["pos","n.","chinese","\u88c1\u7e2b"],s,s),"talent",A.a(["pos","n.","chinese","\u5929\u8ce6"],s,s),"talkative",A.a(["pos","adj.","chinese","\u5065\u8ac7\u7684"],s,s),"tame",A.a(["pos","adj./v.","chinese","\u99b4\u670d"],s,s),"tangerine",A.a(["pos","n.","chinese","\u67d1\u6a58"],s,s),"tank",A.a(["pos","n.","chinese","\u5766\u514b"],s,s),"tap",A.a(["pos","v./n.","chinese","\u8f15\u6572"],s,s),"tasty",A.a(["pos","adj.","chinese","\u53ef\u53e3"],s,s),"tease",A.a(["pos","v.","chinese","\u9017"],s,s),"technical",A.a(["pos","adj.","chinese","\u6280\u8853\u7684"],s,s),"technique",A.a(["pos","n.","chinese","\u79d1\u6280"],s,s),"teenage",A.a(["pos","adj.","chinese","\u9752\u5c11\u5e74"],s,s),"temper",A.a(["pos","n.","chinese","\u813e\u6c23"],s,s),"temporary",A.a(["pos","adj.","chinese","\u66ab\u6642\u7684"],s,s),"tend",A.a(["pos","v.","chinese","\u8da8\u5411"],s,s),"tender",A.a(["pos","adj.","chinese","\u6a19"],s,s),"tent",A.a(["pos","n.","chinese","\u5e33\u7bf7"],s,s),"terrific",A.a(["pos","adj.","chinese","\u4e86\u4e0d\u8d77"],s,s),"territory",A.a(["pos","n.","chinese","\u9818\u571f"],s,s),"thankful",A.a(["pos","adj.","chinese","\u611f\u6069\u7684"],s,s),"theory",A.a(["pos","n.","chinese","\u7406\u8ad6"],s,s),"thirst",A.a(["pos","n.","chinese","\u53e3\u6e34"],s,s),"thread",A.a(["pos","n./v.","chinese","\u7dda"],s,s),"threat",A.a(["pos","n.","chinese","\u5a01\u8105"],s,s),"threaten",A.a(["pos","v.","chinese","\u5a01\u8105"],s,s),"thumb",A.a(["pos","n./v.","chinese","\u5927\u62c7\u6307"],s,s),"tide",A.a(["pos","n.","chinese","\u6d6a\u6f6e"],s,s),"tight",A.a(["pos","adj./adv.","chinese","\u7dca\u7684"],s,s),"tighten",A.a(["pos","v.","chinese","\u7dca\u7e2e"],s,s),"timber",A.a(["pos","n.","chinese","\u6728\u6750"],s,s),"tobacco",A.a(["pos","n.","chinese","\u83f8\u8349"],s,s),"ton",A.a(["pos","n.","chinese","\u5678"],s,s),"toss",A.a(["pos","v./n.","chinese","\u6298\u9a30"],s,s),"tough",A.a(["pos","adj.","chinese","\u8271\u96e3\u7684"],s,s),"tourism",A.a(["pos","n.","chinese","\u65c5\u904a"],s,s),"tourist",A.a(["pos","n.","chinese","\u904a\u5ba2"],s,s),"tow",A.a(["pos","n./v.","chinese","\u62d6"],s,s),"tower",A.a(["pos","n.","chinese","\u5854"],s,s),"trace",A.a(["pos","n./v.","chinese","\u75d5\u8de1"],s,s),"trader",A.a(["pos","n.","chinese","\u5546\u4eba"],s,s),"trail",A.a(["pos","n./v.","chinese","\u8e64\u8de1"],s,s),"transport",A.a(["pos","n./v.","chinese","\u904b\u8f38"],s,s),"traveler",A.a(["pos","n.","chinese","\u904a\u5ba2"],s,s),"tray",A.a(["pos","n.","chinese","\u6258\u76e4"],s,s),"trend",A.a(["pos","n.","chinese","\u8da8\u52e2"],s,s),"tribe",A.a(["pos","n.","chinese","\u90e8\u843d"],s,s),"tricky",A.a(["pos","adj.","chinese","\u68d8\u624b\u7684"],s,s),"troop",A.a(["pos","n.","chinese","\u90e8\u968a"],s,s),"tropical",A.a(["pos","adj.","chinese","\u71b1\u5e36"],s,s),"trumpet",A.a(["pos","n.","chinese","\u5587\u53ed"],s,s),"trunk",A.a(["pos","n.","chinese","\u6a39\u5e79"],s,s),"truthful",A.a(["pos","adj.","chinese","\u771f\u5be6"],s,s),"tub",A.a(["pos","n.","chinese","\u6d74\u7f38"],s,s),"tug",A.a(["pos","n./v.","chinese","\u62d6\u8239"],s,s),"tune",A.a(["pos","n./v.","chinese","\u8abf"],s,s),"tunnel",A.a(["pos","n./v.","chinese","\u96a7\u9053"],s,s),"tutor",A.a(["pos","n./v.","chinese","\u5c0e\u5e2b"],s,s),"twin",A.a(["pos","n.","chinese","\u96d9\u80de\u80ce"],s,s),"twist",A.a(["pos","n./v.","chinese","\u637b"],s,s),"underlying",A.a(["pos","v.","chinese","\u6f5b\u5728\u7684"],s,s),"underwear",A.a(["pos","n.","chinese","\u5167\u8863"],s,s),"union",A.a(["pos","n.","chinese","\u806f\u76df"],s,s),"unique",A.a(["pos","adj./n.","chinese","\u7368\u7279\u7684"],s,s),"unite",A.a(["pos","v.","chinese","\u5718\u7d50"],s,s),"unity",A.a(["pos","n.","chinese","\u7d71\u4e00"],s,s),"urban",A.a(["pos","adj.","chinese","\u57ce\u5e02\u7684"],s,s),"vacant",A.a(["pos","adj.","chinese","\u7a7a\u7684"],s,s),"van",A.a(["pos","n.","chinese","\u8ca8\u8eca"],s,s),"vanish",A.a(["pos","v.","chinese","\u6d88\u5931"],s,s),"variety",A.a(["pos","n.","chinese","\u7a2e\u985e"],s,s),"various",A.a(["pos","adj.","chinese","\u5404\u7a2e\u5404\u6a23\u7684"],s,s),"vary",A.a(["pos","v.","chinese","\u5404\u4e0d\u76f8\u540c"],s,s),"vase",A.a(["pos","n.","chinese","\u82b1\u74f6"],s,s),"vehicle",A.a(["pos","n.","chinese","\u8eca\u8f1b"],s,s),"verse",A.a(["pos","n.","chinese","\u8a69"],s,s),"vest",A.a(["pos","n.","chinese","\u80cc\u5fc3"],s,s),"victim",A.a(["pos","n.","chinese","\u53d7\u5bb3\u8005"],s,s),"violence",A.a(["pos","n.","chinese","\u66b4\u529b"],s,s),"violent",A.a(["pos","adj.","chinese","\u66b4\u529b"],s,s),"violet",A.a(["pos","adj./n.","chinese","\u7d2b\u8272"],s,s),"visible",A.a(["pos","adj.","chinese","\u53ef\u898b\u7684"],s,s),"vision",A.a(["pos","n.","chinese","\u60f3\u50cf"],s,s),"vitamin",A.a(["pos","n.","chinese","\u7dad\u4ed6\u547d"],s,s),"vivid",A.a(["pos","adj.","chinese","\u751f\u52d5"],s,s),"vocabulary",A.a(["pos","n.","chinese","\u8a5e\u5f59"],s,s),"volleyball",A.a(["pos","n.","chinese","\u6392\u7403"],s,s),"volume",A.a(["pos","n.","chinese","\u9ad4\u7a4d"],s,s),"voter",A.a(["pos","n.","chinese","\u9078\u6c11"],s,s),"wage(s)",A.a(["pos","n.","chinese","\u5de5\u8cc7\uff09"],s,s),"wagon",A.a(["pos","n.","chinese","\u8eca\u76ae"],s,s),"wander",A.a(["pos","v./n.","chinese","\u6f2b\u6b65"],s,s),"warmth",A.a(["pos","n.","chinese","\u6eab\u6696"],s,s),"warn",A.a(["pos","v.","chinese","\u8b66\u544a"],s,s),"waterfall",A.a(["pos","n.","chinese","\u7011\u5e03"],s,s),"wax",A.a(["pos","n./v.","chinese","\u881f"],s,s),"weaken",A.a(["pos","v.","chinese","\u524a\u5f31"],s,s),"wealthy",A.a(["pos","adj.","chinese","\u5bcc\u88d5"],s,s),"weapon",A.a(["pos","n.","chinese","\u6b66\u5668"],s,s),"weave",A.a(["pos","v./n.","chinese","\u7de8\u7e54"],s,s),"web",A.a(["pos","n.","chinese","\u7db2\u8def"],s,s),"wed",A.a(["pos","v.","chinese","\u661f\u671f\u4e09"],s,s),"weed",A.a(["pos","n./v.","chinese","\u96dc\u8349"],s,s),"weekly",A.a(["pos","adj./adv./n.","chinese","\u6bcf\u9031"],s,s),"weep",A.a(["pos","v.","chinese","\u54ed\u6ce3"],s,s),"wheat",A.a(["pos","n.","chinese","\u5c0f\u9ea5"],s,s),"whip",A.a(["pos","n./v.","chinese","\u97ad\u5b50"],s,s),"whistle",A.a(["pos","n./v.","chinese","\u54e8"],s,s),"wicked",A.a(["pos","adj.","chinese","\u90aa\u60e1"],s,s),"widen",A.a(["pos","v.","chinese","\u64f4\u5927"],s,s),"wipe",A.a(["pos","v./n.","chinese","\u64e6\u62ed"],s,s),"wisdom",A.a(["pos","n.","chinese","\u667a\u6167"],s,s),"wrap",A.a(["pos","v./n.","chinese","\u88f9"],s,s),"wrist",A.a(["pos","n.","chinese","\u624b\u8155"],s,s),"yearly",A.a(["pos","adj./adv.","chinese","\u6bcf\u5e74"],s,s),"yell",A.a(["pos","v./n.","chinese","\u53eb\u558a"],s,s),"yolk",A.a(["pos","n.","chinese","\u86cb\u9ec3"],s,s),"youngster",A.a(["pos","n.","chinese","\u9752\u5c11\u5e74"],s,s),"zipper",A.a(["pos","n./v.","chinese","\u62c9\u934a"],s,s),"zone",A.a(["pos","n./v.","chinese","\u5340"],s,s),"abandon",A.a(["pos","v.","chinese","\u653e\u68c4"],s,s),"annoy",A.a(["pos","v.","chinese","\u60f9\u60f1"],s,s),"absolute",A.a(["pos","adj.","chinese","\u7d55\u5c0d"],s,s),"absorb",A.a(["pos","v.","chinese","\u5438\u6536"],s,s),"abstract",A.a(["pos","adj.","chinese","\u62bd\u8c61\u7684"],s,s),"academic",A.a(["pos","adj.","chinese","\u5b78\u8853\u7684"],s,s),"accent",A.a(["pos","n.","chinese","\u53e3\u97f3"],s,s),"acceptance",A.a(["pos","n.","chinese","\u9a57\u6536"],s,s),"access",A.a(["pos","n./v.","chinese","\u4f7f\u7528\u6b0a"],s,s),"accidental",A.a(["pos","adj.","chinese","\u5076\u7136"],s,s),"accompany",A.a(["pos","v.","chinese","\u966a\u4f34"],s,s),"accomplish(ment)",A.a(["pos","v./(n.)","chinese","\u6210\u5c31\uff09"],s,s),"accountant",A.a(["pos","n.","chinese","\u6703\u8a08"],s,s),"accuracy",A.a(["pos","n.","chinese","\u6e96\u78ba\u6027"],s,s),"accuse",A.a(["pos","v.","chinese","\u544a"],s,s),"acid",A.a(["pos","n./adj.","chinese","\u9178"],s,s),"acquaintance",A.a(["pos","n.","chinese","\u719f\u4eba"],s,s),"acquire",A.a(["pos","v.","chinese","\u7372\u5f97"],s,s),"adapt",A.a(["pos","v.","chinese","\u9069\u61c9"],s,s),"addict",A.a(["pos","n./v.","chinese","\u766e\u541b\u5b50"],s,s),"adequate",A.a(["pos","adj.","chinese","\u8db3\u5920\u7684"],s,s),"adjust(ment)",A.a(["pos","v./(n.)","chinese","\u8abf\u6574"],s,s),"admirable",A.a(["pos","adj.","chinese","\u4ee4\u4eba\u6b3d\u4f69\u7684"],s,s),"admiration",A.a(["pos","n.","chinese","\u6b3d\u4f69"],s,s),"admission",A.a(["pos","n.","chinese","\u5165\u5834"],s,s),"adopt",A.a(["pos","v.","chinese","\u63a1\u7d0d"],s,s),"agency",A.a(["pos","n.","chinese","\u6a5f\u69cb"],s,s),"agent",A.a(["pos","n.","chinese","\u4ee3\u7406\u4eba"],s,s),"aggressive",A.a(["pos","adj.","chinese","\u6311\u91c1\u7684"],s,s),"agreeable",A.a(["pos","adj.","chinese","\u5408\u9069\u7684"],s,s),"alcohol",A.a(["pos","n.","chinese","\u9152\u7cbe"],s,s),"alert",A.a(["pos","adj./v./n.","chinese","\u8b66\u5831"],s,s),"allowance",A.a(["pos","n.","chinese","\u6d25\u8cbc"],s,s),"alternative",A.a(["pos","adj./n.","chinese","\u9078\u64c7"],s,s),"amateur",A.a(["pos","adj./n.","chinese","\u696d\u9918"],s,s),"ambiguous",A.a(["pos","adj.","chinese","\u6a21\u7cca\u7684"],s,s),"ambitious",A.a(["pos","adj.","chinese","\u96c4\u5fc3\u52c3\u52c3\u7684"],s,s),"amuse(ment)",A.a(["pos","v./(n.)","chinese","\u5a1b\u6a02\uff09"],s,s),"analysis",A.a(["pos","n.","chinese","\u5206\u6790"],s,s),"analyze",A.a(["pos","v.","chinese","\u5206\u6790"],s,s),"ancestor",A.a(["pos","n.","chinese","\u7956\u5148"],s,s),"anniversary",A.a(["pos","n.","chinese","\u9031\u5e74\u7d00\u5ff5\u65e5"],s,s),"annual",A.a(["pos","adj.","chinese","\u5e74\u5ea6\u7684"],s,s),"anxiety",A.a(["pos","n.","chinese","\u7126\u616e"],s,s),"apology",A.a(["pos","n.","chinese","\u9053\u6b49"],s,s),"apparent",A.a(["pos","adj.","chinese","\u660e\u986f\u7684"],s,s),"applicant",A.a(["pos","n.","chinese","\u7533\u8acb\u4eba"],s,s),"application",A.a(["pos","n.","chinese","\u61c9\u7528"],s,s),"appoint(ment)",A.a(["pos","v./(n.)","chinese","\u9810\u7d04\uff09"],s,s),"appreciation",A.a(["pos","n.","chinese","\u6b23\u8cde"],s,s),"appropriate",A.a(["pos","adj.","chinese","\u5408\u9069\u7684"],s,s),"approval",A.a(["pos","n.","chinese","\u8d0a\u540c"],s,s),"aquarium",A.a(["pos","n.","chinese","\u6c34\u65cf\u9928"],s,s),"arch",A.a(["pos","n./v.","chinese","\u62f1"],s,s),"arise",A.a(["pos","v.","chinese","\u51fa\u73fe"],s,s),"arms",A.a(["pos","n.","chinese","\u6b66\u5668"],s,s),"artificial",A.a(["pos","adj.","chinese","\u4eba\u9020\u7684"],s,s),"artistic",A.a(["pos","adj.","chinese","\u85dd\u8853\u7684"],s,s),"ashamed",A.a(["pos","adj.","chinese","\u7f9e\u6127"],s,s),"aspect",A.a(["pos","n.","chinese","\u65b9\u9762"],s,s),"aspirin",A.a(["pos","n.","chinese","\u963f\u65af\u5339\u6797"],s,s),"assemble",A.a(["pos","v.","chinese","\u96c6\u5408"],s,s),"assembly",A.a(["pos","n.","chinese","\u96c6\u6703"],s,s),"assign(ment)",A.a(["pos","v./(n.)","chinese","\u4efb\u52d9\uff09"],s,s),"assistance",A.a(["pos","n.","chinese","\u5354\u52a9"],s,s),"associate",A.a(["pos","adj./n./v.","chinese","\u806f\u7e6b"],s,s),"association",A.a(["pos","n.","chinese","\u5354\u6703"],s,s),"assurance",A.a(["pos","n.","chinese","\u4fdd\u8b49"],s,s),"assure",A.a(["pos","v.","chinese","\u4fdd\u8b49"],s,s),"athletic",A.a(["pos","adj.","chinese","\u904b\u52d5\u7684"],s,s),"atmosphere",A.a(["pos","n.","chinese","\u6c23\u6c1b"],s,s),"atom",A.a(["pos","n.","chinese","\u539f\u5b50"],s,s),"atomic",A.a(["pos","adj.","chinese","\u539f\u5b50"],s,s),"attach(ment)",A.a(["pos","v./(n.)","chinese","\u4f9d\u6200"],s,s),"attraction",A.a(["pos","n.","chinese","\u666f\u9ede"],s,s),"audio",A.a(["pos","adj.","chinese","\u8072\u97f3\u7684"],s,s),"authentic",A.a(["pos","adj.","chinese","\u771f\u6b63\u7684"],s,s),"authority",A.a(["pos","n.","chinese","\u6b0a\u5a01"],s,s),"autobiography",A.a(["pos","n.","chinese","\u81ea\u50b3"],s,s),"autograph",A.a(["pos","n./v.","chinese","\u7c3d\u540d"],s,s),"await",A.a(["pos","v.","chinese","\u7b49\u5f85"],s,s),"bald",A.a(["pos","adj.","chinese","\u79bf"],s,s),"ballet",A.a(["pos","n.","chinese","\u82ad\u857e\u821e"],s,s),"bandage",A.a(["pos","n./v.","chinese","\u7e43\u5e36"],s,s),"bankrupt",A.a(["pos","adj./v./n.","chinese","\u7834\u7522"],s,s),"bargain",A.a(["pos","n./v.","chinese","\u4fbf\u5b9c\u8ca8"],s,s),"barrier",A.a(["pos","n.","chinese","\u969c\u7919"],s,s),"basin",A.a(["pos","n.","chinese","\u76c6\u5730"],s,s),"battery",A.a(["pos","n.","chinese","\u96fb\u6c60"],s,s),"beggar",A.a(["pos","n.","chinese","\u4e5e\u4e10"],s,s),"behavior",A.a(["pos","n.","chinese","\u884c\u70ba"],s,s),"bin",A.a(["pos","n.","chinese","\u5783\u573e\u6876"],s,s),"biography",A.a(["pos","n.","chinese","\u50b3"],s,s),"biology",A.a(["pos","n.","chinese","\u751f\u7269\u5b78"],s,s),"blade",A.a(["pos","n.","chinese","\u5200\u5203"],s,s),"blend",A.a(["pos","v./n.","chinese","\u6df7\u5408"],s,s),"blessing",A.a(["pos","n.","chinese","\u795d\u798f"],s,s),"blink",A.a(["pos","v./n.","chinese","\u7728"],s,s),"bloom",A.a(["pos","n./v.","chinese","\u76db\u958b"],s,s),"blossom",A.a(["pos","n./v.","chinese","\u958b\u82b1"],s,s),"boast",A.a(["pos","v./n.","chinese","\u8a87"],s,s),"bond",A.a(["pos","n./v.","chinese","\u7d10\u5e36"],s,s),"bounce",A.a(["pos","v./n.","chinese","\u5f48\u8df3"],s,s),"bracelet",A.a(["pos","n.","chinese","\u624b\u9432"],s,s),"breed",A.a(["pos","n./v.","chinese","\u54c1\u7a2e"],s,s),"bridegroom/groom",A.a(["pos","n.","chinese","\u65b0\u90ce/\u65b0\u90ce"],s,s),"broke",A.a(["pos","adj.","chinese","\u58de\u4e86"],s,s),"broom",A.a(["pos","n.","chinese","\u6383\u5e1a"],s,s),"brutal",A.a(["pos","adj.","chinese","\u91ce\u883b"],s,s),"bulletin",A.a(["pos","n.","chinese","\u516c\u544a"],s,s),"burglar",A.a(["pos","n.","chinese","\u7aca\u8cca"],s,s),"cabinet",A.a(["pos","n.","chinese","\u5167\u95a3"],s,s),"calculate",A.a(["pos","v.","chinese","\u8a08\u7b97"],s,s),"calculation",A.a(["pos","n.","chinese","\u8a08\u7b97"],s,s),"calorie",A.a(["pos","n.","chinese","\u5361\u8def\u91cc"],s,s),"campaign",A.a(["pos","n./v.","chinese","\u6d3b\u52d5"],s,s),"candidate",A.a(["pos","n.","chinese","\u5019\u9078\u4eba"],s,s),"cane",A.a(["pos","n.","chinese","\u7518\u8517"],s,s),"canoe",A.a(["pos","n./v.","chinese","\u7368\u6728\u821f"],s,s),"capacity",A.a(["pos","n.","chinese","\u5bb9\u91cf"],s,s),"capital(ism)",A.a(["pos","n.","chinese","\u8cc7\u672c\u4e3b\u7fa9\uff09"],s,s),"capitalist",A.a(["pos","n.","chinese","\u8cc7\u672c\u5bb6"],s,s),"cargo",A.a(["pos","n.","chinese","\u8ca8\u7269"],s,s),"carrier",A.a(["pos","n.","chinese","\u8f09\u9ad4"],s,s),"carve",A.a(["pos","v.","chinese","\u96d5\u523b"],s,s),"catalogue",A.a(["pos","n./v.","chinese","\u76ee\u9304"],s,s),"category",A.a(["pos","n.","chinese","\u985e\u5225"],s,s),"cease",A.a(["pos","v./n.","chinese","\u505c\u6b62"],s,s),"celebration",A.a(["pos","n.","chinese","\u6176\u5178"],s,s),"chamber",A.a(["pos","n.","chinese","\u5ba4"],s,s),"championship",A.a(["pos","n.","chinese","\u9326\u6a19\u8cfd"],s,s),"characteristic",A.a(["pos","n./adj.","chinese","\u7279\u5fb5"],s,s),"charity",A.a(["pos","n.","chinese","\u6148\u5584\u6a5f\u69cb"],s,s),"chemistry",A.a(["pos","n.","chinese","\u5316\u5b78"],s,s),"cherish",A.a(["pos","v.","chinese","\u73cd\u60dc"],s,s),"chew",A.a(["pos","v./n.","chinese","\u56bc"],s,s),"choke",A.a(["pos","v./n.","chinese","\u55c6"],s,s),"chorus",A.a(["pos","n.","chinese","\u5408\u5531"],s,s),"circular",A.a(["pos","adj.","chinese","\u5713"],s,s),"circulate",A.a(["pos","v.","chinese","\u6d41\u901a"],s,s),"circulation",A.a(["pos","n.","chinese","\u5faa\u74b0"],s,s),"circumstance",A.a(["pos","n.","chinese","\u74b0\u5883"],s,s),"civilian",A.a(["pos","adj./n.","chinese","\u5e73\u6c11"],s,s),"civilization",A.a(["pos","n.","chinese","\u6587\u660e"],s,s),"clarify",A.a(["pos","v.","chinese","\u95e1\u660e"],s,s),"clash",A.a(["pos","n./v.","chinese","\u885d\u7a81"],s,s),"classification",A.a(["pos","n.","chinese","\u5206\u985e"],s,s),"classify",A.a(["pos","v.","chinese","\u5206\u985e"],s,s),"claw",A.a(["pos","n./v.","chinese","\u722a"],s,s),"cliff",A.a(["pos","n.","chinese","\u61f8\u5d16"],s,s),"clumsy",A.a(["pos","adj.","chinese","\u7b28\u62d9"],s,s),"coarse",A.a(["pos","adj.","chinese","\u7c97"],s,s),"code",A.a(["pos","n./v.","chinese","\u7a0b\u5f0f\u78bc"],s,s),"collapse",A.a(["pos","n./v.","chinese","\u574d\u584c"],s,s),"colleague",A.a(["pos","n.","chinese","\u540c\u4e8b"],s,s),"combination",A.a(["pos","n.","chinese","\u7d44\u5408"],s,s),"comedy",A.a(["pos","n.","chinese","\u559c\u5287"],s,s),"commander",A.a(["pos","n.","chinese","\u6307\u63ee\u5b98"],s,s),"comment",A.a(["pos","n./v.","chinese","\u8a55\u8ad6"],s,s),"commerce",A.a(["pos","n.","chinese","\u5546\u696d"],s,s),"commit",A.a(["pos","v.","chinese","\u72af\u7f6a"],s,s),"communication",A.a(["pos","n.","chinese","\u6e9d\u901a"],s,s),"community",A.a(["pos","n.","chinese","\u793e\u7fa4"],s,s),"companion",A.a(["pos","n.","chinese","\u4f34\u4fb6"],s,s),"competition",A.a(["pos","n.","chinese","\u7af6\u8cfd"],s,s),"competitive",A.a(["pos","adj.","chinese","\u7af6\u722d\u7684"],s,s),"competitor",A.a(["pos","n.","chinese","\u7af6\u722d\u8005"],s,s),"complicate",A.a(["pos","v.","chinese","\u4f7f\u8907\u96dc\u5316"],s,s),"compose",A.a(["pos","v.","chinese","\u64b0\u5beb"],s,s),"composer",A.a(["pos","n.","chinese","\u4f5c\u66f2\u5bb6"],s,s),"composition",A.a(["pos","n.","chinese","\u4f5c\u54c1"],s,s),"concentrate",A.a(["pos","v.","chinese","\u96c6\u4e2d"],s,s),"concentration",A.a(["pos","n.","chinese","\u5c08\u6ce8"],s,s),"concept",A.a(["pos","n.","chinese","\u6982\u5ff5"],s,s),"concerning",A.a(["pos","prep.","chinese","\u95dc\u65bc"],s,s),"concrete",A.a(["pos","adj./n./v.","chinese","\u5177\u9ad4\u7684"],s,s),"conductor",A.a(["pos","n.","chinese","\u5c0e\u9ad4"],s,s),"conference",A.a(["pos","n.","chinese","\u6703\u8b70"],s,s),"confess",A.a(["pos","v.","chinese","\u627f\u8a8d"],s,s),"confidence",A.a(["pos","n.","chinese","\u4fe1\u5fc3"],s,s),"confusion",A.a(["pos","n.","chinese","\u932f\u4e82"],s,s),"congratulate",A.a(["pos","v.","chinese","\u606d\u559c"],s,s),"congress",A.a(["pos","n.","chinese","\u570b\u6703"],s,s),"conquer",A.a(["pos","v.","chinese","\u5f81\u670d"],s,s),"conscience",A.a(["pos","n.","chinese","\u826f\u5fc3"],s,s),"consequence",A.a(["pos","n.","chinese","\u7d50\u679c"],s,s),"consequent",A.a(["pos","adj.","chinese","\u7d50\u679c"],s,s),"conservative",A.a(["pos","adj./n.","chinese","\u4fdd\u5b88\u7684"],s,s),"consist",A.a(["pos","v.","chinese","\u7d44\u6210"],s,s),"consistent",A.a(["pos","adj.","chinese","\u6301\u7e8c\u7684"],s,s),"constitute",A.a(["pos","v.","chinese","\u69cb\u6210"],s,s),"constitution",A.a(["pos","n.","chinese","\u61b2\u6cd5"],s,s),"construct",A.a(["pos","v.","chinese","\u69cb\u9020"],s,s),"construction",A.a(["pos","n.","chinese","\u5efa\u9020"],s,s),"constructive",A.a(["pos","adj.","chinese","\u5efa\u8a2d\u6027\u7684"],s,s),"consult",A.a(["pos","v.","chinese","\u8aee\u8a62"],s,s),"consultant",A.a(["pos","n.","chinese","\u9867\u554f"],s,s),"consume",A.a(["pos","v.","chinese","\u6d88\u8017"],s,s),"consumer",A.a(["pos","n.","chinese","\u6d88\u8cbb\u8005"],s,s),"container",A.a(["pos","n.","chinese","\u5bb9\u5668"],s,s),"content",A.a(["pos","n./adj.","chinese","\u5167\u5bb9"],s,s),"content(ment)",A.a(["pos","v./(n.)","chinese","\u6eff\u610f\uff09"],s,s),"contest",A.a(["pos","n./v.","chinese","\u6bd4\u8cfd"],s,s),"context",A.a(["pos","n.","chinese","\u60c5\u5883"],s,s),"continual",A.a(["pos","adj.","chinese","\u9023\u7e8c\u7684"],s,s),"continuous",A.a(["pos","adj.","chinese","\u9023\u7e8c\u7684"],s,s),"contrary",A.a(["pos","n./adj.","chinese","\u76f8\u53cd"],s,s),"contrast",A.a(["pos","n./v.","chinese","\u5c0d\u6bd4"],s,s),"contribute",A.a(["pos","v.","chinese","\u8ca2\u737b"],s,s),"contribution",A.a(["pos","n.","chinese","\u8ca2\u737b"],s,s),"convenience",A.a(["pos","n.","chinese","\u65b9\u4fbf"],s,s),"convention",A.a(["pos","n.","chinese","\u7fd2\u4fd7"],s,s),"conventional",A.a(["pos","adj.","chinese","\u50b3\u7d71\u7684"],s,s),"converse",A.a(["pos","v.","chinese","\u4ea4\u8ac7"],s,s),"convey",A.a(["pos","v.","chinese","\u50b3\u9054"],s,s),"convince",A.a(["pos","v.","chinese","\u8aaa\u670d"],s,s),"cooperate",A.a(["pos","v.","chinese","\u5408\u4f5c"],s,s),"cooperation",A.a(["pos","n.","chinese","\u5408\u4f5c"],s,s),"cooperative",A.a(["pos","adj./n.","chinese","\u5408\u4f5c\u793e"],s,s),"cope",A.a(["pos","v.","chinese","\u61c9\u4ed8"],s,s),"copper",A.a(["pos","n./adj.","chinese","\u9285"],s,s),"cord",A.a(["pos","n.","chinese","\u7e69\u7d22"],s,s),"correspond",A.a(["pos","v.","chinese","\u5c0d\u61c9"],s,s),"costume",A.a(["pos","n.","chinese","\u6232\u670d"],s,s),"cottage",A.a(["pos","n.","chinese","\u5c0f\u5c4b"],s,s),"council",A.a(["pos","n.","chinese","\u7406\u4e8b\u6703"],s,s),"counter",A.a(["pos","n./v./adj./adv.","chinese","\u6ac3\u6aaf"],s,s),"courageous",A.a(["pos","adj.","chinese","\u52c7\u6562"],s,s),"courtesy",A.a(["pos","n.","chinese","\u79ae\u8c8c"],s,s),"coward",A.a(["pos","n.","chinese","\u61e6\u592b"],s,s),"crack",A.a(["pos","n./v.","chinese","\u88c2\u7e2b"],s,s),"craft",A.a(["pos","n.","chinese","\u5de5\u85dd"],s,s),"creation",A.a(["pos","n.","chinese","\u5275\u5efa"],s,s),"creativity",A.a(["pos","n.","chinese","\u5275\u9020\u529b"],s,s),"creep",A.a(["pos","v.","chinese","\u8815\u52d5"],s,s),"critic",A.a(["pos","n.","chinese","\u8a55\u8ad6\u5bb6"],s,s),"critical",A.a(["pos","adj.","chinese","\u6279\u5224\u7684"],s,s),"criticism",A.a(["pos","n.","chinese","\u6279\u8a55"],s,s),"criticize",A.a(["pos","v.","chinese","\u6279\u8a55"],s,s),"cruelty",A.a(["pos","n.","chinese","\u6b98\u9177"],s,s),"crunchy",A.a(["pos","adj.","chinese","\u8106\u8106\u7684"],s,s),"crush",A.a(["pos","n./v.","chinese","\u58d3\u788e"],s,s),"cube",A.a(["pos","n./v.","chinese","\u7acb\u65b9\u9ad4"],s,s),"cue",A.a(["pos","n./v.","chinese","\u63d0\u793a"],s,s),"cunning",A.a(["pos","adj./n.","chinese","\u72e1\u733e"],s,s),"curiosity",A.a(["pos","n.","chinese","\u597d\u5947\u5fc3"],s,s),"curl",A.a(["pos","n./v.","chinese","\u6372\u66f2"],s,s),"curse",A.a(["pos","n./v.","chinese","\u8a5b\u5492"],s,s),"curve",A.a(["pos","n./v.","chinese","\u66f2\u7dda"],s,s),"cushion",A.a(["pos","n./v.","chinese","\u8edf\u588a"],s,s),"damp",A.a(["pos","adj./n./v.","chinese","\u6f6e\u6fd5"],s,s),"deadline",A.a(["pos","n.","chinese","\u6700\u5f8c\u671f\u9650"],s,s),"declare",A.a(["pos","v.","chinese","\u5ba3\u544a"],s,s),"decoration",A.a(["pos","n.","chinese","\u88dd\u98fe"],s,s),"defeat",A.a(["pos","n./v.","chinese","\u6253\u6557"],s,s),"defend",A.a(["pos","v.","chinese","\u4fdd\u885b"],s,s),"defense",A.a(["pos","n.","chinese","\u9632\u79a6"],s,s),"defensible",A.a(["pos","adj.","chinese","\u53ef\u4ee5\u9632\u79a6\u7684"],s,s),"defensive",A.a(["pos","adj.","chinese","\u9632\u79a6\u6027\u7684"],s,s),"definite",A.a(["pos","adj.","chinese","\u5b9a"],s,s),"delicate",A.a(["pos","adj.","chinese","\u7cbe\u7f8e\u7684"],s,s),"delight",A.a(["pos","n./v.","chinese","\u559c"],s,s),"delightful",A.a(["pos","adj.","chinese","\u6109\u5feb"],s,s),"demand",A.a(["pos","n./v.","chinese","\u8981\u6c42"],s,s),"demonstrate",A.a(["pos","v.","chinese","\u8b49\u660e"],s,s),"demonstration",A.a(["pos","n.","chinese","\u793a\u7bc4"],s,s),"dense",A.a(["pos","adj.","chinese","\u7a20\u5bc6"],s,s),"depart",A.a(["pos","v.","chinese","\u96e2\u958b"],s,s),"departure",A.a(["pos","n.","chinese","\u96e2\u958b"],s,s),"dependent",A.a(["pos","adj./n.","chinese","\u4f9d\u8cf4\u7684"],s,s),"depression",A.a(["pos","n.","chinese","\u6cae\u55aa"],s,s),"deserve",A.a(["pos","v.","chinese","\u61c9\u5f97"],s,s),"desperate",A.a(["pos","adj.","chinese","\u7d55\u671b\u7684"],s,s),"despite",A.a(["pos","prep.","chinese","\u5118\u7ba1"],s,s),"destruction",A.a(["pos","n.","chinese","\u7834\u58de"],s,s),"detective",A.a(["pos","n./adj.","chinese","\u5075\u63a2"],s,s),"determination",A.a(["pos","n.","chinese","\u6c7a\u5fc3"],s,s),"device",A.a(["pos","n.","chinese","\u88dd\u7f6e"],s,s),"devise",A.a(["pos","v.","chinese","\u8a2d\u8a08"],s,s),"devote",A.a(["pos","v.","chinese","\u5949\u737b"],s,s),"dew",A.a(["pos","n.","chinese","\u9732"],s,s),"diagram",A.a(["pos","n./v.","chinese","\u5716\u8868"],s,s),"differ",A.a(["pos","v.","chinese","\u4e0d\u540c"],s,s),"digest",A.a(["pos","n./v.","chinese","\u6d88\u5316"],s,s),"digital",A.a(["pos","adj.","chinese","\u6578\u4f4d\u7684"],s,s),"dignity",A.a(["pos","n.","chinese","\u5c0a\u56b4"],s,s),"diligence",A.a(["pos","n.","chinese","\u52e4\u52c9"],s,s),"diligent",A.a(["pos","adj.","chinese","\u52e4\u596e"],s,s),"diploma",A.a(["pos","n.","chinese","\u6587\u6191"],s,s),"diplomat",A.a(["pos","n.","chinese","\u5916\u4ea4\u5b98"],s,s),"disability",A.a(["pos","n.","chinese","\u5931\u80fd"],s,s),"disadvantage",A.a(["pos","n./v.","chinese","\u58de\u8655"],s,s),"disappoint(ment)",A.a(["pos","v./(n.)","chinese","\u5931\u671b\uff08\u5fc3\uff09"],s,s),"disaster",A.a(["pos","n.","chinese","\u707d\u96e3"],s,s),"discipline",A.a(["pos","n./v.","chinese","\u7d00\u5f8b"],s,s),"discourage(ment)",A.a(["pos","v./(n.)","chinese","\u52f8\u963b\uff08\u52f8\u963b\uff09"],s,s),"disguise",A.a(["pos","v./n.","chinese","\u507d\u88dd"],s,s),"disgust",A.a(["pos","n./v.","chinese","\u53ad\u60e1"],s,s),"dismiss",A.a(["pos","v.","chinese","\u89e3\u50f1"],s,s),"disorder",A.a(["pos","n./v.","chinese","\u7d0a\u4e82"],s,s),"dispute",A.a(["pos","n./v.","chinese","\u722d\u8b70"],s,s),"distinct",A.a(["pos","adj.","chinese","\u6e05\u695a\u7684"],s,s),"distinguish",A.a(["pos","v.","chinese","\u5340\u5206"],s,s),"distinguished",A.a(["pos","adj.","chinese","\u5091\u51fa\u7684"],s,s),"distribute",A.a(["pos","v.","chinese","\u6563\u4f48"],s,s),"distribution",A.a(["pos","n.","chinese","\u5206\u914d"],s,s),"district",A.a(["pos","n.","chinese","\u5340"],s,s),"disturb",A.a(["pos","v.","chinese","\u6253\u64fe"],s,s),"diverse",A.a(["pos","adj.","chinese","\u5404\u7a2e\u5404\u6a23\u7684"],s,s),"diversity",A.a(["pos","n.","chinese","\u591a\u6a23\u6027"],s,s),"divine",A.a(["pos","adj.","chinese","\u795e\u8056\u7684"],s,s),"divorce",A.a(["pos","n./v.","chinese","\u96e2\u5a5a"],s,s),"dodge",A.a(["pos","v./n.","chinese","\u9583\u907f"],s,s),"dominant",A.a(["pos","adj.","chinese","\u4e3b\u5c0e\u7684"],s,s),"dominate",A.a(["pos","v.","chinese","\u652f\u914d"],s,s),"draft",A.a(["pos","n./v.","chinese","\u8349\u7a3f"],s,s),"dread",A.a(["pos","n./v.","chinese","\u6050\u61fc"],s,s),"drift",A.a(["pos","v./n.","chinese","\u6f02\u79fb"],s,s),"drill",A.a(["pos","n./v.","chinese","\u947d\u982d"],s,s),"drowsy",A.a(["pos","adj.","chinese","\u660f\u660f\u6b32\u7761"],s,s),"durable",A.a(["pos","adj.","chinese","\u8010\u7528\u7684"],s,s),"dusty",A.a(["pos","adj.","chinese","\u5875\u571f\u98db\u63da\u7684"],s,s),"dye",A.a(["pos","n./v.","chinese","\u67d3\u6599"],s,s),"dynamic",A.a(["pos","adj.","chinese","\u52d5\u614b\u7684"],s,s),"dynasty",A.a(["pos","n.","chinese","\u738b\u671d"],s,s),"earnest",A.a(["pos","adj./n.","chinese","\u8a8d\u771f"],s,s),"earphone",A.a(["pos","n.","chinese","\u8033\u6a5f"],s,s),"economic",A.a(["pos","adj.","chinese","\u7d93\u6fdf\u7684"],s,s),"economical",A.a(["pos","adj.","chinese","\u7d93\u6fdf"],s,s),"economics",A.a(["pos","n.","chinese","\u7d93\u6fdf\u5b78"],s,s),"economist",A.a(["pos","n.","chinese","\u7d93\u6fdf\u5b78\u5bb6"],s,s),"economy",A.a(["pos","n.","chinese","\u7d93\u6fdf"],s,s),"efficiency",A.a(["pos","n.","chinese","\u6548\u7387"],s,s),"elastic",A.a(["pos","adj./n.","chinese","\u9b06\u7dca\u5e36"],s,s),"electronics",A.a(["pos","n.","chinese","\u96fb\u5b50\u7522\u54c1"],s,s),"elegant",A.a(["pos","adj.","chinese","\u512a\u96c5\u7684"],s,s),"elementary",A.a(["pos","adj.","chinese","\u521d\u7d1a"],s,s),"eliminate",A.a(["pos","v.","chinese","\u6392\u9664"],s,s),"elsewhere",A.a(["pos","adv.","chinese","\u5225\u8655"],s,s),"embarrass(ment)",A.a(["pos","v./(n.)","chinese","\u5c37\u5c2c\uff08\u5fc3\uff09"],s,s),"embassy",A.a(["pos","n.","chinese","\u5927\u4f7f\u9928"],s,s),"emerge",A.a(["pos","v.","chinese","\u51fa\u73fe"],s,s),"emphasis",A.a(["pos","n.","chinese","\u5f37\u8abf"],s,s),"empire",A.a(["pos","n.","chinese","\u5e1d\u570b"],s,s),"enclose",A.a(["pos","v.","chinese","\u62ec"],s,s),"encounter",A.a(["pos","n./v.","chinese","\u9047\u5230"],s,s),"endanger",A.a(["pos","v.","chinese","\u5371\u5bb3"],s,s),"endure",A.a(["pos","v.","chinese","\u5fcd\u53d7"],s,s),"enforce(ment)",A.a(["pos","v./(n.)","chinese","\u5f37\u5236\u57f7\u884c"],s,s),"engineering",A.a(["pos","n.","chinese","\u5de5\u7a0b"],s,s),"enlarge(ment)",A.a(["pos","v./(n.)","chinese","\u653e\u5927\uff09"],s,s),"enormous",A.a(["pos","adj.","chinese","\u5de8\u5927\u7684"],s,s),"ensure",A.a(["pos","v.","chinese","\u78ba\u4fdd"],s,s),"entertain(ment)",A.a(["pos","v./(n.)","chinese","\u5a1b\u6a02\uff09"],s,s),"enthusiasm",A.a(["pos","n.","chinese","\u71b1\u60c5"],s,s),"equality",A.a(["pos","n.","chinese","\u5e73\u7b49"],s,s),"equip(ment)",A.a(["pos","v./(n.)","chinese","\u88dd\u7f6e)"],s,s),"era",A.a(["pos","n.","chinese","\u6642\u4ee3"],s,s),"essential",A.a(["pos","adj./n.","chinese","\u57fa\u672c\u7684"],s,s),"establish(ment)",A.a(["pos","v./(n.)","chinese","\u8a2d\u7acb\uff08\u8a2d\u7acb\uff09"],s,s),"estimate",A.a(["pos","n./v.","chinese","\u4f30\u8a08"],s,s),"fireplace",A.a(["pos","n.","chinese","\u58c1\u7210"],s,s),"flatter",A.a(["pos","v.","chinese","\u5949\u627f"],s,s),"flea",A.a(["pos","n.","chinese","\u8df3\u86a4"],s,s),"flee",A.a(["pos","v.","chinese","\u9003\u8dd1"],s,s),"ethnic",A.a(["pos","adj./n.","chinese","\u7a2e\u65cf\u7684"],s,s),"evaluate",A.a(["pos","v.","chinese","\u8a55\u50f9"],s,s),"evaluation",A.a(["pos","n.","chinese","\u8a55\u4f30"],s,s),"eventual",A.a(["pos","adj.","chinese","\u6700\u7d42\u7684"],s,s),"evidence",A.a(["pos","n./v.","chinese","\u8b49\u64da"],s,s),"evident",A.a(["pos","adj.","chinese","\u660e\u986f"],s,s),"exaggerate",A.a(["pos","v.","chinese","\u8a87\u5927"],s,s),"exception",A.a(["pos","n.","chinese","\u4f8b\u5916"],s,s),"exhaust",A.a(["pos","n./v.","chinese","\u6392\u6c23"],s,s),"exhibit",A.a(["pos","n./v.","chinese","\u5c55\u793a"],s,s),"expand",A.a(["pos","v.","chinese","\u64f4\u5f35"],s,s),"expansion",A.a(["pos","n.","chinese","\u64f4\u5f35"],s,s),"experimental",A.a(["pos","adj.","chinese","\u5be6\u9a57\u6027\u7684"],s,s),"explanation",A.a(["pos","n.","chinese","\u89e3\u91cb"],s,s),"explosion",A.a(["pos","n.","chinese","\u9739\u9742"],s,s),"explosive",A.a(["pos","adj./n.","chinese","\u9739\u9742"],s,s),"expose",A.a(["pos","v.","chinese","\u66b4\u9732"],s,s),"exposure",A.a(["pos","n.","chinese","\u66dd\u9732"],s,s),"extend",A.a(["pos","v.","chinese","\u5ef6\u9577"],s,s),"extent",A.a(["pos","n.","chinese","\u7a0b\u5ea6"],s,s),"facial",A.a(["pos","adj.","chinese","\u81c9\u90e8\u7684"],s,s),"facility",A.a(["pos","n.","chinese","\u8a2d\u65bd"],s,s),"faithful",A.a(["pos","adj.","chinese","\u53ef\u4fe1"],s,s),"fame",A.a(["pos","n.","chinese","\u540d\u8072"],s,s),"fantastic",A.a(["pos","adj.","chinese","\u6975\u4f73\u7684"],s,s),"fantasy",A.a(["pos","n.","chinese","\u5e7b\u60f3"],s,s),"farewell",A.a(["pos","n.","chinese","\u544a\u5225"],s,s),"fasten",A.a(["pos","v.","chinese","\u7cfb"],s,s),"fatal",A.a(["pos","adj.","chinese","\u81f4\u547d\u7684"],s,s),"favorable",A.a(["pos","adj.","chinese","\u6709\u5229"],s,s),"fax",A.a(["pos","n./v.","chinese","\u50b3\u771f"],s,s),"feast",A.a(["pos","n./v.","chinese","\u76db\u5bb4"],s,s),"feedback",A.a(["pos","n.","chinese","\u56de\u994b"],s,s),"ferry",A.a(["pos","n./v.","chinese","\u6e21\u8f2a"],s,s),"fertile",A.a(["pos","adj.","chinese","\u6c83"],s,s),"fetch",A.a(["pos","v./n.","chinese","\u62ff\u4f86"],s,s),"fiction",A.a(["pos","n.","chinese","\u5c0f\u8aaa"],s,s),"fierce",A.a(["pos","adj.","chinese","\u5147\u731b\u7684"],s,s),"finance",A.a(["pos","n./v.","chinese","\u91d1\u878d"],s,s),"financial",A.a(["pos","adj.","chinese","\u91d1\u878d\u7684"],s,s),"flexible",A.a(["pos","adj.","chinese","\u9748\u6d3b\u7684"],s,s),"fluent",A.a(["pos","adj.","chinese","\u6d41\u66a2"],s,s),"flush",A.a(["pos","v./n.","chinese","\u6c96\u6c34"],s,s),"foam",A.a(["pos","n./v.","chinese","\u6ce1\u68c9"],s,s),"forbid",A.a(["pos","v.","chinese","\u7981\u6b62"],s,s),"forecast",A.a(["pos","n./v.","chinese","\u9810\u5831"],s,s),"formation",A.a(["pos","n.","chinese","\u5f62\u6210"],s,s),"formula",A.a(["pos","n.","chinese","\u516c\u5f0f"],s,s),"fort",A.a(["pos","n.","chinese","\u5821"],s,s),"fortunate",A.a(["pos","adj.","chinese","\u5e78\u904b"],s,s),"fossil",A.a(["pos","n./adj.","chinese","\u5316\u77f3"],s,s),"foundation",A.a(["pos","n.","chinese","\u57fa\u790e"],s,s),"founder",A.a(["pos","n.","chinese","\u5275\u8fa6\u4eba"],s,s),"fragile",A.a(["pos","adj.","chinese","\u8106\u5f31\u7684"],s,s),"frame",A.a(["pos","n./v.","chinese","\u6846\u67b6"],s,s),"frequency",A.a(["pos","n.","chinese","\u983b\u7387"],s,s),"freshman",A.a(["pos","n.","chinese","\u65b0\u751f"],s,s),"frost",A.a(["pos","n./v.","chinese","\u971c"],s,s),"frown",A.a(["pos","n./v.","chinese","\u76ba\u7709"],s,s),"frustrate",A.a(["pos","v.","chinese","\u963b\u6493"],s,s),"frustration",A.a(["pos","n.","chinese","\u632b\u6298"],s,s),"fulfill(ment)",A.a(["pos","v./(n.)","chinese","\u5c65\u884c\uff09"],s,s),"functional",A.a(["pos","adj.","chinese","\u529f\u80fd\u6027\u7684"],s,s),"fundamental",A.a(["pos","adj./n.","chinese","\u57fa\u672c\u7684"],s,s),"funeral",A.a(["pos","n.","chinese","\u846c\u79ae"],s,s),"furious",A.a(["pos","adj.","chinese","\u72c2\u6012"],s,s),"furnish",A.a(["pos","v.","chinese","\u88dd\u8a2d"],s,s),"furthermore",A.a(["pos","adv.","chinese","\u53e6\u5916"],s,s),"gallery",A.a(["pos","n.","chinese","\u756b\u5eca"],s,s),"gaze",A.a(["pos","n./v.","chinese","\u51dd\u8996"],s,s),"gear",A.a(["pos","n./v.","chinese","\u9f52\u8f2a"],s,s),"gender",A.a(["pos","n.","chinese","\u6027\u5225"],s,s),"gene",A.a(["pos","n.","chinese","\u57fa\u56e0"],s,s),"generation",A.a(["pos","n.","chinese","\u4e16\u4ee3"],s,s),"generosity",A.a(["pos","n.","chinese","\u6177\u6168"],s,s),"genius",A.a(["pos","n.","chinese","\u5929\u624d"],s,s),"genuine",A.a(["pos","adj.","chinese","\u771f\u7684"],s,s),"germ",A.a(["pos","n.","chinese","\u80da\u82bd"],s,s),"gifted",A.a(["pos","adj.","chinese","\u5929\u624d"],s,s),"gigantic",A.a(["pos","adj.","chinese","\u5de8\u5927"],s,s),"giggle",A.a(["pos","n./v.","chinese","\u50bb\u7b11"],s,s),"ginger",A.a(["pos","n.","chinese","\u8591"],s,s),"glimpse",A.a(["pos","n./v.","chinese","\u4e00\u77a5"],s,s),"globe",A.a(["pos","n.","chinese","\u5730\u7403"],s,s),"glorious",A.a(["pos","adj.","chinese","\u8f1d\u714c"],s,s),"goods",A.a(["pos","n.","chinese","\u5546\u54c1"],s,s),"gown",A.a(["pos","n.","chinese","\u888d"],s,s),"grace",A.a(["pos","n./v.","chinese","\u512a\u96c5"],s,s),"graceful",A.a(["pos","adj.","chinese","\u512a\u7f8e"],s,s),"gracious",A.a(["pos","adj.","chinese","\u89aa\u5207"],s,s),"graduation",A.a(["pos","n.","chinese","\u7562\u696d"],s,s),"grammar",A.a(["pos","n.","chinese","\u6587\u6cd5"],s,s),"grammatical",A.a(["pos","adj.","chinese","\u8a9e\u6cd5\u7684"],s,s),"graph",A.a(["pos","n./v.","chinese","\u5716\u5f62"],s,s),"grateful",A.a(["pos","adj.","chinese","\u611f\u6fc0\u7684"],s,s),"gratitude",A.a(["pos","n.","chinese","\u611f\u6fc0"],s,s),"grave",A.a(["pos","n./adj.","chinese","\u58b3"],s,s),"greasy",A.a(["pos","adj.","chinese","\u81a9"],s,s),"greeting(s)",A.a(["pos","n.","chinese","\u554f\u5019\uff09"],s,s),"grief",A.a(["pos","n.","chinese","\u60b2\u50b7"],s,s),"grind",A.a(["pos","v./n.","chinese","\u7814\u78e8"],s,s),"guarantee",A.a(["pos","v./n.","chinese","\u4fdd\u8b49"],s,s),"guardian",A.a(["pos","n.","chinese","\u76e3\u8b77\u4eba"],s,s),"guilt",A.a(["pos","n.","chinese","\u6709\u7f6a"],s,s),"guilty",A.a(["pos","adj.","chinese","\u6709\u7f6a\u7684"],s,s),"gulf",A.a(["pos","n.","chinese","\u6d77\u7063"],s,s),"habitual",A.a(["pos","adj.","chinese","\u7fd2\u6163\u6027\u7684"],s,s),"halt",A.a(["pos","n./v.","chinese","\u505c"],s,s),"handwriting",A.a(["pos","n.","chinese","\u624b\u5beb"],s,s),"hardship",A.a(["pos","n.","chinese","\u56f0\u96e3"],s,s),"hardware",A.a(["pos","n.","chinese","\u786c\u9ad4"],s,s),"harmony",A.a(["pos","n.","chinese","\u548c\u8ae7"],s,s),"harsh",A.a(["pos","adj.","chinese","\u6b98\u9177\u7684"],s,s),"haste",A.a(["pos","n.","chinese","\u5306\u5fd9"],s,s),"hasten",A.a(["pos","v.","chinese","\u8da8"],s,s),"hatred",A.a(["pos","n.","chinese","\u4ec7\u6068"],s,s),"hawk",A.a(["pos","n.","chinese","\u9df9"],s,s),"helicopter",A.a(["pos","n.","chinese","\u76f4\u5347\u6a5f"],s,s),"herd",A.a(["pos","n./v.","chinese","\u4e00\u7fa4"],s,s),"hesitation",A.a(["pos","n.","chinese","\u7336\u8c6b"],s,s),"hive",A.a(["pos","n.","chinese","\u8702\u5de2"],s,s),"homeland",A.a(["pos","n.","chinese","\u5bb6\u5712"],s,s),"honeymoon",A.a(["pos","n./v.","chinese","\u871c\u6708"],s,s),"hook",A.a(["pos","n./v.","chinese","\u9264"],s,s),"horizon",A.a(["pos","n.","chinese","\u5730\u5e73\u7dda"],s,s),"horrify",A.a(["pos","v.","chinese","\u9a5a\u5687"],s,s),"hose",A.a(["pos","n./v.","chinese","\u8edf\u7ba1"],s,s),"household",A.a(["pos","n.","chinese","\u5bb6\u5ead"],s,s),"housework",A.a(["pos","n.","chinese","\u5bb6\u52d9"],s,s),"humanity",A.a(["pos","n.","chinese","\u4eba\u6027"],s,s),"humidity",A.a(["pos","n.","chinese","\u6fd5\u5ea6"],s,s),"hurricane",A.a(["pos","n.","chinese","\u98b6\u98a8"],s,s),"hush",A.a(["pos","n./v.","chinese","\u5653"],s,s),"hydrogen",A.a(["pos","n.","chinese","\u6c2b"],s,s),"identical",A.a(["pos","adj.","chinese","\u5b8c\u5168\u76f8\u540c\u7684"],s,s),"identification",A.a(["pos","n.","chinese","\u9451\u5225"],s,s),"identify",A.a(["pos","v.","chinese","\u78ba\u8a8d"],s,s),"idiom",A.a(["pos","n.","chinese","\u6210\u8a9e"],s,s),"idle",A.a(["pos","adj./v.","chinese","\u9592\u7f6e\u7684"],s,s),"idol",A.a(["pos","n.","chinese","\u5076\u50cf"],s,s),"ignorance",A.a(["pos","n.","chinese","\u7121\u77e5"],s,s),"ignorant",A.a(["pos","adj.","chinese","\u611a\u6627"],s,s),"illustrate",A.a(["pos","v.","chinese","\u95e1\u660e"],s,s),"illustration",A.a(["pos","n.","chinese","\u63d2\u5716"],s,s),"imaginary",A.a(["pos","adj.","chinese","\u5047\u60f3"],s,s),"imaginative",A.a(["pos","adj.","chinese","\u5bcc\u6709\u60f3\u50cf\u529b\u7684"],s,s),"imitate",A.a(["pos","v.","chinese","\u6a21\u64ec"],s,s),"imitation",A.a(["pos","n.","chinese","\u6a21\u4eff"],s,s),"immigrant",A.a(["pos","n.","chinese","\u79fb\u6c11"],s,s),"immigrate",A.a(["pos","v.","chinese","\u79fb\u6c11"],s,s),"immigration",A.a(["pos","n.","chinese","\u79fb\u6c11"],s,s),"impact",A.a(["pos","n./v.","chinese","\u5f71\u97ff"],s,s),"imply",A.a(["pos","v.","chinese","\u610f\u5473\u8457"],s,s),"impose",A.a(["pos","v.","chinese","\u5f37\u52a0"],s,s),"impression",A.a(["pos","n.","chinese","\u5370\u8c61"],s,s),"incident",A.a(["pos","n.","chinese","\u4e8b\u4ef6"],s,s),"including",A.a(["pos","prep.","chinese","\u5305\u62ec"],s,s),"incredible",A.a(["pos","adj.","chinese","\u6975\u4f73\u7684"],s,s),"indication",A.a(["pos","n.","chinese","\u6307\u793a"],s,s),"infant",A.a(["pos","n.","chinese","\u5b30\u5152"],s,s),"infection",A.a(["pos","n.","chinese","\u611f\u67d3"],s,s),"inflation",A.a(["pos","n.","chinese","\u901a\u8ca8\u81a8\u8139"],s,s),"influential",A.a(["pos","adj.","chinese","\u6709\u5f71\u97ff"],s,s),"informative",A.a(["pos","adj.","chinese","\u8cc7\u8a0a\u8c50\u5bcc\u7684"],s,s),"ingredient",A.a(["pos","n.","chinese","\u6210\u5206"],s,s),"initial",A.a(["pos","adj./n./v.","chinese","\u6700\u521d\u7684"],s,s),"injure",A.a(["pos","v.","chinese","\u640d\u50b7"],s,s),"innocence",A.a(["pos","n.","chinese","\u7d14\u771f"],s,s),"input",A.a(["pos","n./v.","chinese","\u8f38\u5165"],s,s),"insert",A.a(["pos","v./n.","chinese","\u63d2\u5165"],s,s),"inspection",A.a(["pos","n.","chinese","\u6aa2\u67e5"],s,s),"inspiration",A.a(["pos","n.","chinese","\u9748\u611f"],s,s),"inspire",A.a(["pos","v.","chinese","\u555f\u767c"],s,s),"install",A.a(["pos","v.","chinese","\u5b89\u88dd"],s,s),"instinct",A.a(["pos","n.","chinese","\u76f4\u89ba"],s,s),"instruct",A.a(["pos","v.","chinese","\u6307\u5c0e"],s,s),"instructor",A.a(["pos","n.","chinese","\u8b1b\u5e2b"],s,s),"insult",A.a(["pos","n./v.","chinese","\u4fae\u8fb1"],s,s),"insurance",A.a(["pos","n.","chinese","\u4fdd\u96aa"],s,s),"intellectual",A.a(["pos","adj./n.","chinese","\u77e5\u8b58\u5206\u5b50"],s,s),"intelligence",A.a(["pos","n.","chinese","\u667a\u529b"],s,s),"intend",A.a(["pos","v.","chinese","\u6253\u7b97"],s,s),"intense",A.a(["pos","adj.","chinese","\u6fc0\u70c8\u7684"],s,s),"intensity",A.a(["pos","n.","chinese","\u5f37\u5ea6"],s,s),"intensive",A.a(["pos","adj.","chinese","\u5bc6\u96c6\u7684"],s,s),"intention",A.a(["pos","n.","chinese","\u610f\u5716"],s,s),"interact",A.a(["pos","v.","chinese","\u76f8\u4e92\u5f71\u97ff"],s,s),"interaction",A.a(["pos","n.","chinese","\u4ea4\u4e92\u4f5c\u7528"],s,s),"interfere",A.a(["pos","v.","chinese","\u5e79\u64fe"],s,s),"intermediate",A.a(["pos","adj./n./v.","chinese","\u4e2d\u9593\u7684"],s,s),"interpret",A.a(["pos","v.","chinese","\u89e3\u91cb"],s,s),"interruption",A.a(["pos","n.","chinese","\u4e2d\u65b7"],s,s),"intimate",A.a(["pos","adj./n.","chinese","\u89aa\u5bc6\u7684"],s,s),"intuition",A.a(["pos","n.","chinese","\u76f4\u89ba"],s,s),"invade",A.a(["pos","v.","chinese","\u5165\u4fb5"],s,s),"invasion",A.a(["pos","n.","chinese","\u5165\u4fb5"],s,s),"invention",A.a(["pos","n.","chinese","\u767c\u660e"],s,s),"invest(ment)",A.a(["pos","v./(n.)","chinese","\u6295\u8cc7\uff09"],s,s),"investigation",A.a(["pos","n.","chinese","\u8abf\u67e5"],s,s),"involve(ment)",A.a(["pos","v./(n.)","chinese","\u53c3\u8207\uff08\u53c3\u8207\uff09"],s,s),"isolate",A.a(["pos","v.","chinese","\u9694\u96e2"],s,s),"isolation",A.a(["pos","n.","chinese","\u9694\u96e2"],s,s),"issue",A.a(["pos","n./v.","chinese","\u554f\u984c"],s,s),"jealousy",A.a(["pos","n.","chinese","\u5992\u5fcc"],s,s),"keen",A.a(["pos","adj.","chinese","\u654f\u92b3\u7684"],s,s),"kettle",A.a(["pos","n.","chinese","\u58fa"],s,s),"kneel",A.a(["pos","v.","chinese","\u4e0b\u8dea"],s,s),"knob",A.a(["pos","n.","chinese","\u65cb\u9215"],s,s),"labor",A.a(["pos","n./v.","chinese","\u52de\u52d5"],s,s),"laboratory/lab",A.a(["pos","n.","chinese","\u5be6\u9a57\u5ba4/\u5be6\u9a57\u5ba4"],s,s),"lag",A.a(["pos","n./v.","chinese","\u843d\u5f8c"],s,s),"landmark",A.a(["pos","n.","chinese","\u5730\u6a19"],s,s),"landscape",A.a(["pos","n./v.","chinese","\u666f\u89c0"],s,s),"largely",A.a(["pos","adv.","chinese","\u5927\u90e8\u5206"],s,s),"launch",A.a(["pos","v./n.","chinese","\u767c\u5c04"],s,s),"lawful",A.a(["pos","adj.","chinese","\u5408\u6cd5\u7684"],s,s),"lean",A.a(["pos","v./adj.","chinese","\u50be\u659c"],s,s),"learned",A.a(["pos","adj.","chinese","\u5b78\u5230\u4e86"],s,s),"lecture",A.a(["pos","n./v.","chinese","\u6f14\u8b1b"],s,s),"lecturer",A.a(["pos","n.","chinese","\u8b1b\u5e2b"],s,s),"legend",A.a(["pos","n.","chinese","\u50b3\u5947"],s,s),"leisurely",A.a(["pos","adj./adv.","chinese","\u60a0\u9592"],s,s),"lengthen",A.a(["pos","v.","chinese","\u52a0\u9577"],s,s),"liar",A.a(["pos","n.","chinese","\u8aaa\u8b0a\u8005"],s,s),"librarian",A.a(["pos","n.","chinese","\u5716\u66f8\u9928\u54e1"],s,s),"license",A.a(["pos","n./v.","chinese","\u57f7\u7167"],s,s),"lifeguard",A.a(["pos","n.","chinese","\u6551\u751f\u54e1"],s,s),"limitation",A.a(["pos","n.","chinese","\u9650\u5236"],s,s),"linen",A.a(["pos","n.","chinese","\u4e9e\u9ebb\u5e03"],s,s),"lipstick",A.a(["pos","n.","chinese","\u53e3\u7d05"],s,s),"liquor",A.a(["pos","n.","chinese","\u9152"],s,s),"literary",A.a(["pos","adj.","chinese","\u6587\u5b78\u7684"],s,s),"literature",A.a(["pos","n.","chinese","\u6587\u5b78"],s,s),"loan",A.a(["pos","n./v.","chinese","\u8cb8\u6b3e"],s,s),"lobster",A.a(["pos","n.","chinese","\u9f8d\u8766"],s,s),"logic",A.a(["pos","n.","chinese","\u908f\u8f2f"],s,s),"mischief",A.a(["pos","n.","chinese","\u60e1\u4f5c\u5287"],s,s),"logical",A.a(["pos","adj.","chinese","\u908f\u8f2f\u7684"],s,s),"loosen",A.a(["pos","v.","chinese","\u9b06\u958b"],s,s),"lousy",A.a(["pos","adj.","chinese","\u7cdf\u7cd5"],s,s),"loyal",A.a(["pos","adj.","chinese","\u5fe0\u8aa0"],s,s),"loyalty",A.a(["pos","n.","chinese","\u5fe0\u8aa0"],s,s),"luxurious",A.a(["pos","adj.","chinese","\u8c6a\u83ef"],s,s),"luxury",A.a(["pos","n.","chinese","\u5962\u83ef"],s,s),"machinery",A.a(["pos","n.","chinese","\u6a5f\u68b0"],s,s),"magnetic",A.a(["pos","adj.","chinese","\u78c1\u7684"],s,s),"magnificent",A.a(["pos","adj.","chinese","\u83ef\u9e97\u7684"],s,s),"makeup",A.a(["pos","n.","chinese","\u5316\u599d\u54c1"],s,s),"manual",A.a(["pos","n./adj.","chinese","\u624b\u52d5\u7684"],s,s),"manufacture",A.a(["pos","n./v.","chinese","\u751f\u7522"],s,s),"manufacturer",A.a(["pos","n.","chinese","\u88fd\u9020\u5546"],s,s),"marathon",A.a(["pos","n.","chinese","\u99ac\u62c9\u677e"],s,s),"margin",A.a(["pos","n.","chinese","\u5229\u6f64"],s,s),"maturity",A.a(["pos","n.","chinese","\u5230\u671f"],s,s),"maximum",A.a(["pos","adj./n.","chinese","\u6700\u5927\u9650\u5ea6"],s,s),"measurable",A.a(["pos","adj.","chinese","\u53ef\u6e2c\u91cf\u7684"],s,s),"measure(s)",A.a(["pos","n.","chinese","\u63aa\u65bd"],s,s),"mechanic",A.a(["pos","n.","chinese","\u6a5f\u68b0"],s,s),"mechanical",A.a(["pos","adj.","chinese","\u6a5f\u68b0\u7684"],s,s),"memorable",A.a(["pos","adj.","chinese","\u96e3\u5fd8"],s,s),"memorial",A.a(["pos","adj./n.","chinese","\u7d00\u5ff5\u9928"],s,s),"memorize",A.a(["pos","v.","chinese","\u8a18\u4f4f"],s,s),"merchant",A.a(["pos","n.","chinese","\u5546\u4eba"],s,s),"mercy",A.a(["pos","n.","chinese","\u6190\u61ab"],s,s),"mere",A.a(["pos","adj.","chinese","\u50c5\u50c5"],s,s),"merit",A.a(["pos","n.","chinese","\u512a\u9ede"],s,s),"messenger",A.a(["pos","n.","chinese","\u4fe1\u5dee"],s,s),"messy",A.a(["pos","adj.","chinese","\u51cc\u4e82\u7684"],s,s),"microscope",A.a(["pos","n.","chinese","\u986f\u5fae\u93e1"],s,s),"mild",A.a(["pos","adj.","chinese","\u8f15\u5fae"],s,s),"mill",A.a(["pos","n./v.","chinese","\u78e8"],s,s),"millionaire",A.a(["pos","n.","chinese","\u767e\u842c\u5bcc\u7fc1"],s,s),"miner",A.a(["pos","n.","chinese","\u7926\u5de5"],s,s),"mineral",A.a(["pos","n.","chinese","\u7926\u7269"],s,s),"minimum",A.a(["pos","adj./n.","chinese","\u6700\u4f4e\u9650\u5ea6"],s,s),"minister",A.a(["pos","n.","chinese","\u90e8\u9577"],s,s),"ministry",A.a(["pos","n.","chinese","\u90e8"],s,s),"miserable",A.a(["pos","adj.","chinese","\u60b2\u6158\u7684"],s,s),"misfortune",A.a(["pos","n.","chinese","\u4e0d\u5e78"],s,s),"mislead",A.a(["pos","v.","chinese","\u8aa4\u5c0e"],s,s),"misunderstand",A.a(["pos","v.","chinese","\u8aa4\u89e3"],s,s),"moderate",A.a(["pos","adj.","chinese","\u7de9\u548c"],s,s),"modest",A.a(["pos","adj.","chinese","\u8b19\u865b\u7684"],s,s),"modesty",A.a(["pos","n.","chinese","\u8b19\u865b"],s,s),"monitor",A.a(["pos","n./v.","chinese","\u76e3\u8996\u5668"],s,s),"monument",A.a(["pos","n.","chinese","\u7d00\u5ff5\u7891"],s,s),"moreover",A.a(["pos","adv.","chinese","\u800c\u4e14"],s,s),"motivate",A.a(["pos","v.","chinese","\u6fc0\u52f5"],s,s),"motivation",A.a(["pos","n.","chinese","\u52d5\u6a5f"],s,s),"mountainous",A.a(["pos","adj.","chinese","\u591a\u5c71"],s,s),"muddy",A.a(["pos","adj.","chinese","\u6e3e"],s,s),"mule",A.a(["pos","n.","chinese","\u9a3e\u5b50"],s,s),"multiple",A.a(["pos","adj.","chinese","\u591a\u7a2e\u7684"],s,s),"murderer",A.a(["pos","n.","chinese","\u5147\u624b"],s,s),"murmur",A.a(["pos","n./v.","chinese","\u96dc\u97f3"],s,s),"mutual",A.a(["pos","adj.","chinese","\u76f8\u4e92\u7684"],s,s),"mysterious",A.a(["pos","adj.","chinese","\u795e\u79d8"],s,s),"namely",A.a(["pos","adv.","chinese","\u5373"],s,s),"nationality",A.a(["pos","n.","chinese","\u570b\u7c4d"],s,s),"needy",A.a(["pos","adj.","chinese","\u6709\u9700\u8981\u7684"],s,s),"neglect",A.a(["pos","n./v.","chinese","\u5ffd\u8996"],s,s),"negotiate",A.a(["pos","v.","chinese","\u8ac7\u5224"],s,s),"nevertheless",A.a(["pos","adv.","chinese","\u5118\u7ba1\u5982\u6b64"],s,s),"nightmare",A.a(["pos","n.","chinese","\u60e1\u5922"],s,s),"noble",A.a(["pos","adj./n.","chinese","\u9ad8\u8cb4"],s,s),"nonsense",A.a(["pos","n.","chinese","\u5ee2\u8a71"],s,s),"nowadays",A.a(["pos","adv.","chinese","\u5982\u4eca"],s,s),"nuclear",A.a(["pos","adj.","chinese","\u6838"],s,s),"numerous",A.a(["pos","adj.","chinese","\u5f88\u591a\u7684"],s,s),"nursery",A.a(["pos","n.","chinese","\u82d7\u5703"],s,s),"nutritious",A.a(["pos","adj.","chinese","\u6709\u71df\u990a\u7684"],s,s),"obedience",A.a(["pos","n.","chinese","\u670d\u5f9e"],s,s),"obedient",A.a(["pos","adj.","chinese","\u807d\u8a71"],s,s),"objection",A.a(["pos","n.","chinese","\u7570\u8b70"],s,s),"objective",A.a(["pos","n./adj.","chinese","\u5ba2\u89c0\u7684"],s,s),"observation",A.a(["pos","n.","chinese","\u89c0\u5bdf"],s,s),"obstacle",A.a(["pos","n.","chinese","\u969c\u7919"],s,s),"obtain",A.a(["pos","v.","chinese","\u7372\u5f97"],s,s),"occasional",A.a(["pos","adj.","chinese","\u5076\u7136"],s,s),"occupation",A.a(["pos","n.","chinese","\u8077\u696d"],s,s),"occupy",A.a(["pos","v.","chinese","\u4f54\u64da"],s,s),"offend",A.a(["pos","v.","chinese","\u5f97\u7f6a"],s,s),"offense",A.a(["pos","n.","chinese","\u7f6a\u884c"],s,s),"offensive",A.a(["pos","adj.","chinese","\u9032\u653b"],s,s),"opera",A.a(["pos","n.","chinese","\u6b4c\u5287"],s,s),"oppose",A.a(["pos","v.","chinese","\u53cd\u5c0d"],s,s),"option",A.a(["pos","n.","chinese","\u9078\u9805"],s,s),"orbit",A.a(["pos","n./v.","chinese","\u8ecc\u9053"],s,s),"orchestra",A.a(["pos","n.","chinese","\u6a02\u5718"],s,s),"orientation",A.a(["pos","n.","chinese","\u65b9\u5411"],s,s),"orphan",A.a(["pos","n./v.","chinese","\u5b64\u5152"],s,s),"otherwise",A.a(["pos","adv.","chinese","\u5426\u5247"],s,s),"outcome",A.a(["pos","n.","chinese","\u7d50\u679c"],s,s),"outstanding",A.a(["pos","adj.","chinese","\u5091\u51fa\u7684"],s,s),"oval",A.a(["pos","adj./n.","chinese","\u6a62\u5713\u5f62"],s,s),"overcoat",A.a(["pos","n.","chinese","\u5927\u8863"],s,s),"overcome",A.a(["pos","v.","chinese","\u514b\u670d"],s,s),"overlook",A.a(["pos","v.","chinese","\u4fef\u77b0"],s,s),"overnight",A.a(["pos","adv./adj.","chinese","\u904e\u591c"],s,s),"overthrow",A.a(["pos","v.","chinese","\u63a8\u7ffb"],s,s),"oxygen",A.a(["pos","n.","chinese","\u6c27"],s,s),"pace",A.a(["pos","n./v.","chinese","\u6b65\u4f10"],s,s),"panel",A.a(["pos","n.","chinese","\u63a7\u5236\u677f"],s,s),"parachute",A.a(["pos","n./v.","chinese","\u964d\u843d\u5098"],s,s),"paragraph",A.a(["pos","n.","chinese","\u6bb5\u843d"],s,s),"partial",A.a(["pos","adj.","chinese","\u90e8\u5206\u7684"],s,s),"participation",A.a(["pos","n.","chinese","\u53c3\u8207"],s,s),"partnership",A.a(["pos","n.","chinese","\u5408\u5925"],s,s),"passive",A.a(["pos","adj.","chinese","\u88ab\u52d5\u7684"],s,s),"pasta",A.a(["pos","n.","chinese","\u7fa9\u5927\u5229\u9eb5"],s,s),"paw",A.a(["pos","n./v.","chinese","\u722a\u5b50"],s,s),"peculiar",A.a(["pos","adj.","chinese","\u5947\u7279"],s,s),"peep",A.a(["pos","n./v.","chinese","\u7aba\u8996"],s,s),"peer",A.a(["pos","n./v.","chinese","\u540c\u884c"],s,s),"penalty",A.a(["pos","n.","chinese","\u61f2\u7f70"],s,s),"percent",A.a(["pos","n.","chinese","\u767e\u5206"],s,s),"percentage",A.a(["pos","n.","chinese","\u767e\u5206\u6bd4"],s,s),"perfection",A.a(["pos","n.","chinese","\u5b8c\u7f8e"],s,s),"perfume",A.a(["pos","n./v.","chinese","\u9999\u6c34"],s,s),"permanent",A.a(["pos","adj.","chinese","\u6c38\u6046\u7684"],s,s),"persuasion",A.a(["pos","n.","chinese","\u52f8\u8aaa"],s,s),"persuasive",A.a(["pos","adj.","chinese","\u6709\u8aaa\u670d\u529b\u7684"],s,s),"pessimistic",A.a(["pos","adj.","chinese","\u60b2\u89c0"],s,s),"pest",A.a(["pos","n.","chinese","\u5bb3\u87f2"],s,s),"phenomenon",A.a(["pos","n.","chinese","\u73fe\u8c61"],s,s),"philosopher",A.a(["pos","n.","chinese","\u54f2\u5b78\u5bb6"],s,s),"philosophical",A.a(["pos","adj.","chinese","\u54f2\u5b78\u7684"],s,s),"philosophy",A.a(["pos","n.","chinese","\u54f2\u5b78"],s,s),"photography",A.a(["pos","n.","chinese","\u651d\u5f71"],s,s),"physical",A.a(["pos","adj.","chinese","\u8eab\u9ad4\u7684"],s,s),"physician",A.a(["pos","n.","chinese","\u91ab\u751f"],s,s),"physicist",A.a(["pos","n.","chinese","\u7269\u7406\u5b78\u5bb6"],s,s),"physics",A.a(["pos","n.","chinese","\u7269\u7406"],s,s),"pickle",A.a(["pos","n.","chinese","\u6ce1\u83dc"],s,s),"pioneer",A.a(["pos","n./v.","chinese","\u5148\u92d2"],s,s),"plentiful",A.a(["pos","adj.","chinese","\u8c50\u5bcc"],s,s),"plot",A.a(["pos","n./v.","chinese","\u9670\u8b00"],s,s),"plum",A.a(["pos","n.","chinese","\u674e\u5b50"],s,s),"plumber",A.a(["pos","n.","chinese","\u6c34\u7ba1\u5de5"],s,s),"poisonous",A.a(["pos","adj.","chinese","\u6709\u6bd2"],s,s),"polish",A.a(["pos","n./v.","chinese","\u62cb\u5149"],s,s),"popularity",A.a(["pos","n.","chinese","\u4eba\u6c23"],s,s),"portable",A.a(["pos","adj.","chinese","\u4fbf\u651c\u7684"],s,s),"portray",A.a(["pos","v.","chinese","\u5beb\u771f"],s,s),"possess",A.a(["pos","v.","chinese","\u5177\u6709"],s,s),"possession",A.a(["pos","n.","chinese","\u64c1\u6709"],s,s),"postage",A.a(["pos","n.","chinese","\u90f5\u8cc7"],s,s),"potential",A.a(["pos","adj./n.","chinese","\u6f5b\u5728\u7684"],s,s),"precise",A.a(["pos","adj.","chinese","\u7cbe\u78ba\u7684"],s,s),"predict",A.a(["pos","v.","chinese","\u9810\u6e2c"],s,s),"prediction",A.a(["pos","n.","chinese","\u9810\u8a00"],s,s),"pregnancy",A.a(["pos","n.","chinese","\u61f7\u5b55"],s,s),"pregnant",A.a(["pos","adj.","chinese","\u61f7\u5b55"],s,s),"presentation",A.a(["pos","n.","chinese","\u63a8\u4ecb\u6703"],s,s),"preservation",A.a(["pos","n.","chinese","\u5132\u5b58"],s,s),"preserve",A.a(["pos","v.","chinese","\u5132\u5b58"],s,s),"prevention",A.a(["pos","n.","chinese","\u9810\u9632"],s,s),"prime",A.a(["pos","adj./n.","chinese","\u4e3b\u8981\u7684"],s,s),"primitive",A.a(["pos","adj.","chinese","\u539f\u59cb"],s,s),"priority",A.a(["pos","n.","chinese","\u512a\u5148\u4e8b\u9805"],s,s),"privacy",A.a(["pos","n.","chinese","\u96b1\u79c1"],s,s),"privilege",A.a(["pos","n./v.","chinese","\u7279\u6b0a"],s,s),"procedure",A.a(["pos","n.","chinese","\u7a0b\u5f0f"],s,s),"proceed",A.a(["pos","v.","chinese","\u7e7c\u7e8c"],s,s),"productive",A.a(["pos","adj.","chinese","\u5bcc\u6709\u6210\u6548\u7684"],s,s),"profession",A.a(["pos","n.","chinese","\u8077\u696d"],s,s),"professional",A.a(["pos","adj./n.","chinese","\u5c08\u696d\u7684"],s,s),"profitable",A.a(["pos","adj.","chinese","\u6709\u5229\u53ef\u5716"],s,s),"prominent",A.a(["pos","adj.","chinese","\u8457\u540d\u7684"],s,s),"promising",A.a(["pos","adj.","chinese","\u6709\u5e0c\u671b"],s,s),"promotion",A.a(["pos","n.","chinese","\u6649\u5347"],s,s),"prompt",A.a(["pos","v./adj./n.","chinese","\u8fc5\u901f\u7684"],s,s),"pronunciation",A.a(["pos","n.","chinese","\u767c\u97f3"],s,s),"proposal",A.a(["pos","n.","chinese","\u63d0\u8b70"],s,s),"prosper",A.a(["pos","v.","chinese","\u7e41\u69ae"],s,s),"prosperity",A.a(["pos","n.","chinese","\u7e41\u69ae"],s,s),"prosperous",A.a(["pos","adj.","chinese","\u7e41\u69ae"],s,s),"protein",A.a(["pos","n.","chinese","\u86cb\u767d\u8cea"],s,s),"protest",A.a(["pos","n./v.","chinese","\u53cd\u5c0d"],s,s),"psychological",A.a(["pos","adj.","chinese","\u5fc3\u7406"],s,s),"psychologist",A.a(["pos","n.","chinese","\u5fc3\u7406\u5b78\u5bb6"],s,s),"psychology",A.a(["pos","n.","chinese","\u5fc3\u7406\u5b78"],s,s),"publication",A.a(["pos","n.","chinese","\u51fa\u7248\u54c1"],s,s),"publicity",A.a(["pos","n.","chinese","\u5ba3\u50b3"],s,s),"publish",A.a(["pos","v.","chinese","\u767c\u5e03"],s,s),"publisher",A.a(["pos","n.","chinese","\u51fa\u7248\u5546"],s,s),"pursue",A.a(["pos","v.","chinese","\u8ffd\u6c42"],s,s),"pursuit",A.a(["pos","n.","chinese","\u8ffd\u6c42"],s,s),"quarrel",A.a(["pos","n./v.","chinese","\u5435\u67b6"],s,s),"quilt",A.a(["pos","n./v.","chinese","\u88ab\u5b50"],s,s),"quotation",A.a(["pos","n.","chinese","\u5f15\u8ff0"],s,s),"radar",A.a(["pos","n.","chinese","\u96f7\u9054"],s,s),"rage",A.a(["pos","n./v.","chinese","\u61a4\u6012"],s,s),"rainfall",A.a(["pos","n.","chinese","\u96e8\u91cf"],s,s),"raisin",A.a(["pos","n.","chinese","\u8461\u8404\u4e7e"],s,s),"realistic",A.a(["pos","adj.","chinese","\u5be6\u969b\u7684"],s,s),"rebel",A.a(["pos","n./v.","chinese","\u53cd\u53db"],s,s),"recall",A.a(["pos","v./n.","chinese","\u8a18\u8d77"],s,s),"reception",A.a(["pos","n.","chinese","\u63a5\u5f85"],s,s),"recipe",A.a(["pos","n.","chinese","\u98df\u8b5c"],s,s),"recognition",A.a(["pos","n.","chinese","\u8a8d\u51fa"],s,s),"recovery",A.a(["pos","n.","chinese","\u6062\u5fa9"],s,s),"recreation",A.a(["pos","n.","chinese","\u5a1b\u6a02"],s,s),"recycle",A.a(["pos","v.","chinese","\u56de\u6536"],s,s),"reduction",A.a(["pos","n.","chinese","\u6e1b\u5c11"],s,s),"refer",A.a(["pos","v.","chinese","\u53c3\u8003"],s,s),"reference",A.a(["pos","n.","chinese","\u53c3\u8003"],s,s),"reflect",A.a(["pos","v.","chinese","\u53cd\u6620"],s,s),"reflection",A.a(["pos","n.","chinese","\u53cd\u5c04"],s,s),"reform",A.a(["pos","n./v.","chinese","\u6539\u9769"],s,s),"refugee",A.a(["pos","n.","chinese","\u96e3\u6c11"],s,s),"refund",A.a(["pos","n./v.","chinese","\u9000\u6b3e"],s,s),"refusal",A.a(["pos","n.","chinese","\u62d2\u7d55"],s,s),"regarding",A.a(["pos","prep.","chinese","\u95dc\u65bc"],s,s),"register",A.a(["pos","v./n.","chinese","\u767b\u8a18"],s,s),"registration",A.a(["pos","n.","chinese","\u767b\u8a18"],s,s),"regulate",A.a(["pos","v.","chinese","\u8abf\u7bc0"],s,s),"regulation",A.a(["pos","n.","chinese","\u898f\u5b9a"],s,s),"rejection",A.a(["pos","n.","chinese","\u62d2\u7d55"],s,s),"relaxation",A.a(["pos","n.","chinese","\u9b06\u5f1b"],s,s),"relevant",A.a(["pos","adj.","chinese","\u76f8\u95dc\u7684"],s,s),"relieve",A.a(["pos","v.","chinese","\u7de9\u89e3"],s,s),"reluctant",A.a(["pos","adj.","chinese","\u4e0d\u60c5\u9858\u7684"],s,s),"remark",A.a(["pos","n./v.","chinese","\u8a55\u8ad6"],s,s),"remarkable",A.a(["pos","adj.","chinese","\u5353\u8d8a"],s,s),"remedy",A.a(["pos","n./v.","chinese","\u88dc\u6551"],s,s),"renew",A.a(["pos","v.","chinese","\u66f4\u65b0"],s,s),"repetition",A.a(["pos","n.","chinese","\u91cd\u8907"],s,s),"representation",A.a(["pos","n.","chinese","\u8868\u793a"],s,s),"reputation",A.a(["pos","n.","chinese","\u540d\u8072"],s,s),"rescue",A.a(["pos","n./v.","chinese","\u6551\u63f4"],s,s),"research",A.a(["pos","n./v.","chinese","\u7814\u7a76"],s,s),"researcher",A.a(["pos","n.","chinese","\u7814\u7a76\u54e1"],s,s),"resemble",A.a(["pos","v.","chinese","\u985e\u4f3c"],s,s),"reservation",A.a(["pos","n.","chinese","\u9810\u8a02"],s,s),"resign",A.a(["pos","v.","chinese","\u8fad\u8077"],s,s),"sew",A.a(["pos","v.","chinese","\u7e2b"],s,s),"resignation",A.a(["pos","n.","chinese","\u8fad\u8077"],s,s),"resistance",A.a(["pos","n.","chinese","\u53cd\u6297"],s,s),"resolution",A.a(["pos","n.","chinese","\u89e3\u6c7a"],s,s),"resolve",A.a(["pos","v./n.","chinese","\u89e3\u6c7a"],s,s),"respectable",A.a(["pos","adj.","chinese","\u53ef\u656c"],s,s),"respectful",A.a(["pos","adj.","chinese","\u5c0a\u656c\u7684"],s,s),"restore",A.a(["pos","v.","chinese","\u6062\u5fa9"],s,s),"restriction",A.a(["pos","n.","chinese","\u9650\u5236"],s,s),"retain",A.a(["pos","v.","chinese","\u4fdd\u6301"],s,s),"retire(ment)",A.a(["pos","v./(n.)","chinese","\u9000\u4f11\uff09"],s,s),"retreat",A.a(["pos","n./v.","chinese","\u64a4\u9000"],s,s),"reunion",A.a(["pos","n.","chinese","\u5718\u5713"],s,s),"revenge",A.a(["pos","n./v.","chinese","\u5fa9\u4ec7"],s,s),"revise",A.a(["pos","v.","chinese","\u4fee\u8a02"],s,s),"revision",A.a(["pos","n.","chinese","\u4fee\u8a02"],s,s),"revolution",A.a(["pos","n.","chinese","\u9769\u547d"],s,s),"revolutionary",A.a(["pos","adj./n.","chinese","\u9769\u547d\u6027\u7684"],s,s),"reward",A.a(["pos","n./v.","chinese","\u5831\u916c"],s,s),"rhyme",A.a(["pos","n./v.","chinese","\u97fb"],s,s),"rhythm",A.a(["pos","n.","chinese","\u97fb\u5f8b"],s,s),"riddle",A.a(["pos","n.","chinese","\u8b0e\u8a9e"],s,s),"robber",A.a(["pos","n.","chinese","\u5f37\u76dc"],s,s),"romance",A.a(["pos","n.","chinese","\u6d6a\u6f2b"],s,s),"route",A.a(["pos","n./v.","chinese","\u8def\u7dda"],s,s),"ruin",A.a(["pos","v./n.","chinese","\u5ee2\u589f"],s,s),"rural",A.a(["pos","adj.","chinese","\u9109\u6751\u7684"],s,s),"rusty",A.a(["pos","adj.","chinese","\u751f\u93fd\u7684"],s,s),"sacrifice",A.a(["pos","n./v.","chinese","\u72a7\u7272"],s,s),"satellite",A.a(["pos","n.","chinese","\u885b\u661f"],s,s),"satisfaction",A.a(["pos","n.","chinese","\u6eff\u610f"],s,s),"scarcely",A.a(["pos","adv.","chinese","\u5e7e\u4e4e\u4e0d"],s,s),"scenery",A.a(["pos","n.","chinese","\u98a8\u666f"],s,s),"scold",A.a(["pos","v./n.","chinese","\u7f75"],s,s),"scoop",A.a(["pos","n./v.","chinese","\u8200"],s,s),"scratch",A.a(["pos","n./v.","chinese","\u522e\u75d5"],s,s),"sculpture",A.a(["pos","n./v.","chinese","\u96d5\u5851"],s,s),"secure",A.a(["pos","v./adj.","chinese","\u5b89\u5168\u7684"],s,s),"seize",A.a(["pos","v.","chinese","\u6436\u4f54"],s,s),"settler",A.a(["pos","n.","chinese","\u5b9a\u5c45\u8005"],s,s),"severe",A.a(["pos","adj.","chinese","\u5287\u70c8"],s,s),"shade",A.a(["pos","n./v.","chinese","\u9670\u5f71"],s,s),"shady",A.a(["pos","adj.","chinese","\u9670\u6dbc"],s,s),"shameful",A.a(["pos","adj.","chinese","\u53ef\u6065"],s,s),"shave",A.a(["pos","v./n.","chinese","\u522e\u9b0d\u5b50"],s,s),"shelter",A.a(["pos","n./v.","chinese","\u5e87\u8b77\u6240"],s,s),"shift",A.a(["pos","n./v.","chinese","\u8f49\u79fb"],s,s),"sightseeing",A.a(["pos","n.","chinese","\u89c0\u5149"],s,s),"signature",A.a(["pos","n./adj.","chinese","\u7c3d\u540d"],s,s),"significance",A.a(["pos","n.","chinese","\u610f\u7fa9"],s,s),"sincerity",A.a(["pos","n.","chinese","\u8aa0\u610f"],s,s),"singular",A.a(["pos","adj./n.","chinese","\u55ae\u6578"],s,s),"site",A.a(["pos","n./v.","chinese","\u5730\u9ede"],s,s),"sketch",A.a(["pos","n./v.","chinese","\u8349\u5716"],s,s),"skyscraper",A.a(["pos","n.","chinese","\u6469\u5929\u5927\u6a13"],s,s),"slight",A.a(["pos","adj./n./v.","chinese","\u8f15\u5fae"],s,s),"slogan",A.a(["pos","n.","chinese","\u53e3\u865f"],s,s),"socket",A.a(["pos","n.","chinese","\u63d2\u5ea7"],s,s),"software",A.a(["pos","n.","chinese","\u8edf\u9ad4"],s,s),"solar",A.a(["pos","adj.","chinese","\u592a\u967d\u7684"],s,s),"spade",A.a(["pos","n.","chinese","\u93df"],s,s),"spare",A.a(["pos","adj./v./n.","chinese","\u7a7a\u9592\u7684"],s,s),"spark",A.a(["pos","n./v.","chinese","\u706b\u82b1"],s,s),"spear",A.a(["pos","n./v.","chinese","\u77db"],s,s),"species",A.a(["pos","n.","chinese","\u7a2e"],s,s),"spiritual",A.a(["pos","adj.","chinese","\u7cbe\u795e"],s,s),"splendid",A.a(["pos","adj.","chinese","\u71e6\u721b"],s,s),"split",A.a(["pos","v./n.","chinese","\u5206\u88c2"],s,s),"sprinkle",A.a(["pos","v./n.","chinese","\u6492"],s,s),"stab",A.a(["pos","n./v.","chinese","\u523a"],s,s),"statistic(s)",A.a(["pos","n.","chinese","\u7d71\u8a08\u6578\u64da\uff09"],s,s),"status",A.a(["pos","n.","chinese","\u5730\u4f4d"],s,s),"stem",A.a(["pos","n./v.","chinese","\u5e79"],s,s),"stereo",A.a(["pos","n.","chinese","\u7acb\u9ad4\u8072"],s,s),"stingy",A.a(["pos","adj.","chinese","\u5c0f\u6c23"],s,s),"stocking(s)",A.a(["pos","n.","chinese","\u9577\u896a"],s,s),"strengthen",A.a(["pos","v.","chinese","\u52a0\u5f37"],s,s),"stripe",A.a(["pos","n.","chinese","\u689d\u7d0b"],s,s),"strive",A.a(["pos","v.","chinese","\u52aa\u529b"],s,s),"stroke",A.a(["pos","n./v.","chinese","\u4e2d\u98a8"],s,s),"submarine",A.a(["pos","n./adj.","chinese","\u6f5b\u6c34\u8247"],s,s),"sue",A.a(["pos","v.","chinese","\u8d77\u8a34"],s,s),"suggestion",A.a(["pos","n.","chinese","\u5efa\u8b70"],s,s),"summarize",A.a(["pos","v.","chinese","\u7e3d\u7d50"],s,s),"surgeon",A.a(["pos","n.","chinese","\u5916\u79d1\u91ab\u751f"],s,s),"surgery",A.a(["pos","n.","chinese","\u624b\u8853"],s,s),"surrender",A.a(["pos","v./n.","chinese","\u6295\u964d"],s,s),"surroundings",A.a(["pos","n.","chinese","\u5468\u570d\u74b0\u5883"],s,s),"suspicious",A.a(["pos","adj.","chinese","\u53ef\u7591\u7684"],s,s),"sway",A.a(["pos","n./v.","chinese","\u6416\u64fa"],s,s),"syllable",A.a(["pos","n.","chinese","\u97f3\u7bc0"],s,s),"sympathetic",A.a(["pos","adj.","chinese","\u5bcc\u6709\u540c\u60c5\u5fc3\u7684"],s,s),"sympathy",A.a(["pos","n.","chinese","\u540c\u60c5"],s,s),"systematic",A.a(["pos","adj.","chinese","\u7cfb\u7d71\u7684"],s,s),"technician",A.a(["pos","n.","chinese","\u6280\u8853\u54e1"],s,s),"technological",A.a(["pos","adj.","chinese","\u6280\u8853\u6027\u7684"],s,s),"telegraph",A.a(["pos","n./v.","chinese","\u96fb\u5831"],s,s),"telescope",A.a(["pos","n.","chinese","\u671b\u9060\u93e1"],s,s),"tendency",A.a(["pos","n.","chinese","\u8da8\u52e2"],s,s),"tense",A.a(["pos","adj./v.","chinese","\u7dca\u5f35"],s,s),"tension",A.a(["pos","n.","chinese","\u7dca\u5f35"],s,s),"terror",A.a(["pos","n.","chinese","\u6050\u6016"],s,s),"theme",A.a(["pos","n.","chinese","\u4e3b\u984c"],s,s),"thorough",A.a(["pos","adj.","chinese","\u5fb9\u5e95"],s,s),"thoughtful",A.a(["pos","adj.","chinese","\u5468\u5230"],s,s),"tickle",A.a(["pos","v./n.","chinese","\u7662\u7662"],s,s),"timetable",A.a(["pos","n.","chinese","\u6642\u9593\u8868"],s,s),"timid",A.a(["pos","adj.","chinese","\u81bd\u5c0f"],s,s),"tolerable",A.a(["pos","adj.","chinese","\u53ef\u4ee5\u5fcd\u53d7\u7684"],s,s),"tolerance",A.a(["pos","n.","chinese","\u5bec\u5bb9"],s,s),"tolerant",A.a(["pos","adj.","chinese","\u5bec\u5bb9"],s,s),"tolerate",A.a(["pos","v.","chinese","\u5bb9\u5fcd"],s,s),"tomb",A.a(["pos","n.","chinese","\u5893"],s,s),"tortoise",A.a(["pos","n.","chinese","\u70cf\u9f9c"],s,s),"torture",A.a(["pos","n./v.","chinese","\u9177\u5211"],s,s),"tragedy",A.a(["pos","n.","chinese","\u60b2\u5287"],s,s),"tragic",A.a(["pos","adj.","chinese","\u60b2\u6158"],s,s),"transfer",A.a(["pos","n./v.","chinese","\u8f49\u79fb"],s,s),"transform",A.a(["pos","v.","chinese","\u8f49\u63db"],s,s),"translate",A.a(["pos","v.","chinese","\u7ffb\u8b6f"],s,s),"translation",A.a(["pos","n.","chinese","\u7ffb\u8b6f"],s,s),"translator",A.a(["pos","n.","chinese","\u7ffb\u8b6f\u8005"],s,s),"transportation",A.a(["pos","n.","chinese","\u904b\u8f38"],s,s),"tremble",A.a(["pos","v./n.","chinese","\u986b\u6296"],s,s),"tremendous",A.a(["pos","adj.","chinese","\u5de8\u5927\u7684"],s,s),"tribal",A.a(["pos","adj.","chinese","\u90e8\u843d\u7684"],s,s),"triumph",A.a(["pos","n./v.","chinese","\u52dd\u5229"],s,s),"troublesome",A.a(["pos","adj.","chinese","\u9ebb\u7169\u7684"],s,s),"tumble",A.a(["pos","v./n.","chinese","\u7ffb\u6efe"],s,s),"twig",A.a(["pos","n.","chinese","\u679d\u689d"],s,s),"universal",A.a(["pos","adj./n.","chinese","\u666e\u904d\u7684"],s,s),"urge",A.a(["pos","n./v.","chinese","\u6566\u4fc3"],s,s),"urgent",A.a(["pos","adj.","chinese","\u7dca\u8feb\u7684"],s,s),"usage",A.a(["pos","n.","chinese","\u7528\u6cd5"],s,s),"vacancy",A.a(["pos","n.","chinese","\u7a7a\u7f3a"],s,s),"vain",A.a(["pos","adj.","chinese","\u5f92\u52de\u7684"],s,s),"vast",A.a(["pos","adj.","chinese","\u5ee3\u95ca\u7684"],s,s),"vegetarian",A.a(["pos","n.","chinese","\u7d20\u98df\u4e3b\u7fa9\u8005"],s,s),"vessel",A.a(["pos","n.","chinese","\u8840\u7ba1"],s,s),"violate",A.a(["pos","v.","chinese","\u9055\u53cd"],s,s),"violation",A.a(["pos","n.","chinese","\u9055\u53cd"],s,s),"virtue",A.a(["pos","n.","chinese","\u7f8e\u5fb7"],s,s),"virus",A.a(["pos","n.","chinese","\u75c5\u6bd2"],s,s),"visual",A.a(["pos","adj.","chinese","\u8996\u89ba\u7684"],s,s),"vital",A.a(["pos","adj.","chinese","\u5fc5\u4e0d\u53ef\u5c11\u7684"],s,s),"voluntary",A.a(["pos","adj.","chinese","\u81ea\u4e3b\u6027"],s,s),"volunteer",A.a(["pos","n./v.","chinese","\u5fd7\u5de5"],s,s),"voyage",A.a(["pos","n./v.","chinese","\u822a\u7a0b"],s,s),"waken",A.a(["pos","v.","chinese","\u559a\u9192"],s,s),"website",A.a(["pos","n.","chinese","\u7db2\u7ad9"],s,s),"welfare",A.a(["pos","n.","chinese","\u798f\u5229"],s,s),"wink",A.a(["pos","n./v.","chinese","\u7728\u773c"],s,s),"wit",A.a(["pos","n.","chinese","\u6a5f\u667a"],s,s),"witch/wizard",A.a(["pos","n.","chinese","\u5973\u5deb/\u5deb\u5e2b"],s,s),"withdraw",A.a(["pos","v.","chinese","\u63d0\u53d6"],s,s),"witness",A.a(["pos","n./v.","chinese","\u8b49\u4eba"],s,s),"workout",A.a(["pos","n.","chinese","\u935b\u934a"],s,s),"workplace",A.a(["pos","n.","chinese","\u5de5\u4f5c\u5834\u6240"],s,s),"wreck",A.a(["pos","n./v.","chinese","\u7834\u58de"],s,s),"yawn",A.a(["pos","n./v.","chinese","\u6253\u54c8\u6b20"],s,s),"youthful",A.a(["pos","adj.","chinese","\u9752\u6625\u7684"],s,s)],s,r)
-return new A.VQ(q,A.B(s,r),A.B(s,r),new A.eA(B.aY,$.as()),B.k)}}
+return new A.VQ(q,A.C(s,r),A.C(s,r),new A.eA(B.aY,$.as()),B.k)}}
 A.VQ.prototype={
 aq(){this.aJ()
 this.ez()},
@@ -83492,36 +83494,36 @@ r.a=a
 a=r.a=B.c.hi(a)
 if(s.ay.aj(0,a)&&a===s.d){s.H(new A.anM(r,s))
 s.d3()}},
-L(a){var s,r,q,p=this,o=null,n=A.iR(B.e7,A.C("RCc\u80cc\u55ae\u5b57",o,o,o,o,o,o)),m=A.bC(a,o,t.w).w,l=A.C("[\u5927\u8003\u4e2d\u5fc3 - \u7b2c\u4e8c ~ \u56db\u7d1a]",o,o,o,A.ad(o,o,o,o,o,o,o,o,o,o,o,12,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),o,o),k=A.C("\u586b\u7a7a",o,o,o,A.ad(o,o,o,o,o,o,o,o,o,o,o,10,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),o,o),j=A.dv(0),i=p.Q?B.E:o
+L(a){var s,r,q,p=this,o=null,n=A.iR(B.e7,A.A("RCc\u80cc\u55ae\u5b57",o,o,o,o,o,o)),m=A.bC(a,o,t.w).w,l=A.A("[\u5927\u8003\u4e2d\u5fc3 - \u7b2c\u4e8c ~ \u56db\u7d1a]",o,o,o,A.ad(o,o,o,o,o,o,o,o,o,o,o,12,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),o,o),k=A.A("\u586b\u7a7a",o,o,o,A.ad(o,o,o,o,o,o,o,o,o,o,o,10,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),o,o),j=A.dv(0),i=p.Q?B.E:o
 j=A.ap(k,new A.anw(p),A.br(o,o,i,o,o,o,o,o,o,o,o,new A.E(0,30),o,o,new A.bp(j,B.l),o,o,o,o))
-i=A.C("\u5b78\u7fd2",o,o,o,A.ad(o,o,o,o,o,o,o,o,o,o,o,10,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),o,o)
+i=A.A("\u5b78\u7fd2",o,o,o,A.ad(o,o,o,o,o,o,o,o,o,o,o,10,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),o,o)
 k=A.dv(0)
 s=p.as?B.E:o
 k=A.ap(i,new A.anx(p),A.br(o,o,s,o,o,o,o,o,o,o,o,new A.E(10,30),o,o,new A.bp(k,B.l),o,o,o,o))
-s=A.C("\u6e2c\u9a57",o,o,o,A.ad(o,o,o,o,o,o,o,o,o,o,o,10,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),o,o)
+s=A.A("\u6e2c\u9a57",o,o,o,A.ad(o,o,o,o,o,o,o,o,o,o,o,10,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),o,o)
 i=A.dv(0)
 r=p.at?B.E:o
 q=t.p
-i=A.c([A.bF(A.c([l,A.bF(A.c([j,k,A.ap(s,new A.any(p),A.br(o,o,r,o,o,o,o,o,o,o,o,new A.E(10,30),o,o,new A.bp(i,B.l),o,o,o,o))],q),B.t,B.y,B.p,o)],q),B.t,B.d1,B.p,o),A.b1(o,10,o),new A.cq(new A.aD(0,0,0,0),new A.dK(B.bM,o,o,A.ap(A.C(" Home ",o,o,o,A.ad(o,o,o,o,o,o,o,o,o,o,o,10,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),o,o),new A.anE(a),A.br(o,o,o,o,o,o,o,o,o,o,o,new A.E(30,30),o,o,new A.bp(A.dv(3),B.l),o,o,o,o)),o),o),A.b1(o,10,o)],q)
-if(p.at){l=A.c([A.il(A.bF(A.c([A.C("\u8a5e\u6027: ",o,o,o,A.ad(o,o,B.h,o,o,o,o,o,o,o,o,15,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),B.C,o),A.C(" "+p.f,o,o,o,A.ad(o,o,B.h,o,o,o,o,o,o,o,o,25,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),B.C,o),A.C(" , \u4e2d\u6587: ",o,o,o,A.ad(o,o,B.h,o,o,o,o,o,o,o,o,15,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),B.C,o),A.C(p.r+"  ",o,o,o,A.ad(o,o,B.h,o,o,o,o,o,o,o,o,25,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),B.C,o),A.ap(A.e_(B.b_,o),new A.anF(p),A.br(o,o,o,o,o,o,o,o,o,o,o,new A.E(70,30),o,o,o,o,o,o,o))],q),B.aZ,B.al,B.p,B.m),B.ai),A.b1(o,10,o),A.ap(A.C("ANS",o,o,o,A.ad(o,o,o,o,o,o,o,o,o,o,o,10,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),o,o),new A.anG(p),A.br(o,o,o,o,o,o,o,o,o,o,o,new A.E(70,30),o,o,o,o,o,o,o)),A.b1(o,10,o)],q)
+i=A.c([A.bF(A.c([l,A.bF(A.c([j,k,A.ap(s,new A.any(p),A.br(o,o,r,o,o,o,o,o,o,o,o,new A.E(10,30),o,o,new A.bp(i,B.l),o,o,o,o))],q),B.t,B.y,B.p,o)],q),B.t,B.d1,B.p,o),A.b1(o,10,o),new A.cq(new A.aD(0,0,0,0),new A.dK(B.bM,o,o,A.ap(A.A(" Home ",o,o,o,A.ad(o,o,o,o,o,o,o,o,o,o,o,10,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),o,o),new A.anE(a),A.br(o,o,o,o,o,o,o,o,o,o,o,new A.E(30,30),o,o,new A.bp(A.dv(3),B.l),o,o,o,o)),o),o),A.b1(o,10,o)],q)
+if(p.at){l=A.c([A.il(A.bF(A.c([A.A("\u8a5e\u6027: ",o,o,o,A.ad(o,o,B.h,o,o,o,o,o,o,o,o,15,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),B.C,o),A.A(" "+p.f,o,o,o,A.ad(o,o,B.h,o,o,o,o,o,o,o,o,25,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),B.C,o),A.A(" , \u4e2d\u6587: ",o,o,o,A.ad(o,o,B.h,o,o,o,o,o,o,o,o,15,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),B.C,o),A.A(p.r+"  ",o,o,o,A.ad(o,o,B.h,o,o,o,o,o,o,o,o,25,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),B.C,o),A.ap(A.e_(B.b_,o),new A.anF(p),A.br(o,o,o,o,o,o,o,o,o,o,o,new A.E(70,30),o,o,o,o,o,o,o))],q),B.aZ,B.al,B.p,B.m),B.ai),A.b1(o,10,o),A.ap(A.A("ANS",o,o,o,A.ad(o,o,o,o,o,o,o,o,o,o,o,10,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),o,o),new A.anG(p),A.br(o,o,o,o,o,o,o,o,o,o,o,new A.E(70,30),o,o,o,o,o,o,o)),A.b1(o,10,o)],q)
 k=p.e
-if(k.length!==0)l.push(A.C(k,o,o,o,A.ad(o,o,B.h,o,o,o,o,o,o,o,o,20,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),B.C,o))
+if(k.length!==0)l.push(A.A(k,o,o,o,A.ad(o,o,B.h,o,o,o,o,o,o,o,o,20,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),B.C,o))
 else{k=p.x
-if(k.length!==0)l.push(A.C(" "+k+" "+B.c.ab("_",p.d.length-2)+" "+p.y,o,o,o,A.ad(o,o,B.h,o,o,o,o,o,o,o,o,20,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),B.C,o))}l.push(A.hF(p.CW,A.fP(o,new A.fi(4,B.c1,B.dv),o,o,o,o,o,o,!0,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,A.ad(o,o,o,o,o,o,o,o,o,o,o,12,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),"Enter text here...",o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o),o,!1,new A.anH(p),new A.anI(p)))
-l.push(A.C("",o,o,o,o,o,o))
-l.push(A.bF(A.c([A.fL(A.ap(A.C("\u78ba\u8a8d",o,o,o,o,o,o),new A.anJ(p),o))],q),B.t,B.y,B.p,o))
-i.push(A.bV(l,B.t,B.al,B.p,o))}if(p.as){l=A.c([A.bF(A.c([A.C(p.d+"  ",o,o,o,A.ad(o,o,B.h,o,o,o,o,o,o,o,o,25,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),B.C,o),A.ap(A.e_(B.b_,o),new A.anK(p),A.br(o,o,o,o,o,o,o,o,o,o,o,new A.E(70,30),o,o,o,o,o,o,o))],q),B.aZ,B.al,B.p,B.m),A.b1(o,10,o),A.ap(A.C("Translation",o,o,o,A.ad(o,o,o,o,o,o,o,o,o,o,o,10,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),o,o),new A.anL(p),A.br(o,o,o,o,o,o,o,o,o,o,o,new A.E(70,30),o,o,o,o,o,o,o)),A.b1(o,10,o)],q)
-if(p.z===1)l.push(A.bV(A.c([A.C(p.r,o,o,o,A.ad(o,o,B.h,o,o,o,o,o,o,o,o,20,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),B.C,o),A.C(p.f,o,o,o,A.ad(o,o,B.h,o,o,o,o,o,o,o,o,20,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),B.C,o)],q),B.t,B.y,B.p,o))
+if(k.length!==0)l.push(A.A(" "+k+" "+B.c.ab("_",p.d.length-2)+" "+p.y,o,o,o,A.ad(o,o,B.h,o,o,o,o,o,o,o,o,20,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),B.C,o))}l.push(A.hF(p.CW,A.fP(o,new A.fi(4,B.c1,B.dv),o,o,o,o,o,o,!0,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,A.ad(o,o,o,o,o,o,o,o,o,o,o,12,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),"Enter text here...",o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o),o,!1,new A.anH(p),new A.anI(p)))
+l.push(A.A("",o,o,o,o,o,o))
+l.push(A.bF(A.c([A.fL(A.ap(A.A("\u78ba\u8a8d",o,o,o,o,o,o),new A.anJ(p),o))],q),B.t,B.y,B.p,o))
+i.push(A.bV(l,B.t,B.al,B.p,o))}if(p.as){l=A.c([A.bF(A.c([A.A(p.d+"  ",o,o,o,A.ad(o,o,B.h,o,o,o,o,o,o,o,o,25,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),B.C,o),A.ap(A.e_(B.b_,o),new A.anK(p),A.br(o,o,o,o,o,o,o,o,o,o,o,new A.E(70,30),o,o,o,o,o,o,o))],q),B.aZ,B.al,B.p,B.m),A.b1(o,10,o),A.ap(A.A("Translation",o,o,o,A.ad(o,o,o,o,o,o,o,o,o,o,o,10,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),o,o),new A.anL(p),A.br(o,o,o,o,o,o,o,o,o,o,o,new A.E(70,30),o,o,o,o,o,o,o)),A.b1(o,10,o)],q)
+if(p.z===1)l.push(A.bV(A.c([A.A(p.r,o,o,o,A.ad(o,o,B.h,o,o,o,o,o,o,o,o,20,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),B.C,o),A.A(p.f,o,o,o,A.ad(o,o,B.h,o,o,o,o,o,o,o,o,20,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),B.C,o)],q),B.t,B.y,B.p,o))
 l.push(A.b1(o,30,o))
-l.push(A.bF(A.c([A.fL(A.ap(A.C("learned",o,o,o,o,o,o),new A.anz(p),o))],q),B.t,B.y,B.p,o))
+l.push(A.bF(A.c([A.fL(A.ap(A.A("learned",o,o,o,o,o,o),new A.anz(p),o))],q),B.t,B.y,B.p,o))
 i.push(A.bV(l,B.t,B.al,B.p,o))}i.push(A.b1(o,5,o))
-i.push(A.ap(A.C("skip",o,o,o,o,o,o),new A.anA(p),o))
-i.push(A.C("",o,o,o,o,o,o))
-if(J.e8(p.ch))i.push(A.ap(A.C("\u67e5\u770b\u5df2\u5b78\u6703\u7684\u55ae\u5b57",o,o,o,o,o,o),new A.anB(p,a),o))
+i.push(A.ap(A.A("skip",o,o,o,o,o,o),new A.anA(p),o))
+i.push(A.A("",o,o,o,o,o,o))
+if(J.e8(p.ch))i.push(A.ap(A.A("\u67e5\u770b\u5df2\u5b78\u6703\u7684\u55ae\u5b57",o,o,o,o,o,o),new A.anB(p,a),o))
 i.push(A.b1(o,5,o))
-if(p.ay.a!==0)i.push(A.ap(A.C("\u67e5\u770b\u5269\u9918\u55ae\u5b57",o,o,o,o,o,o),new A.anC(p,a),o))
-i.push(A.C("",o,o,o,o,o,o))
-i.push(A.ap(A.C("\u91cd\u7f6e",o,o,o,o,o,o),new A.anD(p,a),o))
+if(p.ay.a!==0)i.push(A.ap(A.A("\u67e5\u770b\u5269\u9918\u55ae\u5b57",o,o,o,o,o,o),new A.anC(p,a),o))
+i.push(A.A("",o,o,o,o,o,o))
+i.push(A.ap(A.A("\u91cd\u7f6e",o,o,o,o,o,o),new A.anD(p,a),o))
 return A.ih(n,A.dY(o,A.il(new A.dX(new A.au(0,1/0,m.a.b,1/0),A.dY(o,A.bV(i,B.c4,B.y,B.p,o),B.v,B.d2,o,o,o,B.f2,o),o),B.aj),B.v,B.d2,o,o,o,o,o))}}
 A.anO.prototype={
 $0(){var s=this.a,r=A.c5(J.aR(this.b.a,"_learnedDatabase"))
@@ -83705,8 +83707,8 @@ A.anD.prototype={
 $0(){A.hQ(new A.anl(this.a),this.b,t.z)},
 $S:0}
 A.anl.prototype={
-$1(a){var s=null,r=A.C("\u78ba\u8a8d\u91cd\u7f6e",s,s,s,s,s,s),q=A.C("\u78ba\u8a8d\u5f8c\u5c07\u5fa9\u539f\u6240\u6709\u5df2\u5b78\u6703\u55ae\u5b57",s,s,s,s,s,s)
-return A.hc(A.c([A.dn(A.C("\u53d6\u6d88",s,s,s,s,s,s),new A.anh(a),s),A.ap(A.C("\u78ba\u8a8d",s,s,s,s,s,s),new A.ani(this.a,a),s)],t.p),q,r)},
+$1(a){var s=null,r=A.A("\u78ba\u8a8d\u91cd\u7f6e",s,s,s,s,s,s),q=A.A("\u78ba\u8a8d\u5f8c\u5c07\u5fa9\u539f\u6240\u6709\u5df2\u5b78\u6703\u55ae\u5b57",s,s,s,s,s,s)
+return A.hc(A.c([A.dn(A.A("\u53d6\u6d88",s,s,s,s,s,s),new A.anh(a),s),A.ap(A.A("\u78ba\u8a8d",s,s,s,s,s,s),new A.ani(this.a,a),s)],t.p),q,r)},
 $S:17}
 A.anh.prototype={
 $0(){A.c3(this.a,!1).fL(null)},
@@ -83719,13 +83721,13 @@ $S:0}
 A.ane.prototype={
 $0(){var s=this.a,r=t.N,q=t.z
 s.ay=A.fU(s.ax,r,q)
-s.ch=A.B(r,q)
+s.ch=A.C(r,q)
 s.bi()
 s.d3()},
 $S:0}
 A.nu.prototype={
 ai(){var s=t.N,r=t.z
-return new A.ES(A.B(s,r),A.B(s,r),A.B(s,r),new A.eA(B.aY,$.as()),B.k)}}
+return new A.ES(A.C(s,r),A.C(s,r),A.C(s,r),new A.eA(B.aY,$.as()),B.k)}}
 A.ES.prototype={
 aq(){this.aJ()
 this.ez()},
@@ -83770,42 +83772,42 @@ a=r.a=B.c.hi(a)
 if(J.nz(s.ch,a)&&a===s.d){s.H(new A.aoG(r,s))
 s.d3()}},
 Hr(a,b){this.H(new A.aoJ(this,a,b))},
-L(a){var s,r,q,p=this,o=null,n=A.iR(B.e7,A.C("RCc\u80cc\u55ae\u5b57",o,o,o,o,o,o)),m=A.bC(a,o,t.w).w,l=A.C("[\u81ea\u547d\u984c]",o,o,o,A.ad(o,o,o,o,o,o,o,o,o,o,o,12,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),o,o),k=A.b1(o,10,o),j=A.C("\u586b\u7a7a",o,o,o,A.ad(o,o,o,o,o,o,o,o,o,o,o,10,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),o,o),i=A.dv(0),h=p.as?B.E:o
+L(a){var s,r,q,p=this,o=null,n=A.iR(B.e7,A.A("RCc\u80cc\u55ae\u5b57",o,o,o,o,o,o)),m=A.bC(a,o,t.w).w,l=A.A("[\u81ea\u547d\u984c]",o,o,o,A.ad(o,o,o,o,o,o,o,o,o,o,o,12,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),o,o),k=A.b1(o,10,o),j=A.A("\u586b\u7a7a",o,o,o,A.ad(o,o,o,o,o,o,o,o,o,o,o,10,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),o,o),i=A.dv(0),h=p.as?B.E:o
 i=A.ap(j,new A.aop(p),A.br(o,o,h,o,o,o,o,o,o,o,o,new A.E(0,30),o,o,new A.bp(i,B.l),o,o,o,o))
-h=A.C("\u5b78\u7fd2",o,o,o,A.ad(o,o,o,o,o,o,o,o,o,o,o,10,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),o,o)
+h=A.A("\u5b78\u7fd2",o,o,o,A.ad(o,o,o,o,o,o,o,o,o,o,o,10,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),o,o)
 j=A.dv(0)
 s=p.at?B.E:o
 j=A.ap(h,new A.aoq(p),A.br(o,o,s,o,o,o,o,o,o,o,o,new A.E(10,30),o,o,new A.bp(j,B.l),o,o,o,o))
-s=A.C("\u6e2c\u9a57",o,o,o,A.ad(o,o,o,o,o,o,o,o,o,o,o,10,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),o,o)
+s=A.A("\u6e2c\u9a57",o,o,o,A.ad(o,o,o,o,o,o,o,o,o,o,o,10,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),o,o)
 h=A.dv(0)
 r=p.ax?B.E:o
 q=t.p
-h=A.c([A.bF(A.c([l,k,A.bF(A.c([i,j,A.ap(s,new A.aor(p),A.br(o,o,r,o,o,o,o,o,o,o,o,new A.E(10,30),o,o,new A.bp(h,B.l),o,o,o,o))],q),B.t,B.y,B.p,o)],q),B.t,B.d1,B.p,o),new A.cq(new A.aD(0,0,0,0),new A.dK(B.bM,o,o,A.ap(A.C(" Home ",o,o,o,A.ad(o,o,o,o,o,o,o,o,o,o,o,10,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),o,o),new A.aoy(a),A.br(o,o,o,o,o,o,o,o,o,o,o,new A.E(30,30),o,o,new A.bp(A.dv(3),B.l),o,o,o,o)),o),o),A.b1(o,10,o)],q)
-if(p.ax){l=A.c([A.il(A.bF(A.c([A.C("\u8a5e\u6027: ",o,o,o,A.ad(o,o,B.h,o,o,o,o,o,o,o,o,15,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),B.C,o),A.C(" "+p.f,o,o,o,A.ad(o,o,B.h,o,o,o,o,o,o,o,o,25,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),B.C,o),A.C(" , \u4e2d\u6587: ",o,o,o,A.ad(o,o,B.h,o,o,o,o,o,o,o,o,15,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),B.C,o),A.C(p.r+"  ",o,o,o,A.ad(o,o,B.h,o,o,o,o,o,o,o,o,25,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),B.C,o),A.ap(A.e_(B.b_,o),new A.aoz(p),A.br(o,o,o,o,o,o,o,o,o,o,o,new A.E(70,30),o,o,o,o,o,o,o))],q),B.aZ,B.al,B.p,B.m),B.ai),A.b1(o,10,o),A.ap(A.C("ANS",o,o,o,A.ad(o,o,o,o,o,o,o,o,o,o,o,10,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),o,o),new A.aoA(p),A.br(o,o,o,o,o,o,o,o,o,o,o,new A.E(70,30),o,o,o,o,o,o,o)),A.b1(o,10,o)],q)
+h=A.c([A.bF(A.c([l,k,A.bF(A.c([i,j,A.ap(s,new A.aor(p),A.br(o,o,r,o,o,o,o,o,o,o,o,new A.E(10,30),o,o,new A.bp(h,B.l),o,o,o,o))],q),B.t,B.y,B.p,o)],q),B.t,B.d1,B.p,o),new A.cq(new A.aD(0,0,0,0),new A.dK(B.bM,o,o,A.ap(A.A(" Home ",o,o,o,A.ad(o,o,o,o,o,o,o,o,o,o,o,10,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),o,o),new A.aoy(a),A.br(o,o,o,o,o,o,o,o,o,o,o,new A.E(30,30),o,o,new A.bp(A.dv(3),B.l),o,o,o,o)),o),o),A.b1(o,10,o)],q)
+if(p.ax){l=A.c([A.il(A.bF(A.c([A.A("\u8a5e\u6027: ",o,o,o,A.ad(o,o,B.h,o,o,o,o,o,o,o,o,15,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),B.C,o),A.A(" "+p.f,o,o,o,A.ad(o,o,B.h,o,o,o,o,o,o,o,o,25,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),B.C,o),A.A(" , \u4e2d\u6587: ",o,o,o,A.ad(o,o,B.h,o,o,o,o,o,o,o,o,15,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),B.C,o),A.A(p.r+"  ",o,o,o,A.ad(o,o,B.h,o,o,o,o,o,o,o,o,25,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),B.C,o),A.ap(A.e_(B.b_,o),new A.aoz(p),A.br(o,o,o,o,o,o,o,o,o,o,o,new A.E(70,30),o,o,o,o,o,o,o))],q),B.aZ,B.al,B.p,B.m),B.ai),A.b1(o,10,o),A.ap(A.A("ANS",o,o,o,A.ad(o,o,o,o,o,o,o,o,o,o,o,10,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),o,o),new A.aoA(p),A.br(o,o,o,o,o,o,o,o,o,o,o,new A.E(70,30),o,o,o,o,o,o,o)),A.b1(o,10,o)],q)
 k=p.e
-if(k.length!==0)l.push(A.C(k,o,o,o,A.ad(o,o,B.h,o,o,o,o,o,o,o,o,20,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),B.C,o))
+if(k.length!==0)l.push(A.A(k,o,o,o,A.ad(o,o,B.h,o,o,o,o,o,o,o,o,20,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),B.C,o))
 else{k=p.x
-if(k.length!==0)l.push(A.C(" "+k+" "+B.c.ab("_",p.d.length-2)+" "+p.y,o,o,o,A.ad(o,o,B.h,o,o,o,o,o,o,o,o,20,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),B.C,o))}l.push(A.hF(p.cx,A.fP(o,new A.fi(4,B.c1,B.dv),o,o,o,o,o,o,!0,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,A.ad(o,o,o,o,o,o,o,o,o,o,o,12,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),"Enter text here...",o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o),o,!1,new A.aoB(p),new A.aoC(p)))
-l.push(A.C("",o,o,o,o,o,o))
-l.push(A.bF(A.c([A.fL(A.ap(A.C("\u78ba\u8a8d",o,o,o,o,o,o),new A.aoD(p),o))],q),B.t,B.y,B.p,o))
+if(k.length!==0)l.push(A.A(" "+k+" "+B.c.ab("_",p.d.length-2)+" "+p.y,o,o,o,A.ad(o,o,B.h,o,o,o,o,o,o,o,o,20,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),B.C,o))}l.push(A.hF(p.cx,A.fP(o,new A.fi(4,B.c1,B.dv),o,o,o,o,o,o,!0,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,A.ad(o,o,o,o,o,o,o,o,o,o,o,12,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),"Enter text here...",o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o),o,!1,new A.aoB(p),new A.aoC(p)))
+l.push(A.A("",o,o,o,o,o,o))
+l.push(A.bF(A.c([A.fL(A.ap(A.A("\u78ba\u8a8d",o,o,o,o,o,o),new A.aoD(p),o))],q),B.t,B.y,B.p,o))
 h.push(A.bV(l,B.t,B.al,B.p,o))}if(p.at){l=A.c([],q)
 k=p.d
-if(k.length!==0)l.push(A.C(k+"  ",o,o,o,A.ad(o,o,B.h,o,o,o,o,o,o,o,o,25,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),B.C,o))
+if(k.length!==0)l.push(A.A(k+"  ",o,o,o,A.ad(o,o,B.h,o,o,o,o,o,o,o,o,25,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),B.C,o))
 if(p.d.length!==0)l.push(A.ap(A.e_(B.b_,o),new A.aoE(p),A.br(o,o,o,o,o,o,o,o,o,o,o,new A.E(70,30),o,o,o,o,o,o,o)))
-l=A.c([A.bF(l,B.aZ,B.al,B.p,B.m),A.b1(o,10,o),A.ap(A.C("Translation",o,o,o,A.ad(o,o,o,o,o,o,o,o,o,o,o,10,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),o,o),new A.aoF(p),A.br(o,o,o,o,o,o,o,o,o,o,o,new A.E(70,30),o,o,o,o,o,o,o)),A.b1(o,10,o)],q)
-if(p.z===1)l.push(A.bV(A.c([A.C(p.r,o,o,o,A.ad(o,o,B.h,o,o,o,o,o,o,o,o,20,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),B.C,o),A.C(p.f,o,o,o,A.ad(o,o,B.h,o,o,o,o,o,o,o,o,20,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),B.C,o)],q),B.t,B.y,B.p,o))
+l=A.c([A.bF(l,B.aZ,B.al,B.p,B.m),A.b1(o,10,o),A.ap(A.A("Translation",o,o,o,A.ad(o,o,o,o,o,o,o,o,o,o,o,10,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),o,o),new A.aoF(p),A.br(o,o,o,o,o,o,o,o,o,o,o,new A.E(70,30),o,o,o,o,o,o,o)),A.b1(o,10,o)],q)
+if(p.z===1)l.push(A.bV(A.c([A.A(p.r,o,o,o,A.ad(o,o,B.h,o,o,o,o,o,o,o,o,20,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),B.C,o),A.A(p.f,o,o,o,A.ad(o,o,B.h,o,o,o,o,o,o,o,o,20,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),B.C,o)],q),B.t,B.y,B.p,o))
 l.push(A.b1(o,30,o))
-l.push(A.bF(A.c([A.fL(A.ap(A.C("learned",o,o,o,o,o,o),new A.aos(p),o))],q),B.t,B.y,B.p,o))
+l.push(A.bF(A.c([A.fL(A.ap(A.A("learned",o,o,o,o,o,o),new A.aos(p),o))],q),B.t,B.y,B.p,o))
 h.push(A.bV(l,B.t,B.al,B.p,o))}h.push(A.b1(o,5,o))
-h.push(A.ap(A.C("skip",o,o,o,o,o,o),new A.aot(p),o))
-h.push(A.C("",o,o,o,o,o,o))
-if(J.e8(p.CW))h.push(A.ap(A.C("\u67e5\u770b\u5df2\u5b78\u6703\u7684\u55ae\u5b57",o,o,o,o,o,o),new A.aou(p,a),o))
+h.push(A.ap(A.A("skip",o,o,o,o,o,o),new A.aot(p),o))
+h.push(A.A("",o,o,o,o,o,o))
+if(J.e8(p.CW))h.push(A.ap(A.A("\u67e5\u770b\u5df2\u5b78\u6703\u7684\u55ae\u5b57",o,o,o,o,o,o),new A.aou(p,a),o))
 h.push(A.b1(o,1,o))
-if(J.e8(p.ch))h.push(A.ap(A.C("\u67e5\u770b\u5269\u9918\u55ae\u5b57",o,o,o,o,o,o),new A.aov(p,a),o))
+if(J.e8(p.ch))h.push(A.ap(A.A("\u67e5\u770b\u5269\u9918\u55ae\u5b57",o,o,o,o,o,o),new A.aov(p,a),o))
 l=A.br(o,o,B.rS,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o)
-h.push(A.ap(A.C("\u7de8\u8f2f\u55ae\u5b57",o,o,o,o,o,o),new A.aow(p,a),l))
-h.push(A.C("",o,o,o,o,o,o))
-h.push(A.ap(A.C("\u91cd\u7f6e",o,o,o,o,o,o),new A.aox(p,a),o))
+h.push(A.ap(A.A("\u7de8\u8f2f\u55ae\u5b57",o,o,o,o,o,o),new A.aow(p,a),l))
+h.push(A.A("",o,o,o,o,o,o))
+h.push(A.ap(A.A("\u91cd\u7f6e",o,o,o,o,o,o),new A.aox(p,a),o))
 return A.ih(n,A.dY(o,A.il(new A.dX(new A.au(0,1/0,m.a.b,1/0),A.bV(h,B.c4,B.y,B.p,o),o),B.aj),B.v,B.d2,o,o,o,B.f2,o))}}
 A.aoH.prototype={
 $0(){var s=this.a,r=this.b.a,q=J.ao(r),p=A.c5(q.h(r,"inlearnedDatabase"))
@@ -84018,8 +84020,8 @@ A.aox.prototype={
 $0(){A.hQ(new A.aob(this.a),this.b,t.z)},
 $S:0}
 A.aob.prototype={
-$1(a){var s=null,r=A.C("\u78ba\u8a8d\u91cd\u7f6e",s,s,s,s,s,s),q=A.C("\u78ba\u5b9a\u5f8c\u5c07\u5fa9\u539f\u4e26\u6e05\u7a7a\u5df2\u5b78\u6703\u6e05\u55ae",s,s,s,s,s,s)
-return A.hc(A.c([A.dn(A.C("\u53d6\u6d88",s,s,s,s,s,s),new A.ao7(a),s),A.ap(A.C("\u78ba\u8a8d",s,s,s,s,s,s),new A.ao8(this.a,a),s)],t.p),q,r)},
+$1(a){var s=null,r=A.A("\u78ba\u8a8d\u91cd\u7f6e",s,s,s,s,s,s),q=A.A("\u78ba\u5b9a\u5f8c\u5c07\u5fa9\u539f\u4e26\u6e05\u7a7a\u5df2\u5b78\u6703\u6e05\u55ae",s,s,s,s,s,s)
+return A.hc(A.c([A.dn(A.A("\u53d6\u6d88",s,s,s,s,s,s),new A.ao7(a),s),A.ap(A.A("\u78ba\u8a8d",s,s,s,s,s,s),new A.ao8(this.a,a),s)],t.p),q,r)},
 $S:17}
 A.ao7.prototype={
 $0(){A.c3(this.a,!1).fL(null)},
@@ -84033,7 +84035,7 @@ A.ao4.prototype={
 $0(){var s=this.a,r=t.N,q=t.z,p=A.fU(s.ay,r,q)
 J.uS(s.ch,p)
 J.uS(s.ch,s.CW)
-s.CW=A.B(r,q)
+s.CW=A.C(r,q)
 s.bi()
 s.d3()},
 $S:0}
@@ -84060,12 +84062,12 @@ q.f=r.a+s.a},
 L(a){var s,r,q,p,o=this,n=null,m=o.f
 m===$&&A.b()
 s=t.p
-m=A.iR(n,A.bF(A.c([A.C("\u55ae\u5b57\u7e3d\u89bd "+m+" \u500b  ",n,n,n,n,n,n),A.ap(A.C("\u4e00\u9375\u6e05\u7a7a",n,n,n,n,n,n),new A.amj(o,a),n)],s),B.t,B.y,B.p,n))
+m=A.iR(n,A.bF(A.c([A.A("\u55ae\u5b57\u7e3d\u89bd "+m+" \u500b  ",n,n,n,n,n,n),A.ap(A.A("\u4e00\u9375\u6e05\u7a7a",n,n,n,n,n,n),new A.amj(o,a),n)],s),B.t,B.y,B.p,n))
 r=A.c([A.hF(o.y,A.fP(n,n,n,n,n,n,n,n,!0,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,A.ad(n,n,n,n,n,n,n,n,n,n,n,12,n,n,n,n,n,!0,n,n,n,n,n,n,n,n),"\u5206\u985e(\u9078\u586b)...",n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n),o.ay,!1,n,new A.amk(o)),A.hF(o.r,A.fP(n,n,n,n,n,n,n,n,!0,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,A.ad(n,n,n,n,n,n,n,n,n,n,n,12,n,n,n,n,n,!0,n,n,n,n,n,n,n,n),"Enter the word here [REQUIRED]...",n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n),o.as,!1,new A.aml(o),new A.amm(o)),A.hF(o.w,A.fP(n,n,n,n,n,n,n,n,!0,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,A.ad(n,n,n,n,n,n,n,n,n,n,n,12,n,n,n,n,n,!0,n,n,n,n,n,n,n,n),"Enter \u8a5e\u6027(\u9078\u586b)...",n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n),o.at,!1,n,new A.amn(o)),A.hF(o.x,A.fP(n,n,n,n,n,n,n,n,!0,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,A.ad(n,n,n,n,n,n,n,n,n,n,n,12,n,n,n,n,n,!0,n,n,n,n,n,n,n,n),u.d,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n),o.ax,!1,new A.amo(o),new A.amp(o))],s)
 q=o.z
 if(q.length!==0){p=A.a3(q).i("ak<1,lQ>")
 r.push(new A.dK(B.bM,n,n,A.bV(A.aa(new A.ak(q,new A.amq(o),p),!0,p.i("ax.E")),B.c3,B.y,B.p,n),n))}r.push(A.b1(n,10,n))
-r.push(A.ap(A.C("Add",n,n,n,n,n,n),new A.amr(o,a),n))
+r.push(A.ap(A.A("Add",n,n,n,n,n,n),new A.amr(o,a),n))
 q=o.d
 q===$&&A.b()
 q=A.oC(new A.ams(o),q.a,new A.oP(n),!0)
@@ -84074,8 +84076,8 @@ p===$&&A.b()
 r.push(A.fL(A.avi(A.c([q,A.oC(new A.amt(o),p.a,new A.oP(n),!0)],s))))
 return A.ih(m,A.dY(n,A.bV(r,B.t,B.y,B.p,n),B.v,n,n,n,n,new A.aD(10,10,10,10),n))}}
 A.am0.prototype={
-$1(a){var s=null,r=A.C("\u63d0\u793a",s,s,s,s,s,s),q=A.C("\u8acb\u8f38\u5165\u55ae\u5b57\u548c\u4e2d\u6587\u7ffb\u8b6f(\u5fc5\u586b)\uff01",s,s,s,s,s,s)
-return A.hc(A.c([A.dn(A.C("OK",s,s,s,s,s,s),new A.am_(a),s)],t.p),q,r)},
+$1(a){var s=null,r=A.A("\u63d0\u793a",s,s,s,s,s,s),q=A.A("\u8acb\u8f38\u5165\u55ae\u5b57\u548c\u4e2d\u6587\u7ffb\u8b6f(\u5fc5\u586b)\uff01",s,s,s,s,s,s)
+return A.hc(A.c([A.dn(A.A("OK",s,s,s,s,s,s),new A.am_(a),s)],t.p),q,r)},
 $S:17}
 A.am_.prototype={
 $0(){A.c3(this.a,!1).fL(null)},
@@ -84106,8 +84108,8 @@ A.amj.prototype={
 $0(){A.hQ(new A.ami(this.a),this.b,t.z)},
 $S:0}
 A.ami.prototype={
-$1(a){var s=null,r=A.C("\u78ba\u8a8d\u6e05\u7a7a",s,s,s,s,s,s),q=A.C("\u78ba\u8a8d\u5c07\u9020\u6210\u7121\u53ef\u633d\u56de\u7684\u5c40\u9762 (._.\uff1f)\uff1f",s,s,s,s,s,s)
-return A.hc(A.c([A.dn(A.C("\u53d6\u6d88",s,s,s,s,s,s),new A.am7(a),s),A.dn(A.C("\u78ba\u8a8d",s,s,s,s,s,s),new A.am8(this.a,a),s)],t.p),q,r)},
+$1(a){var s=null,r=A.A("\u78ba\u8a8d\u6e05\u7a7a",s,s,s,s,s,s),q=A.A("\u78ba\u8a8d\u5c07\u9020\u6210\u7121\u53ef\u633d\u56de\u7684\u5c40\u9762 (._.\uff1f)\uff1f",s,s,s,s,s,s)
+return A.hc(A.c([A.dn(A.A("\u53d6\u6d88",s,s,s,s,s,s),new A.am7(a),s),A.dn(A.A("\u78ba\u8a8d",s,s,s,s,s,s),new A.am8(this.a,a),s)],t.p),q,r)},
 $S:17}
 A.am7.prototype={
 $0(){A.c3(this.a,!1).dc()},
@@ -84179,7 +84181,7 @@ $1(a){this.a.z=A.c([],t.s)},
 $S:7}
 A.amq.prototype={
 $1(a){var s=null,r=A.br(s,s,s,s,s,s,s,s,s,s,s,s,B.aA,s,new A.bp(A.dv(0),B.l),s,s,s,s)
-return A.ap(A.dY(B.ac,A.C(a,s,s,s,s,s,s),B.v,s,s,40,s,s,100),new A.amd(this.a,a),r)},
+return A.ap(A.dY(B.ac,A.A(a,s,s,s,s,s,s),B.v,s,s,40,s,s,100),new A.amd(this.a,a),r)},
 $S:134}
 A.amd.prototype={
 $0(){var s=this.a
@@ -84196,8 +84198,8 @@ if(s.r.a.a.length===0||s.x.a.a.length===0)A.hQ(new A.amb(),this.b,t.z)
 else s.H(new A.amc(s))},
 $S:0}
 A.amb.prototype={
-$1(a){var s=null,r=A.C("\u63d0\u793a",s,s,s,s,s,s),q=A.C("\u8acb\u8f38\u5165\u55ae\u5b57\u548c\u4e2d\u6587\u7ffb\u8b6f(\u5fc5\u586b)\uff01",s,s,s,s,s,s)
-return A.hc(A.c([A.dn(A.C("OK",s,s,s,s,s,s),new A.am5(a),s)],t.p),q,r)},
+$1(a){var s=null,r=A.A("\u63d0\u793a",s,s,s,s,s,s),q=A.A("\u8acb\u8f38\u5165\u55ae\u5b57\u548c\u4e2d\u6587\u7ffb\u8b6f(\u5fc5\u586b)\uff01",s,s,s,s,s,s)
+return A.hc(A.c([A.dn(A.A("OK",s,s,s,s,s,s),new A.am5(a),s)],t.p),q,r)},
 $S:17}
 A.am5.prototype={
 $0(){A.c3(this.a,!1).fL(null)},
@@ -84230,7 +84232,7 @@ o===$&&A.b()
 s=new A.aF(o,A.n(o).i("aF<1>")).aV(0,o.a-b-1)
 r=p.d.h(0,s)
 o=J.ao(r)
-return A.me(!1,q,q,q,!0,q,!1,q,q,q,!1,q,q,q,q,q,A.C(A.i(o.h(r,"class"))+"  ,[ "+s+" ]: "+A.i(o.h(r,"pos"))+" --- "+A.i(o.h(r,"chinese")),q,q,q,q,q,q),A.ap(A.C("\u522a\u9664",q,q,q,q,q,q),new A.ama(p,s),q),q)},
+return A.me(!1,q,q,q,!0,q,!1,q,q,q,!1,q,q,q,q,q,A.A(A.i(o.h(r,"class"))+"  ,[ "+s+" ]: "+A.i(o.h(r,"pos"))+" --- "+A.i(o.h(r,"chinese")),q,q,q,q,q,q),A.ap(A.A("\u522a\u9664",q,q,q,q,q,q),new A.ama(p,s),q),q)},
 $S:40}
 A.ama.prototype={
 $0(){var s,r,q=this.a
@@ -84257,7 +84259,7 @@ o===$&&A.b()
 s=new A.aF(o,A.n(o).i("aF<1>")).aV(0,b)
 r=p.e.h(0,s)
 o=J.ao(r)
-return A.me(!1,q,q,q,!0,q,!1,q,q,q,!1,q,q,q,q,q,A.C("[ "+s+" ]: "+A.i(o.h(r,"pos"))+" --- "+A.i(o.h(r,"chinese")),q,q,q,q,q,q),A.ap(A.C("\u522a\u9664",q,q,q,q,q,q),new A.am9(p,s),q),q)},
+return A.me(!1,q,q,q,!0,q,!1,q,q,q,!1,q,q,q,q,q,A.A("[ "+s+" ]: "+A.i(o.h(r,"pos"))+" --- "+A.i(o.h(r,"chinese")),q,q,q,q,q,q),A.ap(A.A("\u522a\u9664",q,q,q,q,q,q),new A.am9(p,s),q),q)},
 $S:40}
 A.am9.prototype={
 $0(){var s,r,q=this.a
@@ -84280,7 +84282,7 @@ s.C(0,this.b)},
 $S:0}
 A.jn.prototype={
 ai(){var s=t.N,r=t.z,q=A.a(["gender",A.a(["class","0","pos","n","chinese","\u6027\u5225"],s,s),"gap",A.a(["class","0","pos","n","chinese","\u5dee\u8ddd;\u5206\u6b67;\u9593\u9699"],s,s),"path",A.a(["class","0","pos","n","chinese","\u884c\u52d5\u8a08\u756b;\u9014\u5f91"],s,s),"population",A.a(["class","0","pos","n","chinese","\u4eba\u53e3"],s,s),"protest",A.a(["class","0","pos","v/n","chinese","\u6297\u8b70;\u53cd\u5c0d"],s,s),"domestic",A.a(["class","0","pos","adj","chinese","\u5bb6\u5ead\u7684;\u570b\u5167\u7684"],s,s),"chore",A.a(["class","0","pos","n","chinese","\u65e5\u5e38\u7463\u4e8b"],s,s),"majority",A.a(["class","0","pos","n","chinese","\u5927\u591a\u6578"],s,s),"chaos",A.a(["class","0","pos","n","chinese","\u6df7\u4e82"],s,s),"additionally",A.a(["class","0","pos","adv","chinese","\u53e6\u5916;\u6b64\u5916"],s,s),"addition",A.a(["class","0","pos","n","chinese","\u589e\u52a0\u7269"],s,s),"additional",A.a(["class","0","pos","adj","chinese","\u9644\u52a0\u7684;\u984d\u5916\u7684"],s,s),"nursery",A.a(["class","0","pos","n","chinese","\u5e7c\u5152\u5712"],s,s),"paralyze",A.a(["class","0","pos","v","chinese","\u4f7f\u9677\u5165\u7671\u7613"],s,s),"council",A.a(["class","0","pos","n","chinese","\u59d4\u54e1\u6703"],s,s),"ban",A.a(["class","0","pos","v/n","chinese","\u660e\u4ee4\u7981\u6b62/\u7981\u4ee4"],s,s),"discriminate",A.a(["class","0","pos","v","chinese","\u6b67\u8996"],s,s),"discrimination",A.a(["class","0","pos","n","chinese","\u6b67\u8996;\u8fa8\u5225\u5340\u5206"],s,s),"democratic",A.a(["class","0","pos","adj","chinese","\u6c11\u4e3b\u7684"],s,s),"democracy",A.a(["class","0","pos","n","chinese","\u6c11\u4e3b"],s,s),"anniversary",A.a(["class","0","pos","n","chinese","\u5468\u5e74\u7d00\u5ff5\u65e5"],s,s),"salary",A.a(["class","0","pos","n","chinese","\u85aa\u6c34"],s,s),"tough",A.a(["class","0","pos","adj","chinese","\u56b4\u53b2\u7684;\u5f37\u786c\u7684"],s,s),"revolutionary",A.a(["class","0","pos","adj","chinese","\u9769\u547d\u6027\u7684"],s,s),"revolution",A.a(["class","0","pos","n","chinese","\u9769\u547d"],s,s),"certificate",A.a(["class","0","pos","n","chinese","\u8b49\u660e\u66f8;\u6587\u6191"],s,s),"strict",A.a(["class","0","pos","adj","chinese","\u56b4\u683c\u7684"],s,s),"bold",A.a(["class","0","pos","adj","chinese","\u5927\u81bd\u7684"],s,s),"eliminate",A.a(["class","0","pos","v","chinese","\u6d88\u9664"],s,s),"marvelous",A.a(["class","0","pos","adj","chinese","\u6975\u597d\u7684"],s,s),"marvel",A.a(["class","0","pos","v/n","chinese","\u611f\u5230\u9a5a\u5947;\u5947\u8e5f"],s,s),"takeday off",A.a(["class","0","pos","x","chinese","\u4f11\u5047"],s,s),"look after",A.a(["class","0","pos","x","chinese","\u7167\u9867"],s,s),"take to the streets",A.a(["class","0","pos","x","chinese","\u8d70\u4e0a\u8857\u982d"],s,s),"come to a standstill",A.a(["class","0","pos","x","chinese","\u505c\u9813"],s,s),"take care of",A.a(["class","0","pos","x","chinese","\u7167\u9867;\u8ca0\u8cac\u8655\u7406"],s,s),"take steps",A.a(["class","0","pos","x","chinese","\u63a1\u53d6\u63aa\u65bd"],s,s),"in this regard",A.a(["class","0","pos","x","chinese","\u5728\u9019\u65b9\u9762"],s,s),"psychology",A.a(["class","0","pos","n.","chinese","\u5fc3\u7406\u5b78"],s,s),"overwhelming",A.a(["class","0","pos","adj.","chinese","\u6975\u5927\u7684/\u58d3\u5012\u6027\u7684"],s,s),"marathon",A.a(["class","0","pos","n.","chinese","\u99ac\u62c9\u677e"],s,s),"charity",A.a(["class","0","pos","n.","chinese","\u6148\u5584\u5718\u9ad4,\u6a5f\u69cb"],s,s),"consequently",A.a(["class","0","pos","adv.","chinese","\u56e0\u6b64/\u7d50\u679c"],s,s),"potential",A.a(["class","0","pos","n.","chinese","\u6f5b\u529b/\u53ef\u80fd\u6027"],s,s),"determination",A.a(["class","0","pos","n.","chinese","\u6c7a\u5fc3/\u6bc5\u529b"],s,s),"inspire",A.a(["class","0","pos","v.","chinese","\u6fc0\u52f5/\u9f13\u821e"],s,s),"expose",A.a(["class","0","pos","v.","chinese","\u4f7f\u63a5\u89f8"],s,s),"weird",A.a(["class","0","pos","adj.","chinese","\u5947\u602a\u7684/\u4e0d\u5c0b\u5e38\u7684"],s,s),"diligent",A.a(["class","0","pos","adj.","chinese","\u52e4\u596e\u7684"],s,s),"undertake",A.a(["class","0","pos","v.","chinese","\u5f9e\u4e8b/\u627f\u64d4/\u627f\u8afe"],s,s),"remark",A.a(["class","0","pos","v.","chinese","\u8ac7\u8ad6"],s,s),"delightfully",A.a(["class","0","pos","adv.","chinese","\u4ee4\u4eba\u6109\u6085\u5730/\u8a0e\u559c\u7684"],s,s),"blow away",A.a(["class","0","pos","x","chinese","\u4f7f...\u5927\u70ba\u9a5a\u8277"],s,s),"exclaim",A.a(["class","0","pos","v.","chinese","\u5927\u558a/\u9a5a\u547c"],s,s),"imply",A.a(["class","0","pos","v.","chinese","\u6697\u6307/\u6697\u793a"],s,s),"triple",A.a(["class","0","pos","adj.","chinese","\u4e09\u500d\u7684"],s,s),"professional",A.a(["class","0","pos","n.","chinese","\u5c08\u696d\u4eba\u58eb"],s,s),"celebrity",A.a(["class","0","pos","n.","chinese","\u540d\u4eba"],s,s),"regulation",A.a(["class","0","pos","n.","chinese","\u898f\u7bc4"],s,s),"despite",A.a(["class","0","pos","prep.","chinese","\u5118\u7ba1/\u7121\u8ad6"],s,s),"labor",A.a(["class","0","pos","n.","chinese","\u52de\u5de5"],s,s),"script",A.a(["class","0","pos","n.","chinese","\u5287\u672c"],s,s),"scan",A.a(["class","0","pos","v.","chinese","\u6383\u63cf/\u700f\u89bd"],s,s),"ultimately",A.a(["class","0","pos","adv.","chinese","\u6700\u7d42"],s,s),"negotiation",A.a(["class","0","pos","n.","chinese","\u8ac7\u5224/\u5354\u5546"],s,s),"issue",A.a(["class","0","pos","n.","chinese","\u554f\u984c/\u8b70\u984c"],s,s),"impact",A.a(["class","0","pos","v.","chinese","\u5f71\u97ff/\u885d\u64ca"],s,s),"numerous",A.a(["class","0","pos","adj.","chinese","\u8a31\u591a\u7684/\u5927\u91cf\u7684"],s,s),"episode",A.a(["class","0","pos","n.","chinese","\u4e00\u96c6/\u7d93\u6b77/\u4e8b\u4ef6"],s,s),"severely",A.a(["class","0","pos","adv.","chinese","\u56b4\u91cd\u5730"],s,s),"complicate",A.a(["class","0","pos","v.","chinese","\u4f7f\u8907\u96dc\u5316"],s,s),"extend",A.a(["class","0","pos","v.","chinese","\u5ef6\u4f38/\u64f4\u5c55"],s,s),"compromise",A.a(["class","0","pos","n.","chinese","\u59a5\u5354/\u548c\u89e3"],s,s),"massive",A.a(["class","0","pos","adj.","chinese","\u5de8\u5927\u7684/\u5927\u91cf\u7684"],s,s)],s,r)
-return new A.yr(q,A.B(s,r),A.B(s,r),new A.eA(B.aY,$.as()),B.k)}}
+return new A.yr(q,A.C(s,r),A.C(s,r),new A.eA(B.aY,$.as()),B.k)}}
 A.yr.prototype={
 aq(){this.aJ()
 this.ez()},
@@ -84325,41 +84327,41 @@ a=r.a=B.c.hi(a)
 if(J.nz(s.ch,a)&&a===s.d){s.H(new A.a6d(r,s))
 s.d3()}},
 Hr(a,b){this.H(new A.a6g(this,a,b))},
-L(a){var s,r,q,p=this,o=null,n=A.iR(B.e7,A.C("RCc\u80cc\u55ae\u5b57",o,o,o,o,o,o)),m=A.bC(a,o,t.w).w,l=A.C("[RCC orz]",o,o,o,A.ad(o,o,o,o,o,o,o,o,o,o,o,12,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),o,o),k=A.b1(o,10,o),j=A.C("\u586b\u7a7a",o,o,o,A.ad(o,o,o,o,o,o,o,o,o,o,o,10,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),o,o),i=A.dv(0),h=p.as?B.E:o
+L(a){var s,r,q,p=this,o=null,n=A.iR(B.e7,A.A("RCc\u80cc\u55ae\u5b57",o,o,o,o,o,o)),m=A.bC(a,o,t.w).w,l=A.A("[RCC orz]",o,o,o,A.ad(o,o,o,o,o,o,o,o,o,o,o,12,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),o,o),k=A.b1(o,10,o),j=A.A("\u586b\u7a7a",o,o,o,A.ad(o,o,o,o,o,o,o,o,o,o,o,10,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),o,o),i=A.dv(0),h=p.as?B.E:o
 i=A.ap(j,new A.a5X(p),A.br(o,o,h,o,o,o,o,o,o,o,o,new A.E(0,30),o,o,new A.bp(i,B.l),o,o,o,o))
-h=A.C("\u5b78\u7fd2",o,o,o,A.ad(o,o,o,o,o,o,o,o,o,o,o,10,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),o,o)
+h=A.A("\u5b78\u7fd2",o,o,o,A.ad(o,o,o,o,o,o,o,o,o,o,o,10,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),o,o)
 j=A.dv(0)
 s=p.at?B.E:o
 j=A.ap(h,new A.a5Y(p),A.br(o,o,s,o,o,o,o,o,o,o,o,new A.E(10,30),o,o,new A.bp(j,B.l),o,o,o,o))
-s=A.C("\u6e2c\u9a57",o,o,o,A.ad(o,o,o,o,o,o,o,o,o,o,o,10,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),o,o)
+s=A.A("\u6e2c\u9a57",o,o,o,A.ad(o,o,o,o,o,o,o,o,o,o,o,10,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),o,o)
 h=A.dv(0)
 r=p.ax?B.E:o
 q=t.p
-h=A.c([A.bF(A.c([l,k,A.bF(A.c([i,j,A.ap(s,new A.a5Z(p),A.br(o,o,r,o,o,o,o,o,o,o,o,new A.E(10,30),o,o,new A.bp(h,B.l),o,o,o,o))],q),B.t,B.y,B.p,o)],q),B.t,B.d1,B.p,o),new A.cq(new A.aD(0,0,0,0),new A.dK(B.bM,o,o,A.ap(A.C(" I Wanna Go Home!",o,o,o,A.ad(o,o,o,o,o,o,o,o,o,o,o,10,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),o,o),new A.a65(a),A.br(o,o,o,o,o,o,o,o,o,o,o,new A.E(30,30),o,o,new A.bp(A.dv(3),B.l),o,o,o,o)),o),o)],q)
-if(p.ax){l=A.c([A.il(A.bF(A.c([A.C("\u8a5e\u6027: ",o,o,o,A.ad(o,o,B.h,o,o,o,o,o,o,o,o,15,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),B.C,o),A.C(" "+p.f,o,o,o,A.ad(o,o,B.h,o,o,o,o,o,o,o,o,25,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),B.C,o),A.C(" , \u4e2d\u6587: ",o,o,o,A.ad(o,o,B.h,o,o,o,o,o,o,o,o,15,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),B.C,o),A.C(p.r+"  ",o,o,o,A.ad(o,o,B.h,o,o,o,o,o,o,o,o,25,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),B.C,o),A.ap(A.e_(B.b_,o),new A.a66(p),A.br(o,o,o,o,o,o,o,o,o,o,o,new A.E(70,30),o,o,o,o,o,o,o))],q),B.aZ,B.al,B.p,B.m),B.ai),A.b1(o,10,o),A.ap(A.C("ANS",o,o,o,A.ad(o,o,o,o,o,o,o,o,o,o,o,10,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),o,o),new A.a67(p),A.br(o,o,o,o,o,o,o,o,o,o,o,new A.E(70,30),o,o,o,o,o,o,o)),A.b1(o,10,o)],q)
+h=A.c([A.bF(A.c([l,k,A.bF(A.c([i,j,A.ap(s,new A.a5Z(p),A.br(o,o,r,o,o,o,o,o,o,o,o,new A.E(10,30),o,o,new A.bp(h,B.l),o,o,o,o))],q),B.t,B.y,B.p,o)],q),B.t,B.d1,B.p,o),new A.cq(new A.aD(0,0,0,0),new A.dK(B.bM,o,o,A.ap(A.A(" I Wanna Go Home!",o,o,o,A.ad(o,o,o,o,o,o,o,o,o,o,o,10,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),o,o),new A.a65(a),A.br(o,o,o,o,o,o,o,o,o,o,o,new A.E(30,30),o,o,new A.bp(A.dv(3),B.l),o,o,o,o)),o),o)],q)
+if(p.ax){l=A.c([A.il(A.bF(A.c([A.A("\u8a5e\u6027: ",o,o,o,A.ad(o,o,B.h,o,o,o,o,o,o,o,o,15,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),B.C,o),A.A(" "+p.f,o,o,o,A.ad(o,o,B.h,o,o,o,o,o,o,o,o,25,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),B.C,o),A.A(" , \u4e2d\u6587: ",o,o,o,A.ad(o,o,B.h,o,o,o,o,o,o,o,o,15,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),B.C,o),A.A(p.r+"  ",o,o,o,A.ad(o,o,B.h,o,o,o,o,o,o,o,o,25,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),B.C,o),A.ap(A.e_(B.b_,o),new A.a66(p),A.br(o,o,o,o,o,o,o,o,o,o,o,new A.E(70,30),o,o,o,o,o,o,o))],q),B.aZ,B.al,B.p,B.m),B.ai),A.b1(o,10,o),A.ap(A.A("ANS",o,o,o,A.ad(o,o,o,o,o,o,o,o,o,o,o,10,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),o,o),new A.a67(p),A.br(o,o,o,o,o,o,o,o,o,o,o,new A.E(70,30),o,o,o,o,o,o,o)),A.b1(o,10,o)],q)
 k=p.e
-if(k.length!==0)l.push(A.C(k,o,o,o,A.ad(o,o,B.h,o,o,o,o,o,o,o,o,20,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),B.C,o))
+if(k.length!==0)l.push(A.A(k,o,o,o,A.ad(o,o,B.h,o,o,o,o,o,o,o,o,20,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),B.C,o))
 else{k=p.x
-if(k.length!==0)l.push(A.C(" "+k+" "+B.c.ab("_",p.d.length-2)+" "+p.y,o,o,o,A.ad(o,o,B.h,o,o,o,o,o,o,o,o,20,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),B.C,o))}l.push(A.hF(p.cx,A.fP(o,new A.fi(4,B.c1,B.dv),o,o,o,o,o,o,!0,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,A.ad(o,o,o,o,o,o,o,o,o,o,o,12,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),"Enter text here...",o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o),o,!1,new A.a68(p),new A.a69(p)))
-l.push(A.C("",o,o,o,o,o,o))
-l.push(A.bF(A.c([A.fL(A.ap(A.C("\u78ba\u8a8d",o,o,o,o,o,o),new A.a6a(p),o))],q),B.t,B.y,B.p,o))
+if(k.length!==0)l.push(A.A(" "+k+" "+B.c.ab("_",p.d.length-2)+" "+p.y,o,o,o,A.ad(o,o,B.h,o,o,o,o,o,o,o,o,20,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),B.C,o))}l.push(A.hF(p.cx,A.fP(o,new A.fi(4,B.c1,B.dv),o,o,o,o,o,o,!0,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,A.ad(o,o,o,o,o,o,o,o,o,o,o,12,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),"Enter text here...",o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o),o,!1,new A.a68(p),new A.a69(p)))
+l.push(A.A("",o,o,o,o,o,o))
+l.push(A.bF(A.c([A.fL(A.ap(A.A("\u78ba\u8a8d",o,o,o,o,o,o),new A.a6a(p),o))],q),B.t,B.y,B.p,o))
 h.push(A.bV(l,B.t,B.al,B.p,o))}if(p.at){l=A.c([],q)
 k=p.d
-if(k.length!==0)l.push(A.C(k+"  ",o,o,o,A.ad(o,o,B.h,o,o,o,o,o,o,o,o,25,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),B.C,o))
+if(k.length!==0)l.push(A.A(k+"  ",o,o,o,A.ad(o,o,B.h,o,o,o,o,o,o,o,o,25,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),B.C,o))
 if(p.d.length!==0)l.push(A.ap(A.e_(B.b_,o),new A.a6b(p),A.br(o,o,o,o,o,o,o,o,o,o,o,new A.E(70,30),o,o,o,o,o,o,o)))
-l=A.c([A.bF(l,B.aZ,B.al,B.p,B.m),A.b1(o,10,o),A.ap(A.C("Translation",o,o,o,A.ad(o,o,o,o,o,o,o,o,o,o,o,10,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),o,o),new A.a6c(p),A.br(o,o,o,o,o,o,o,o,o,o,o,new A.E(70,30),o,o,o,o,o,o,o)),A.b1(o,10,o)],q)
-if(p.z===1)l.push(A.bV(A.c([A.C(p.r,o,o,o,A.ad(o,o,B.h,o,o,o,o,o,o,o,o,20,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),B.C,o),A.C(p.f,o,o,o,A.ad(o,o,B.h,o,o,o,o,o,o,o,o,20,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),B.C,o)],q),B.t,B.y,B.p,o))
+l=A.c([A.bF(l,B.aZ,B.al,B.p,B.m),A.b1(o,10,o),A.ap(A.A("Translation",o,o,o,A.ad(o,o,o,o,o,o,o,o,o,o,o,10,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),o,o),new A.a6c(p),A.br(o,o,o,o,o,o,o,o,o,o,o,new A.E(70,30),o,o,o,o,o,o,o)),A.b1(o,10,o)],q)
+if(p.z===1)l.push(A.bV(A.c([A.A(p.r,o,o,o,A.ad(o,o,B.h,o,o,o,o,o,o,o,o,20,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),B.C,o),A.A(p.f,o,o,o,A.ad(o,o,B.h,o,o,o,o,o,o,o,o,20,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),B.C,o)],q),B.t,B.y,B.p,o))
 l.push(A.b1(o,30,o))
-l.push(A.bF(A.c([A.fL(A.ap(A.C("learned",o,o,o,o,o,o),new A.a6_(p),o))],q),B.t,B.y,B.p,o))
+l.push(A.bF(A.c([A.fL(A.ap(A.A("learned",o,o,o,o,o,o),new A.a6_(p),o))],q),B.t,B.y,B.p,o))
 h.push(A.bV(l,B.t,B.al,B.p,o))}h.push(A.b1(o,5,o))
-h.push(A.ap(A.C("skip",o,o,o,o,o,o),new A.a60(p),o))
-h.push(A.C("",o,o,o,o,o,o))
-if(J.e8(p.CW))h.push(A.ap(A.C("\u67e5\u770b\u5df2\u5b78\u6703\u7684\u55ae\u5b57",o,o,o,o,o,o),new A.a61(p,a),o))
+h.push(A.ap(A.A("skip",o,o,o,o,o,o),new A.a60(p),o))
+h.push(A.A("",o,o,o,o,o,o))
+if(J.e8(p.CW))h.push(A.ap(A.A("\u67e5\u770b\u5df2\u5b78\u6703\u7684\u55ae\u5b57",o,o,o,o,o,o),new A.a61(p,a),o))
 h.push(A.b1(o,1,o))
-if(J.e8(p.ch))h.push(A.ap(A.C("\u67e5\u770b\u5269\u9918\u55ae\u5b57",o,o,o,o,o,o),new A.a62(p,a),o))
-h.push(A.ap(A.C("\u7de8\u8f2f\u55ae\u5b57",o,o,o,o,o,o),new A.a63(p,a),o))
-h.push(A.C("",o,o,o,o,o,o))
-h.push(A.ap(A.C("\u91cd\u7f6e",o,o,o,o,o,o),new A.a64(p,a),o))
+if(J.e8(p.ch))h.push(A.ap(A.A("\u67e5\u770b\u5269\u9918\u55ae\u5b57",o,o,o,o,o,o),new A.a62(p,a),o))
+h.push(A.ap(A.A("\u7de8\u8f2f\u55ae\u5b57",o,o,o,o,o,o),new A.a63(p,a),o))
+h.push(A.A("",o,o,o,o,o,o))
+h.push(A.ap(A.A("\u91cd\u7f6e",o,o,o,o,o,o),new A.a64(p,a),o))
 return A.ih(n,A.dY(o,A.il(new A.dX(new A.au(0,1/0,m.a.b,1/0),A.bV(h,B.c4,B.y,B.p,o),o),B.aj),B.v,B.d2,o,o,o,B.f2,o))}}
 A.a6e.prototype={
 $0(){var s=this.a,r=this.b.a,q=J.ao(r),p=A.c5(q.h(r,"RClearnedDatabase"))
@@ -84575,8 +84577,8 @@ A.a64.prototype={
 $0(){A.hQ(new A.a5J(this.a),this.b,t.z)},
 $S:0}
 A.a5J.prototype={
-$1(a){var s=null,r=A.C("\u78ba\u8a8d\u91cd\u7f6e",s,s,s,s,s,s),q=A.C("\u78ba\u5b9a\u5f8c\u5c07\u5fa9\u539f\u4e26\u6e05\u7a7a\u5df2\u5b78\u6703\u6e05\u55ae",s,s,s,s,s,s)
-return A.hc(A.c([A.dn(A.C("\u53d6\u6d88",s,s,s,s,s,s),new A.a5F(a),s),A.ap(A.C("\u78ba\u8a8d",s,s,s,s,s,s),new A.a5G(this.a,a),s)],t.p),q,r)},
+$1(a){var s=null,r=A.A("\u78ba\u8a8d\u91cd\u7f6e",s,s,s,s,s,s),q=A.A("\u78ba\u5b9a\u5f8c\u5c07\u5fa9\u539f\u4e26\u6e05\u7a7a\u5df2\u5b78\u6703\u6e05\u55ae",s,s,s,s,s,s)
+return A.hc(A.c([A.dn(A.A("\u53d6\u6d88",s,s,s,s,s,s),new A.a5F(a),s),A.ap(A.A("\u78ba\u8a8d",s,s,s,s,s,s),new A.a5G(this.a,a),s)],t.p),q,r)},
 $S:17}
 A.a5F.prototype={
 $0(){A.c3(this.a,!1).fL(null)},
@@ -84590,7 +84592,7 @@ A.a5C.prototype={
 $0(){var s=this.a,r=t.N,q=t.z,p=A.fU(s.ay,r,q)
 J.uS(s.ch,s.CW)
 J.uS(s.ch,p)
-s.CW=A.B(r,q)
+s.CW=A.C(r,q)
 s.bi()
 s.d3()},
 $S:0}
@@ -84617,12 +84619,12 @@ q.f=r.a+s.a},
 L(a){var s,r,q,p,o=this,n=null,m=o.f
 m===$&&A.b()
 s=t.p
-m=A.iR(n,A.bF(A.c([A.C("\u55ae\u5b57\u7e3d\u89bd "+m+" \u500b  ",n,n,n,n,n,n),A.ap(A.C("\u4e00\u9375\u6e05\u7a7a",n,n,n,n,n,n),new A.aiw(o,a),n)],s),B.t,B.y,B.p,n))
+m=A.iR(n,A.bF(A.c([A.A("\u55ae\u5b57\u7e3d\u89bd "+m+" \u500b  ",n,n,n,n,n,n),A.ap(A.A("\u4e00\u9375\u6e05\u7a7a",n,n,n,n,n,n),new A.aiw(o,a),n)],s),B.t,B.y,B.p,n))
 r=A.c([A.hF(o.y,A.fP(n,n,n,n,n,n,n,n,!0,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,A.ad(n,n,n,n,n,n,n,n,n,n,n,12,n,n,n,n,n,!0,n,n,n,n,n,n,n,n),"\u5206\u985e(\u9078\u586b)...",n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n),o.ay,!1,n,new A.aix(o)),A.hF(o.r,A.fP(n,n,n,n,n,n,n,n,!0,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,A.ad(n,n,n,n,n,n,n,n,n,n,n,12,n,n,n,n,n,!0,n,n,n,n,n,n,n,n),"Enter the word here [REQUIRED]...",n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n),o.as,!1,new A.aiy(o),new A.aiz(o)),A.hF(o.w,A.fP(n,n,n,n,n,n,n,n,!0,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,A.ad(n,n,n,n,n,n,n,n,n,n,n,12,n,n,n,n,n,!0,n,n,n,n,n,n,n,n),"Enter \u8a5e\u6027(\u9078\u586b)...",n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n),o.at,!1,n,new A.aiA(o)),A.hF(o.x,A.fP(n,n,n,n,n,n,n,n,!0,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,A.ad(n,n,n,n,n,n,n,n,n,n,n,12,n,n,n,n,n,!0,n,n,n,n,n,n,n,n),u.d,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n),o.ax,!1,new A.aiB(o),new A.aiC(o))],s)
 q=o.z
 if(q.length!==0){p=A.a3(q).i("ak<1,lQ>")
 r.push(new A.dK(B.bM,n,n,A.bV(A.aa(new A.ak(q,new A.aiD(o),p),!0,p.i("ax.E")),B.c3,B.y,B.p,n),n))}r.push(A.b1(n,10,n))
-r.push(A.ap(A.C("Add",n,n,n,n,n,n),new A.aiE(o,a),n))
+r.push(A.ap(A.A("Add",n,n,n,n,n,n),new A.aiE(o,a),n))
 q=o.d
 q===$&&A.b()
 q=A.oC(new A.aiF(o),q.a,new A.oP(n),!0)
@@ -84631,8 +84633,8 @@ p===$&&A.b()
 r.push(A.fL(A.avi(A.c([q,A.oC(new A.aiG(o),p.a,new A.oP(n),!0)],s))))
 return A.ih(m,A.dY(n,A.bV(r,B.t,B.y,B.p,n),B.v,n,n,n,n,new A.aD(10,10,10,10),n))}}
 A.aid.prototype={
-$1(a){var s=null,r=A.C("\u63d0\u793a",s,s,s,s,s,s),q=A.C("\u8acb\u8f38\u5165\u55ae\u5b57\u548c\u4e2d\u6587\u7ffb\u8b6f(\u5fc5\u586b)\uff01",s,s,s,s,s,s)
-return A.hc(A.c([A.dn(A.C("OK",s,s,s,s,s,s),new A.aic(a),s)],t.p),q,r)},
+$1(a){var s=null,r=A.A("\u63d0\u793a",s,s,s,s,s,s),q=A.A("\u8acb\u8f38\u5165\u55ae\u5b57\u548c\u4e2d\u6587\u7ffb\u8b6f(\u5fc5\u586b)\uff01",s,s,s,s,s,s)
+return A.hc(A.c([A.dn(A.A("OK",s,s,s,s,s,s),new A.aic(a),s)],t.p),q,r)},
 $S:17}
 A.aic.prototype={
 $0(){A.c3(this.a,!1).fL(null)},
@@ -84663,8 +84665,8 @@ A.aiw.prototype={
 $0(){A.hQ(new A.aiv(this.a),this.b,t.z)},
 $S:0}
 A.aiv.prototype={
-$1(a){var s=null,r=A.C("\u78ba\u8a8d\u6e05\u7a7a",s,s,s,s,s,s),q=A.C("\u78ba\u8a8d\u5c07\u9020\u6210\u7121\u53ef\u633d\u56de\u7684\u5c40\u9762 (._.\uff1f)\uff1f",s,s,s,s,s,s)
-return A.hc(A.c([A.dn(A.C("\u53d6\u6d88",s,s,s,s,s,s),new A.aik(a),s),A.dn(A.C("\u78ba\u8a8d",s,s,s,s,s,s),new A.ail(this.a,a),s)],t.p),q,r)},
+$1(a){var s=null,r=A.A("\u78ba\u8a8d\u6e05\u7a7a",s,s,s,s,s,s),q=A.A("\u78ba\u8a8d\u5c07\u9020\u6210\u7121\u53ef\u633d\u56de\u7684\u5c40\u9762 (._.\uff1f)\uff1f",s,s,s,s,s,s)
+return A.hc(A.c([A.dn(A.A("\u53d6\u6d88",s,s,s,s,s,s),new A.aik(a),s),A.dn(A.A("\u78ba\u8a8d",s,s,s,s,s,s),new A.ail(this.a,a),s)],t.p),q,r)},
 $S:17}
 A.aik.prototype={
 $0(){A.c3(this.a,!1).dc()},
@@ -84736,7 +84738,7 @@ $1(a){this.a.z=A.c([],t.s)},
 $S:7}
 A.aiD.prototype={
 $1(a){var s=null,r=A.br(s,s,s,s,s,s,s,s,s,s,s,s,B.aA,s,new A.bp(A.dv(0),B.l),s,s,s,s)
-return A.ap(A.dY(B.ac,A.C(a,s,s,s,s,s,s),B.v,s,s,40,s,s,100),new A.aiq(this.a,a),r)},
+return A.ap(A.dY(B.ac,A.A(a,s,s,s,s,s,s),B.v,s,s,40,s,s,100),new A.aiq(this.a,a),r)},
 $S:134}
 A.aiq.prototype={
 $0(){var s=this.a
@@ -84753,8 +84755,8 @@ if(s.r.a.a.length===0||s.x.a.a.length===0)A.hQ(new A.aio(),this.b,t.z)
 else s.H(new A.aip(s))},
 $S:0}
 A.aio.prototype={
-$1(a){var s=null,r=A.C("\u63d0\u793a",s,s,s,s,s,s),q=A.C("\u8acb\u8f38\u5165\u55ae\u5b57\u548c\u4e2d\u6587\u7ffb\u8b6f(\u5fc5\u586b)\uff01",s,s,s,s,s,s)
-return A.hc(A.c([A.dn(A.C("OK",s,s,s,s,s,s),new A.aii(a),s)],t.p),q,r)},
+$1(a){var s=null,r=A.A("\u63d0\u793a",s,s,s,s,s,s),q=A.A("\u8acb\u8f38\u5165\u55ae\u5b57\u548c\u4e2d\u6587\u7ffb\u8b6f(\u5fc5\u586b)\uff01",s,s,s,s,s,s)
+return A.hc(A.c([A.dn(A.A("OK",s,s,s,s,s,s),new A.aii(a),s)],t.p),q,r)},
 $S:17}
 A.aii.prototype={
 $0(){A.c3(this.a,!1).fL(null)},
@@ -84787,7 +84789,7 @@ o===$&&A.b()
 s=new A.aF(o,A.n(o).i("aF<1>")).aV(0,o.a-b-1)
 r=p.d.h(0,s)
 o=J.ao(r)
-return A.me(!1,q,q,q,!0,q,!1,q,q,q,!1,q,q,q,q,q,A.C(A.i(o.h(r,"class"))+"  ,[ "+s+" ]: "+A.i(o.h(r,"pos"))+" --- "+A.i(o.h(r,"chinese")),q,q,q,q,q,q),A.ap(A.C("\u522a\u9664",q,q,q,q,q,q),new A.ain(p,s),q),q)},
+return A.me(!1,q,q,q,!0,q,!1,q,q,q,!1,q,q,q,q,q,A.A(A.i(o.h(r,"class"))+"  ,[ "+s+" ]: "+A.i(o.h(r,"pos"))+" --- "+A.i(o.h(r,"chinese")),q,q,q,q,q,q),A.ap(A.A("\u522a\u9664",q,q,q,q,q,q),new A.ain(p,s),q),q)},
 $S:40}
 A.ain.prototype={
 $0(){var s,r,q=this.a
@@ -84814,7 +84816,7 @@ o===$&&A.b()
 s=new A.aF(o,A.n(o).i("aF<1>")).aV(0,b)
 r=p.e.h(0,s)
 o=J.ao(r)
-return A.me(!1,q,q,q,!0,q,!1,q,q,q,!1,q,q,q,q,q,A.C("[ "+s+" ]: "+A.i(o.h(r,"pos"))+" --- "+A.i(o.h(r,"chinese")),q,q,q,q,q,q),A.ap(A.C("\u522a\u9664",q,q,q,q,q,q),new A.aim(p,s),q),q)},
+return A.me(!1,q,q,q,!0,q,!1,q,q,q,!1,q,q,q,q,q,A.A("[ "+s+" ]: "+A.i(o.h(r,"pos"))+" --- "+A.i(o.h(r,"chinese")),q,q,q,q,q,q),A.ap(A.A("\u522a\u9664",q,q,q,q,q,q),new A.aim(p,s),q),q)},
 $S:40}
 A.aim.prototype={
 $0(){var s,r,q=this.a
@@ -85462,7 +85464,7 @@ q(A,"aNh","arA",506)
 r(A,"azQ",2,null,["$1$2","$2"],["azR",function(a,b){return A.azR(a,b,t.Jy)}],507,1)
 r(A,"F0",3,null,["$3"],["a9r"],508,0)
 r(A,"F1",3,null,["$3"],["Y"],509,0)
-r(A,"bL",3,null,["$3"],["A"],510,0)
+r(A,"bL",3,null,["$3"],["B"],510,0)
 o(A.Du.prototype,"gSR","dO",26)
 p(A.l5.prototype,"gKO","a2u",0)
 m(h=A.GM.prototype,"gafL","kF",77)
@@ -90065,7 +90067,7 @@ B.Te=new A.TP(1,"maximize")})();(function staticFields(){$.ary=null
 $.fC=null
 $.cs=A.ba("canvasKit")
 $.apE=A.ba("_instance")
-$.aDu=A.B(t.N,A.ar("av<aOG>"))
+$.aDu=A.C(t.N,A.ar("av<aOG>"))
 $.awD=!1
 $.ayc=null
 $.azl=0
@@ -90101,14 +90103,14 @@ $.avE=null
 $.bE=null
 $.zv=null
 $.ayw=null
-$.awy=A.B(A.ar("A6"),A.ar("LW"))
+$.awy=A.C(A.ar("A6"),A.ar("LW"))
 $.amD=null
 $.ayz=-1
 $.ayy=-1
 $.ayA=""
 $.ayx=""
 $.ayB=-1
-$.VP=A.B(t.N,t.e)
+$.VP=A.C(t.N,t.e)
 $.ayl=null
 $.ayE=1
 $.iF=null
@@ -90133,11 +90135,11 @@ $.arM=!1
 $.ay=B.aJ
 $.ax2=""
 $.ax3=null
-$.ayn=A.B(t.N,t.xd)
+$.ayn=A.C(t.N,t.xd)
 $.ayY=1
-$.EF=A.B(t.N,t.S)
+$.EF=A.C(t.N,t.S)
 $.abf=A.c([],A.ar("z<Ta?>"))
-$.ayJ=A.B(t.C_,t.e)
+$.ayJ=A.C(t.C_,t.e)
 $.aFj=A.aM_()
 $.aq6=0
 $.HD=A.c([],A.ar("z<aPt>"))
@@ -90155,8 +90157,8 @@ $.ave=0
 $.bO=null
 $.a8K=null
 $.atR=0
-$.atP=A.B(t.S,t.I7)
-$.atQ=A.B(t.I7,t.S)
+$.atP=A.C(t.S,t.I7)
+$.atQ=A.C(t.I7,t.S)
 $.a8Z=0
 $.e2=null
 $.tg=null
@@ -90270,16 +90272,16 @@ s($,"aSf","apl",()=>A.aMt(new A.aoW()))
 r($,"aOJ","ap8",()=>new A.HW(A.c([],A.ar("z<~(Q)>")),A.aur(self.window,"(forced-colors: active)")))
 s($,"aOC","aN",()=>A.aF2())
 r($,"aP2","apb",()=>{var q=t.N,p=t.S
-q=new A.JN(A.B(q,t._8),A.B(p,t.e),A.aP(q),A.B(p,q))
+q=new A.JN(A.C(q,t._8),A.C(p,t.e),A.aP(q),A.C(p,q))
 q.akj("_default_document_create_element_visible",A.aym())
 q.U2("_default_document_create_element_invisible",A.aym(),!1)
 return q})
 r($,"aP3","aAw",()=>new A.a5c($.apb()))
 s($,"aP4","aAx",()=>new A.a7U())
 s($,"aP5","asF",()=>new A.Gb())
-s($,"aP6","k_",()=>new A.afw(A.B(t.S,A.ar("um"))))
+s($,"aP6","k_",()=>new A.afw(A.C(t.S,A.ar("um"))))
 r($,"aKT","aBv",()=>A.EL())
-s($,"aRt","ae",()=>(A.eJ().gUh()!=null?A.eJ().gUh()==="canvaskit":A.aNd())?new A.vt(A.aDt(),A.aI8(!1),A.B(t.S,A.ar("tE"))):new A.a1Q())
+s($,"aRt","ae",()=>(A.eJ().gUh()!=null?A.eJ().gUh()==="canvaskit":A.aNd())?new A.vt(A.aDt(),A.aI8(!1),A.C(t.S,A.ar("tE"))):new A.a1Q())
 s($,"aSe","aCm",()=>A.aa4(65532))
 s($,"aOL","aAq",()=>A.cu("[a-z0-9\\s]+",!1,!1))
 s($,"aOM","aAr",()=>A.cu("\\b\\d",!0,!1))
@@ -90347,7 +90349,7 @@ s($,"aQ4","asO",()=>A.azC("_$dart_dartObject"))
 s($,"aQN","asS",()=>function DartObject(a){this.o=a})
 s($,"aQX","asV",()=>Symbol("jsBoxedDartObjectProperty"))
 s($,"aOA","ds",()=>A.rj(A.avx(A.c([1],t.t)).buffer,0,null).getInt8(0)===1?B.ay:B.zz)
-s($,"aRY","W2",()=>new A.Xz(A.B(t.N,A.ar("l5"))))
+s($,"aRY","W2",()=>new A.Xz(A.C(t.N,A.ar("l5"))))
 r($,"aRs","apg",()=>B.zC)
 s($,"aQZ","aBy",()=>A.aqU(1,1,500))
 r($,"aO0","aAe",()=>new A.Fp(B.w,B.w))
@@ -90388,7 +90390,7 @@ s($,"aQw","aBl",()=>A.h4(1,0.9,t.i).jB($.VZ()))
 s($,"aQ5","aB4",()=>A.h4(0.875,1,t.i).jB(A.lN(B.dI)))
 s($,"aSa","aCj",()=>new A.ID())
 s($,"aPF","aAN",()=>A.aIu())
-s($,"aPE","aAM",()=>new A.OP(A.B(A.ar("u5"),t.we),5,A.ar("OP<u5,hH>")))
+s($,"aPE","aAM",()=>new A.OP(A.C(A.ar("u5"),t.we),5,A.ar("OP<u5,hH>")))
 s($,"aOX","ap9",()=>A.aGi(4))
 r($,"aPd","aAA",()=>B.AB)
 r($,"aPf","aAC",()=>{var q=null
@@ -90403,22 +90405,22 @@ s($,"aPk","aAF",()=>A.avv(0))
 s($,"aPm","aAG",()=>A.avv(0))
 s($,"aPn","aAH",()=>A.aG5().a)
 s($,"aSh","apm",()=>{var q=t.N,p=t.L0
-return new A.a56(A.B(q,A.ar("av<p>")),A.B(q,p),A.B(q,p))})
+return new A.a56(A.C(q,A.ar("av<p>")),A.C(q,p),A.C(q,p))})
 s($,"aO5","asB",()=>new A.X5())
 s($,"aOR","aAu",()=>A.a([4294967562,B.DX,4294967564,B.DY,4294967556,B.DZ],t.S,t.SQ))
 s($,"aOU","aAv",()=>{var q=t.u
 return A.a([B.ja,A.c1([B.cc,B.cz],q),B.jc,A.c1([B.e6,B.fD],q),B.jb,A.c1([B.e5,B.fC],q),B.j9,A.c1([B.e4,B.fB],q)],q,A.ar("bl<h>"))})
-s($,"aPb","asH",()=>new A.a6n(A.c([],A.ar("z<~(kK)>")),A.B(t.v3,t.u)))
+s($,"aPb","asH",()=>new A.a6n(A.c([],A.ar("z<~(kK)>")),A.C(t.v3,t.u)))
 s($,"aPa","aAz",()=>{var q=t.v3
 return A.a([B.SL,A.c1([B.dc],q),B.SM,A.c1([B.de],q),B.SN,A.c1([B.dc,B.de],q),B.SK,A.c1([B.dc],q),B.SH,A.c1([B.db],q),B.SI,A.c1([B.ek],q),B.SJ,A.c1([B.db,B.ek],q),B.SG,A.c1([B.db],q),B.SD,A.c1([B.da],q),B.SE,A.c1([B.ej],q),B.SF,A.c1([B.da,B.ej],q),B.SC,A.c1([B.da],q),B.SP,A.c1([B.dd],q),B.SQ,A.c1([B.el],q),B.SR,A.c1([B.dd,B.el],q),B.SO,A.c1([B.dd],q),B.SS,A.c1([B.cA],q),B.ST,A.c1([B.fO],q),B.SU,A.c1([B.fN],q),B.SV,A.c1([B.ei],q)],A.ar("cM"),A.ar("bl<o>"))})
 s($,"aP9","asG",()=>A.a([B.dc,B.e5,B.de,B.fC,B.db,B.cc,B.ek,B.cz,B.da,B.e4,B.ej,B.fB,B.dd,B.e6,B.el,B.fD,B.cA,B.e1,B.fO,B.fz,B.fN,B.fA],t.v3,t.u))
-s($,"aP8","aAy",()=>{var q=A.B(t.v3,t.u)
+s($,"aP8","aAy",()=>{var q=A.C(t.v3,t.u)
 q.n(0,B.ei,B.j6)
 q.M(0,$.asG())
 return q})
 s($,"aOE","aAp",()=>new A.Hw("\n",!1,""))
 s($,"aPC","bT",()=>{var q=$.apd()
-q=new A.LX(q,A.c1([q],A.ar("A7")),A.B(t.N,A.ar("awg")))
+q=new A.LX(q,A.c1([q],A.ar("A7")),A.C(t.N,A.ar("awg")))
 q.c=B.te
 q.ga11().o5(q.ga7j())
 return q})
@@ -90429,7 +90431,7 @@ q.gabY().o5(q.ga6o())
 return q})
 r($,"aPW","aB_",()=>{var q=A.ar("~(bc<b_>)")
 return A.a([B.QD,A.atY(!0),B.Rp,A.atY(!1),B.QZ,new A.Ku(A.y1(q)),B.QQ,new A.IX(A.y1(q)),B.QV,new A.JS(A.y1(q)),B.yj,new A.w0(!1,A.y1(q)),B.kl,A.aHt(),B.QW,new A.JX(A.y1(q)),B.Rb,new A.My(A.y1(q))],t.n,t.od)})
-s($,"aOo","ap7",()=>{var q,p,o,n=t.vz,m=A.B(t.Vz,n)
+s($,"aOo","ap7",()=>{var q,p,o,n=t.vz,m=A.C(t.Vz,n)
 for(q=A.ar("aL"),p=0;p<2;++p){o=B.j3[p]
 m.M(0,A.a([A.dT(B.bd,!1,!1,!1,o),B.ii,A.dT(B.bd,!1,!0,!1,o),B.im,A.dT(B.bd,!0,!1,!1,o),B.ik,A.dT(B.b0,!1,!1,!1,o),B.ij,A.dT(B.b0,!1,!0,!1,o),B.io,A.dT(B.b0,!0,!1,!1,o),B.il],q,n))}m.n(0,B.hm,B.dN)
 m.n(0,B.hn,B.dO)
@@ -90474,7 +90476,7 @@ q.n(0,B.jZ,B.cs)
 q.n(0,B.k3,B.mb)
 q.n(0,B.k4,B.mc)
 return q})
-s($,"aOs","asE",()=>{var q,p,o,n=t.vz,m=A.B(t.Vz,n)
+s($,"aOs","asE",()=>{var q,p,o,n=t.vz,m=A.C(t.Vz,n)
 for(q=A.ar("aL"),p=0;p<2;++p){o=B.j3[p]
 m.M(0,A.a([A.dT(B.bd,!1,!1,!1,o),B.ii,A.dT(B.bd,!0,!1,!1,o),B.im,A.dT(B.bd,!1,!1,!0,o),B.ik,A.dT(B.b0,!1,!1,!1,o),B.ij,A.dT(B.b0,!0,!1,!1,o),B.io,A.dT(B.b0,!1,!1,!0,o),B.il],q,n))}m.n(0,B.hm,B.dN)
 m.n(0,B.hn,B.dO)
@@ -90537,7 +90539,7 @@ q.n(0,B.KZ,B.f5)
 q.n(0,B.L_,B.m9)
 q.n(0,B.L0,B.ma)
 return q})
-s($,"aOt","aAm",()=>{var q,p,o,n=t.vz,m=A.B(t.Vz,n)
+s($,"aOt","aAm",()=>{var q,p,o,n=t.vz,m=A.C(t.Vz,n)
 for(q=A.ar("aL"),p=0;p<2;++p){o=B.j3[p]
 m.M(0,A.a([A.dT(B.bd,!1,!1,!1,o),B.H,A.dT(B.b0,!1,!1,!1,o),B.H,A.dT(B.bd,!0,!1,!1,o),B.H,A.dT(B.b0,!0,!1,!1,o),B.H,A.dT(B.bd,!1,!0,!1,o),B.H,A.dT(B.b0,!1,!0,!1,o),B.H,A.dT(B.bd,!1,!1,!0,o),B.H,A.dT(B.b0,!1,!1,!0,o),B.H],q,n))}m.M(0,B.Ha)
 m.n(0,B.xK,B.H)
@@ -90562,7 +90564,7 @@ s($,"aQM","aBr",()=>A.a39(A.c1([B.j9],t.u)))
 s($,"aRx","aBX",()=>A.a39(A.c1([B.ja],t.u)))
 s($,"aQA","aBo",()=>A.a39(A.c1([B.jb],t.u)))
 s($,"aRo","aBT",()=>A.a39(A.c1([B.jc],t.u)))
-s($,"aSn","aCp",()=>new A.a5e(A.B(t.N,A.ar("av<cz?>?(cz?)"))))
+s($,"aSn","aCp",()=>new A.a5e(A.C(t.N,A.ar("av<cz?>?(cz?)"))))
 s($,"aO3","aAf",()=>A.cu("^[\\w!#%&'*+\\-.^`|~]+$",!0,!1))
 s($,"aQQ","aBs",()=>A.cu('["\\x00-\\x1F\\x7F]',!0,!1))
 s($,"aSm","aCo",()=>A.cu('[^()<>@,;:"\\\\/[\\]?={} \\t\\x00-\\x1F\\x7F]+',!0,!1))
