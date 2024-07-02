@@ -1,10 +1,19 @@
-1.HackMD [https://hackmd.io/@Rcchu/Sy8DaW-fR](https://hackmd.io/@Rcchu/Sy8DaW-fR)<br>
-2.project [https://123456dr.github.io/RCvocabulary/](https://123456dr.github.io/RCvocabulary/)
-<br>
+1.project [https://123456dr.github.io/RCvocabulary/](https://123456dr.github.io/RCvocabulary/)<br>
+2.myblog [https://123456dr.github.io/2024/05/28/RCvocabulary/]<br>
+3.HackMD [https://hackmd.io/@Rcchu/Sy8DaW-fR](https://hackmd.io/@Rcchu/Sy8DaW-fR)<br>
 ---
 *系統會自動紀錄
 最後一次瀏覽的頁面! 節省刷新後重選類別！
+<br>
+! ! !
+如果是長期使用者，
+請使用同一次開啟的網頁頁面，
+意即開啟頁面後不得關閉，(關閉頁面將造成新增的資料流失)
+建議作法=>
+把該頁面按分享鍵，選擇新增到手機主頁面
+! ! !
 
+<br>
 說明：<br>
 1.點選級別/類型 進入頁面，
 右上方可切換模式(目前可使用:學習+測驗 ，'填空'施工中)
@@ -27,7 +36,7 @@
 
 4.點選「重置」，
 將把已學會清單清空，
-用於題目回答完畢時，一鍵重新學習，<br>
+用於題目回答完畢時，一鍵重新學習，
 [注意此動作無法復原]
 
 5.主頁面點選「input」進入頁面，
@@ -49,6 +58,57 @@
 
 
 ---
+
+
+
+
+7/2:<br>
+(要學測了還做orz
+* 完成句子填空頁面
+    * 英文句子挖空
+    * 英文句子解答填空
+    * 英文句子中譯
+    * 英文句子朗讀
+* 新增學習頁面自動發音選項
+    * 當切換到別的頁面=>失效並自動關閉選項
+* 新增個人網頁連結於首頁https://123456dr.github.io/2024/05/28/RCvocabulary/
+<br>
+
+6/13:<br>
+* 改成按下類別才顯示清單
+=>為了解決手機無法載入單字列表頁面(資料過多，當機)
+* 在自定義單字頁面新增刪除開關啟用鍵，雙重點擊(啟用+按刪除)減少用戶失誤永久刪除單字
+<br>
+
+6/12:<br>
+* FocusScope.of(context).requestFocus(_focusNode1);
+當點擊新增單字的'Add'後將自動回到單字輸入框
+=>失敗
+* 解決的一鍵復原/移出題庫的checkbox不顯示
+=>因為對話框沒有及時改變狀態的效果，
+我選擇在當用戶按下checkbox時自動關閉再開啟對話框，
+達到重載效果
+Navigator.of(context).pop();
+_showClassSelectionDialog(context);
+* 修改[自定義單字] :
+當用戶輸入的中文翻譯和自動翻譯選項不同時隱藏選項，
+若用戶手動清空該輸入框則再次顯示中文翻譯建議
+* 修正資料庫項目計數 :
+原先為刪除/復原一個單字num--
+導致連按快於系統反應出現num=-1
+連帶影響單字轉換儲存庫的動作(題庫與以學會資料庫間轉換)
+=>改為刪除/復原單字時setState(){num=該資料庫項目.length}
+<br>
+
+6/10:<br>
+* 新增建立自定義單字分類!
+* 新增一鍵復原/學會類別!
+可以方便選擇練習範圍(自定義單字的部分,input頁面)
+*小細節，在輸入自訂單字時，送出內容後分類輸入框
+欄位不會清空，可以節省一次性輸入同類別時的時間!
+*在資料庫查看頁面，也按照類別分類，可以輕鬆查找
+(帶新增搜尋單字系統)
+<br>
 6/8主要更新:<br>
 1.新增三個模式頁面[填空, 學習, 測驗]<br>
 主模式為測驗(意即進入分級預設模式)<br>
@@ -65,11 +125,7 @@ https://www.wordnik.com/users/rcc/API<br>
 最後一個則是自動送出!<br>
 
 4.花了5小時新增第二級單字+精簡程式碼+除錯!<br>
-
-
-
-
-
+<br>
 6/2主要更新:<br>
 1.新增答題發音,資料庫查看發音
 2.修正input自定義單字儲存問題
@@ -86,5 +142,6 @@ https://www.wordnik.com/users/rcc/API<br>
 
 <br>
 <br>
+myblog [https://123456dr.github.io/]<br>
 another project [https://123456dr.github.io/CountDown/](https://123456dr.github.io/CountDown/)
 <br>-HackMD [https://hackmd.io/@Rcchu/rJPsU3MW0](https://hackmd.io/@Rcchu/rJPsU3MW0)
