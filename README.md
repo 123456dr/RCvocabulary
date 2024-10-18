@@ -1,6 +1,11 @@
 1.project [https://123456dr.github.io/RCvocabulary/](https://123456dr.github.io/RCvocabulary/)<br>
 2.myblog [https://123456dr.github.io/2024/05/28/RCvocabulary/]<br>
 3.HackMD [https://hackmd.io/@Rcchu/Sy8DaW-fR](https://hackmd.io/@Rcchu/Sy8DaW-fR)<br>
+
+[![YouTube Video](https://img.youtube.com/vi/tOMvr-In8Fo/0.jpg)](https://www.youtube.com/watch?v=tOMvr-In8Fo)
+
+
+<br><br><br>
 ---
 * 系統會自動紀錄
 最後一次瀏覽的頁面! 節省刷新後重選類別！
