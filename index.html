@@ -90,6 +90,12 @@
 </div>
 
 
+
+
+
+
+
+<!-- Adsterra 廣告 -->
 <script type="text/javascript">
 	atOptions = {
 		'key' : '06cb36d680391c873b7c96a3f5ba0f8a',
@@ -101,9 +107,25 @@
 </script>
 <script type="text/javascript" src="//www.highperformanceformat.com/06cb36d680391c873b7c96a3f5ba0f8a/invoke.js"></script>
 
-  
-<!--<script type='text/javascript' src='//pl25782514.profitablecpmrate.com/1a/23/c7/1a23c76e9439cf3ab46878a557705ebc.js'></script>
- 上述adsterra -->
+<script>
+  // 監聽 Flutter 初始化完成
+  window.addEventListener('load', function () {
+    setTimeout(() => {
+      if (window.flutter_inAppWebView) {
+        window.flutter_inAppWebView.callHandler('checkFlutterRoute').then((route) => {
+          console.log("目前路由:", route);
+          if (route !== "home") {
+            console.log("不是 Home，移除 Adsterra 廣告");
+            let adsterra = document.getElementById("adsterraScript");
+            if (adsterra) adsterra.remove();
+          }
+        });
+      }
+    }, 1000); // 等待 Flutter 初始化
+  });
+</script>
+<!-- Adsterra 廣告 -->
+<script type='text/javascript' src='//pl25782514.profitablecpmrate.com/1a/23/c7/1a23c76e9439cf3ab46878a557705ebc.js'></script>
 
 
   
