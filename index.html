@@ -5,7 +5,10 @@
   <!-- Cloudflare Web Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "99fa1fb244f749a181aaff6c4bd7462a"}'></script><!-- End Cloudflare Web Analytics -->
    
   載入中...
+  <img src="icons/loading.gif" alt="Loading..." width="100" height="100">
 
+
+  <!-- 下方google ads-->
   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4313655973545721"
      crossorigin="anonymous"></script>
 
@@ -23,7 +26,7 @@
     This is a placeholder for base href that will be replaced by the value of
     the `--base-href` argument provided to `flutter build`.
   -->
-  <base href="/RCvocabulary/">
+  <base href="/">
 
   <meta charset="UTF-8">
   <meta content="IE=Edge" http-equiv="X-UA-Compatible">
@@ -43,7 +46,7 @@
 
   <script>
     // The value below is injected by flutter build, do not touch.
-    const serviceWorkerVersion = "83151036";
+    const serviceWorkerVersion = "3270216834";
   </script>
   <!-- This script adds the flutter initialization JS code -->
   <script src="flutter.js" defer></script>
@@ -93,8 +96,6 @@
 
 
 
-
-
 <!-- Adsterra 廣告 -->
 <script type="text/javascript">
 	atOptions = {
@@ -108,26 +109,27 @@
 <script type="text/javascript" src="//www.highperformanceformat.com/06cb36d680391c873b7c96a3f5ba0f8a/invoke.js"></script>
 
 <script>
-  // 監聽 Flutter 初始化完成
-  window.addEventListener('load', function () {
-    setTimeout(() => {
-      if (window.flutter_inAppWebView) {
-        window.flutter_inAppWebView.callHandler('checkFlutterRoute').then((route) => {
-          console.log("目前路由:", route);
-          if (route !== "home") {
-            console.log("不是 Home，移除 Adsterra 廣告");
-            let adsterra = document.getElementById("adsterraScript");
-            if (adsterra) adsterra.remove();
-          }
-        });
-      }
-    }, 1000); // 等待 Flutter 初始化
+  window.addEventListener('showAdsterra', function() {
+    console.log("顯示 Adsterra 廣告");
+    let script = document.createElement('script');
+    script.type = 'text/javascript';
+    script.src = '//pl25782514.profitablecpmrate.com/1a/23/c7/1a23c76e9439cf3ab46878a557705ebc.js';
+    script.id = 'adsterra-script';
+    document.body.appendChild(script);
+  });
+
+  window.addEventListener('hideAdsterra', function() {
+    console.log("隱藏 Adsterra 廣告");
+    let adScript = document.getElementById('adsterra-script');
+    if (adScript) {
+      adScript.remove();
+    }
   });
 </script>
 <!-- Adsterra 廣告 -->
 <script type='text/javascript' src='//pl25782514.profitablecpmrate.com/1a/23/c7/1a23c76e9439cf3ab46878a557705ebc.js'></script>
 
 
-  
+
 </body>
 </html>
