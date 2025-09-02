@@ -1,3 +1,4 @@
+<small> (還不會用git... </small> <br><br><br>
 1.project [https://123456dr.github.io/RCvocabulary/](https://123456dr.github.io/RCvocabulary/)<br>
 2.myblog [https://123456dr.github.io/2024/05/28/RCvocabulary/]<br>
 3.HackMD [https://hackmd.io/@Rcchu/Sy8DaW-fR](https://hackmd.io/@Rcchu/Sy8DaW-fR)<br>
